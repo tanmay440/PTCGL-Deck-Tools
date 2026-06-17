@@ -1,0 +1,34 @@
+{
+  "name": "Amoonguss ex",
+  "hp": 260,
+  "attacks": [
+    {
+      "name": "Spore Ball",
+      "damage": 30,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Asleep."
+    },
+    {
+      "name": "Champignon's Swing",
+      "damage": 100,
+      "cost": 2,
+      "text": "Flip a coin. If heads, this attack does 80 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Foongus",
+  "retreat_cost": 2,
+  "set_code": "sv9",
+  "number": "11",
+  "legal": true,
+  "rarity": "Double Rare"
+}

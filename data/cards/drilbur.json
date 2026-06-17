@@ -1,0 +1,27 @@
+{
+  "name": "Drilbur",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Rising Lunge",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip a coin. If heads, this attack does 10 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv3",
+  "number": "111",
+  "legal": true,
+  "rarity": "Common"
+}

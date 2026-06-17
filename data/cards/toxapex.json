@@ -1,0 +1,33 @@
+{
+  "name": "Toxapex",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Venoshock",
+      "damage": 10,
+      "cost": 1,
+      "text": "If your opponent's Active Pokémon is Poisoned, this attack does 120 more damage."
+    },
+    {
+      "name": "Spike Shot",
+      "damage": 90,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Mareanie",
+  "retreat_cost": 2,
+  "set_code": "swsh12",
+  "number": "115",
+  "legal": true,
+  "rarity": "Uncommon"
+}

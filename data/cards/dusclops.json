@@ -1,0 +1,27 @@
+{
+  "name": "Dusclops",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Fade to Black",
+      "damage": 30,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Confused."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Duskull",
+  "retreat_cost": 2,
+  "set_code": "swsh9",
+  "number": "61",
+  "legal": true,
+  "rarity": "Uncommon"
+}

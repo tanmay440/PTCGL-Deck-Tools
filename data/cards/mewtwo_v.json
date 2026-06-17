@@ -1,0 +1,34 @@
+{
+  "name": "Mewtwo V",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Super Psy Bolt",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Transfer Break",
+      "damage": 160,
+      "cost": 3,
+      "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH223",
+  "legal": true,
+  "rarity": "Promo"
+}

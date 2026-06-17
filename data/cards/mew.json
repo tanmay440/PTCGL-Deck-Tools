@@ -1,0 +1,32 @@
+{
+  "name": "Mew",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Psyshot",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Mysterious Tail",
+      "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12pt5gg",
+  "number": "GG10",
+  "legal": true,
+  "rarity": "Trainer Gallery Rare Holo"
+}

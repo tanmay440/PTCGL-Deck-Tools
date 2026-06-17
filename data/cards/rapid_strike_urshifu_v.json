@@ -1,0 +1,35 @@
+{
+  "name": "Rapid Strike Urshifu V",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Spiral Kick",
+      "damage": 40,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Sonic Legs",
+      "damage": 90,
+      "cost": 3,
+      "text": "This attack also does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V",
+    "Rapid Strike"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH107",
+  "legal": true,
+  "rarity": "Promo"
+}

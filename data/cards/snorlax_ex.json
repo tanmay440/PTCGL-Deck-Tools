@@ -1,0 +1,34 @@
+{
+  "name": "Snorlax ex",
+  "hp": 260,
+  "attacks": [
+    {
+      "name": "Strength",
+      "damage": 80,
+      "cost": 3,
+      "text": ""
+    },
+    {
+      "name": "Toss-and-Turn Press",
+      "damage": 120,
+      "cost": 4,
+      "text": "Flip 3 coins. This attack does 120 damage for each heads."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 4,
+  "set_code": "sv8pt5",
+  "number": "76",
+  "legal": true,
+  "rarity": "Double Rare"
+}

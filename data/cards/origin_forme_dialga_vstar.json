@@ -1,0 +1,33 @@
+{
+  "name": "Origin Forme Dialga VSTAR",
+  "hp": 280,
+  "attacks": [
+    {
+      "name": "Metal Blast",
+      "damage": 40,
+      "cost": 1,
+      "text": "This attack does 40 more damage for each Metal Energy attached to this Pokémon."
+    },
+    {
+      "name": "Star Chronos",
+      "damage": 220,
+      "cost": 5,
+      "text": "Take another turn after this one. (Skip Pokémon Checkup.) (You can't use more than 1 VSTAR Power in a game.)"
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VSTAR"
+  ],
+  "evolvesFrom": "Origin Forme Dialga V",
+  "retreat_cost": 3,
+  "set_code": "swshp",
+  "number": "SWSH256",
+  "legal": true,
+  "rarity": "Promo"
+}

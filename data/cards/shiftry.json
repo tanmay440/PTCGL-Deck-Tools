@@ -1,0 +1,33 @@
+{
+  "name": "Shiftry",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Fan Tornado",
+      "damage": 50,
+      "cost": 1,
+      "text": "You may have your opponent switch their Active Pokémon with 1 of their Benched Pokémon."
+    },
+    {
+      "name": "Tearing Gust",
+      "damage": 210,
+      "cost": 1,
+      "text": "Put this Pokémon and all attached cards in the Lost Zone."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Nuzleaf",
+  "retreat_cost": 2,
+  "set_code": "swsh11",
+  "number": "13",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

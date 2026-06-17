@@ -1,0 +1,33 @@
+{
+  "name": "Golisopod",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "First Impression",
+      "damage": 20,
+      "cost": 1,
+      "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 90 more damage."
+    },
+    {
+      "name": "Slash",
+      "damage": 100,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Wimpod",
+  "retreat_cost": 2,
+  "set_code": "pgo",
+  "number": "26",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

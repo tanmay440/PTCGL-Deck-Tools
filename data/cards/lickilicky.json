@@ -1,0 +1,33 @@
+{
+  "name": "Lickilicky",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Tongue Slap",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Heavy Impact",
+      "damage": 130,
+      "cost": 4,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Lickitung",
+  "retreat_cost": 4,
+  "set_code": "swsh11",
+  "number": "139",
+  "legal": true,
+  "rarity": "Uncommon"
+}

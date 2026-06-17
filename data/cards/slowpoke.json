@@ -1,0 +1,33 @@
+{
+  "name": "Slowpoke",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Hold Still",
+      "damage": 0,
+      "cost": 1,
+      "text": "Heal 30 damage from this Pokémon."
+    },
+    {
+      "name": "Ideal Fishing Day",
+      "damage": 0,
+      "cost": 1,
+      "text": "Put an Item card from your discard pile into your hand."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "pgo",
+  "number": "19",
+  "legal": true,
+  "rarity": "Common"
+}

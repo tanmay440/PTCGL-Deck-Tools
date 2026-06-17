@@ -1,0 +1,33 @@
+{
+  "name": "Slugma",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Draw In",
+      "damage": 0,
+      "cost": 1,
+      "text": "Attach a Fire Energy card from your discard pile to this Pokémon."
+    },
+    {
+      "name": "Combustion",
+      "damage": 50,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh11",
+  "number": "21",
+  "legal": true,
+  "rarity": "Common"
+}

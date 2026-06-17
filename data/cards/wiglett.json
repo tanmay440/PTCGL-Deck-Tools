@@ -1,0 +1,33 @@
+{
+  "name": "Wiglett",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Dig a Little",
+      "damage": 0,
+      "cost": 1,
+      "text": "Flip a coin. If heads, discard the top card of your opponent's deck."
+    },
+    {
+      "name": "Ram",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv1",
+  "number": "56",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Sandygast",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Corner",
+      "damage": 10,
+      "cost": 1,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "swsh12",
+  "number": "99",
+  "legal": true,
+  "rarity": "Common"
+}

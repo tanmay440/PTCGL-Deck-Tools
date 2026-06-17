@@ -1,0 +1,33 @@
+{
+  "name": "Melmetal",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Headbutt",
+      "damage": 60,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Swinging Smash",
+      "damage": 30,
+      "cost": 3,
+      "text": "Flip 2 coins. This attack does 90 more damage for each heads."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Meltan",
+  "retreat_cost": 4,
+  "set_code": "pgo",
+  "number": "46",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

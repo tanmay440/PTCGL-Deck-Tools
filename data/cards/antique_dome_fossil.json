@@ -1,0 +1,23 @@
+{
+  "name": "Antique Dome Fossil",
+  "hp": 60,
+  "attacks": [],
+  "abilities": [
+    {
+      "name": "Domed Armor",
+      "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+    }
+  ],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Item"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv3pt5",
+  "number": "152",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Darkrai",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Nightmare",
+      "damage": 30,
+      "cost": 2,
+      "text": "Your opponent's Active Pokémon is now Asleep."
+    },
+    {
+      "name": "Pitch-Black Blade",
+      "damage": 130,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't attack."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh11",
+  "number": "120",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

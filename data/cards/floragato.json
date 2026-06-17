@@ -1,0 +1,33 @@
+{
+  "name": "Floragato",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Slash",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Leaf Step",
+      "damage": 60,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Sprigatito",
+  "retreat_cost": 1,
+  "set_code": "sv1",
+  "number": "14",
+  "legal": true,
+  "rarity": "Uncommon"
+}

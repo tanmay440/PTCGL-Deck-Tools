@@ -1,0 +1,32 @@
+{
+  "name": "Omastar",
+  "hp": 150,
+  "attacks": [
+    {
+      "name": "Aqua Split",
+      "damage": 90,
+      "cost": 2,
+      "text": "This attack also does 30 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Primordial Tentacles",
+      "text": "As long as this Pokémon is in the Active Spot, your opponent's Active Pokémon can't retreat."
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Omanyte",
+  "retreat_cost": 3,
+  "set_code": "sv3pt5",
+  "number": "139",
+  "legal": true,
+  "rarity": "Rare"
+}

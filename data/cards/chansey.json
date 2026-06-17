@@ -1,0 +1,33 @@
+{
+  "name": "Chansey",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Delicious Egg",
+      "damage": 0,
+      "cost": 1,
+      "text": "Heal 30 damage from 1 of your Benched Pokémon."
+    },
+    {
+      "name": "Gentle Slap",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "pgo",
+  "number": "51",
+  "legal": true,
+  "rarity": "Uncommon"
+}

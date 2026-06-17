@@ -1,0 +1,33 @@
+{
+  "name": "Scorbunny on the Ball",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Fiery Dribbling",
+      "damage": 20,
+      "cost": 1,
+      "text": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+    },
+    {
+      "name": "Reckless Charge",
+      "damage": 30,
+      "cost": 2,
+      "text": "This Pokémon also does 10 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "fut20",
+  "number": "4",
+  "legal": false,
+  "rarity": ""
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Shaymin",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Encouraging Gift",
+      "damage": 0,
+      "cost": 1,
+      "text": "You can use this attack only if you go second, and only during your first turn. Search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "Flop",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "14",
+  "legal": true,
+  "rarity": "Rare"
+}

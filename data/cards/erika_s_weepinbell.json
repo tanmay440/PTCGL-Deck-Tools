@@ -1,0 +1,33 @@
+{
+  "name": "Erika's Weepinbell",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Melt",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Leafy Cyclone",
+      "damage": 70,
+      "cost": 2,
+      "text": "During your next turn, this Pokémon can't use attacks."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Erika's Bellsprout",
+  "retreat_cost": 2,
+  "set_code": "me2pt5",
+  "number": "5",
+  "legal": false,
+  "rarity": "Uncommon"
+}

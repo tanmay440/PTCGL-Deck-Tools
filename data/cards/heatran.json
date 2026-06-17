@@ -1,0 +1,33 @@
+{
+  "name": "Heatran",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Guard Claw",
+      "damage": 30,
+      "cost": 2,
+      "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+    },
+    {
+      "name": "Iron Hammer",
+      "damage": 80,
+      "cost": 3,
+      "text": "If this Pokémon has any Fire Energy attached, this attack does 80 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 4,
+  "set_code": "swsh9",
+  "number": "100",
+  "legal": true,
+  "rarity": "Rare"
+}

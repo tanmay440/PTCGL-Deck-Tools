@@ -1,0 +1,18 @@
+{
+  "name": "Lost Vacuum",
+  "hp": 0,
+  "attacks": [],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Item"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "swsh11",
+  "number": "162",
+  "legal": true,
+  "rarity": "Uncommon"
+}

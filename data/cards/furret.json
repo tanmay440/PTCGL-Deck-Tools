@@ -1,0 +1,33 @@
+{
+  "name": "Furret",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Scratch",
+      "damage": 40,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Jet Headbutt",
+      "damage": 70,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Sentret",
+  "retreat_cost": 1,
+  "set_code": "sv9",
+  "number": "119",
+  "legal": true,
+  "rarity": "Common"
+}

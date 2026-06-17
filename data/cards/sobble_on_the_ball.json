@@ -1,0 +1,33 @@
+{
+  "name": "Sobble on the Ball",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Spectacular Save",
+      "damage": 0,
+      "cost": 1,
+      "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon."
+    },
+    {
+      "name": "Rain Splash",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "fut20",
+  "number": "5",
+  "legal": false,
+  "rarity": ""
+}

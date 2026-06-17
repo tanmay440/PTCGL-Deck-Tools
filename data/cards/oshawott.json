@@ -1,0 +1,27 @@
+{
+  "name": "Oshawott",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Beat",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH222",
+  "legal": true,
+  "rarity": "Promo"
+}

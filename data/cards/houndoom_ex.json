@@ -1,0 +1,34 @@
+{
+  "name": "Houndoom ex",
+  "hp": 270,
+  "attacks": [
+    {
+      "name": "Evil Claw",
+      "damage": 90,
+      "cost": 2,
+      "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+    },
+    {
+      "name": "Hound's Fang",
+      "damage": 220,
+      "cost": 3,
+      "text": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Houndour",
+  "retreat_cost": 2,
+  "set_code": "svp",
+  "number": "103",
+  "legal": true,
+  "rarity": "Promo"
+}

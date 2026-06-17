@@ -1,0 +1,27 @@
+{
+  "name": "Tympole",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Screw Tail",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv3",
+  "number": "50",
+  "legal": true,
+  "rarity": "Common"
+}

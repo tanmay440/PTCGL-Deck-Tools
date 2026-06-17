@@ -1,0 +1,27 @@
+{
+  "name": "Team Rocket's Larvitar",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Mountain Munch",
+      "damage": 10,
+      "cost": 1,
+      "text": "Discard the top card of your opponent's deck."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "94",
+  "legal": true,
+  "rarity": "Common"
+}

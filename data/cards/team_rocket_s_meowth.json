@@ -1,0 +1,33 @@
+{
+  "name": "Team Rocket's Meowth",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Paw-cket Pilfer",
+      "damage": 0,
+      "cost": 1,
+      "text": "Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into their deck."
+    },
+    {
+      "name": "Fury Swipes",
+      "damage": 20,
+      "cost": 2,
+      "text": "Flip 3 coins. This attack does 20 damage for each heads."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "149",
+  "legal": true,
+  "rarity": "Common"
+}

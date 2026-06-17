@@ -1,0 +1,32 @@
+{
+  "name": "Slaking",
+  "hp": 180,
+  "attacks": [
+    {
+      "name": "Slacker's Headstrike",
+      "damage": 240,
+      "cost": 3,
+      "text": "This Pokémon is now Asleep."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Stir and Snooze",
+      "text": "If this Pokémon is Asleep, flip 2 coins instead of 1 during Pokémon Checkup. If either of them is tails, this Pokémon is still Asleep."
+    }
+  ],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Vigoroth",
+  "retreat_cost": 4,
+  "set_code": "sv2",
+  "number": "162",
+  "legal": true,
+  "rarity": "Rare"
+}

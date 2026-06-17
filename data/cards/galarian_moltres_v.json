@@ -1,0 +1,33 @@
+{
+  "name": "Galarian Moltres V",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Aura Burn",
+      "damage": 190,
+      "cost": 3,
+      "text": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Direflame Wings",
+      "text": "Once during your turn, you may attach a Darkness Energy card from your discard pile to this Pokémon. You can't use more than 1 Direflame Wings Ability each turn."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh9",
+  "number": "183",
+  "legal": true,
+  "rarity": "Rare Secret"
+}

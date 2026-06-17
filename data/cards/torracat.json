@@ -1,0 +1,33 @@
+{
+  "name": "Torracat",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Gritty Claws",
+      "damage": 40,
+      "cost": 2,
+      "text": "During your opponent's next turn, if this Pokémon has full HP and would be Knocked Out by damage from an attack, it is not Knocked Out, and its remaining HP becomes 10."
+    },
+    {
+      "name": "Combustion",
+      "damage": 70,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Litten",
+  "retreat_cost": 2,
+  "set_code": "swsh12",
+  "number": "31",
+  "legal": true,
+  "rarity": "Uncommon"
+}

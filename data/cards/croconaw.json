@@ -1,0 +1,27 @@
+{
+  "name": "Croconaw",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Reverse Thrust",
+      "damage": 30,
+      "cost": 1,
+      "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Totodile",
+  "retreat_cost": 2,
+  "set_code": "sv5",
+  "number": "40",
+  "legal": true,
+  "rarity": "Common"
+}

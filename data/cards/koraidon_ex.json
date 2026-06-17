@@ -1,0 +1,33 @@
+{
+  "name": "Koraidon ex",
+  "hp": 230,
+  "attacks": [
+    {
+      "name": "Wild Impact",
+      "damage": 220,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't attack."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Dino Cry",
+      "text": "Once during your turn, you may attach up to 2 Basic Fighting Energy cards from your discard pile to your Basic Fighting Pokémon in any way you like. If you use this Ability, your turn ends."
+    }
+  ],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv1",
+  "number": "125",
+  "legal": true,
+  "rarity": "Double Rare"
+}

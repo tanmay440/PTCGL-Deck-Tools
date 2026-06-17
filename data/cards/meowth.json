@@ -1,0 +1,33 @@
+{
+  "name": "Meowth",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Come Here Right Meow",
+      "damage": 0,
+      "cost": 1,
+      "text": "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+    },
+    {
+      "name": "Dig Claws",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv3pt5",
+  "number": "52",
+  "legal": true,
+  "rarity": "Common"
+}

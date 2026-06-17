@@ -1,0 +1,33 @@
+{
+  "name": "Ho-Oh",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Flap",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Shining Blaze",
+      "damage": 100,
+      "cost": 3,
+      "text": "If you have any Tera Pokémon on your Bench, this attack does 100 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv8",
+  "number": "19",
+  "legal": true,
+  "rarity": "Uncommon"
+}

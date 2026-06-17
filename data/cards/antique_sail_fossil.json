@@ -1,0 +1,23 @@
+{
+  "name": "Antique Sail Fossil",
+  "hp": 60,
+  "attacks": [],
+  "abilities": [
+    {
+      "name": "Protective Sail",
+      "text": "Whenever your opponent plays a Supporter card from their hand, prevent all effects of that card done to this Pokémon."
+    }
+  ],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Item"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "me3",
+  "number": "69",
+  "legal": false,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Espathra",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Eye Strength",
+      "damage": 20,
+      "cost": 1,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    },
+    {
+      "name": "Psychic",
+      "damage": 30,
+      "cost": 3,
+      "text": "This attack does 50 more damage for each Energy attached to your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Flittle",
+  "retreat_cost": 0,
+  "set_code": "sv1",
+  "number": "103",
+  "legal": true,
+  "rarity": "Uncommon"
+}

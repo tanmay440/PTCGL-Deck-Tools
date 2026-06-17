@@ -1,0 +1,32 @@
+{
+  "name": "Rotom VSTAR",
+  "hp": 250,
+  "attacks": [
+    {
+      "name": "Scrap Pulse",
+      "damage": 80,
+      "cost": 2,
+      "text": "Put any number of Pokémon Tool cards from your discard pile in the Lost Zone. This attack does 40 more damage for each card you put in the Lost Zone in this way."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Conversion Star",
+      "text": "During your turn, you may use this Ability. Discard any number of cards from your hand. Then, draw that many cards. (You can't use more than 1 VSTAR Power in a game.)"
+    }
+  ],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VSTAR"
+  ],
+  "evolvesFrom": "Rotom V",
+  "retreat_cost": 1,
+  "set_code": "swsh12pt5",
+  "number": "46",
+  "legal": true,
+  "rarity": "Rare Holo VSTAR"
+}

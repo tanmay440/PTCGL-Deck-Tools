@@ -1,0 +1,35 @@
+{
+  "name": "Gouging Fire ex",
+  "hp": 230,
+  "attacks": [
+    {
+      "name": "Heat Blast",
+      "damage": 60,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Blaze Blitz",
+      "damage": 260,
+      "cost": 3,
+      "text": "This Pokémon can't use Blaze Blitz again until it leaves the Active Spot."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex",
+    "Ancient"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "svp",
+  "number": "144",
+  "legal": true,
+  "rarity": "Promo"
+}

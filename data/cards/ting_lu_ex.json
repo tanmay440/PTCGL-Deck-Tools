@@ -1,0 +1,33 @@
+{
+  "name": "Ting-Lu ex",
+  "hp": 240,
+  "attacks": [
+    {
+      "name": "Land Scoop",
+      "damage": 150,
+      "cost": 3,
+      "text": "Put 2 damage counters on 1 of your opponent's Benched Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Cursed Land",
+      "text": "As long as this Pokémon is in the Active Spot, your opponent's Pokémon in play that have any damage counters on them have no Abilities, except for Pokémon ex."
+    }
+  ],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 4,
+  "set_code": "sv2",
+  "number": "127",
+  "legal": true,
+  "rarity": "Double Rare"
+}

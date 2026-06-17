@@ -1,0 +1,33 @@
+{
+  "name": "Wyrdeer V",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Psyshield Bash",
+      "damage": 40,
+      "cost": 3,
+      "text": "This attack does 40 damage for each Energy attached to this Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Frontier Road",
+      "text": "Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may move any amount of Energy from your other Pokémon to it."
+    }
+  ],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh10",
+  "number": "134",
+  "legal": true,
+  "rarity": "Rare Holo V"
+}

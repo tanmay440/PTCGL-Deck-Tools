@@ -1,0 +1,18 @@
+{
+  "name": "Blanche",
+  "hp": 0,
+  "attacks": [],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Supporter"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "swshp",
+  "number": "SWSH227",
+  "legal": true,
+  "rarity": "Promo"
+}

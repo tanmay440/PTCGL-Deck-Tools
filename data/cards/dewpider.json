@@ -1,0 +1,27 @@
+{
+  "name": "Dewpider",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Hook",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12",
+  "number": "47",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Jirachi",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Charge Energy",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Stellar Veil",
+      "text": "Prevent all damage counters from being placed on your Benched Pokémon by effects of attacks used by your opponent's Basic Pokémon."
+    }
+  ],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv4",
+  "number": "126",
+  "legal": true,
+  "rarity": "Common"
+}

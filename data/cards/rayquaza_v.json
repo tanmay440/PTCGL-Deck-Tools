@@ -1,0 +1,35 @@
+{
+  "name": "Rayquaza V",
+  "hp": 210,
+  "attacks": [
+    {
+      "name": "Dragon Pulse",
+      "damage": 40,
+      "cost": 1,
+      "text": "Discard the top 2 cards of your deck."
+    },
+    {
+      "name": "Spiral Burst",
+      "damage": 20,
+      "cost": 2,
+      "text": "You may discard up to 2 basic Fire Energy or up to 2 basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V",
+    "Rapid Strike"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH147",
+  "legal": true,
+  "rarity": "Promo"
+}

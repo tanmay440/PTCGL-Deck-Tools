@@ -1,0 +1,27 @@
+{
+  "name": "Ekans",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Acid Spray",
+      "damage": 30,
+      "cost": 2,
+      "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv3pt5",
+  "number": "23",
+  "legal": true,
+  "rarity": "Common"
+}

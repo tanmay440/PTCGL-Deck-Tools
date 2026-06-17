@@ -1,0 +1,33 @@
+{
+  "name": "Maschiff",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Rear Kick",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Darkness Fang",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv1",
+  "number": "135",
+  "legal": true,
+  "rarity": "Common"
+}

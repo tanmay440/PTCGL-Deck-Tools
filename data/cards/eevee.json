@@ -1,0 +1,33 @@
+{
+  "name": "Eevee",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Signs of Evolution",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for a card that evolves from Eevee, reveal it, and put it into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "Wild Kick",
+      "damage": 30,
+      "cost": 2,
+      "text": "Flip a coin. If tails, this attack does nothing."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH042",
+  "legal": false,
+  "rarity": "Promo"
+}

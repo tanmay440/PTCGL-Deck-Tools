@@ -1,0 +1,32 @@
+{
+  "name": "Dipplin",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Do the Wave",
+      "damage": 20,
+      "cost": 1,
+      "text": "This attack does 20 damage for each of your Benched Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Festival Lead",
+      "text": "If Festival Grounds is in play, this Pokémon may use an attack it has twice. If the first attack Knocks Out your opponent's Active Pokémon, you may attack again after your opponent chooses a new Active Pokémon."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Applin",
+  "retreat_cost": 2,
+  "set_code": "sv6",
+  "number": "18",
+  "legal": true,
+  "rarity": "Uncommon"
+}

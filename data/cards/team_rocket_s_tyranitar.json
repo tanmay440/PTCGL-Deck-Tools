@@ -1,0 +1,32 @@
+{
+  "name": "Team Rocket's Tyranitar",
+  "hp": 180,
+  "attacks": [
+    {
+      "name": "Demolition Tackle",
+      "damage": 180,
+      "cost": 4,
+      "text": "Discard an Energy from your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Sand Stream",
+      "text": "During Pokémon Checkup, if this Pokémon is in the Active Spot, put 2 damage counters on each of your opponent's Basic Pokémon."
+    }
+  ],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Team Rocket's Pupitar",
+  "retreat_cost": 3,
+  "set_code": "sv10",
+  "number": "96",
+  "legal": true,
+  "rarity": "Rare"
+}

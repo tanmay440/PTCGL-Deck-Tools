@@ -1,0 +1,18 @@
+{
+  "name": "Heavy Baton",
+  "hp": 0,
+  "attacks": [],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Pokémon Tool"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv5",
+  "number": "151",
+  "legal": true,
+  "rarity": "Uncommon"
+}

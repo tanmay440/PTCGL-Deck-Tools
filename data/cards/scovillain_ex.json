@@ -1,0 +1,34 @@
+{
+  "name": "Scovillain ex",
+  "hp": 260,
+  "attacks": [
+    {
+      "name": "Chili Snapper Bind",
+      "damage": 0,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Burned. During your opponent's next turn, that Pokémon can't retreat."
+    },
+    {
+      "name": "Two-Headed Crushing",
+      "damage": 140,
+      "cost": 2,
+      "text": "Discard a random card from your opponent's hand. Discard the top card of your opponent's deck."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Capsakid",
+  "retreat_cost": 2,
+  "set_code": "sv5",
+  "number": "22",
+  "legal": true,
+  "rarity": "Double Rare"
+}

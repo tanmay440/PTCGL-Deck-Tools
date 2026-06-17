@@ -1,0 +1,32 @@
+{
+  "name": "Thundurus",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Gigantic Bolt",
+      "damage": 140,
+      "cost": 2,
+      "text": "This Pokémon also does 90 damage to itself."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Adverse Weather",
+      "text": "As long as this Pokémon is in the Active Spot, prevent all damage done to your Benched Pokémon by attacks from your opponent's Pokémon."
+    }
+  ],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv3",
+  "number": "70",
+  "legal": true,
+  "rarity": "Rare"
+}

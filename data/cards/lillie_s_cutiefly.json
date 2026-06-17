@@ -1,0 +1,27 @@
+{
+  "name": "Lillie's Cutiefly",
+  "hp": 30,
+  "attacks": [
+    {
+      "name": "Hold Still",
+      "damage": 0,
+      "cost": 1,
+      "text": "Heal 10 damage from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv9",
+  "number": "66",
+  "legal": true,
+  "rarity": "Common"
+}

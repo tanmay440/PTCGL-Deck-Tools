@@ -1,0 +1,33 @@
+{
+  "name": "Hoopa",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Hand of Djinn",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for a Darkness Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck."
+    },
+    {
+      "name": "Tyrannical Hole",
+      "damage": 100,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "122",
+  "legal": true,
+  "rarity": "Rare"
+}

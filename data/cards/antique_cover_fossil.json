@@ -1,0 +1,23 @@
+{
+  "name": "Antique Cover Fossil",
+  "hp": 60,
+  "attacks": [],
+  "abilities": [
+    {
+      "name": "Protective Cover",
+      "text": "Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)"
+    }
+  ],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Item"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv7",
+  "number": "129",
+  "legal": true,
+  "rarity": "Common"
+}

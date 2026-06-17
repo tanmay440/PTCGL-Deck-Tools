@@ -1,0 +1,34 @@
+{
+  "name": "Great Tusk",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Lunge Out",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Wrathful Charge",
+      "damage": 80,
+      "cost": 3,
+      "text": "If your Benched Pokémon have any damage counters on them, this attack does 80 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Ancient"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 4,
+  "set_code": "sv5",
+  "number": "96",
+  "legal": true,
+  "rarity": "Uncommon"
+}

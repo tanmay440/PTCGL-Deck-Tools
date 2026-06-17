@@ -1,0 +1,33 @@
+{
+  "name": "Arrokuda",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Flock",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for up to 2 Arrokuda and put them onto your Bench. Then, shuffle your deck."
+    },
+    {
+      "name": "Peck",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH093",
+  "legal": false,
+  "rarity": "Promo"
+}

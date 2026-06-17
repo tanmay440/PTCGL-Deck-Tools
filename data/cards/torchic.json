@@ -1,0 +1,27 @@
+{
+  "name": "Torchic",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Scratch",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv9",
+  "number": "22",
+  "legal": true,
+  "rarity": "Common"
+}

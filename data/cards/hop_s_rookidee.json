@@ -1,0 +1,33 @@
+{
+  "name": "Hop's Rookidee",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Intimidating Stare",
+      "damage": 0,
+      "cost": 1,
+      "text": "During your opponent's next turn, attacks used by the Defending Pokémon do 20 less damage (before applying Weakness and Resistance)."
+    },
+    {
+      "name": "Peck",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv9",
+  "number": "133",
+  "legal": true,
+  "rarity": "Common"
+}

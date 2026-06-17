@@ -1,0 +1,32 @@
+{
+  "name": "Armarouge",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Flame Cannon",
+      "damage": 90,
+      "cost": 3,
+      "text": "Your opponent's Active Pokémon is now Burned."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Fire Off",
+      "text": "As often as you like during your turn, you may move a Fire Energy from 1 of your Benched Pokémon to your Active Pokémon."
+    }
+  ],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Charcadet",
+  "retreat_cost": 2,
+  "set_code": "sv1",
+  "number": "41",
+  "legal": true,
+  "rarity": "Rare"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Kangaskhan ex",
+  "hp": 230,
+  "attacks": [
+    {
+      "name": "Triple Draw",
+      "damage": 0,
+      "cost": 1,
+      "text": "Draw 3 cards."
+    },
+    {
+      "name": "Incessant Punching",
+      "damage": 100,
+      "cost": 3,
+      "text": "Flip 4 coins. This attack does 100 damage for each heads."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "svp",
+  "number": "55",
+  "legal": true,
+  "rarity": "Promo"
+}

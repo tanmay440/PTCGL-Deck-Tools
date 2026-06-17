@@ -1,0 +1,34 @@
+{
+  "name": "Aerodactyl V",
+  "hp": 210,
+  "attacks": [
+    {
+      "name": "Bite",
+      "damage": 40,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Rock Crush",
+      "damage": 120,
+      "cost": 3,
+      "text": "Discard an Energy from your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "92",
+  "legal": true,
+  "rarity": "Rare Holo V"
+}

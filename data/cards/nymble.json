@@ -1,0 +1,27 @@
+{
+  "name": "Nymble",
+  "hp": 50,
+  "attacks": [
+    {
+      "name": "Wild Kick",
+      "damage": 30,
+      "cost": 1,
+      "text": "Flip a coin. If tails, this attack does nothing."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv2",
+  "number": "20",
+  "legal": true,
+  "rarity": "Common"
+}

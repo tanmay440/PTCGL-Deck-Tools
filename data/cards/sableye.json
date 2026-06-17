@@ -1,0 +1,33 @@
+{
+  "name": "Sableye",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Scratch",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Lost Mine",
+      "damage": 0,
+      "cost": 1,
+      "text": "You can use this attack only if you have 10 or more cards in the Lost Zone. Put 12 damage counters on your opponent's Pokémon in any way you like."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "70",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

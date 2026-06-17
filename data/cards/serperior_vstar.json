@@ -1,0 +1,33 @@
+{
+  "name": "Serperior VSTAR",
+  "hp": 270,
+  "attacks": [
+    {
+      "name": "Regal Blender",
+      "damage": 190,
+      "cost": 3,
+      "text": "You may move any amount of Energy from your Pokémon to your other Pokémon in any way you like."
+    },
+    {
+      "name": "Star Winder",
+      "damage": 60,
+      "cost": 1,
+      "text": "This attack does 60 damage for each Energy attached to this Pokémon. Switch this Pokémon with 1 of your Benched Pokémon. (You can't use more than 1 VSTAR Power in a game.)"
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VSTAR"
+  ],
+  "evolvesFrom": "Serperior V",
+  "retreat_cost": 0,
+  "set_code": "swsh12",
+  "number": "8",
+  "legal": true,
+  "rarity": "Rare Holo VSTAR"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Hisuian Zoroark VSTAR",
+  "hp": 270,
+  "attacks": [
+    {
+      "name": "Ticking Curse",
+      "damage": 50,
+      "cost": 2,
+      "text": "This attack does 50 damage for each of your Pokémon that has any damage counters on it."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Phantom Star",
+      "text": "During your turn, you may discard your hand and draw 7 cards. (You can't use more than 1 VSTAR Power in a game.)"
+    }
+  ],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VSTAR"
+  ],
+  "evolvesFrom": "Hisuian Zoroark V",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH298",
+  "legal": true,
+  "rarity": "Promo"
+}

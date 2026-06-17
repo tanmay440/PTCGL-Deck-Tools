@@ -1,0 +1,33 @@
+{
+  "name": "Carnivine",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Festering Saliva",
+      "damage": 0,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Burned and Poisoned."
+    },
+    {
+      "name": "Bind Down",
+      "damage": 40,
+      "cost": 2,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12pt5",
+  "number": "12",
+  "legal": true,
+  "rarity": "Uncommon"
+}

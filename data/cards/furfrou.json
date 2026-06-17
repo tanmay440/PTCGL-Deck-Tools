@@ -1,0 +1,27 @@
+{
+  "name": "Furfrou",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Energy Assist",
+      "damage": 30,
+      "cost": 1,
+      "text": "Attach a Basic Energy card from your discard pile to 1 of your Benched Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv6pt5",
+  "number": "51",
+  "legal": true,
+  "rarity": "Common"
+}

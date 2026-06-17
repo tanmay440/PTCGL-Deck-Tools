@@ -1,0 +1,20 @@
+{
+  "name": "Therapeutic Energy",
+  "hp": 0,
+  "attacks": [],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Energy",
+  "subtypes": [
+    "Special"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv2",
+  "number": "193",
+  "legal": true,
+  "rarity": "Uncommon"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Solrock",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Spinning Attack",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Sun Energy",
+      "text": "Once during your turn, you may attach a Psychic Energy card from your discard pile to 1 of your Lunatone."
+    }
+  ],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "pgo",
+  "number": "39",
+  "legal": true,
+  "rarity": "Uncommon"
+}

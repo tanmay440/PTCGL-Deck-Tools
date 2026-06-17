@@ -1,0 +1,35 @@
+{
+  "name": "Slowking ex",
+  "hp": 270,
+  "attacks": [
+    {
+      "name": "Profound Knowledge",
+      "damage": 30,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Confused."
+    },
+    {
+      "name": "Wise Headbutt",
+      "damage": 130,
+      "cost": 2,
+      "text": "You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "Tera",
+    "ex"
+  ],
+  "evolvesFrom": "Slowpoke",
+  "retreat_cost": 3,
+  "set_code": "sv2",
+  "number": "86",
+  "legal": true,
+  "rarity": "Double Rare"
+}

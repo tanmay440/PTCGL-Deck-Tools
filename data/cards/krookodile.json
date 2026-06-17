@@ -1,0 +1,32 @@
+{
+  "name": "Krookodile",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Double-Edge",
+      "damage": 160,
+      "cost": 3,
+      "text": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Bully of the Sands",
+      "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may discard a random card from your opponent's hand. If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, you may discard a random card from your opponent's hand."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Krokorok",
+  "retreat_cost": 3,
+  "set_code": "swsh12",
+  "number": "113",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Relicanth",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Into the Deep",
+      "damage": 0,
+      "cost": 1,
+      "text": "Put up to 2 basic Energy cards from your discard pile into your hand."
+    },
+    {
+      "name": "Tackle",
+      "damage": 80,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "101",
+  "legal": true,
+  "rarity": "Uncommon"
+}

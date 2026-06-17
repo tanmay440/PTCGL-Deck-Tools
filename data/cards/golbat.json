@@ -1,0 +1,27 @@
+{
+  "name": "Golbat",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Bite",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Zubat",
+  "retreat_cost": 0,
+  "set_code": "swsh12",
+  "number": "104",
+  "legal": true,
+  "rarity": "Uncommon"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Ethan's Sudowoodo",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Impound",
+      "damage": 20,
+      "cost": 1,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    },
+    {
+      "name": "Try to Imitate",
+      "damage": 0,
+      "cost": 2,
+      "text": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "93",
+  "legal": true,
+  "rarity": "Common"
+}

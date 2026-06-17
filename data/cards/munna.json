@@ -1,0 +1,33 @@
+{
+  "name": "Munna",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Rest",
+      "damage": 0,
+      "cost": 1,
+      "text": "This Pokémon is now Asleep. Heal 30 damage from it."
+    },
+    {
+      "name": "Mumble",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "zsv10pt5",
+  "number": "35",
+  "legal": true,
+  "rarity": "Common"
+}

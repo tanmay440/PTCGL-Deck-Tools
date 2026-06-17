@@ -1,0 +1,33 @@
+{
+  "name": "Munkidori ex",
+  "hp": 210,
+  "attacks": [
+    {
+      "name": "Dirty Headbutt",
+      "damage": 190,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't use Dirty Headbutt."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Oh No You Don't",
+      "text": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv6pt5",
+  "number": "37",
+  "legal": true,
+  "rarity": "Double Rare"
+}

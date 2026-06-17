@@ -1,0 +1,34 @@
+{
+  "name": "Sandy Shocks ex",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Earthen Spike",
+      "damage": 200,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't attack."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Magnetic Absorption",
+      "text": "Once during your turn, if your opponent has 4 or fewer Prize cards remaining, you may attach a Basic Fighting Energy card from your discard pile to this Pokémon."
+    }
+  ],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex",
+    "Ancient"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv4",
+  "number": "108",
+  "legal": true,
+  "rarity": "Double Rare"
+}

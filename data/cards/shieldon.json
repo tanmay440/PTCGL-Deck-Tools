@@ -1,0 +1,33 @@
+{
+  "name": "Shieldon",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Hard Headbutt",
+      "damage": 30,
+      "cost": 2,
+      "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+    },
+    {
+      "name": "Confront",
+      "damage": 100,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Unidentified Fossil",
+  "retreat_cost": 3,
+  "set_code": "swsh10",
+  "number": "109",
+  "legal": true,
+  "rarity": "Uncommon"
+}

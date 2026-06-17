@@ -1,0 +1,33 @@
+{
+  "name": "Alolan Golem",
+  "hp": 180,
+  "attacks": [
+    {
+      "name": "Electromagnetic Catapult",
+      "damage": 70,
+      "cost": 1,
+      "text": "Flip a coin until you get tails. This attack does 70 damage for each heads."
+    },
+    {
+      "name": "Megaton Fall",
+      "damage": 160,
+      "cost": 2,
+      "text": "This Pokémon also does 40 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Alolan Graveler",
+  "retreat_cost": 4,
+  "set_code": "sv9",
+  "number": "46",
+  "legal": true,
+  "rarity": "Uncommon"
+}

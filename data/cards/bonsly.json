@@ -1,0 +1,27 @@
+{
+  "name": "Bonsly",
+  "hp": 30,
+  "attacks": [
+    {
+      "name": "Blubbering",
+      "damage": 10,
+      "cost": 0,
+      "text": "Your opponent's Active Pokémon is now Confused."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv3",
+  "number": "110",
+  "legal": true,
+  "rarity": "Common"
+}

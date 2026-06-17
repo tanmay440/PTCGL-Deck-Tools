@@ -1,0 +1,34 @@
+{
+  "name": "Krookodile ex",
+  "hp": 320,
+  "attacks": [
+    {
+      "name": "Corner",
+      "damage": 80,
+      "cost": 2,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    },
+    {
+      "name": "Strong Bite",
+      "damage": 140,
+      "cost": 3,
+      "text": "If this Pokémon has a Pokémon Tool attached, this attack does 140 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Krokorok",
+  "retreat_cost": 3,
+  "set_code": "me4",
+  "number": "55",
+  "legal": true,
+  "rarity": "Double Rare"
+}

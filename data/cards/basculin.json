@@ -1,0 +1,33 @@
+{
+  "name": "Basculin",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Bite",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Bared Fangs",
+      "damage": 50,
+      "cost": 1,
+      "text": "If your opponent's Active Pokémon has no damage counters on it before this attack does damage, this attack does nothing."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "rsv10pt5",
+  "number": "24",
+  "legal": true,
+  "rarity": "Common"
+}

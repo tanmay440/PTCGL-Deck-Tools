@@ -1,0 +1,34 @@
+{
+  "name": "Team Rocket's Nidoking ex",
+  "hp": 330,
+  "attacks": [
+    {
+      "name": "Tainted Horn",
+      "damage": 100,
+      "cost": 3,
+      "text": "Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 8 damage counters on that Pokémon instead of 1."
+    },
+    {
+      "name": "Kingly Impact",
+      "damage": 240,
+      "cost": 4,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Team Rocket's Nidorino",
+  "retreat_cost": 3,
+  "set_code": "sv10",
+  "number": "119",
+  "legal": true,
+  "rarity": "Double Rare"
+}

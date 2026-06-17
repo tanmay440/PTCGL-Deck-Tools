@@ -1,0 +1,33 @@
+{
+  "name": "Zweilous",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Find a Friend",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for up to 2 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "Headbutt Bounce",
+      "damage": 80,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Deino",
+  "retreat_cost": 2,
+  "set_code": "sv2",
+  "number": "139",
+  "legal": true,
+  "rarity": "Uncommon"
+}

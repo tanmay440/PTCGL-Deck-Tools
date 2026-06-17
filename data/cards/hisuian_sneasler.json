@@ -1,0 +1,32 @@
+{
+  "name": "Hisuian Sneasler",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Claw Slash",
+      "damage": 60,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Carry and Climb",
+      "text": "As long as this Pokémon is on your Bench, your Active Pokémon's Retreat Cost is ColorlessColorless less."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Hisuian Sneasel",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "93",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Regieleki VMAX",
+  "hp": 310,
+  "attacks": [
+    {
+      "name": "Max Thunder and Lightning",
+      "damage": 220,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't attack."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Transistor",
+      "text": "Your Basic Lightning Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+    }
+  ],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VMAX"
+  ],
+  "evolvesFrom": "Regieleki V",
+  "retreat_cost": 0,
+  "set_code": "swsh12",
+  "number": "58",
+  "legal": true,
+  "rarity": "Rare Holo VMAX"
+}

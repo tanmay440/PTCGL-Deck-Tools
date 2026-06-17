@@ -1,0 +1,27 @@
+{
+  "name": "Medicham",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Battle Step",
+      "damage": 50,
+      "cost": 1,
+      "text": "Search your deck for up to 2 Fighting Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Meditite",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "100",
+  "legal": true,
+  "rarity": "Uncommon"
+}

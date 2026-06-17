@@ -1,0 +1,33 @@
+{
+  "name": "Grubbin",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Energize",
+      "damage": 0,
+      "cost": 1,
+      "text": "Attach a Lightning Energy card from your discard pile to this Pokémon."
+    },
+    {
+      "name": "Surprise Attack",
+      "damage": 50,
+      "cost": 3,
+      "text": "Flip a coin. If tails, this attack does nothing."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh12pt5",
+  "number": "15",
+  "legal": true,
+  "rarity": "Common"
+}

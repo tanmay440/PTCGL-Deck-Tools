@@ -1,0 +1,33 @@
+{
+  "name": "Claydol",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Spinning Attack",
+      "damage": 40,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Coinciding Figures",
+      "damage": 90,
+      "cost": 3,
+      "text": "If you and your opponent have the same number of Benched Pokémon, this attack does 90 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Baltoy",
+  "retreat_cost": 2,
+  "set_code": "swsh9",
+  "number": "59",
+  "legal": true,
+  "rarity": "Uncommon"
+}

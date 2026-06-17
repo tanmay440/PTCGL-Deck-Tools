@@ -1,0 +1,33 @@
+{
+  "name": "Team Rocket's Zapdos",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Jamming Wing",
+      "damage": 30,
+      "cost": 2,
+      "text": "You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon."
+    },
+    {
+      "name": "Wicked Thunder",
+      "damage": 60,
+      "cost": 3,
+      "text": "If this Pokémon has any Team Rocket's Energy attached, this attack does 60 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "70",
+  "legal": true,
+  "rarity": "Rare"
+}

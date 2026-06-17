@@ -1,0 +1,33 @@
+{
+  "name": "Tarountula",
+  "hp": 40,
+  "attacks": [
+    {
+      "name": "String Haul",
+      "damage": 0,
+      "cost": 1,
+      "text": "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+    },
+    {
+      "name": "Bug Bite",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv1",
+  "number": "16",
+  "legal": true,
+  "rarity": "Common"
+}

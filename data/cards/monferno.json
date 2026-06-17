@@ -1,0 +1,33 @@
+{
+  "name": "Monferno",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Flare",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Flamethrower",
+      "damage": 50,
+      "cost": 2,
+      "text": "Discard an Energy from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Chimchar",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "25",
+  "legal": true,
+  "rarity": "Uncommon"
+}

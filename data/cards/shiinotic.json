@@ -1,0 +1,32 @@
+{
+  "name": "Shiinotic",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Spiral Rush",
+      "damage": 60,
+      "cost": 2,
+      "text": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Calming Light",
+      "text": "Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Asleep."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Morelull",
+  "retreat_cost": 2,
+  "set_code": "sv8",
+  "number": "9",
+  "legal": true,
+  "rarity": "Uncommon"
+}

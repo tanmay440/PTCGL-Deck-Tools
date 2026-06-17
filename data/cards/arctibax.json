@@ -1,0 +1,33 @@
+{
+  "name": "Arctibax",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Sharp Fin",
+      "damage": 40,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Frost Smash",
+      "damage": 80,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Frigibax",
+  "retreat_cost": 2,
+  "set_code": "svp",
+  "number": "64",
+  "legal": true,
+  "rarity": "Promo"
+}

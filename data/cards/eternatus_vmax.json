@@ -1,0 +1,32 @@
+{
+  "name": "Eternatus VMAX",
+  "hp": 340,
+  "attacks": [
+    {
+      "name": "Dread End",
+      "damage": 30,
+      "cost": 2,
+      "text": "This attack does 30 damage for each of your Darkness Pokémon in play."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Eternal Zone",
+      "text": "If all of your Pokémon in play are Darkness type, you can have up to 8 Pokémon on your Bench, and you can't put non-Darkness Pokémon into play. (If this Ability stops working, discard Pokémon from your Bench until you have 5.)"
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VMAX"
+  ],
+  "evolvesFrom": "Eternatus V",
+  "retreat_cost": 3,
+  "set_code": "swshp",
+  "number": "SWSH045",
+  "legal": false,
+  "rarity": "Promo"
+}

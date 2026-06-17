@@ -1,0 +1,33 @@
+{
+  "name": "Dewgong",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Swim Freely",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+    },
+    {
+      "name": "Floe Return",
+      "damage": 40,
+      "cost": 2,
+      "text": "Shuffle any amount of Water Energy from your Pokémon into your deck. This attack does 40 damage for each card you shuffled into your deck in this way."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Seel",
+  "retreat_cost": 2,
+  "set_code": "swsh11",
+  "number": "34",
+  "legal": true,
+  "rarity": "Rare"
+}

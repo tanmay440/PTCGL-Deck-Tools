@@ -1,0 +1,33 @@
+{
+  "name": "Dialga",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Time Manipulation",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order."
+    },
+    {
+      "name": "Buster Tail",
+      "damage": 160,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv8",
+  "number": "135",
+  "legal": true,
+  "rarity": "Rare"
+}

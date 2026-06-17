@@ -1,0 +1,34 @@
+{
+  "name": "Yveltal ex",
+  "hp": 210,
+  "attacks": [
+    {
+      "name": "Soul Destroyer",
+      "damage": 0,
+      "cost": 3,
+      "text": "Knock Out each of your opponent's Pokémon that has 50 HP or less remaining."
+    },
+    {
+      "name": "Dark Strike",
+      "damage": 210,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't use Dark Strike."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "me3",
+  "number": "53",
+  "legal": false,
+  "rarity": "Double Rare"
+}

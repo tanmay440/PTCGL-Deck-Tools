@@ -1,0 +1,33 @@
+{
+  "name": "N's Zekrom",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Shred",
+      "damage": 70,
+      "cost": 3,
+      "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+    },
+    {
+      "name": "Rampaging Thunder",
+      "damage": 250,
+      "cost": 4,
+      "text": "During your next turn, this Pokémon can't use attacks."
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "me2pt5",
+  "number": "155",
+  "legal": true,
+  "rarity": "Rare"
+}

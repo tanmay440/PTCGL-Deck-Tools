@@ -1,0 +1,34 @@
+{
+  "name": "Lycanroc ex",
+  "hp": 260,
+  "attacks": [
+    {
+      "name": "Rock Throw",
+      "damage": 40,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Scary Fangs",
+      "damage": 140,
+      "cost": 3,
+      "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if it is Knocked Out), put 10 damage counters on the Attacking Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Rockruff",
+  "retreat_cost": 2,
+  "set_code": "sv2",
+  "number": "117",
+  "legal": true,
+  "rarity": "Double Rare"
+}

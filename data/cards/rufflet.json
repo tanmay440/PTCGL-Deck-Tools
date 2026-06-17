@@ -1,0 +1,27 @@
+{
+  "name": "Rufflet",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Claw",
+      "damage": 30,
+      "cost": 1,
+      "text": "Flip a coin. If tails, this attack does nothing."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "131",
+  "legal": true,
+  "rarity": "Common"
+}

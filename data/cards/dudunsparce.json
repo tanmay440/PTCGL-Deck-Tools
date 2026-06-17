@@ -1,0 +1,33 @@
+{
+  "name": "Dudunsparce",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Mud-Slap",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Dig Away Flash",
+      "damage": 100,
+      "cost": 4,
+      "text": "Your opponent's Active Pokémon is now Paralyzed. Shuffle this Pokémon and all attached cards into your deck."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Dunsparce",
+  "retreat_cost": 3,
+  "set_code": "sv2",
+  "number": "157",
+  "legal": true,
+  "rarity": "Uncommon"
+}

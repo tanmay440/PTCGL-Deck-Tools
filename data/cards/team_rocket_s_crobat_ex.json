@@ -1,0 +1,33 @@
+{
+  "name": "Team Rocket's Crobat ex",
+  "hp": 310,
+  "attacks": [
+    {
+      "name": "Assassin's Return",
+      "damage": 120,
+      "cost": 2,
+      "text": "You may put this Pokémon into your hand. (Discard all cards attached to this Pokémon.)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Biting Spree",
+      "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may choose 2 of your opponent's Pokémon and put 2 damage counters on each of them."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Team Rocket's Golbat",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "122",
+  "legal": true,
+  "rarity": "Double Rare"
+}

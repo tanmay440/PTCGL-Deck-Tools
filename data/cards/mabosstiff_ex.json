@@ -1,0 +1,34 @@
+{
+  "name": "Mabosstiff ex",
+  "hp": 260,
+  "attacks": [
+    {
+      "name": "Daunt",
+      "damage": 30,
+      "cost": 2,
+      "text": "During your opponent's next turn, attacks used by the Defending Pokémon do 50 less damage (before applying Weakness and Resistance)."
+    },
+    {
+      "name": "Proud Fangs",
+      "damage": 100,
+      "cost": 3,
+      "text": "If your Benched Pokémon have any damage counters on them, this attack does 120 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Maschiff",
+  "retreat_cost": 3,
+  "set_code": "svp",
+  "number": "86",
+  "legal": true,
+  "rarity": "Promo"
+}

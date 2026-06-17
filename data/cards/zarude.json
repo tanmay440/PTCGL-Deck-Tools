@@ -1,0 +1,33 @@
+{
+  "name": "Zarude",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Drag Off",
+      "damage": 0,
+      "cost": 1,
+      "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. This attack does 20 damage to the new Active Pokémon."
+    },
+    {
+      "name": "Triple Whip",
+      "damage": 70,
+      "cost": 2,
+      "text": "Flip 3 coins. This attack does 70 damage for each heads."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12pt5",
+  "number": "16",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

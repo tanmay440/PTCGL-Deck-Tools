@@ -1,0 +1,32 @@
+{
+  "name": "Ethan's Quilava",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Combustion",
+      "damage": 40,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Bonded by the Journey",
+      "text": "Once during your turn, you may search your deck for an Ethan's Adventure card, reveal it, and put it into your hand. Then, shuffle your deck."
+    }
+  ],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Ethan's Cyndaquil",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "33",
+  "legal": true,
+  "rarity": "Common"
+}

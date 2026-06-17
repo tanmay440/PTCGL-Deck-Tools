@@ -1,0 +1,33 @@
+{
+  "name": "Impidimp",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Call for Family",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+    },
+    {
+      "name": "Bite",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "92",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Raging Bolt ex",
+  "hp": 240,
+  "attacks": [
+    {
+      "name": "Burst Roar",
+      "damage": 0,
+      "cost": 1,
+      "text": "Discard your hand and draw 6 cards."
+    },
+    {
+      "name": "Bellowing Thunder",
+      "damage": 70,
+      "cost": 2,
+      "text": "You may discard any amount of Basic Energy from your Pokémon. This attack does 70 damage for each card you discarded in this way."
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex",
+    "Ancient"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "svp",
+  "number": "145",
+  "legal": true,
+  "rarity": "Promo"
+}

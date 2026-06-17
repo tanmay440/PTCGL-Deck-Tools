@@ -1,0 +1,34 @@
+{
+  "name": "Banette ex",
+  "hp": 250,
+  "attacks": [
+    {
+      "name": "Everlasting Darkness",
+      "damage": 30,
+      "cost": 1,
+      "text": "During your opponent's next turn, they can't play any Item cards from their hand."
+    },
+    {
+      "name": "Poltergeist",
+      "damage": 60,
+      "cost": 2,
+      "text": "Your opponent reveals their hand. This attack does 60 damage for each Trainer card you find there."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Shuppet",
+  "retreat_cost": 2,
+  "set_code": "sv1",
+  "number": "88",
+  "legal": true,
+  "rarity": "Double Rare"
+}

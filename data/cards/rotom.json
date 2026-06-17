@@ -1,0 +1,33 @@
+{
+  "name": "Rotom",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Overhaul",
+      "damage": 0,
+      "cost": 1,
+      "text": "Shuffle your hand into your deck. Then, draw 6 cards."
+    },
+    {
+      "name": "Mach Bolt",
+      "damage": 80,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12",
+  "number": "53",
+  "legal": true,
+  "rarity": "Common"
+}

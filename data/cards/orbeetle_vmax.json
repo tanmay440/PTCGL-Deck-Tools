@@ -1,0 +1,32 @@
+{
+  "name": "Orbeetle VMAX",
+  "hp": 310,
+  "attacks": [
+    {
+      "name": "G-Max Wave",
+      "damage": 50,
+      "cost": 2,
+      "text": "This attack does 50 more damage for each Energy attached to your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Eerie Beam",
+      "text": "Once during your turn, if this Pokémon is in the Active Spot, you may put 1 damage counter on each of your opponent's Pokémon."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VMAX"
+  ],
+  "evolvesFrom": "Orbeetle V",
+  "retreat_cost": 1,
+  "set_code": "swsh11tg",
+  "number": "TG13",
+  "legal": false,
+  "rarity": "Rare Holo VMAX"
+}

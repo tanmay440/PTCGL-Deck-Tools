@@ -1,0 +1,33 @@
+{
+  "name": "Yveltal",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Cross-Cut",
+      "damage": 30,
+      "cost": 2,
+      "text": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 60 more damage."
+    },
+    {
+      "name": "Dark Edge",
+      "damage": 120,
+      "cost": 3,
+      "text": "Discard an Energy from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv4",
+  "number": "118",
+  "legal": true,
+  "rarity": "Rare"
+}

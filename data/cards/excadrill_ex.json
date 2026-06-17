@@ -1,0 +1,34 @@
+{
+  "name": "Excadrill ex",
+  "hp": 270,
+  "attacks": [
+    {
+      "name": "Piercing Drill",
+      "damage": 60,
+      "cost": 2,
+      "text": "This attack also does 60 damage to 1 of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    },
+    {
+      "name": "Rock Tumble",
+      "damage": 200,
+      "cost": 3,
+      "text": "This attack's damage isn't affected by Resistance."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Drilbur",
+  "retreat_cost": 3,
+  "set_code": "zsv10pt5",
+  "number": "46",
+  "legal": true,
+  "rarity": "Double Rare"
+}

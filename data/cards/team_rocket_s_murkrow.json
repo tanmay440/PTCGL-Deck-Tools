@@ -1,0 +1,33 @@
+{
+  "name": "Team Rocket's Murkrow",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Deceit",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "Torment",
+      "damage": 30,
+      "cost": 2,
+      "text": "Choose 1 of your opponent's Active Pokémon's attacks. During your opponent's next turn, that Pokémon can't use that attack."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "127",
+  "legal": true,
+  "rarity": "Uncommon"
+}

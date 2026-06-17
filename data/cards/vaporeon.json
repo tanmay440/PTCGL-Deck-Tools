@@ -1,0 +1,32 @@
+{
+  "name": "Vaporeon",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Hydro Pump",
+      "damage": 60,
+      "cost": 3,
+      "text": "This attack does 20 more damage for each Water Energy attached to this Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Watery Shroud",
+      "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's)."
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Eevee",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH072",
+  "legal": false,
+  "rarity": "Promo"
+}

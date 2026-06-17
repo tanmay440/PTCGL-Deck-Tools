@@ -1,0 +1,27 @@
+{
+  "name": "Galarian Meowth",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Fasten Claws",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip a coin. If heads, this attack does 20 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12pt5",
+  "number": "84",
+  "legal": true,
+  "rarity": "Common"
+}

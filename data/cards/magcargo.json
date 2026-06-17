@@ -1,0 +1,33 @@
+{
+  "name": "Magcargo",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Flare",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Lost Volcano",
+      "damage": 220,
+      "cost": 3,
+      "text": "Put all Energy attached to this Pokémon in the Lost Zone."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Slugma",
+  "retreat_cost": 3,
+  "set_code": "swsh11",
+  "number": "22",
+  "legal": true,
+  "rarity": "Rare"
+}

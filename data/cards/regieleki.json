@@ -1,0 +1,33 @@
+{
+  "name": "Regieleki",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Electromagnetic Sonar",
+      "damage": 0,
+      "cost": 1,
+      "text": "Put a Trainer card from your discard pile into your hand."
+    },
+    {
+      "name": "Targeted Bolt",
+      "damage": 0,
+      "cost": 3,
+      "text": "Discard 2 Lightning Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "swsh10",
+  "number": "51",
+  "legal": true,
+  "rarity": "Rare"
+}

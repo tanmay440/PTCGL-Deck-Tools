@@ -1,0 +1,32 @@
+{
+  "name": "Cacnea",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Light Punch",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Counterattack Quills",
+      "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv1",
+  "number": "5",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Radiant Eternatus",
+  "hp": 170,
+  "attacks": [
+    {
+      "name": "Power Beam",
+      "damage": 200,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Climactic Gate",
+      "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for up to 2 Pokémon VMAX and put them onto your Bench. Then, shuffle your deck. If you use this Ability, your turn ends."
+    }
+  ],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Radiant"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh12pt5",
+  "number": "105",
+  "legal": true,
+  "rarity": "Radiant Rare"
+}

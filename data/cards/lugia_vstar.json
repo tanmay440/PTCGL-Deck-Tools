@@ -1,0 +1,32 @@
+{
+  "name": "Lugia VSTAR",
+  "hp": 280,
+  "attacks": [
+    {
+      "name": "Tempest Dive",
+      "damage": 220,
+      "cost": 4,
+      "text": "You may discard a Stadium in play."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Summoning Star",
+      "text": "During your turn, you may put up to 2 Colorless Pokémon that don't have a Rule Box from your discard pile onto your Bench. (Pokémon V, Pokémon-GX, etc. have Rule Boxes.) (You can't use more than 1 VSTAR Power in a game.)"
+    }
+  ],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VSTAR"
+  ],
+  "evolvesFrom": "Lugia V",
+  "retreat_cost": 2,
+  "set_code": "swsh12",
+  "number": "139",
+  "legal": true,
+  "rarity": "Rare Holo VSTAR"
+}

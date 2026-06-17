@@ -1,0 +1,32 @@
+{
+  "name": "Arctozolt",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Electro Ball",
+      "damage": 70,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Biting Whirlpool",
+      "text": "Whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon."
+    }
+  ],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Rare Fossil",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH036",
+  "legal": false,
+  "rarity": "Promo"
+}

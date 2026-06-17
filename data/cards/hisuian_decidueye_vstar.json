@@ -1,0 +1,32 @@
+{
+  "name": "Hisuian Decidueye VSTAR",
+  "hp": 270,
+  "attacks": [
+    {
+      "name": "Somersault Feathers",
+      "damage": 160,
+      "cost": 3,
+      "text": "You may discard up to 3 Energy cards from your hand. This attack does 30 more damage for each card you discarded in this way."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Star of Fortune",
+      "text": "During your turn, you may draw cards until you have 8 cards in your hand. (You can't use more than 1 VSTAR Power in a game.)"
+    }
+  ],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VSTAR"
+  ],
+  "evolvesFrom": "Hisuian Decidueye V",
+  "retreat_cost": 2,
+  "set_code": "swsh10",
+  "number": "84",
+  "legal": true,
+  "rarity": "Rare Holo VSTAR"
+}

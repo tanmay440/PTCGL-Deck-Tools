@@ -1,0 +1,33 @@
+{
+  "name": "Paldean Wooper",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Splattering Poison",
+      "damage": 0,
+      "cost": 1,
+      "text": "Both Active Pokémon are now Poisoned."
+    },
+    {
+      "name": "Tail Whap",
+      "damage": 30,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "svp",
+  "number": "41",
+  "legal": true,
+  "rarity": "Promo"
+}

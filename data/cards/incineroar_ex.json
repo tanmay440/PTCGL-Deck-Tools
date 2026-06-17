@@ -1,0 +1,33 @@
+{
+  "name": "Incineroar ex",
+  "hp": 320,
+  "attacks": [
+    {
+      "name": "Blaze Blast",
+      "damage": 240,
+      "cost": 5,
+      "text": "Your opponent's Active Pokémon is now Burned."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Hustle Play",
+      "text": "Attacks used by this Pokémon cost Colorless less for each of your opponent's Benched Pokémon."
+    }
+  ],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Torracat",
+  "retreat_cost": 2,
+  "set_code": "sv5",
+  "number": "34",
+  "legal": true,
+  "rarity": "Double Rare"
+}

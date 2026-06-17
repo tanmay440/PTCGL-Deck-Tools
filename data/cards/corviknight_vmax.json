@@ -1,0 +1,32 @@
+{
+  "name": "Corviknight VMAX",
+  "hp": 320,
+  "attacks": [
+    {
+      "name": "G-Max Hurricane",
+      "damage": 240,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't use G-Max Hurricane."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Lustrous Body",
+      "text": "Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon."
+    }
+  ],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VMAX"
+  ],
+  "evolvesFrom": "Corviknight V",
+  "retreat_cost": 0,
+  "set_code": "swsh12tg",
+  "number": "TG19",
+  "legal": true,
+  "rarity": "Rare Holo VMAX"
+}

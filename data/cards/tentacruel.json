@@ -1,0 +1,33 @@
+{
+  "name": "Tentacruel",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Poisonous Whip",
+      "damage": 30,
+      "cost": 2,
+      "text": "Your opponent's Active Pokémon is now Poisoned."
+    },
+    {
+      "name": "Tentacular Panic",
+      "damage": 90,
+      "cost": 3,
+      "text": "Flip a coin until you get tails. This attack does 90 damage for each heads. If the first flip is tails, your opponent's Active Pokémon is now Confused."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Tentacool",
+  "retreat_cost": 2,
+  "set_code": "sv3pt5",
+  "number": "73",
+  "legal": true,
+  "rarity": "Uncommon"
+}

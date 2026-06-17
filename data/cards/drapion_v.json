@@ -1,0 +1,33 @@
+{
+  "name": "Drapion V",
+  "hp": 210,
+  "attacks": [
+    {
+      "name": "Dynamic Tail",
+      "damage": 190,
+      "cost": 4,
+      "text": "This attack also does 60 damage to 1 of your Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Wild Style",
+      "text": "This Pokémon's attacks cost Colorless less for each of your opponent's Single Strike, Rapid Strike, and Fusion Strike Pokémon in play."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh11",
+  "number": "118",
+  "legal": true,
+  "rarity": "Rare Holo V"
+}

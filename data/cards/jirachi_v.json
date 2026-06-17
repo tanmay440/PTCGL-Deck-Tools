@@ -1,0 +1,33 @@
+{
+  "name": "Jirachi V",
+  "hp": 180,
+  "attacks": [
+    {
+      "name": "Hypnostrike",
+      "damage": 60,
+      "cost": 2,
+      "text": "Both Active Pokémon are now Asleep."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Wish Connector",
+      "text": "When 1 of your Basic Pokémon V is Knocked Out by damage from an attack from your opponent's Pokémon, you may move a basic Energy card from that Pokémon to another of your Pokémon."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "170",
+  "legal": true,
+  "rarity": "Rare Ultra"
+}

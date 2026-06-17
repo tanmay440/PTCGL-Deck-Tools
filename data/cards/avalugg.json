@@ -1,0 +1,33 @@
+{
+  "name": "Avalugg",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Iceberg Breaker",
+      "damage": 60,
+      "cost": 1,
+      "text": "Discard the top 6 cards of your deck, and this attack does 60 damage for each Basic Water Energy card you discarded in this way."
+    },
+    {
+      "name": "Frost Stamp",
+      "damage": 160,
+      "cost": 4,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Bergmite",
+  "retreat_cost": 4,
+  "set_code": "me4",
+  "number": "24",
+  "legal": true,
+  "rarity": "Uncommon"
+}

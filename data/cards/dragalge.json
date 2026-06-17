@@ -1,0 +1,33 @@
+{
+  "name": "Dragalge",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Rocket Poison",
+      "damage": 0,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Poisoned. If this Pokémon evolved from Skrelp during this turn, put 8 damage counters on that Pokémon instead of 1 during Pokémon Checkup."
+    },
+    {
+      "name": "Razor Fin",
+      "damage": 60,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Skrelp",
+  "retreat_cost": 1,
+  "set_code": "swsh12pt5",
+  "number": "82",
+  "legal": true,
+  "rarity": "Rare"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Oricorio ex",
+  "hp": 190,
+  "attacks": [
+    {
+      "name": "Fire Wing",
+      "damage": 110,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Excited Turbo",
+      "text": "As often as you like during your turn, if you have any Fire Mega Evolution Pokémon ex in play, you may use this Ability. Attach a Basic Fire Energy card from your hand to 1 of your Benched Fire Pokémon."
+    }
+  ],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "me2",
+  "number": "18",
+  "legal": true,
+  "rarity": "Double Rare"
+}

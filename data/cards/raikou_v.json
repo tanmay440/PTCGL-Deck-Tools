@@ -1,0 +1,33 @@
+{
+  "name": "Raikou V",
+  "hp": 200,
+  "attacks": [
+    {
+      "name": "Lightning Rondo",
+      "damage": 20,
+      "cost": 2,
+      "text": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Fleet-Footed",
+      "text": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+    }
+  ],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "48",
+  "legal": true,
+  "rarity": "Rare Holo V"
+}

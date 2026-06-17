@@ -1,0 +1,18 @@
+{
+  "name": "Judge",
+  "hp": 0,
+  "attacks": [],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Supporter"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "swsh12tg",
+  "number": "TG25",
+  "legal": true,
+  "rarity": "Rare Ultra"
+}

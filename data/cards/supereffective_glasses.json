@@ -1,0 +1,19 @@
+{
+  "name": "Supereffective Glasses",
+  "hp": 0,
+  "attacks": [],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Item",
+    "Pokémon Tool"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "swsh10",
+  "number": "152",
+  "legal": true,
+  "rarity": "Uncommon"
+}

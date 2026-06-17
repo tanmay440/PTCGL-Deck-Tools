@@ -1,0 +1,32 @@
+{
+  "name": "Kricketune",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Slash",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Swelling Tune",
+      "text": "Your Grass Pokémon in play, except any Kricketune, get +40 HP. You can't apply more than 1 Swelling Tune Ability at a time."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Kricketot",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "10",
+  "legal": true,
+  "rarity": "Uncommon"
+}

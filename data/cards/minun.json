@@ -1,0 +1,32 @@
+{
+  "name": "Minun",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Speed Ball",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Buddy Pulse",
+      "text": "If you have Plusle in play, whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon. The effect of Buddy Pulse doesn't stack."
+    }
+  ],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv4",
+  "number": "61",
+  "legal": true,
+  "rarity": "Common"
+}

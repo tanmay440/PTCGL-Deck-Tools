@@ -1,0 +1,33 @@
+{
+  "name": "Wash Rotom",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Manual Wash",
+      "damage": 20,
+      "cost": 1,
+      "text": "Heal 10 damage from each of your Pokémon."
+    },
+    {
+      "name": "Gadget Show",
+      "damage": 30,
+      "cost": 2,
+      "text": "This attack does 30 damage for each Pokémon Tool attached to all of your Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv10",
+  "number": "61",
+  "legal": true,
+  "rarity": "Common"
+}

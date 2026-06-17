@@ -1,0 +1,33 @@
+{
+  "name": "Doublade",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Slash",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Slashing Strike",
+      "damage": 80,
+      "cost": 2,
+      "text": "During your next turn, this Pokémon can't use Slashing Strike."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Honedge",
+  "retreat_cost": 2,
+  "set_code": "sv4",
+  "number": "132",
+  "legal": true,
+  "rarity": "Common"
+}

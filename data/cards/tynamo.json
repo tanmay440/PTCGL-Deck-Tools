@@ -1,0 +1,33 @@
+{
+  "name": "Tynamo",
+  "hp": 30,
+  "attacks": [
+    {
+      "name": "Call Sign",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for a Lightning Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "Tiny Charge",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "59",
+  "legal": true,
+  "rarity": "Common"
+}

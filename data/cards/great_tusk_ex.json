@@ -1,0 +1,34 @@
+{
+  "name": "Great Tusk ex",
+  "hp": 250,
+  "attacks": [
+    {
+      "name": "Bedrock Breaker",
+      "damage": 40,
+      "cost": 1,
+      "text": "Discard a Stadium in play."
+    },
+    {
+      "name": "Gigantic Tusks",
+      "damage": 250,
+      "cost": 3,
+      "text": "This Pokémon also does 50 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 4,
+  "set_code": "sv1",
+  "number": "123",
+  "legal": true,
+  "rarity": "Double Rare"
+}

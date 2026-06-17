@@ -1,0 +1,33 @@
+{
+  "name": "Groudon",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Swelling Power",
+      "damage": 0,
+      "cost": 1,
+      "text": "Attach a Basic Fighting Energy card from your hand to 1 of your Pokémon."
+    },
+    {
+      "name": "Magma Purge",
+      "damage": 60,
+      "cost": 3,
+      "text": "Discard up to 4 Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "sv4",
+  "number": "93",
+  "legal": true,
+  "rarity": "Rare"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Aggron VMAX",
+  "hp": 330,
+  "attacks": [
+    {
+      "name": "Cracking Stomp",
+      "damage": 150,
+      "cost": 3,
+      "text": "Discard the top card of your opponent's deck."
+    },
+    {
+      "name": "Max Take Down",
+      "damage": 270,
+      "cost": 5,
+      "text": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VMAX"
+  ],
+  "evolvesFrom": "Aggron V",
+  "retreat_cost": 4,
+  "set_code": "swsh9",
+  "number": "97",
+  "legal": true,
+  "rarity": "Rare Holo VMAX"
+}

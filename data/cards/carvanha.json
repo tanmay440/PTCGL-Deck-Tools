@@ -1,0 +1,27 @@
+{
+  "name": "Carvanha",
+  "hp": 50,
+  "attacks": [
+    {
+      "name": "Sharp Fang",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "svp",
+  "number": "93",
+  "legal": true,
+  "rarity": "Promo"
+}

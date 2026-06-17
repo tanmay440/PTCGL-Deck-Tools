@@ -1,0 +1,33 @@
+{
+  "name": "Bouffalant ex",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Gold Breaker",
+      "damage": 100,
+      "cost": 3,
+      "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 100 more damage."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Bouffer",
+      "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+    }
+  ],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "rsv10pt5",
+  "number": "77",
+  "legal": true,
+  "rarity": "Double Rare"
+}

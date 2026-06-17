@@ -1,0 +1,33 @@
+{
+  "name": "Farigiraf",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Either Face",
+      "damage": 0,
+      "cost": 1,
+      "text": "Choose a player. That player shuffles their hand into their deck and draws 4 cards."
+    },
+    {
+      "name": "Power Beam",
+      "damage": 130,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Girafarig",
+  "retreat_cost": 2,
+  "set_code": "sv2",
+  "number": "155",
+  "legal": true,
+  "rarity": "Uncommon"
+}

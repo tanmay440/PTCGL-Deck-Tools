@@ -1,0 +1,27 @@
+{
+  "name": "Glameow",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Fake Out",
+      "damage": 20,
+      "cost": 2,
+      "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "127",
+  "legal": true,
+  "rarity": "Common"
+}

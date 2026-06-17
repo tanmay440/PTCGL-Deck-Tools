@@ -1,0 +1,184 @@
+{% extends "base.html" %}
+{% block title %}Results &mdash; PTCGL Deck Optimizer{% endblock %}
+
+{% block content %}
+{% if error %}
+  <section id="error" class="card-section">
+    <h2>Error</h2>
+    <p class="error-msg">{{ error }}</p>
+    <p><a href="{{ url_for('home') }}" class="back-link">&larr; Back to home</a></p>
+  </section>
+{% elif result %}
+<section id="results" class="card-section">
+
+  <h2>Optimization Results</h2>
+
+  <div id="final-score" class="score-block">
+    <h3>Final Power Score</h3>
+    <p class="score-big">{{ result.final_score }}</p>
+    <p class="muted">Iterations run: {{ result.iterations_run }}</p>
+  </div>
+
+  <div id="history">
+    <h3>Score History</h3>
+    <table class="data-table">
+      <thead>
+        <tr>
+          <th>Iteration</th>
+          <th>Score</th>
+          <th>Previous</th>
+          <th>Delta</th>
+          <th>Cards Swapped</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for h in result.history %}
+        <tr>
+          <td>{{ h.iteration }}</td>
+          <td>{{ h.score }}</td>
+          <td>{{ h.previous_score }}</td>
+          <td class="{% if h.delta > 0 %}pos{% elif h.delta < 0 %}neg{% endif %}">
+            {{ '%+0.2f' % h.delta }}
+          </td>
+          <td>
+            {% if h.cards_removed %}
+              <strong>Removed:</strong>
+              {{ h.cards_removed | join(', ') }}<br>
+            {% endif %}
+            {% if h.cards_added %}
+              <strong>Added:</strong>
+              {{ h.cards_added | join(', ') }}
+            {% endif %}
+            {% if not h.cards_removed and not h.cards_added %}
+              <span class="muted">no changes</span>
+            {% endif %}
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <div id="strategy">
+    <h3>Strategy</h3>
+
+    {% if result.strategy %}
+      <h4>Setup Guide</h4>
+      <ol class="setup-guide">
+        {% for step in result.strategy.setup_guide %}
+          <li>{{ step }}</li>
+        {% endfor %}
+      </ol>
+
+      <h4>Attack Advisor</h4>
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th>Attacker</th>
+            <th>Attack</th>
+            <th>Condition</th>
+            <th>Priority</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for atk in result.strategy.attack_advisor %}
+          <tr>
+            <td>{{ atk.attacker }}</td>
+            <td>{{ atk.attack_name }}</td>
+            <td>{{ atk.condition }}</td>
+            <td>{{ atk.priority }}</td>
+          </tr>
+          {% else %}
+          <tr><td colspan="4" class="muted">No Pokémon attacks detected.</td></tr>
+          {% endfor %}
+        </tbody>
+      </table>
+
+      <h4>Matchup Notes</h4>
+      <ul class="matchup-notes">
+        {% for note in result.strategy.matchup_notes %}
+          <li>
+            <strong>[{{ note.tag }}]</strong>
+            {{ note.note }}
+          </li>
+        {% else %}
+          <li class="muted">No meta data available.</li>
+        {% endfor %}
+      </ul>
+
+      <h4>Core Cards</h4>
+      <ul class="core-cards">
+        {% for c in result.strategy.core_cards %}
+          <li>{{ c }}</li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p class="muted">No strategy available.</p>
+    {% endif %}
+  </div>
+
+  <div id="final-deck">
+    <h3>Final Deck ({{ result.final_deck | map(attribute='count') | sum }})</h3>
+
+    {% set pok = result.final_deck | selectattr('section', 'equalto', 'Pokemon') | list %}
+    {% set trn = result.final_deck | selectattr('section', 'equalto', 'Trainer') | list %}
+    {% set eng = result.final_deck | selectattr('section', 'equalto', 'Energy') | list %}
+
+    <div class="deck-group">
+      <h4>Pok&eacute;mon ({{ pok | sum(attribute='count') }})</h4>
+      <ul>
+        {% for entry in pok %}
+          <li>{{ entry.count }} {{ entry.name }}</li>
+        {% else %}
+          <li class="muted">(none)</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="deck-group">
+      <h4>Trainers ({{ trn | sum(attribute='count') }})</h4>
+      <ul>
+        {% for entry in trn %}
+          <li>{{ entry.count }} {{ entry.name }}</li>
+        {% else %}
+          <li class="muted">(none)</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="deck-group">
+      <h4>Energy ({{ eng | sum(attribute='count') }})</h4>
+      <ul>
+        {% for entry in eng %}
+          <li>{{ entry.count }} {{ entry.name }}</li>
+        {% else %}
+          <li class="muted">(none)</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <div id="export">
+    <h3>Export</h3>
+    <button
+      type="button"
+      class="copy-btn primary-btn"
+      data-copy-target="#export-text"
+    >Copy to Clipboard</button>
+
+    <form method="POST" action="{{ url_for('export_view') }}" class="inline-form">
+      <input type="hidden" name="export_text" value="{{ result.export_string }}">
+      <button type="submit" class="primary-btn">View Raw Export</button>
+    </form>
+
+    <pre id="export-text" class="export-pre">{{ result.export_string }}</pre>
+
+    <p><a href="{{ url_for('home') }}" class="back-link">&larr; Optimize another deck</a></p>
+  </div>
+</section>
+{% endif %}
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+{% endblock %}

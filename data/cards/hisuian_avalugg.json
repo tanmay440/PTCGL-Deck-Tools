@@ -1,0 +1,32 @@
+{
+  "name": "Hisuian Avalugg",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Mountain Gale",
+      "damage": 100,
+      "cost": 4,
+      "text": "If a Stadium is in play, this attack does 120 more damage. Then, discard that Stadium."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Massive Ice",
+      "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Bergmite",
+  "retreat_cost": 3,
+  "set_code": "swsh10",
+  "number": "48",
+  "legal": true,
+  "rarity": "Rare"
+}

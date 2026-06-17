@@ -1,0 +1,35 @@
+{
+  "name": "Flygon ex",
+  "hp": 310,
+  "attacks": [
+    {
+      "name": "Reversing Storm",
+      "damage": 130,
+      "cost": 1,
+      "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+    },
+    {
+      "name": "Sonic Peridot",
+      "damage": 0,
+      "cost": 3,
+      "text": "This attack does 100 damage to each of your opponent's Pokémon ex and Pokémon V. This attack's damage isn't affected by Weakness or Resistance."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "Tera",
+    "ex"
+  ],
+  "evolvesFrom": "Vibrava",
+  "retreat_cost": 1,
+  "set_code": "sv8",
+  "number": "106",
+  "legal": true,
+  "rarity": "Double Rare"
+}

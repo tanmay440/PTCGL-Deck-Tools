@@ -1,0 +1,32 @@
+{
+  "name": "Garchomp",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Dragonblade",
+      "damage": 160,
+      "cost": 2,
+      "text": "Discard the top 2 cards of your deck."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Sonic Slip",
+      "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may prevent all damage from and effects of attacks from your opponent's Pokémon done to this Pokémon until the end of your opponent's next turn."
+    }
+  ],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Gabite",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "109",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

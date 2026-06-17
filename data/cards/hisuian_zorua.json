@@ -1,0 +1,33 @@
+{
+  "name": "Hisuian Zorua",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Collect",
+      "damage": 0,
+      "cost": 0,
+      "text": "Draw a card."
+    },
+    {
+      "name": "Mumble",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "75",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Hippopotas",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Mud-Slap",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Rolling Tackle",
+      "damage": 90,
+      "cost": 4,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 4,
+  "set_code": "swsh10",
+  "number": "79",
+  "legal": true,
+  "rarity": "Common"
+}

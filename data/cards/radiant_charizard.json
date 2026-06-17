@@ -1,0 +1,33 @@
+{
+  "name": "Radiant Charizard",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Combustion Blast",
+      "damage": 250,
+      "cost": 5,
+      "text": "During your next turn, this Pokémon can't use Combustion Blast."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Excited Heart",
+      "text": "This Pokémon's attacks cost Colorless less for each Prize card your opponent has taken."
+    }
+  ],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Radiant"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "pgo",
+  "number": "11",
+  "legal": true,
+  "rarity": "Radiant Rare"
+}

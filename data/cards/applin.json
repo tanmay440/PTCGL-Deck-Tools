@@ -1,0 +1,27 @@
+{
+  "name": "Applin",
+  "hp": 40,
+  "attacks": [
+    {
+      "name": "Tumbling Attack",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip a coin. If heads, this attack does 20 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv6",
+  "number": "17",
+  "legal": true,
+  "rarity": "Common"
+}

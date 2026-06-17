@@ -1,0 +1,27 @@
+{
+  "name": "Marnie's Scraggy",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Crunch",
+      "damage": 50,
+      "cost": 3,
+      "text": "Discard an Energy from your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "132",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Braviary",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Drag Off",
+      "damage": 0,
+      "cost": 2,
+      "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. This attack does 40 damage to the new Active Pokémon."
+    },
+    {
+      "name": "Blasting Wind",
+      "damage": 120,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Rufflet",
+  "retreat_cost": 1,
+  "set_code": "sv8",
+  "number": "153",
+  "legal": true,
+  "rarity": "Uncommon"
+}

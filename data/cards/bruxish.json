@@ -1,0 +1,33 @@
+{
+  "name": "Bruxish",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Vivid Charge",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for up to 3 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "Wave Splash",
+      "damage": 60,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv1",
+  "number": "51",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Zoroark",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Illusory Hijacking",
+      "damage": 60,
+      "cost": 2,
+      "text": "This attack does 60 damage for each of your opponent's Pokémon ex and Pokémon V in play."
+    },
+    {
+      "name": "Claw Slash",
+      "damage": 110,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Zorua",
+  "retreat_cost": 1,
+  "set_code": "sv6pt5",
+  "number": "32",
+  "legal": true,
+  "rarity": "Rare"
+}

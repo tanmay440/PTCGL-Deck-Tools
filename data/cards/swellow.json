@@ -1,0 +1,33 @@
+{
+  "name": "Swellow",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Add On",
+      "damage": 0,
+      "cost": 1,
+      "text": "Draw 3 cards."
+    },
+    {
+      "name": "Speed Wing",
+      "damage": 70,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Taillow",
+  "retreat_cost": 0,
+  "set_code": "sv10",
+  "number": "157",
+  "legal": true,
+  "rarity": "Common"
+}

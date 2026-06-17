@@ -1,0 +1,32 @@
+{
+  "name": "Coalossal",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Flaming Avalanche",
+      "damage": 130,
+      "cost": 4,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Tar Generator",
+      "text": "Once during your turn, you may attach a Fire Energy card, a Fighting Energy card, or 1 of each from your discard pile to your Pokémon in any way you like."
+    }
+  ],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Carkol",
+  "retreat_cost": 4,
+  "set_code": "swshp",
+  "number": "SWSH024",
+  "legal": false,
+  "rarity": "Promo"
+}

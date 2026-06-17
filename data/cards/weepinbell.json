@@ -1,0 +1,33 @@
+{
+  "name": "Weepinbell",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Cut",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Spray Fluid",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Bellsprout",
+  "retreat_cost": 2,
+  "set_code": "sv3pt5",
+  "number": "70",
+  "legal": true,
+  "rarity": "Common"
+}

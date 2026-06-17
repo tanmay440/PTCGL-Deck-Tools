@@ -1,0 +1,33 @@
+{
+  "name": "Trubbish",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Suffocating Gas",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Venomous Hit",
+      "damage": 30,
+      "cost": 3,
+      "text": "Your opponent's Active Pokémon is now Poisoned."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv4",
+  "number": "116",
+  "legal": true,
+  "rarity": "Common"
+}

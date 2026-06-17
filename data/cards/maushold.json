@@ -1,0 +1,33 @@
+{
+  "name": "Maushold",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Slap",
+      "damage": 40,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Family Attack",
+      "damage": 70,
+      "cost": 2,
+      "text": "This attack does 70 damage for each of your Maushold in play."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Tandemaus",
+  "retreat_cost": 1,
+  "set_code": "sv1",
+  "number": "161",
+  "legal": true,
+  "rarity": "Uncommon"
+}

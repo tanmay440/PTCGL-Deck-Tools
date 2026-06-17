@@ -1,0 +1,34 @@
+{
+  "name": "Machamp V",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Revenge Buster",
+      "damage": 50,
+      "cost": 2,
+      "text": "If your Benched Pokémon have any damage counters on them, this attack does 50 more damage."
+    },
+    {
+      "name": "Seismic Toss",
+      "damage": 140,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "swsh10",
+  "number": "72",
+  "legal": true,
+  "rarity": "Rare Holo V"
+}

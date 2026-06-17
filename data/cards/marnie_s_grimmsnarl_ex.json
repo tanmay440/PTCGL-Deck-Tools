@@ -1,0 +1,33 @@
+{
+  "name": "Marnie's Grimmsnarl ex",
+  "hp": 320,
+  "attacks": [
+    {
+      "name": "Shadow Bullet",
+      "damage": 180,
+      "cost": 2,
+      "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Punk Up",
+      "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 5 Basic Darkness Energy cards and attach them to your Marnie's Pokémon in any way you like. Then, shuffle your deck."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Marnie's Morgrem",
+  "retreat_cost": 2,
+  "set_code": "sv10",
+  "number": "136",
+  "legal": true,
+  "rarity": "Double Rare"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Moltres",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Inferno Wings",
+      "damage": 20,
+      "cost": 1,
+      "text": "If this Pokémon has any damage counters on it, this attack does 70 more. This attack's damage isn't affected by Weakness."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH185",
+  "legal": true,
+  "rarity": "Promo"
+}

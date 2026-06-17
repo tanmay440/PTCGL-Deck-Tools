@@ -1,0 +1,32 @@
+{
+  "name": "Empoleon",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Water Arrow",
+      "damage": 0,
+      "cost": 1,
+      "text": "This attack does 60 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Emergency Surfacing",
+      "text": "Once during your turn, if this Pokémon is in your discard pile and you have no cards in your hand, you may put this Pokémon onto your Bench. If you do, draw 3 cards."
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Prinplup",
+  "retreat_cost": 2,
+  "set_code": "swsh9",
+  "number": "37",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

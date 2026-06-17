@@ -1,0 +1,32 @@
+{
+  "name": "Hisuian Typhlosion",
+  "hp": 150,
+  "attacks": [
+    {
+      "name": "Shadow Bind",
+      "damage": 90,
+      "cost": 2,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Supernatural Orb",
+      "text": "You must discard a Psychic Energy card from your hand in order to use this Ability. Once during your turn, you may make your opponent's Active Pokémon Burned and Confused."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Quilava",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "52",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

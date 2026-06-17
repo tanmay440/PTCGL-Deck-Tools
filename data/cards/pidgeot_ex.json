@@ -1,0 +1,33 @@
+{
+  "name": "Pidgeot ex",
+  "hp": 280,
+  "attacks": [
+    {
+      "name": "Blustery Wind",
+      "damage": 120,
+      "cost": 2,
+      "text": "You may discard a Stadium in play."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Quick Search",
+      "text": "Once during your turn, you may search your deck for a card and put it into your hand. Then, shuffle your deck. You can't use more than 1 Quick Search Ability each turn."
+    }
+  ],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Pidgeotto",
+  "retreat_cost": 0,
+  "set_code": "sv3",
+  "number": "164",
+  "legal": true,
+  "rarity": "Double Rare"
+}

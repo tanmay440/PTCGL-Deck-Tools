@@ -1,0 +1,34 @@
+{
+  "name": "Kyurem V",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Rapid Freeze",
+      "damage": 0,
+      "cost": 1,
+      "text": "Attach any number of Water Energy cards from your hand to your Pokémon in any way you like."
+    },
+    {
+      "name": "Frost Smash",
+      "damage": 140,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "swsh11",
+  "number": "48",
+  "legal": true,
+  "rarity": "Rare Holo V"
+}

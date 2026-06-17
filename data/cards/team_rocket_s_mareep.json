@@ -1,0 +1,33 @@
+{
+  "name": "Team Rocket's Mareep",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Procurement",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "Tiny Bolt",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "72",
+  "legal": true,
+  "rarity": "Common"
+}

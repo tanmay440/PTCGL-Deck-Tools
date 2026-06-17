@@ -1,0 +1,33 @@
+{
+  "name": "Smeargle",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Colorful Palette",
+      "damage": 0,
+      "cost": 1,
+      "text": "Look at the top 5 cards of your deck. You may attach any number of basic Energy cards you find there to 1 of your Pokémon. Shuffle the other cards back into your deck."
+    },
+    {
+      "name": "Ram",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12",
+  "number": "137",
+  "legal": true,
+  "rarity": "Common"
+}

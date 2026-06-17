@@ -1,0 +1,32 @@
+{
+  "name": "Ninjask",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "U-turn",
+      "damage": 90,
+      "cost": 2,
+      "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Cast-Off Shell",
+      "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Search your deck for a Shedinja and put it onto your Bench. Then, shuffle your deck."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Nincada",
+  "retreat_cost": 0,
+  "set_code": "me1",
+  "number": "17",
+  "legal": true,
+  "rarity": "Uncommon"
+}

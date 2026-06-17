@@ -1,0 +1,34 @@
+{
+  "name": "Walking Wake",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Aurora Gain",
+      "damage": 20,
+      "cost": 1,
+      "text": "Heal 20 damage from this Pokémon."
+    },
+    {
+      "name": "Undulating Slice",
+      "damage": 20,
+      "cost": 3,
+      "text": "Put up to 9 damage counters on this Pokémon. This attack does 20 damage for each damage counter you placed in this way."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Ancient"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv6",
+  "number": "63",
+  "legal": true,
+  "rarity": "Rare"
+}

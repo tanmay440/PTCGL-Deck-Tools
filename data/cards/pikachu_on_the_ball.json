@@ -1,0 +1,33 @@
+{
+  "name": "Pikachu on the Ball",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Tail Whap",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Lightning Shot",
+      "damage": 120,
+      "cost": 3,
+      "text": "Flip a coin. If tails, this attack does nothing."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "fut20",
+  "number": "1",
+  "legal": false,
+  "rarity": ""
+}

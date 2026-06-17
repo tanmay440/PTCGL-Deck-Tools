@@ -1,0 +1,33 @@
+{
+  "name": "Mawile",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Tempting Trap",
+      "damage": 0,
+      "cost": 1,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat. During your next turn, the Defending Pokémon takes 90 more damage from attacks (after applying Weakness and Resistance)."
+    },
+    {
+      "name": "Bite",
+      "damage": 90,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "71",
+  "legal": true,
+  "rarity": "Common"
+}

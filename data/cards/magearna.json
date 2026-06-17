@@ -1,0 +1,33 @@
+{
+  "name": "Magearna",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Gear Cutter",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Windup Beam",
+      "damage": 60,
+      "cost": 3,
+      "text": "If this Pokémon has a Pokémon Tool attached, this attack does 60 more damage, and your opponent's Active Pokémon is now Confused."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "128",
+  "legal": true,
+  "rarity": "Rare"
+}

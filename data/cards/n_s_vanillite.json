@@ -1,0 +1,33 @@
+{
+  "name": "N's Vanillite",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Call for Family",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+    },
+    {
+      "name": "Icy Snow",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "me2pt5",
+  "number": "49",
+  "legal": true,
+  "rarity": "Common"
+}

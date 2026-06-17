@@ -1,0 +1,33 @@
+{
+  "name": "Phanpy",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Stampede",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Strike Back",
+      "damage": 30,
+      "cost": 2,
+      "text": "This attack does 30 damage for each damage counter on this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH117",
+  "legal": false,
+  "rarity": "Promo"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Tauros",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Smash Kick",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Adrena-Tackle",
+      "damage": 0,
+      "cost": 3,
+      "text": "If this Pokémon has no damage counters on it, this attack does nothing."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh12pt5",
+  "number": "106",
+  "legal": true,
+  "rarity": "Rare"
+}

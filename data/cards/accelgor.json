@@ -1,0 +1,27 @@
+{
+  "name": "Accelgor",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Poisonous Ploy",
+      "damage": 70,
+      "cost": 2,
+      "text": "Your opponent's Active Pokémon is now Confused and Poisoned. Switch this Pokémon with 1 of your Benched Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Shelmet",
+  "retreat_cost": 1,
+  "set_code": "sv9",
+  "number": "13",
+  "legal": true,
+  "rarity": "Uncommon"
+}

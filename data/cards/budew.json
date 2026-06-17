@@ -1,0 +1,27 @@
+{
+  "name": "Budew",
+  "hp": 30,
+  "attacks": [
+    {
+      "name": "Itchy Pollen",
+      "damage": 10,
+      "cost": 1,
+      "text": "During your opponent's next turn, they can't play any Item cards from their hand."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv8pt5",
+  "number": "4",
+  "legal": true,
+  "rarity": "Common"
+}

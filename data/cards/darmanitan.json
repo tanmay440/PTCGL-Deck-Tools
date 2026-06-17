@@ -1,0 +1,33 @@
+{
+  "name": "Darmanitan",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Damage Counterpunch",
+      "damage": 60,
+      "cost": 3,
+      "text": "If this Pokémon has any damage counters on it, this attack does 60 more damage."
+    },
+    {
+      "name": "Heat Blast",
+      "damage": 140,
+      "cost": 4,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Darumaka",
+  "retreat_cost": 3,
+  "set_code": "sv3",
+  "number": "35",
+  "legal": true,
+  "rarity": "Uncommon"
+}

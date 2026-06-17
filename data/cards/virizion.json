@@ -1,0 +1,33 @@
+{
+  "name": "Virizion",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Four as One",
+      "damage": 20,
+      "cost": 1,
+      "text": "If Cobalion, Terrakion, and Keldeo are on your Bench, this attack does 70 more damage."
+    },
+    {
+      "name": "Leaf Drain",
+      "damage": 50,
+      "cost": 2,
+      "text": "Heal 20 damage from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12",
+  "number": "14",
+  "legal": true,
+  "rarity": "Rare"
+}

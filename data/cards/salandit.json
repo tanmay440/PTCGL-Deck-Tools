@@ -1,0 +1,33 @@
+{
+  "name": "Salandit",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Call for Family",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+    },
+    {
+      "name": "Scratch",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12pt5",
+  "number": "27",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Misty's Starmie",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Abrupt Flash",
+      "damage": 60,
+      "cost": 1,
+      "text": "If this Pokémon evolved from Misty's Staryu during this turn, this attack does 80 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Misty's Staryu",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "47",
+  "legal": true,
+  "rarity": "Uncommon"
+}

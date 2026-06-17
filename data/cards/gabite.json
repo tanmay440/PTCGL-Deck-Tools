@@ -1,0 +1,27 @@
+{
+  "name": "Gabite",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Dragon Claw",
+      "damage": 70,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Gible",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "108",
+  "legal": true,
+  "rarity": "Uncommon"
+}

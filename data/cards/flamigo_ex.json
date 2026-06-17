@@ -1,0 +1,34 @@
+{
+  "name": "Flamigo ex",
+  "hp": 200,
+  "attacks": [
+    {
+      "name": "Precise Beak",
+      "damage": 30,
+      "cost": 2,
+      "text": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached, this attack does 100 more damage."
+    },
+    {
+      "name": "Brave Bird",
+      "damage": 200,
+      "cost": 4,
+      "text": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv8",
+  "number": "160",
+  "legal": true,
+  "rarity": "Double Rare"
+}

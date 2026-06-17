@@ -1,0 +1,34 @@
+{
+  "name": "Rabsca ex",
+  "hp": 250,
+  "attacks": [
+    {
+      "name": "Upside-Down Draw",
+      "damage": 0,
+      "cost": 1,
+      "text": "Draw 3 cards from the bottom of your deck."
+    },
+    {
+      "name": "Psychic",
+      "damage": 20,
+      "cost": 3,
+      "text": "This attack does 90 more damage for each Energy attached to your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Rellor",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "25",
+  "legal": true,
+  "rarity": "Double Rare"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Cottonee",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Fickle Attack",
+      "damage": 30,
+      "cost": 1,
+      "text": "Flip a coin. If tails, this attack does nothing."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv4pt5",
+  "number": "34",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Rockruff",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Double Draw",
+      "damage": 0,
+      "cost": 1,
+      "text": "Draw 2 cards."
+    },
+    {
+      "name": "Rear Kick",
+      "damage": 30,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "109",
+  "legal": true,
+  "rarity": "Common"
+}

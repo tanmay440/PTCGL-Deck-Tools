@@ -1,0 +1,33 @@
+{
+  "name": "Galarian Ponyta",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Heal Pulse",
+      "damage": 0,
+      "cost": 1,
+      "text": "Heal 30 damage from 1 of your Pokémon."
+    },
+    {
+      "name": "Flop",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH013",
+  "legal": false,
+  "rarity": "Promo"
+}

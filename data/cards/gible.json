@@ -1,0 +1,27 @@
+{
+  "name": "Gible",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Gnaw",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "107",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Delibird",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Double Draw",
+      "damage": 0,
+      "cost": 1,
+      "text": "Draw 2 cards."
+    },
+    {
+      "name": "Ice Wing",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv2",
+  "number": "46",
+  "legal": true,
+  "rarity": "Common"
+}

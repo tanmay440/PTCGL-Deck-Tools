@@ -1,0 +1,32 @@
+{
+  "name": "Articuno",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Freezing Wind",
+      "damage": 110,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Ice Symbol",
+      "text": "Your Basic Water Pokémon's attacks, except any Articuno, do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "pgo",
+  "number": "24",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

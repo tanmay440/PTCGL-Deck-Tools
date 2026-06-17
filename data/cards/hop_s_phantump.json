@@ -1,0 +1,27 @@
+{
+  "name": "Hop's Phantump",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Splashing Dodge",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "me2pt5",
+  "number": "95",
+  "legal": true,
+  "rarity": "Common"
+}

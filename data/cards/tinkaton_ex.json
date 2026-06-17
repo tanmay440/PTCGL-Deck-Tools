@@ -1,0 +1,34 @@
+{
+  "name": "Tinkaton ex",
+  "hp": 300,
+  "attacks": [
+    {
+      "name": "Big Hammer",
+      "damage": 30,
+      "cost": 2,
+      "text": "This attack does 30 damage for each card in your hand."
+    },
+    {
+      "name": "Pulverizing Press",
+      "damage": 140,
+      "cost": 3,
+      "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Tinkatuff",
+  "retreat_cost": 2,
+  "set_code": "svp",
+  "number": "31",
+  "legal": true,
+  "rarity": "Promo"
+}

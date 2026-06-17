@@ -1,0 +1,34 @@
+{
+  "name": "Slither Wing",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Stomp Off",
+      "damage": 0,
+      "cost": 1,
+      "text": "Discard the top card of your opponent's deck."
+    },
+    {
+      "name": "Burning Turbulence",
+      "damage": 120,
+      "cost": 2,
+      "text": "This Pokémon also does 90 damage to itself. Your opponent's Active Pokémon is now Burned."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Ancient"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "sv4",
+  "number": "107",
+  "legal": true,
+  "rarity": "Uncommon"
+}

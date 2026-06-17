@@ -1,0 +1,32 @@
+{
+  "name": "Mabosstiff",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Wild Tackle",
+      "damage": 160,
+      "cost": 3,
+      "text": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Intimidating Howl",
+      "text": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Maschiff",
+  "retreat_cost": 3,
+  "set_code": "sv1",
+  "number": "137",
+  "legal": true,
+  "rarity": "Uncommon"
+}

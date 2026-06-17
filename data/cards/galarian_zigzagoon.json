@@ -1,0 +1,27 @@
+{
+  "name": "Galarian Zigzagoon",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Gnaw",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "me2pt5",
+  "number": "130",
+  "legal": true,
+  "rarity": "Common"
+}

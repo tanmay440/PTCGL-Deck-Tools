@@ -1,0 +1,29 @@
+{
+  "name": "Eiscue ex",
+  "hp": 210,
+  "attacks": [
+    {
+      "name": "Scalding Block",
+      "damage": 160,
+      "cost": 3,
+      "text": "Discard an Energy from this Pokémon. During your opponent's next turn, the Defending Pokémon can't attack."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex",
+    "Tera"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv3",
+  "number": "42",
+  "legal": true,
+  "rarity": "Double Rare"
+}

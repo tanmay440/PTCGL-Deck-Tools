@@ -1,0 +1,27 @@
+{
+  "name": "Dratini",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Slam",
+      "damage": 30,
+      "cost": 2,
+      "text": "Flip 2 coins. This attack does 30 damage for each heads."
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh12",
+  "number": "129",
+  "legal": true,
+  "rarity": "Common"
+}

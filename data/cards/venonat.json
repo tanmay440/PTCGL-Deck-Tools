@@ -1,0 +1,27 @@
+{
+  "name": "Venonat",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Tackle",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12",
+  "number": "1",
+  "legal": true,
+  "rarity": "Common"
+}

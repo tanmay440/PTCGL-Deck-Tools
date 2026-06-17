@@ -1,0 +1,33 @@
+{
+  "name": "Appletun",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Melting Sweetness",
+      "damage": 50,
+      "cost": 2,
+      "text": "During your opponent's next turn, the Defending Pokémon can't attack."
+    },
+    {
+      "name": "Wild Tackle",
+      "damage": 130,
+      "cost": 2,
+      "text": "This Pokémon also does 20 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Applin",
+  "retreat_cost": 3,
+  "set_code": "sv8",
+  "number": "140",
+  "legal": true,
+  "rarity": "Uncommon"
+}

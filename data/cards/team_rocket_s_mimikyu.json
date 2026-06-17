@@ -1,0 +1,27 @@
+{
+  "name": "Team Rocket's Mimikyu",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Gemstone Mimicry",
+      "damage": 0,
+      "cost": 2,
+      "text": "Choose 1 of your opponent's Active Tera Pokémon's attacks and use it as this attack."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv10",
+  "number": "87",
+  "legal": true,
+  "rarity": "Uncommon"
+}

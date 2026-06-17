@@ -1,0 +1,34 @@
+{
+  "name": "Hoopa V",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Shadow Impact",
+      "damage": 170,
+      "cost": 3,
+      "text": "Put 3 damage counters on 1 of your Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Two-Faced",
+      "text": "As long as this Pokémon is in play, it is Psychic and Darkness type."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V",
+    "Fusion Strike"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH176",
+  "legal": true,
+  "rarity": "Promo"
+}

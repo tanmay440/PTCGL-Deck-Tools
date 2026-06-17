@@ -1,0 +1,33 @@
+{
+  "name": "Mothim",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Raid",
+      "damage": 30,
+      "cost": 2,
+      "text": "If this Pokémon evolved from Burmy during this turn, this attack does 90 more damage."
+    },
+    {
+      "name": "Gust",
+      "damage": 80,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Burmy",
+  "retreat_cost": 0,
+  "set_code": "swsh9",
+  "number": "11",
+  "legal": true,
+  "rarity": "Rare"
+}

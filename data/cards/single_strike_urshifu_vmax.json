@@ -1,0 +1,34 @@
+{
+  "name": "Single Strike Urshifu VMAX",
+  "hp": 330,
+  "attacks": [
+    {
+      "name": "Beatdown",
+      "damage": 100,
+      "cost": 3,
+      "text": ""
+    },
+    {
+      "name": "G-Max One Blow",
+      "damage": 270,
+      "cost": 4,
+      "text": "Discard all Energy from this Pokémon. This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VMAX",
+    "Single Strike"
+  ],
+  "evolvesFrom": "Single Strike Urshifu V",
+  "retreat_cost": 3,
+  "set_code": "swsh9tg",
+  "number": "TG19",
+  "legal": true,
+  "rarity": "Rare Holo VMAX"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Bellsprout",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Cut",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Bind Down",
+      "damage": 20,
+      "cost": 2,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv3pt5",
+  "number": "69",
+  "legal": true,
+  "rarity": "Common"
+}

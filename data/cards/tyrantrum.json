@@ -1,0 +1,32 @@
+{
+  "name": "Tyrantrum",
+  "hp": 180,
+  "attacks": [
+    {
+      "name": "Wreak Havoc",
+      "damage": 160,
+      "cost": 2,
+      "text": "Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Tyrannically Gutsy",
+      "text": "If this Pokémon has any Special Energy attached, it gets +150 HP."
+    }
+  ],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Tyrunt",
+  "retreat_cost": 3,
+  "set_code": "me3",
+  "number": "45",
+  "legal": false,
+  "rarity": "Rare"
+}

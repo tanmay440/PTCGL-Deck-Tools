@@ -1,0 +1,33 @@
+{
+  "name": "Blastoise ex",
+  "hp": 330,
+  "attacks": [
+    {
+      "name": "Twin Cannons",
+      "damage": 140,
+      "cost": 2,
+      "text": "Discard up to 2 Basic Water Energy cards from your hand. This attack does 140 damage for each card you discarded in this way."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Solid Shell",
+      "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Wartortle",
+  "retreat_cost": 3,
+  "set_code": "sv3pt5",
+  "number": "9",
+  "legal": true,
+  "rarity": "Double Rare"
+}

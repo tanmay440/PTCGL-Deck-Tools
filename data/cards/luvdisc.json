@@ -1,0 +1,33 @@
+{
+  "name": "Luvdisc",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Matching Look",
+      "damage": 0,
+      "cost": 1,
+      "text": "Each player reveals the top 2 cards of their deck, then draws those cards."
+    },
+    {
+      "name": "Tackle",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "38",
+  "legal": true,
+  "rarity": "Common"
+}

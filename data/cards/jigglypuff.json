@@ -1,0 +1,33 @@
+{
+  "name": "Jigglypuff",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Sing",
+      "damage": 0,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Asleep."
+    },
+    {
+      "name": "Slap",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv2",
+  "number": "83",
+  "legal": true,
+  "rarity": "Common"
+}

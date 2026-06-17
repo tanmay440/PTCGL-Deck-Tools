@@ -1,0 +1,27 @@
+{
+  "name": "Luxio",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Thunder Shock",
+      "damage": 30,
+      "cost": 1,
+      "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Shinx",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "50",
+  "legal": true,
+  "rarity": "Uncommon"
+}

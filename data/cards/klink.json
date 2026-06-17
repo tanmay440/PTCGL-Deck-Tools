@@ -1,0 +1,33 @@
+{
+  "name": "Klink",
+  "hp": 50,
+  "attacks": [
+    {
+      "name": "Vise Grip",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Spinning Attack",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "102",
+  "legal": true,
+  "rarity": "Common"
+}

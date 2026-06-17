@@ -1,0 +1,34 @@
+{
+  "name": "Scizor ex",
+  "hp": 270,
+  "attacks": [
+    {
+      "name": "Steel Wing",
+      "damage": 70,
+      "cost": 2,
+      "text": "During your opponent's next turn, this Pokémon takes 50 less damage from attacks (after applying Weakness and Resistance)."
+    },
+    {
+      "name": "Cross Breaker",
+      "damage": 120,
+      "cost": 2,
+      "text": "Discard up to 2 Metal Energy from this Pokémon. This attack does 120 damage for each card you discarded in this way."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Scyther",
+  "retreat_cost": 2,
+  "set_code": "sv5",
+  "number": "111",
+  "legal": true,
+  "rarity": "Double Rare"
+}

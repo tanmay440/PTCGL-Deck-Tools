@@ -1,0 +1,18 @@
+{
+  "name": "Fire Energy",
+  "hp": 0,
+  "attacks": [],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Energy",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "swsh12pt5",
+  "number": "153",
+  "legal": true,
+  "rarity": "Rare Ultra"
+}

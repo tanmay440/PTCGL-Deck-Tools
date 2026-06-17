@@ -1,0 +1,33 @@
+{
+  "name": "Ceruledge",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Life Sucker",
+      "damage": 50,
+      "cost": 2,
+      "text": "Heal 30 damage from this Pokémon."
+    },
+    {
+      "name": "Fighting Sword",
+      "damage": 100,
+      "cost": 3,
+      "text": "If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 100 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Charcadet",
+  "retreat_cost": 2,
+  "set_code": "sv2",
+  "number": "98",
+  "legal": true,
+  "rarity": "Rare"
+}

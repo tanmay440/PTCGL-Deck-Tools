@@ -1,0 +1,27 @@
+{
+  "name": "Baltoy",
+  "hp": 50,
+  "attacks": [
+    {
+      "name": "Triple Spin",
+      "damage": 20,
+      "cost": 2,
+      "text": "Flip 3 coins. This attack does 20 damage for each heads."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "58",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Diancie",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Spike Draw",
+      "damage": 20,
+      "cost": 1,
+      "text": "Draw 2 cards."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Princess's Curtain",
+      "text": "As long as this Pokémon is in the Active Spot, whenever your opponent plays a Supporter card from their hand, prevent all effects of that card done to your Benched Basic Pokémon."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "68",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

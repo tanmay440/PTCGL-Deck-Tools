@@ -1,0 +1,35 @@
+{
+  "name": "Iron Hands ex",
+  "hp": 230,
+  "attacks": [
+    {
+      "name": "Arm Press",
+      "damage": 160,
+      "cost": 3,
+      "text": ""
+    },
+    {
+      "name": "Amp You Very Much",
+      "damage": 120,
+      "cost": 4,
+      "text": "If your opponent's Pokémon is Knocked Out by damage from this attack, take 1 more Prize card."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex",
+    "Future"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 4,
+  "set_code": "sv4",
+  "number": "70",
+  "legal": true,
+  "rarity": "Double Rare"
+}

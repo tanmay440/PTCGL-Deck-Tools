@@ -1,0 +1,32 @@
+{
+  "name": "Zacian LV.X",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Brave Blade",
+      "damage": 240,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't attack."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Bladed Armament",
+      "text": "Damage from this Pokémon's attacks isn't affected by any effects on your opponent's Active Pokémon."
+    }
+  ],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Level-Up"
+  ],
+  "evolvesFrom": "Zacian",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH135",
+  "legal": false,
+  "rarity": "Promo"
+}

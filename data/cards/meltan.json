@@ -1,0 +1,27 @@
+{
+  "name": "Meltan",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Thunder Shock",
+      "damage": 20,
+      "cost": 2,
+      "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "pgo",
+  "number": "45",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Skitty",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Call for Family",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+    },
+    {
+      "name": "Tackle",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv5",
+  "number": "130",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Sinistcha ex",
+  "hp": 240,
+  "attacks": [
+    {
+      "name": "Re-Brew",
+      "damage": 0,
+      "cost": 1,
+      "text": "Put 2 damage counters on 1 of your opponent's Pokémon for each Basic Grass Energy card in your discard pile. Then, shuffle those Energy cards into your deck."
+    },
+    {
+      "name": "Matcha Splash",
+      "damage": 120,
+      "cost": 2,
+      "text": "Heal 30 damage from each of your Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Poltchageist",
+  "retreat_cost": 1,
+  "set_code": "sv6",
+  "number": "23",
+  "legal": true,
+  "rarity": "Double Rare"
+}

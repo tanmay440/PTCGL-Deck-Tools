@@ -1,0 +1,27 @@
+{
+  "name": "Team Rocket's Raticate",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Reckless Abandon",
+      "damage": 90,
+      "cost": 1,
+      "text": "Flip 2 coins. If both of them are tails, this Pokémon also does 90 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Team Rocket's Rattata",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "148",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Crawdaunt",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Corkscrew Punch",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Crab Impact",
+      "damage": 150,
+      "cost": 3,
+      "text": "Discard 2 Energy from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Corphish",
+  "retreat_cost": 3,
+  "set_code": "swsh9",
+  "number": "33",
+  "legal": true,
+  "rarity": "Uncommon"
+}

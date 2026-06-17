@@ -1,0 +1,32 @@
+{
+  "name": "Pelipper",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Wing Attack",
+      "damage": 90,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Hearsay",
+      "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may choose 1: put a Supporter card from your discard pile into your hand; or search your deck for a Supporter card, reveal it, put it into your hand, and then shuffle your deck."
+    }
+  ],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Wingull",
+  "retreat_cost": 2,
+  "set_code": "svp",
+  "number": "22",
+  "legal": true,
+  "rarity": "Promo"
+}

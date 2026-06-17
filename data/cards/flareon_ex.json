@@ -1,0 +1,35 @@
+{
+  "name": "Flareon ex",
+  "hp": 270,
+  "attacks": [
+    {
+      "name": "Burning Charge",
+      "damage": 130,
+      "cost": 2,
+      "text": "Search your deck for up to 2 Basic Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck."
+    },
+    {
+      "name": "Carnelian",
+      "damage": 280,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't attack."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "Tera",
+    "ex"
+  ],
+  "evolvesFrom": "Eevee",
+  "retreat_cost": 2,
+  "set_code": "sv8pt5",
+  "number": "14",
+  "legal": true,
+  "rarity": "Double Rare"
+}

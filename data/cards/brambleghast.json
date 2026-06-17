@@ -1,0 +1,33 @@
+{
+  "name": "Brambleghast",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Absorb Life",
+      "damage": 30,
+      "cost": 1,
+      "text": "Heal 30 damage from this Pokémon."
+    },
+    {
+      "name": "Dead Wood Detention",
+      "damage": 80,
+      "cost": 3,
+      "text": "During your opponent's next turn, attacks that the Defending Pokémon uses cost ColorlessColorless more."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Bramblin",
+  "retreat_cost": 3,
+  "set_code": "sv2",
+  "number": "24",
+  "legal": true,
+  "rarity": "Uncommon"
+}

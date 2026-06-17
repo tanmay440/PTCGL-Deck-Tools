@@ -1,0 +1,33 @@
+{
+  "name": "Alakazam",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Strange Hacking",
+      "damage": 0,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Confused. You may move any number of damage counters from your opponent's Pokémon to their other Pokémon in any way you like."
+    },
+    {
+      "name": "Psychic",
+      "damage": 10,
+      "cost": 1,
+      "text": "This attack does 50 more damage for each Energy attached to your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Kadabra",
+  "retreat_cost": 1,
+  "set_code": "sv6",
+  "number": "82",
+  "legal": true,
+  "rarity": "Rare"
+}

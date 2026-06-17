@@ -1,0 +1,27 @@
+{
+  "name": "Purrloin",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Surprise Attack",
+      "damage": 30,
+      "cost": 2,
+      "text": "Flip a coin. If tails, this attack does nothing."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "90",
+  "legal": true,
+  "rarity": "Common"
+}

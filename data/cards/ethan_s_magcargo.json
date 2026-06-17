@@ -1,0 +1,32 @@
+{
+  "name": "Ethan's Magcargo",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Lava Burst",
+      "damage": 70,
+      "cost": 3,
+      "text": "Discard up to 5 Fire Energy from this Pokémon. This attack does 70 damage for each card you discarded in this way."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Melt Away",
+      "text": "If this Pokémon has no Energy attached, it has no Retreat Cost."
+    }
+  ],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Ethan's Slugma",
+  "retreat_cost": 3,
+  "set_code": "sv10",
+  "number": "36",
+  "legal": true,
+  "rarity": "Rare"
+}

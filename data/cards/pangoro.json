@@ -1,0 +1,33 @@
+{
+  "name": "Pangoro",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Knocking Hammer",
+      "damage": 90,
+      "cost": 3,
+      "text": "Discard the top card of your opponent's deck."
+    },
+    {
+      "name": "Shakedown",
+      "damage": 150,
+      "cost": 4,
+      "text": "Discard a random card from your opponent's hand."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Pancham",
+  "retreat_cost": 4,
+  "set_code": "mcd22",
+  "number": "13",
+  "legal": true,
+  "rarity": ""
+}

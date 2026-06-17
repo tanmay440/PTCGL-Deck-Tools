@@ -1,0 +1,27 @@
+{
+  "name": "Vanillish",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Frost Smash",
+      "damage": 60,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Vanillite",
+  "retreat_cost": 2,
+  "set_code": "sv4",
+  "number": "44",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Pumpkaboo",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Seed Bomb",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Reckless Charge",
+      "damage": 40,
+      "cost": 2,
+      "text": "This Pokémon also does 20 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv4",
+  "number": "77",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Arven's Mabosstiff ex",
+  "hp": 270,
+  "attacks": [
+    {
+      "name": "Vigorous Tackle",
+      "damage": 30,
+      "cost": 1,
+      "text": "If this Pokémon has no damage counters on it, this attack does 120 more damage."
+    },
+    {
+      "name": "Boss Headbutt",
+      "damage": 210,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't use Boss Headbutt."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Arven's Maschiff",
+  "retreat_cost": 3,
+  "set_code": "sv10",
+  "number": "139",
+  "legal": true,
+  "rarity": "Double Rare"
+}

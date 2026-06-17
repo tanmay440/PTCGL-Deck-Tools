@@ -1,0 +1,34 @@
+{
+  "name": "Orbeetle V",
+  "hp": 180,
+  "attacks": [
+    {
+      "name": "Strafe",
+      "damage": 20,
+      "cost": 1,
+      "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+    },
+    {
+      "name": "Mysterious Wave",
+      "damage": 50,
+      "cost": 2,
+      "text": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH078",
+  "legal": false,
+  "rarity": "Promo"
+}

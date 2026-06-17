@@ -1,0 +1,18 @@
+{
+  "name": "Friends in Galar",
+  "hp": 0,
+  "attacks": [],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Supporter"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "swsh9",
+  "number": "140",
+  "legal": true,
+  "rarity": "Uncommon"
+}

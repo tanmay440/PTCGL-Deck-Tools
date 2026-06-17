@@ -1,0 +1,33 @@
+{
+  "name": "Weedle",
+  "hp": 50,
+  "attacks": [
+    {
+      "name": "Ram",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Bug Bite",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv3pt5",
+  "number": "13",
+  "legal": true,
+  "rarity": "Common"
+}

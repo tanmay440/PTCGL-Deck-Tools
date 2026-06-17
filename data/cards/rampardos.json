@@ -1,0 +1,33 @@
+{
+  "name": "Rampardos",
+  "hp": 170,
+  "attacks": [
+    {
+      "name": "Headbutt Bounce",
+      "damage": 60,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Jurassic Hammer",
+      "damage": 240,
+      "cost": 2,
+      "text": "If your opponent has 3 or fewer cards in their hand, this attack does nothing."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Cranidos",
+  "retreat_cost": 2,
+  "set_code": "swsh10",
+  "number": "77",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

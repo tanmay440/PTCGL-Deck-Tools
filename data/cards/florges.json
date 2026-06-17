@@ -1,0 +1,32 @@
+{
+  "name": "Florges",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Moonblast",
+      "damage": 120,
+      "cost": 3,
+      "text": "During your opponent's next turn, the Defending Pokémon's attacks do 30 less damage (before applying Weakness and Resistance)."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Blooming Garden",
+      "text": "Your Pokémon in play have no Weakness."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Floette",
+  "retreat_cost": 2,
+  "set_code": "sv1",
+  "number": "93",
+  "legal": true,
+  "rarity": "Uncommon"
+}

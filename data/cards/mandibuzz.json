@@ -1,0 +1,32 @@
+{
+  "name": "Mandibuzz",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Cutting Wind",
+      "damage": 90,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Look for Prey",
+      "text": "Once during your turn, you may use this Ability. Your opponent reveals their hand, and you put a Basic Pokémon with 70 HP or less that you find there onto your opponent's Bench."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Vullaby",
+  "retreat_cost": 1,
+  "set_code": "rsv10pt5",
+  "number": "64",
+  "legal": true,
+  "rarity": "Uncommon"
+}

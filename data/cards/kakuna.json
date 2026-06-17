@@ -1,0 +1,32 @@
+{
+  "name": "Kakuna",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Zzzt",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Cocoon Cover",
+      "text": "Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)"
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Weedle",
+  "retreat_cost": 3,
+  "set_code": "sv3pt5",
+  "number": "14",
+  "legal": true,
+  "rarity": "Common"
+}

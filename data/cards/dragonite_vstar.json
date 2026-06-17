@@ -1,0 +1,33 @@
+{
+  "name": "Dragonite VSTAR",
+  "hp": 280,
+  "attacks": [
+    {
+      "name": "Giga Impact",
+      "damage": 250,
+      "cost": 4,
+      "text": "During your next turn, this Pokémon can't attack."
+    },
+    {
+      "name": "Draconic Star",
+      "damage": 0,
+      "cost": 1,
+      "text": "Look at the top 12 cards of your deck and attach any number of Water or Lightning Energy cards you find there to your Pokémon in any way you like. Shuffle the other cards back into your deck. (You can't use more than 1 VSTAR Power in a game.)"
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VSTAR"
+  ],
+  "evolvesFrom": "Dragonite V",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH236",
+  "legal": true,
+  "rarity": "Promo"
+}

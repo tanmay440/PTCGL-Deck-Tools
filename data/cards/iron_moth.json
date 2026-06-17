@@ -1,0 +1,33 @@
+{
+  "name": "Iron Moth",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Heat Ray",
+      "damage": 120,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't use Heat Ray."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Thermal Reactor",
+      "text": "Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may move any amount of Fire Energy from your other Pokémon to it."
+    }
+  ],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Future"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv4",
+  "number": "28",
+  "legal": true,
+  "rarity": "Rare"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Glastrier",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Freeze Down",
+      "damage": 40,
+      "cost": 2,
+      "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+    },
+    {
+      "name": "Wild Tackle",
+      "damage": 130,
+      "cost": 3,
+      "text": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh11",
+  "number": "51",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

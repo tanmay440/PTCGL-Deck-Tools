@@ -1,0 +1,27 @@
+{
+  "name": "Axew",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Ultra Evolution",
+      "damage": 0,
+      "cost": 1,
+      "text": "Flip a coin. If heads, search your deck for a Haxorus and put it onto this Axew to evolve it. Then, shuffle your deck."
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "110",
+  "legal": true,
+  "rarity": "Common"
+}

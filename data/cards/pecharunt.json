@@ -1,0 +1,32 @@
+{
+  "name": "Pecharunt",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Poison Chain",
+      "damage": 10,
+      "cost": 2,
+      "text": "Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, that Pokémon can't retreat."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Toxic Subjugation",
+      "text": "As long as this Pokémon is in the Active Spot, put 5 more damage counters on your opponent's Poisoned Pokémon during Pokémon Checkup."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "svp",
+  "number": "129",
+  "legal": true,
+  "rarity": "Promo"
+}

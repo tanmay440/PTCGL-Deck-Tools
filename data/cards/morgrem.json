@@ -1,0 +1,33 @@
+{
+  "name": "Morgrem",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Smash Kick",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Pierce",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Impidimp",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "93",
+  "legal": true,
+  "rarity": "Uncommon"
+}

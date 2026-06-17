@@ -1,0 +1,32 @@
+{
+  "name": "Blastoise",
+  "hp": 170,
+  "attacks": [
+    {
+      "name": "Hydro Pump",
+      "damage": 90,
+      "cost": 4,
+      "text": "This attack does 30 more damage for each Water Energy attached to this Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Vitality Spring",
+      "text": "Once during your turn, you may search your deck for up to 6 Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck. If you use this Ability, your turn ends."
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Wartortle",
+  "retreat_cost": 3,
+  "set_code": "pgo",
+  "number": "17",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

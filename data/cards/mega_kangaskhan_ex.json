@@ -1,0 +1,34 @@
+{
+  "name": "Mega Kangaskhan ex",
+  "hp": 300,
+  "attacks": [
+    {
+      "name": "Rapid-Fire Combo",
+      "damage": 200,
+      "cost": 3,
+      "text": "Flip a coin until you get tails. This attack does 50 more damage for each heads."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Run Errand",
+      "text": "Once during your turn, if this Pokémon is in the Active Spot, you may use this Ability. Draw 2 cards. You can't use more than 1 Run Errand Ability each turn."
+    }
+  ],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "MEGA",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "me1",
+  "number": "104",
+  "legal": true,
+  "rarity": "Double Rare"
+}

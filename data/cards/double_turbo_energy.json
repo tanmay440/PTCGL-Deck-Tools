@@ -1,0 +1,18 @@
+{
+  "name": "Double Turbo Energy",
+  "hp": 0,
+  "attacks": [],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Energy",
+  "subtypes": [
+    "Special"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "swsh9",
+  "number": "151",
+  "legal": true,
+  "rarity": "Uncommon"
+}

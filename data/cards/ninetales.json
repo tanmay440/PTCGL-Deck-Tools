@@ -1,0 +1,33 @@
+{
+  "name": "Ninetales",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Hypnotic Gaze",
+      "damage": 0,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Asleep."
+    },
+    {
+      "name": "Scorching Breath",
+      "damage": 120,
+      "cost": 2,
+      "text": "During your next turn, this Pokémon can't attack."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Vulpix",
+  "retreat_cost": 1,
+  "set_code": "swsh12",
+  "number": "18",
+  "legal": true,
+  "rarity": "Uncommon"
+}

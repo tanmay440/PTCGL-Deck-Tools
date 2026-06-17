@@ -1,0 +1,34 @@
+{
+  "name": "Registeel ex",
+  "hp": 230,
+  "attacks": [
+    {
+      "name": "Regi Charge",
+      "damage": 0,
+      "cost": 1,
+      "text": "Attach up to 2 Basic Metal Energy cards from your discard pile to this Pokémon."
+    },
+    {
+      "name": "Protecting Steel",
+      "damage": 140,
+      "cost": 4,
+      "text": "During your opponent's next turn, this Pokémon takes 50 less damage from attacks (after applying Weakness and Resistance)."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "me2pt5",
+  "number": "145",
+  "legal": false,
+  "rarity": "Double Rare"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Chesnaught",
+  "hp": 180,
+  "attacks": [
+    {
+      "name": "Impound",
+      "damage": 160,
+      "cost": 3,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Needly Armor",
+      "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), place 3 damage counters on the Attacking Pokémon for each Grass Energy attached to this Pokémon."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Quilladin",
+  "retreat_cost": 4,
+  "set_code": "me4",
+  "number": "7",
+  "legal": true,
+  "rarity": "Rare"
+}

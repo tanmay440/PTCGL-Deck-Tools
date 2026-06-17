@@ -1,0 +1,35 @@
+{
+  "name": "Mega Manectric ex",
+  "hp": 330,
+  "attacks": [
+    {
+      "name": "Flash Ray",
+      "damage": 120,
+      "cost": 2,
+      "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon."
+    },
+    {
+      "name": "Riotous Blasting",
+      "damage": 200,
+      "cost": 3,
+      "text": "You may discard all Energy from this Pokémon and have this attack do 130 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "MEGA",
+    "ex"
+  ],
+  "evolvesFrom": "Electrike",
+  "retreat_cost": 0,
+  "set_code": "me1",
+  "number": "50",
+  "legal": true,
+  "rarity": "Double Rare"
+}

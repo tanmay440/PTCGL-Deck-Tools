@@ -1,0 +1,33 @@
+{
+  "name": "Metapod",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Tackle",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Defensive Posture",
+      "damage": 0,
+      "cost": 2,
+      "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Caterpie",
+  "retreat_cost": 3,
+  "set_code": "sv3pt5",
+  "number": "11",
+  "legal": true,
+  "rarity": "Common"
+}

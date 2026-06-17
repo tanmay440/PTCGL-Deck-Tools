@@ -1,0 +1,33 @@
+{
+  "name": "Regigigas",
+  "hp": 150,
+  "attacks": [
+    {
+      "name": "Limber Up",
+      "damage": 20,
+      "cost": 1,
+      "text": "Attach a basic Energy card from your discard pile to this Pokémon."
+    },
+    {
+      "name": "Double Impact",
+      "damage": 120,
+      "cost": 4,
+      "text": "Flip 2 coins. This attack does 120 damage for each heads."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 4,
+  "set_code": "swshp",
+  "number": "SWSH247",
+  "legal": true,
+  "rarity": "Promo"
+}

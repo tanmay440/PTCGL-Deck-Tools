@@ -1,0 +1,32 @@
+{
+  "name": "Wimpod",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Gnaw",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Punk Out",
+      "text": "If your opponent has any Pokémon V in play, this Pokémon has no Retreat Cost."
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "pgo",
+  "number": "25",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Chien-Pao ex",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Hail Blade",
+      "damage": 60,
+      "cost": 2,
+      "text": "You may discard any amount of Water Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Shivery Chill",
+      "text": "Once during your turn, if this Pokémon is in the Active Spot, you may search your deck for up to 2 Basic Water Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "svp",
+  "number": "30",
+  "legal": true,
+  "rarity": "Promo"
+}

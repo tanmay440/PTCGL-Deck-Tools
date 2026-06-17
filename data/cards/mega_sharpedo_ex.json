@@ -1,0 +1,35 @@
+{
+  "name": "Mega Sharpedo ex",
+  "hp": 330,
+  "attacks": [
+    {
+      "name": "Greedy Fang",
+      "damage": 70,
+      "cost": 1,
+      "text": "Draw 2 cards."
+    },
+    {
+      "name": "Hungry Jaws",
+      "damage": 120,
+      "cost": 2,
+      "text": "If this Pokémon has any damage counters on it, this attack does 150 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "MEGA",
+    "ex"
+  ],
+  "evolvesFrom": "Carvanha",
+  "retreat_cost": 0,
+  "set_code": "me2",
+  "number": "61",
+  "legal": true,
+  "rarity": "Double Rare"
+}

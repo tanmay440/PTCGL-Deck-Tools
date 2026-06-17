@@ -1,0 +1,33 @@
+{
+  "name": "Pincurchin",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Call for Family",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+    },
+    {
+      "name": "Continuous Tumble",
+      "damage": 30,
+      "cost": 2,
+      "text": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12pt5",
+  "number": "56",
+  "legal": true,
+  "rarity": "Uncommon"
+}

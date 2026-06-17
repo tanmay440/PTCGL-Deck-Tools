@@ -1,0 +1,34 @@
+{
+  "name": "Mega Venusaur ex",
+  "hp": 380,
+  "attacks": [
+    {
+      "name": "Jungle Dump",
+      "damage": 240,
+      "cost": 4,
+      "text": "Heal 30 damage from this Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Solar Transfer",
+      "text": "As often as you like during your turn, you may use this Ability. Move a Basic Grass Energy from 1 of your Pokémon to another of your Pokémon."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "MEGA",
+    "ex"
+  ],
+  "evolvesFrom": "Ivysaur",
+  "retreat_cost": 4,
+  "set_code": "me1",
+  "number": "3",
+  "legal": true,
+  "rarity": "Double Rare"
+}

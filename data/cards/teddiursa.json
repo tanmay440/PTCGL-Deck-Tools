@@ -1,0 +1,33 @@
+{
+  "name": "Teddiursa",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Gather Food",
+      "damage": 0,
+      "cost": 1,
+      "text": "Flip a coin. If heads, put an Item card from your discard pile into your hand."
+    },
+    {
+      "name": "Dig Claws",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh10",
+  "number": "122",
+  "legal": true,
+  "rarity": "Common"
+}

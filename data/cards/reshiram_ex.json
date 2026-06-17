@@ -1,0 +1,34 @@
+{
+  "name": "Reshiram ex",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Fire Wing",
+      "damage": 40,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Scorching Fire",
+      "damage": 200,
+      "cost": 3,
+      "text": "Discard an Energy from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv9",
+  "number": "30",
+  "legal": true,
+  "rarity": "Double Rare"
+}

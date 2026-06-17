@@ -1,0 +1,33 @@
+{
+  "name": "Wailmer",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Gulp Down",
+      "damage": 30,
+      "cost": 2,
+      "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+    },
+    {
+      "name": "Wave Splash",
+      "damage": 60,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 4,
+  "set_code": "swsh12",
+  "number": "37",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Dialga ex",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Time Bellow",
+      "damage": 20,
+      "cost": 1,
+      "text": "Draw a card."
+    },
+    {
+      "name": "Metal Blast",
+      "damage": 100,
+      "cost": 3,
+      "text": "This attack does 20 more damage for each Metal Energy attached to this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "svp",
+  "number": "180",
+  "legal": true,
+  "rarity": "Promo"
+}

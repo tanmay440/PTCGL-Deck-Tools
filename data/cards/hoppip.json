@@ -1,0 +1,27 @@
+{
+  "name": "Hoppip",
+  "hp": 50,
+  "attacks": [
+    {
+      "name": "Splashing Dodge",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv2",
+  "number": "1",
+  "legal": true,
+  "rarity": "Common"
+}

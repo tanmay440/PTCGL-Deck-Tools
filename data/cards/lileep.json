@@ -1,0 +1,27 @@
+{
+  "name": "Lileep",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Bind Down",
+      "damage": 50,
+      "cost": 1,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Antique Root Fossil",
+  "retreat_cost": 2,
+  "set_code": "sv7",
+  "number": "5",
+  "legal": true,
+  "rarity": "Common"
+}

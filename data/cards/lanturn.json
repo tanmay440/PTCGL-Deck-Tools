@@ -1,0 +1,33 @@
+{
+  "name": "Lanturn",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Ram",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Strong Volt",
+      "damage": 160,
+      "cost": 3,
+      "text": "Discard 2 Energy from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Chinchou",
+  "retreat_cost": 2,
+  "set_code": "swsh12",
+  "number": "52",
+  "legal": true,
+  "rarity": "Uncommon"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Archen",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Flap",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Claw Slash",
+      "damage": 80,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Unidentified Fossil",
+  "retreat_cost": 1,
+  "set_code": "swsh12",
+  "number": "146",
+  "legal": true,
+  "rarity": "Uncommon"
+}

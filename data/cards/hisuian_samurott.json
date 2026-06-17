@@ -1,0 +1,32 @@
+{
+  "name": "Hisuian Samurott",
+  "hp": 170,
+  "attacks": [
+    {
+      "name": "Dark Mastery",
+      "damage": 60,
+      "cost": 3,
+      "text": "This attack does 20 more damage for each Energy attached to all of your Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Wily Stance",
+      "text": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 3 cards."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Dewott",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH207",
+  "legal": true,
+  "rarity": "Promo"
+}

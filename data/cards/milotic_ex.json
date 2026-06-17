@@ -1,0 +1,33 @@
+{
+  "name": "Milotic ex",
+  "hp": 270,
+  "attacks": [
+    {
+      "name": "Hypno Splash",
+      "damage": 160,
+      "cost": 3,
+      "text": "Your opponent's Active Pokémon is now Asleep."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Sparkling Scales",
+      "text": "Prevent all damage from and effects of attacks from your opponent's Tera Pokémon done to this Pokémon."
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Feebas",
+  "retreat_cost": 2,
+  "set_code": "sv8",
+  "number": "42",
+  "legal": true,
+  "rarity": "Double Rare"
+}

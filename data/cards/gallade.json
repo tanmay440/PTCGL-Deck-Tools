@@ -1,0 +1,32 @@
+{
+  "name": "Gallade",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Swirling Slice",
+      "damage": 160,
+      "cost": 3,
+      "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Buddy Catch",
+      "text": "Once during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Kirlia",
+  "retreat_cost": 2,
+  "set_code": "swsh10",
+  "number": "62",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

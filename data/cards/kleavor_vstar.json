@@ -1,0 +1,33 @@
+{
+  "name": "Kleavor VSTAR",
+  "hp": 270,
+  "attacks": [
+    {
+      "name": "Axe Break",
+      "damage": 120,
+      "cost": 2,
+      "text": "This attack also does 60 damage to 1 of your opponent's Benched Pokémon V. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    },
+    {
+      "name": "Rampaging Star",
+      "damage": 30,
+      "cost": 1,
+      "text": "This attack does 30 damage for each Pokémon in your discard pile. (You can't use more than 1 VSTAR Power in a game.)"
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VSTAR"
+  ],
+  "evolvesFrom": "Kleavor V",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH249",
+  "legal": true,
+  "rarity": "Promo"
+}

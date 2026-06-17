@@ -1,0 +1,27 @@
+{
+  "name": "Sunkern",
+  "hp": 40,
+  "attacks": [
+    {
+      "name": "Seed Bomb",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12",
+  "number": "5",
+  "legal": true,
+  "rarity": "Common"
+}

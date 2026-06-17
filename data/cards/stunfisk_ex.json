@@ -1,0 +1,34 @@
+{
+  "name": "Stunfisk ex",
+  "hp": 210,
+  "attacks": [
+    {
+      "name": "Big Bite",
+      "damage": 30,
+      "cost": 1,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    },
+    {
+      "name": "Flopping Trap",
+      "damage": 100,
+      "cost": 3,
+      "text": "If this Pokémon has any damage counters on it, this attack does 100 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "me2pt5",
+  "number": "114",
+  "legal": false,
+  "rarity": "Double Rare"
+}

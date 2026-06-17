@@ -1,0 +1,33 @@
+{
+  "name": "Eevee on the Ball",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Make the Assist",
+      "damage": 0,
+      "cost": 1,
+      "text": "Attach a basic Energy card from your hand to 1 of your Benched Pokémon."
+    },
+    {
+      "name": "Tackle",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "fut20",
+  "number": "2",
+  "legal": false,
+  "rarity": ""
+}

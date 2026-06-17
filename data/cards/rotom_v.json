@@ -1,0 +1,34 @@
+{
+  "name": "Rotom V",
+  "hp": 190,
+  "attacks": [
+    {
+      "name": "Lost Hack",
+      "damage": 0,
+      "cost": 1,
+      "text": "Put a Special Energy attached to 1 of your opponent's Pokémon in the Lost Zone."
+    },
+    {
+      "name": "Extreme Current",
+      "damage": 160,
+      "cost": 3,
+      "text": "Discard an Energy from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH257",
+  "legal": true,
+  "rarity": "Promo"
+}

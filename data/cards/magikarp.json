@@ -1,0 +1,33 @@
+{
+  "name": "Magikarp",
+  "hp": 30,
+  "attacks": [
+    {
+      "name": "Lively Grouping",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for any number of Magikarp, reveal them, and put them into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "Raging Fin",
+      "damage": 10,
+      "cost": 2,
+      "text": "This attack does 30 more damage for each Magikarp and Gyarados in your discard pile."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "pgo",
+  "number": "21",
+  "legal": true,
+  "rarity": "Common"
+}

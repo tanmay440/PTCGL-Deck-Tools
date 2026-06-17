@@ -1,0 +1,34 @@
+{
+  "name": "Flygon V",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Sand Spray",
+      "damage": 70,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Draconic Impulse",
+      "damage": 160,
+      "cost": 4,
+      "text": "If your opponent's Active Pokémon is a Pokémon VMAX, this attack does 160 more damage, and discard 3 Energy from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh9",
+  "number": "106",
+  "legal": true,
+  "rarity": "Rare Holo V"
+}

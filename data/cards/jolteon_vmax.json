@@ -1,0 +1,27 @@
+{
+  "name": "Jolteon VMAX",
+  "hp": 300,
+  "attacks": [
+    {
+      "name": "Max Thunder Rumble",
+      "damage": 100,
+      "cost": 2,
+      "text": "This attack also does 100 damage to 1 of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VMAX"
+  ],
+  "evolvesFrom": "Jolteon V",
+  "retreat_cost": 0,
+  "set_code": "swshp",
+  "number": "SWSH184",
+  "legal": true,
+  "rarity": "Promo"
+}

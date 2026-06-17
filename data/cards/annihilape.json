@@ -1,0 +1,33 @@
+{
+  "name": "Annihilape",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Rage Fist",
+      "damage": 70,
+      "cost": 1,
+      "text": "This attack does 70 damage for each Prize card your opponent has taken."
+    },
+    {
+      "name": "Dynamite Punch",
+      "damage": 170,
+      "cost": 2,
+      "text": "This Pokémon also does 50 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Primeape",
+  "retreat_cost": 2,
+  "set_code": "sv1",
+  "number": "109",
+  "legal": true,
+  "rarity": "Rare"
+}

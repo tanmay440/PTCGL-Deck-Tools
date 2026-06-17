@@ -1,0 +1,33 @@
+{
+  "name": "Castform Sunny Form",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Singe",
+      "damage": 0,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Burned."
+    },
+    {
+      "name": "Sunny Assist",
+      "damage": 50,
+      "cost": 2,
+      "text": "Move all Energy from this Pokémon to 1 of your Benched Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv8",
+  "number": "20",
+  "legal": true,
+  "rarity": "Common"
+}

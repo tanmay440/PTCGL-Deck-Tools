@@ -1,0 +1,27 @@
+{
+  "name": "Team Rocket's Porygon2",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "R Command",
+      "damage": 20,
+      "cost": 3,
+      "text": "This attack does 20 damage for each Supporter card that has \"Team Rocket\" in its name in your discard pile."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Team Rocket's Porygon",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "154",
+  "legal": true,
+  "rarity": "Common"
+}

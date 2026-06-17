@@ -1,0 +1,34 @@
+{
+  "name": "Gouging Fire",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Lunge Out",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Blazing Charge",
+      "damage": 100,
+      "cost": 3,
+      "text": "If your opponent has 4 or fewer Prize cards remaining, this attack does 70 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Ancient"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "svp",
+  "number": "151",
+  "legal": true,
+  "rarity": "Promo"
+}

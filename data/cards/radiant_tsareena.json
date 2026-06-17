@@ -1,0 +1,33 @@
+{
+  "name": "Radiant Tsareena",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Aroma Shot",
+      "damage": 90,
+      "cost": 3,
+      "text": "This Pokémon recovers from all Special Conditions."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Elegant Heal",
+      "text": "Once during your turn, you may heal 20 damage from each of your Pokémon."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Radiant"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh12",
+  "number": "16",
+  "legal": true,
+  "rarity": "Radiant Rare"
+}

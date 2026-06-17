@@ -1,0 +1,33 @@
+{
+  "name": "Porygon",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Branch Calculation",
+      "damage": 0,
+      "cost": 1,
+      "text": "Look at the top 4 cards of either player's deck and put them back in any order."
+    },
+    {
+      "name": "Beam",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "140",
+  "legal": true,
+  "rarity": "Common"
+}

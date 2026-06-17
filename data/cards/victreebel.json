@@ -1,0 +1,33 @@
+{
+  "name": "Victreebel",
+  "hp": 150,
+  "attacks": [
+    {
+      "name": "Spit Up",
+      "damage": 50,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Slow-Acting Acid",
+      "damage": 120,
+      "cost": 2,
+      "text": "At the end of your opponent's next turn, put 12 damage counters on the Defending Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Weepinbell",
+  "retreat_cost": 3,
+  "set_code": "sv3pt5",
+  "number": "71",
+  "legal": true,
+  "rarity": "Uncommon"
+}

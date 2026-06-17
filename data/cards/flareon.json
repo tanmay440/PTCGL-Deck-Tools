@@ -1,0 +1,33 @@
+{
+  "name": "Flareon",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Singe",
+      "damage": 0,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Burned."
+    },
+    {
+      "name": "Kindle",
+      "damage": 120,
+      "cost": 3,
+      "text": "Discard an Energy from this Pokémon. If you do, discard an Energy from your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Eevee",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH041",
+  "legal": false,
+  "rarity": "Promo"
+}

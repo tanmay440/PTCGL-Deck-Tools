@@ -1,0 +1,25 @@
+{
+  "name": "Technical Machine: Devolution",
+  "hp": 0,
+  "attacks": [
+    {
+      "name": "Devolution",
+      "damage": 0,
+      "cost": 1,
+      "text": "Devolve each of your opponent's evolved Pokémon by putting the highest Stage Evolution card on it into your opponent's hand."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Pokémon Tool"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv4",
+  "number": "177",
+  "legal": true,
+  "rarity": "Uncommon"
+}

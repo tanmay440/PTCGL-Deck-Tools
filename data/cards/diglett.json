@@ -1,0 +1,27 @@
+{
+  "name": "Diglett",
+  "hp": 50,
+  "attacks": [
+    {
+      "name": "Hole-Diggin' Noggin",
+      "damage": 30,
+      "cost": 1,
+      "text": "Discard the top card of your deck."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv3",
+  "number": "103",
+  "legal": true,
+  "rarity": "Common"
+}

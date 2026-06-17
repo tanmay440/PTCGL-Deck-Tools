@@ -1,0 +1,33 @@
+{
+  "name": "Rotom ex",
+  "hp": 190,
+  "attacks": [
+    {
+      "name": "Thunderbolt",
+      "damage": 130,
+      "cost": 2,
+      "text": "Discard all Energy from this Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Multi Adapter",
+      "text": "Each of your Pokémon that has \"Rotom\" in its name may have up to 2 Pokémon Tool cards attached. If this Ability goes away, discard Pokémon Tools from those Pokémon until only 1 remains on each."
+    }
+  ],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "me2",
+  "number": "29",
+  "legal": true,
+  "rarity": "Double Rare"
+}

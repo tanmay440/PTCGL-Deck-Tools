@@ -1,0 +1,33 @@
+{
+  "name": "Hearthflame Mask Ogerpon",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Fire Kagura",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for a Basic Fire Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck."
+    },
+    {
+      "name": "Searing Flame",
+      "damage": 80,
+      "cost": 3,
+      "text": "Your opponent's Active Pokémon is now Burned."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "44",
+  "legal": true,
+  "rarity": "Uncommon"
+}

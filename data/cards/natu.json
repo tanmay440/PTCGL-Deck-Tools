@@ -1,0 +1,33 @@
+{
+  "name": "Natu",
+  "hp": 50,
+  "attacks": [
+    {
+      "name": "Nap",
+      "damage": 0,
+      "cost": 1,
+      "text": "Heal 20 damage from this Pokémon."
+    },
+    {
+      "name": "Peck",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "pgo",
+  "number": "32",
+  "legal": true,
+  "rarity": "Common"
+}

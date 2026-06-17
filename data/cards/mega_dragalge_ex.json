@@ -1,0 +1,35 @@
+{
+  "name": "Mega Dragalge ex",
+  "hp": 330,
+  "attacks": [
+    {
+      "name": "Corrosive Liquid",
+      "damage": 0,
+      "cost": 2,
+      "text": "Discard all Pokémon Tools and Special Energy from all of your opponent's Pokémon."
+    },
+    {
+      "name": "Pernicious Poison",
+      "damage": 0,
+      "cost": 2,
+      "text": "Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, place 16 damage counters on that Pokémon instead of 1."
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "MEGA",
+    "ex"
+  ],
+  "evolvesFrom": "Skrelp",
+  "retreat_cost": 2,
+  "set_code": "me4",
+  "number": "65",
+  "legal": true,
+  "rarity": "Double Rare"
+}

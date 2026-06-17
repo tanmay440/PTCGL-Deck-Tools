@@ -1,0 +1,32 @@
+{
+  "name": "Misty's Magikarp",
+  "hp": 30,
+  "attacks": [
+    {
+      "name": "Splash",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "So Submerged",
+      "text": "As long as this Pokémon is on your Bench, prevent all damage from and effects of attacks from your opponent's Pokémon done to this Pokémon."
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "48",
+  "legal": true,
+  "rarity": "Common"
+}

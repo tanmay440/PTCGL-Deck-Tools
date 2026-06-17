@@ -1,0 +1,33 @@
+{
+  "name": "Hydrapple ex",
+  "hp": 330,
+  "attacks": [
+    {
+      "name": "Syrup Storm",
+      "damage": 30,
+      "cost": 2,
+      "text": "This attack does 30 more damage for each Grass Energy attached to all of your Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Ripening Charge",
+      "text": "Once during your turn, you may attach a Basic Grass Energy card from your hand to 1 of your Pokémon. If you attached Energy to a Pokémon in this way, heal 30 damage from that Pokémon."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Dipplin",
+  "retreat_cost": 3,
+  "set_code": "sv7",
+  "number": "14",
+  "legal": true,
+  "rarity": "Double Rare"
+}

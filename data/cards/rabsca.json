@@ -1,0 +1,33 @@
+{
+  "name": "Rabsca",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Revival Blessing",
+      "damage": 0,
+      "cost": 1,
+      "text": "Put a Pokémon from your discard pile onto your Bench."
+    },
+    {
+      "name": "Psybeam",
+      "damage": 50,
+      "cost": 2,
+      "text": "Your opponent's Active Pokémon is now Confused."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Rellor",
+  "retreat_cost": 1,
+  "set_code": "sv2",
+  "number": "99",
+  "legal": true,
+  "rarity": "Rare"
+}

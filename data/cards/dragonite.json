@@ -1,0 +1,33 @@
+{
+  "name": "Dragonite",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Dragon Claw",
+      "damage": 80,
+      "cost": 3,
+      "text": ""
+    },
+    {
+      "name": "Energy Hurricane",
+      "damage": 180,
+      "cost": 4,
+      "text": "Search your deck for up to 3 basic Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck."
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Dragonair",
+  "retreat_cost": 2,
+  "set_code": "swsh12",
+  "number": "131",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

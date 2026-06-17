@@ -1,0 +1,33 @@
+{
+  "name": "Psyduck",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Spacing Out",
+      "damage": 0,
+      "cost": 1,
+      "text": "Flip a coin. If heads, heal 10 damage from this Pokémon."
+    },
+    {
+      "name": "Ram",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "28",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Skuntank",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Rear Kick",
+      "damage": 40,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Smash Turn",
+      "damage": 100,
+      "cost": 3,
+      "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Stunky",
+  "retreat_cost": 2,
+  "set_code": "me4",
+  "number": "54",
+  "legal": true,
+  "rarity": "Uncommon"
+}

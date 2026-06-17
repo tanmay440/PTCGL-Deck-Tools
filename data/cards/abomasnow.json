@@ -1,0 +1,33 @@
+{
+  "name": "Abomasnow",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Mega Punch",
+      "damage": 90,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Toughness Boost",
+      "text": "Your Single Strike Pokémon in play, except any Abomasnow, get +50 HP. You can't apply more than 1 Toughness Boost Ability at a time."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "Single Strike"
+  ],
+  "evolvesFrom": "Snover",
+  "retreat_cost": 3,
+  "set_code": "swsh10tg",
+  "number": "TG01",
+  "legal": true,
+  "rarity": "Trainer Gallery Rare Holo"
+}

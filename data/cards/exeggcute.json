@@ -1,0 +1,33 @@
+{
+  "name": "Exeggcute",
+  "hp": 50,
+  "attacks": [
+    {
+      "name": "Ram",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Seed Bomb",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "1",
+  "legal": true,
+  "rarity": "Common"
+}

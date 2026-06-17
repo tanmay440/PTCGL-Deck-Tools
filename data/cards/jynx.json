@@ -1,0 +1,33 @@
+{
+  "name": "Jynx",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Alluring Dance",
+      "damage": 0,
+      "cost": 2,
+      "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Confused."
+    },
+    {
+      "name": "Super Psy Bolt",
+      "damage": 80,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "68",
+  "legal": true,
+  "rarity": "Common"
+}

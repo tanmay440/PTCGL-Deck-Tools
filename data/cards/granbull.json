@@ -1,0 +1,33 @@
+{
+  "name": "Granbull",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Confront",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Wild Tackle",
+      "damage": 160,
+      "cost": 3,
+      "text": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Snubbull",
+  "retreat_cost": 2,
+  "set_code": "sv3",
+  "number": "88",
+  "legal": true,
+  "rarity": "Uncommon"
+}

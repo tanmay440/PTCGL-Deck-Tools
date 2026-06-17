@@ -1,0 +1,33 @@
+{
+  "name": "Vigoroth",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Confront",
+      "damage": 40,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Sharp Claws",
+      "damage": 60,
+      "cost": 3,
+      "text": "Flip a coin. If heads, this attack does 60 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Slakoth",
+  "retreat_cost": 2,
+  "set_code": "sv2",
+  "number": "161",
+  "legal": true,
+  "rarity": "Uncommon"
+}

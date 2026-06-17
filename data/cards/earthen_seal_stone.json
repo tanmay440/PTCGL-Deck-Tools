@@ -1,0 +1,26 @@
+{
+  "name": "Earthen Seal Stone",
+  "hp": 0,
+  "attacks": [
+    {
+      "name": "Star Gravity",
+      "damage": 0,
+      "cost": 3,
+      "text": "Put damage counters on each of your opponent's Pokémon V until its remaining HP is 100. (You can't use more than 1 VSTAR Power in a game.)"
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Item",
+    "Pokémon Tool"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "swsh12",
+  "number": "154",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

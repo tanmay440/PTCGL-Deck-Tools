@@ -1,0 +1,33 @@
+{
+  "name": "Decidueye ex",
+  "hp": 320,
+  "attacks": [
+    {
+      "name": "Hunting Arrow",
+      "damage": 130,
+      "cost": 2,
+      "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Total Freedom",
+      "text": "Once during your turn, you may use this Ability. If this Pokémon is on the Bench, switch it with your Active Pokémon. Or, if this Pokémon is in the Active Spot, switch it with 1 of your Benched Pokémon."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Dartrix",
+  "retreat_cost": 2,
+  "set_code": "sv3",
+  "number": "15",
+  "legal": true,
+  "rarity": "Double Rare"
+}

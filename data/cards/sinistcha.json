@@ -1,0 +1,33 @@
+{
+  "name": "Sinistcha",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Cursed Drop",
+      "damage": 0,
+      "cost": 1,
+      "text": "Put 4 damage counters on your opponent's Pokémon in any way you like."
+    },
+    {
+      "name": "Spill the Tea",
+      "damage": 70,
+      "cost": 1,
+      "text": "Discard up to 3 Grass Energy cards from your Pokémon. This attack does 70 damage for each card you discarded in this way."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Poltchageist",
+  "retreat_cost": 1,
+  "set_code": "sv6",
+  "number": "22",
+  "legal": true,
+  "rarity": "Rare"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Sandile",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Bite",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh12",
+  "number": "111",
+  "legal": true,
+  "rarity": "Common"
+}

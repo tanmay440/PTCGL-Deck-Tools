@@ -1,0 +1,28 @@
+{
+  "name": "Iron Boulder",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Adjusted Horn",
+      "damage": 170,
+      "cost": 2,
+      "text": "If you don't have the same number of cards in your hand as your opponent, this attack does nothing."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Future"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "sv7",
+  "number": "71",
+  "legal": true,
+  "rarity": "Rare"
+}

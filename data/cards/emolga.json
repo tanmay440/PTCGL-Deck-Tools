@@ -1,0 +1,33 @@
+{
+  "name": "Emolga",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Lucky Find",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "Static Shock",
+      "damage": 40,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "swsh12",
+  "number": "54",
+  "legal": true,
+  "rarity": "Common"
+}

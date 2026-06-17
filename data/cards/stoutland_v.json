@@ -1,0 +1,34 @@
+{
+  "name": "Stoutland V",
+  "hp": 210,
+  "attacks": [
+    {
+      "name": "Double Dip Fangs",
+      "damage": 40,
+      "cost": 3,
+      "text": "If your opponent's Basic Pokémon is Knocked Out by damage from this attack, take 1 more Prize card."
+    },
+    {
+      "name": "Wild Tackle",
+      "damage": 200,
+      "cost": 4,
+      "text": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "swsh12pt5",
+  "number": "116",
+  "legal": true,
+  "rarity": "Rare Holo V"
+}

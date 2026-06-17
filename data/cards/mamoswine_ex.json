@@ -1,0 +1,33 @@
+{
+  "name": "Mamoswine ex",
+  "hp": 340,
+  "attacks": [
+    {
+      "name": "Rumbling March",
+      "damage": 180,
+      "cost": 2,
+      "text": "This attack does 40 more damage for each Stage 2 Pokémon on your Bench."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Mammoth Hauler",
+      "text": "Once during your turn, you may search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+    }
+  ],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Piloswine",
+  "retreat_cost": 4,
+  "set_code": "sv9",
+  "number": "79",
+  "legal": true,
+  "rarity": "Double Rare"
+}

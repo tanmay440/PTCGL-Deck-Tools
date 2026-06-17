@@ -1,0 +1,27 @@
+{
+  "name": "Deino",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Ambush",
+      "damage": 20,
+      "cost": 2,
+      "text": "Flip a coin. If heads, this attack does 20 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv2",
+  "number": "138",
+  "legal": true,
+  "rarity": "Common"
+}

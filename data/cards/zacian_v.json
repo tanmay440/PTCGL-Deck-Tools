@@ -1,0 +1,33 @@
+{
+  "name": "Zacian V",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Brave Blade",
+      "damage": 230,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't attack."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Intrepid Sword",
+      "text": "Once during your turn, you may look at the top 3 cards of your deck and attach any number of Metal Energy cards you find there to this Pokémon. Put the other cards into your hand. If you use this Ability, your turn ends."
+    }
+  ],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH018",
+  "legal": false,
+  "rarity": "Promo"
+}

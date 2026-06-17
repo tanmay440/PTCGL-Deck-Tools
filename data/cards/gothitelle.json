@@ -1,0 +1,32 @@
+{
+  "name": "Gothitelle",
+  "hp": 150,
+  "attacks": [
+    {
+      "name": "Psych Out",
+      "damage": 120,
+      "cost": 2,
+      "text": "Discard a random card from your opponent's hand."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Read the Stars",
+      "text": "Once during your turn, you may look at the top 2 cards of your opponent's deck and put 1 of them back. Put the other card on the bottom of their deck."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Gothorita",
+  "retreat_cost": 2,
+  "set_code": "sv2",
+  "number": "92",
+  "legal": true,
+  "rarity": "Uncommon"
+}

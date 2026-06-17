@@ -1,0 +1,33 @@
+{
+  "name": "Staraptor",
+  "hp": 150,
+  "attacks": [
+    {
+      "name": "Strong Breeze",
+      "damage": 0,
+      "cost": 3,
+      "text": "Your opponent shuffles their Active Pokémon and all attached cards into their deck."
+    },
+    {
+      "name": "Spinning Bird",
+      "damage": 180,
+      "cost": 4,
+      "text": "Discard 2 Energy from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Staravia",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "119",
+  "legal": true,
+  "rarity": "Rare"
+}

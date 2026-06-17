@@ -1,0 +1,33 @@
+{
+  "name": "Iron Treads",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Wheel Pass",
+      "damage": 60,
+      "cost": 2,
+      "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Dual Core",
+      "text": "As long as this Pokémon has a Future Booster Energy Capsule attached, it is Fighting and Metal type."
+    }
+  ],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Future"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv5",
+  "number": "118",
+  "legal": true,
+  "rarity": "Uncommon"
+}

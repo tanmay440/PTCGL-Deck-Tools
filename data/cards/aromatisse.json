@@ -1,0 +1,27 @@
+{
+  "name": "Aromatisse",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Perfume Press",
+      "damage": 60,
+      "cost": 2,
+      "text": "Your opponent's Active Pokémon is now Confused."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Spritzee",
+  "retreat_cost": 1,
+  "set_code": "sv8pt5",
+  "number": "39",
+  "legal": true,
+  "rarity": "Common"
+}

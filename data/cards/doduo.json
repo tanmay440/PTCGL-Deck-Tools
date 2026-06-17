@@ -1,0 +1,27 @@
+{
+  "name": "Doduo",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Reckless Charge",
+      "damage": 30,
+      "cost": 1,
+      "text": "This Pokémon also does 10 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv3pt5",
+  "number": "84",
+  "legal": true,
+  "rarity": "Common"
+}

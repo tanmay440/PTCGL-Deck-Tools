@@ -1,0 +1,33 @@
+{
+  "name": "Mismagius ex",
+  "hp": 260,
+  "attacks": [
+    {
+      "name": "Hexa-Magic",
+      "damage": 150,
+      "cost": 2,
+      "text": "You may draw cards until you have 6 cards in your hand."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Swirling Prose",
+      "text": "As long as this Pokémon is in the Active Spot, whenever your opponent's Active Pokémon moves to the Bench during their turn, their new Active Pokémon is now Confused."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Misdreavus",
+  "retreat_cost": 1,
+  "set_code": "me2",
+  "number": "36",
+  "legal": true,
+  "rarity": "Double Rare"
+}

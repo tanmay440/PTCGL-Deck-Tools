@@ -1,0 +1,33 @@
+{
+  "name": "Nidorino",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Sharp Fang",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Superpowered Horns",
+      "damage": 100,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Nidoran ♂",
+  "retreat_cost": 2,
+  "set_code": "sv3pt5",
+  "number": "33",
+  "legal": true,
+  "rarity": "Uncommon"
+}

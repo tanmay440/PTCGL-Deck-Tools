@@ -1,0 +1,33 @@
+{
+  "name": "Golduck",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Aqua Edge",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Entangled Dive",
+      "damage": 0,
+      "cost": 3,
+      "text": "Discard each player's Active Pokémon and all attached cards. (You choose a new Active Pokémon first.)"
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Psyduck",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "29",
+  "legal": true,
+  "rarity": "Uncommon"
+}

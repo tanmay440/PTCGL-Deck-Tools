@@ -1,0 +1,27 @@
+{
+  "name": "Clamperl",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Shell Press",
+      "damage": 10,
+      "cost": 1,
+      "text": "During your opponent's next turn, this Pokémon takes 10 less damage from attacks (after applying Weakness and Resistance)."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv10",
+  "number": "54",
+  "legal": true,
+  "rarity": "Common"
+}

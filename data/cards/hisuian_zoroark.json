@@ -1,0 +1,33 @@
+{
+  "name": "Hisuian Zoroark",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Doom Curse",
+      "damage": 0,
+      "cost": 0,
+      "text": "At the end of your opponent's next turn, the Defending Pokémon will be Knocked Out."
+    },
+    {
+      "name": "Call Back",
+      "damage": 0,
+      "cost": 1,
+      "text": "Put a card from your discard pile into your hand."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Hisuian Zorua",
+  "retreat_cost": 2,
+  "set_code": "swsh11",
+  "number": "76",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

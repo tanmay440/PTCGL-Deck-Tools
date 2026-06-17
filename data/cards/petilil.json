@@ -1,0 +1,27 @@
+{
+  "name": "Petilil",
+  "hp": 50,
+  "attacks": [
+    {
+      "name": "Spin Turn",
+      "damage": 10,
+      "cost": 1,
+      "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "15",
+  "legal": true,
+  "rarity": "Common"
+}

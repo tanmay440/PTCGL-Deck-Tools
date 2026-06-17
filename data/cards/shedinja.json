@@ -1,0 +1,32 @@
+{
+  "name": "Shedinja",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Damage Beat",
+      "damage": 20,
+      "cost": 1,
+      "text": "This attack does 20 damage for each damage counter on your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Fragile Husk",
+      "text": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon ex, your opponent can't take any Prize cards for it."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Nincada",
+  "retreat_cost": 0,
+  "set_code": "me1",
+  "number": "61",
+  "legal": true,
+  "rarity": "Uncommon"
+}

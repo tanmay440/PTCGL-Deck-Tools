@@ -1,0 +1,33 @@
+{
+  "name": "Pawmo",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Thunder Shock",
+      "damage": 30,
+      "cost": 1,
+      "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    },
+    {
+      "name": "Head Bolt",
+      "damage": 70,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Pawmi",
+  "retreat_cost": 1,
+  "set_code": "sv1",
+  "number": "75",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Pinsir",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Vise Grip",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Reckless Throw",
+      "damage": 90,
+      "cost": 3,
+      "text": "If you have more Prize cards remaining than your opponent, this attack does 90 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv3pt5",
+  "number": "127",
+  "legal": true,
+  "rarity": "Uncommon"
+}

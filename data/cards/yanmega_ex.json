@@ -1,0 +1,33 @@
+{
+  "name": "Yanmega ex",
+  "hp": 280,
+  "attacks": [
+    {
+      "name": "Jet Cyclone",
+      "damage": 210,
+      "cost": 4,
+      "text": "Move 3 Energy from this Pokémon to 1 of your Benched Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Buzzing Boost",
+      "text": "Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may search your deck for up to 3 Basic Grass Energy cards and attach them to this Pokémon. Then, shuffle your deck."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Yanma",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "3",
+  "legal": true,
+  "rarity": "Double Rare"
+}

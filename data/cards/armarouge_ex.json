@@ -1,0 +1,28 @@
+{
+  "name": "Armarouge ex",
+  "hp": 260,
+  "attacks": [
+    {
+      "name": "Armor Cannon",
+      "damage": 200,
+      "cost": 3,
+      "text": "Discard a Fire Energy from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Charcadet",
+  "retreat_cost": 2,
+  "set_code": "svp",
+  "number": "105",
+  "legal": true,
+  "rarity": "Promo"
+}

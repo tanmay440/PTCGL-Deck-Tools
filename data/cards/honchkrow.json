@@ -1,0 +1,33 @@
+{
+  "name": "Honchkrow",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Peck",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Night Cyclone",
+      "damage": 160,
+      "cost": 3,
+      "text": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Murkrow",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "115",
+  "legal": true,
+  "rarity": "Rare"
+}

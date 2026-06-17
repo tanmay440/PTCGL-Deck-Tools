@@ -1,0 +1,34 @@
+{
+  "name": "Mew VMAX",
+  "hp": 310,
+  "attacks": [
+    {
+      "name": "Cross Fusion Strike",
+      "damage": 0,
+      "cost": 2,
+      "text": "Choose 1 of your Benched Fusion Strike Pokémon's attacks and use it as this attack."
+    },
+    {
+      "name": "Max Miracle",
+      "damage": 130,
+      "cost": 2,
+      "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VMAX",
+    "Fusion Strike"
+  ],
+  "evolvesFrom": "Mew V",
+  "retreat_cost": 0,
+  "set_code": "swsh11tg",
+  "number": "TG30",
+  "legal": true,
+  "rarity": "Rare Secret"
+}

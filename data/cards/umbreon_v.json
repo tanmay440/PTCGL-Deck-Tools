@@ -1,0 +1,35 @@
+{
+  "name": "Umbreon V",
+  "hp": 200,
+  "attacks": [
+    {
+      "name": "Mean Look",
+      "damage": 30,
+      "cost": 1,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    },
+    {
+      "name": "Moonlight Blade",
+      "damage": 80,
+      "cost": 3,
+      "text": "If this Pokémon has any damage counters on it, this attack does 80 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V",
+    "Single Strike"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH203",
+  "legal": true,
+  "rarity": "Promo"
+}

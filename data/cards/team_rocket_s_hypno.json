@@ -1,0 +1,33 @@
+{
+  "name": "Team Rocket's Hypno",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Psyshot",
+      "damage": 40,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Bench Manipulation",
+      "damage": 80,
+      "cost": 3,
+      "text": "Your opponent flips a coin for each of their Benched Pokémon. This attack does 80 damage to your opponent's Active Pokémon for each tails. This attack's damage isn't affected by Weakness or Resistance."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Team Rocket's Drowzee",
+  "retreat_cost": 2,
+  "set_code": "sv10",
+  "number": "80",
+  "legal": true,
+  "rarity": "Uncommon"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Kricketot",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Trip Over",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip a coin. If heads, this attack does 20 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "9",
+  "legal": true,
+  "rarity": "Common"
+}

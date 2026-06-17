@@ -1,0 +1,32 @@
+{
+  "name": "Simisear",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Heat Tackle",
+      "damage": 190,
+      "cost": 4,
+      "text": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Monkey Trio",
+      "text": "If you have Simisage, Simisear, and Simipour in play, ignore all Colorless Energy in the costs of attacks used by this Pokémon."
+    }
+  ],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Pansear",
+  "retreat_cost": 1,
+  "set_code": "sv4",
+  "number": "21",
+  "legal": true,
+  "rarity": "Uncommon"
+}

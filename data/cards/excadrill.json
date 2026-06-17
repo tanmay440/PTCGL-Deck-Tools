@@ -1,0 +1,27 @@
+{
+  "name": "Excadrill",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Pierce",
+      "damage": 60,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Drilbur",
+  "retreat_cost": 2,
+  "set_code": "sv3",
+  "number": "147",
+  "legal": true,
+  "rarity": "Uncommon"
+}

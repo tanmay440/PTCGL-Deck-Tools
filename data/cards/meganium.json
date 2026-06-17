@@ -1,0 +1,32 @@
+{
+  "name": "Meganium",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Solar Beam",
+      "damage": 140,
+      "cost": 4,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Wild Growth",
+      "text": "Each Basic Grass Energy attached to all of your Pokémon provides GrassGrass Energy. The effect of Wild Growth doesn't stack."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Bayleef",
+  "retreat_cost": 2,
+  "set_code": "me1",
+  "number": "10",
+  "legal": true,
+  "rarity": "Rare"
+}

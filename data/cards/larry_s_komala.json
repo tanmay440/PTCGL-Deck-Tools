@@ -1,0 +1,32 @@
+{
+  "name": "Larry's Komala",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Dozing Draw",
+      "damage": 0,
+      "cost": 1,
+      "text": "This Pokémon is now Asleep. Draw 2 cards."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Lethargic Charge",
+      "text": "Once during your turn, if this Pokémon is on your Bench, you may use this Ability. Attach an Energy card from your hand to your Active Larry's Pokémon."
+    }
+  ],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "me2pt5",
+  "number": "175",
+  "legal": false,
+  "rarity": "Common"
+}

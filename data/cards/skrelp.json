@@ -1,0 +1,33 @@
+{
+  "name": "Skrelp",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Tackle",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Melt",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12pt5",
+  "number": "81",
+  "legal": true,
+  "rarity": "Common"
+}

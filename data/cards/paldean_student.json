@@ -1,0 +1,18 @@
+{
+  "name": "Paldean Student",
+  "hp": 0,
+  "attacks": [],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Supporter"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv4pt5",
+  "number": "85",
+  "legal": true,
+  "rarity": "Common"
+}

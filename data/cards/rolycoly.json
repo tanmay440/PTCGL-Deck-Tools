@@ -1,0 +1,33 @@
+{
+  "name": "Rolycoly",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Rolling Tackle",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Power Gem",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "sv5",
+  "number": "93",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Deerling",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Flop",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Leaf Litter Tackle",
+      "damage": 40,
+      "cost": 3,
+      "text": "Discard a Grass Energy from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv5",
+  "number": "16",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Raboot",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Low Sweep",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Combustion",
+      "damage": 60,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Scorbunny",
+  "retreat_cost": 1,
+  "set_code": "sv7",
+  "number": "27",
+  "legal": true,
+  "rarity": "Common"
+}

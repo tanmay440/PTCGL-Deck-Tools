@@ -1,0 +1,33 @@
+{
+  "name": "Krabby",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Salt Water",
+      "damage": 0,
+      "cost": 1,
+      "text": "Flip a coin. If heads, search your deck for up to 2 Basic Water Energy cards and attach them to this Pokémon. Then, shuffle your deck."
+    },
+    {
+      "name": "Crabhammer",
+      "damage": 50,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv3pt5",
+  "number": "98",
+  "legal": true,
+  "rarity": "Common"
+}

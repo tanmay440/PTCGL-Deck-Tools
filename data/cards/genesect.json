@@ -1,0 +1,32 @@
+{
+  "name": "Genesect",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Magnetic Blast",
+      "damage": 100,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "ACE Nullifier",
+      "text": "If this Pokémon has a Pokémon Tool attached, your opponent can't play any ACE SPEC cards from their hand."
+    }
+  ],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv6pt5",
+  "number": "40",
+  "legal": true,
+  "rarity": "Uncommon"
+}

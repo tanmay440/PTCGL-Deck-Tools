@@ -1,0 +1,33 @@
+{
+  "name": "Goomy",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Tackle",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Melt",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh11",
+  "number": "132",
+  "legal": true,
+  "rarity": "Common"
+}

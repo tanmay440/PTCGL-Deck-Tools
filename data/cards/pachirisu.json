@@ -1,0 +1,27 @@
+{
+  "name": "Pachirisu",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Windup Thunder",
+      "damage": 30,
+      "cost": 2,
+      "text": "This attack does 30 damage for each Pokémon Tool attached to all of your Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "52",
+  "legal": true,
+  "rarity": "Uncommon"
+}

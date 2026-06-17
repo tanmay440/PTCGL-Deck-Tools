@@ -1,0 +1,32 @@
+{
+  "name": "Iono's Kilowattrel",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Mach Bolt",
+      "damage": 70,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Flashing Draw",
+      "text": "You must discard a Basic Lightning Energy from this Pokémon in order to use this Ability. Once during your turn, you may draw cards until you have 6 cards in your hand."
+    }
+  ],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Iono's Wattrel",
+  "retreat_cost": 1,
+  "set_code": "svp",
+  "number": "182",
+  "legal": true,
+  "rarity": "Promo"
+}

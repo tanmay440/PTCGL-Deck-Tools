@@ -1,0 +1,33 @@
+{
+  "name": "Grookey on the Ball",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Tenacious Defense",
+      "damage": 0,
+      "cost": 1,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    },
+    {
+      "name": "Razor Leaf",
+      "damage": 50,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "fut20",
+  "number": "3",
+  "legal": false,
+  "rarity": ""
+}

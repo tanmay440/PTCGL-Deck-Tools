@@ -1,0 +1,32 @@
+{
+  "name": "Mesprit",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Zen Headbutt",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Mental Shroud",
+      "text": "If you have Uxie and Azelf in play, each of your Pokémon has no Weakness."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "66",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

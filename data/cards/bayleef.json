@@ -1,0 +1,27 @@
+{
+  "name": "Bayleef",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Push Down",
+      "damage": 50,
+      "cost": 2,
+      "text": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Chikorita",
+  "retreat_cost": 2,
+  "set_code": "me1",
+  "number": "9",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Whimsicott",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Fairy Wind",
+      "damage": 50,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Cottonee",
+  "retreat_cost": 0,
+  "set_code": "sv4pt5",
+  "number": "35",
+  "legal": true,
+  "rarity": "Uncommon"
+}

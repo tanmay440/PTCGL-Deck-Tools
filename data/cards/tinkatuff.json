@@ -1,0 +1,33 @@
+{
+  "name": "Tinkatuff",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Light Punch",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Boundless Power",
+      "damage": 80,
+      "cost": 2,
+      "text": "During your next turn, this Pokémon can't attack."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Tinkatink",
+  "retreat_cost": 2,
+  "set_code": "sv2",
+  "number": "103",
+  "legal": true,
+  "rarity": "Uncommon"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Mega Emboar ex",
+  "hp": 380,
+  "attacks": [
+    {
+      "name": "Crimson Blast",
+      "damage": 320,
+      "cost": 3,
+      "text": "This Pokémon also does 60 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "MEGA",
+    "ex"
+  ],
+  "evolvesFrom": "Pignite",
+  "retreat_cost": 4,
+  "set_code": "me2pt5",
+  "number": "31",
+  "legal": false,
+  "rarity": "Double Rare"
+}

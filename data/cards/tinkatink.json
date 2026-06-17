@@ -1,0 +1,27 @@
+{
+  "name": "Tinkatink",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Smithereen Smash",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "svp",
+  "number": "25",
+  "legal": true,
+  "rarity": "Promo"
+}

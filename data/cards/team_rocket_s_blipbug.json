@@ -1,0 +1,27 @@
+{
+  "name": "Team Rocket's Blipbug",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Searching Eyes",
+      "damage": 0,
+      "cost": 1,
+      "text": "Look at 1 of your opponent's face-down Prize cards."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "15",
+  "legal": true,
+  "rarity": "Common"
+}

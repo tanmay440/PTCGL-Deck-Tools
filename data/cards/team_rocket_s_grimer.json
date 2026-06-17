@@ -1,0 +1,27 @@
+{
+  "name": "Team Rocket's Grimer",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Corrosive Sludge",
+      "damage": 0,
+      "cost": 2,
+      "text": "At the end of your opponent's next turn, discard the Defending Pokémon and all attached cards."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "sv10",
+  "number": "123",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Skiddo",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Vine Whip",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Smash Kick",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv1",
+  "number": "11",
+  "legal": true,
+  "rarity": "Common"
+}

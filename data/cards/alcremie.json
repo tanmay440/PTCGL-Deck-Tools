@@ -1,0 +1,33 @@
+{
+  "name": "Alcremie",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Decorate",
+      "damage": 0,
+      "cost": 1,
+      "text": "Attach any number of basic Energy cards from your hand to your Pokémon in any way you like."
+    },
+    {
+      "name": "Draining Kiss",
+      "damage": 50,
+      "cost": 2,
+      "text": "Heal 30 damage from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Milcery",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH058",
+  "legal": false,
+  "rarity": "Promo"
+}

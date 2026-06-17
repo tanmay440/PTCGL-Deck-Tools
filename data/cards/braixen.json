@@ -1,0 +1,33 @@
+{
+  "name": "Braixen",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Combustion",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Flare Parade",
+      "damage": 60,
+      "cost": 2,
+      "text": "This attack does 60 damage for each Serena card in your discard pile."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Fennekin",
+  "retreat_cost": 1,
+  "set_code": "swsh12",
+  "number": "26",
+  "legal": true,
+  "rarity": "Uncommon"
+}

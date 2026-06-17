@@ -1,0 +1,33 @@
+{
+  "name": "Shellos",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Rain Splash",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Surf",
+      "damage": 30,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh11",
+  "number": "39",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Regidrago VSTAR",
+  "hp": 280,
+  "attacks": [
+    {
+      "name": "Apex Dragon",
+      "damage": 0,
+      "cost": 3,
+      "text": "Choose an attack from a Dragon Pokémon in your discard pile and use it as this attack."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Legacy Star",
+      "text": "During your turn, you may discard the top 7 cards of your deck. Then, put up to 2 cards from your discard pile into your hand. (You can't use more than 1 VSTAR Power in a game.)"
+    }
+  ],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VSTAR"
+  ],
+  "evolvesFrom": "Regidrago V",
+  "retreat_cost": 3,
+  "set_code": "swsh12",
+  "number": "136",
+  "legal": true,
+  "rarity": "Rare Holo VSTAR"
+}

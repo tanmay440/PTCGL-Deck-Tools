@@ -1,0 +1,27 @@
+{
+  "name": "Spinda",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Dizzying Spin",
+      "damage": 0,
+      "cost": 1,
+      "text": "This attack does 10 damage to each of your opponent's Pokémon. Your opponent's Active Pokémon is now Confused. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh12",
+  "number": "141",
+  "legal": true,
+  "rarity": "Common"
+}

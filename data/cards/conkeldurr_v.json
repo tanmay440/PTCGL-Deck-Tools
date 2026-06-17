@@ -1,0 +1,34 @@
+{
+  "name": "Conkeldurr V",
+  "hp": 230,
+  "attacks": [
+    {
+      "name": "Counter",
+      "damage": 20,
+      "cost": 1,
+      "text": "If this Pokémon was damaged by an attack during your opponent's last turn, this attack does that much more damage."
+    },
+    {
+      "name": "Dynamic Punch",
+      "damage": 90,
+      "cost": 3,
+      "text": "Flip a coin. If heads, this attack does 90 more damage, and your opponent's Active Pokémon is now Confused."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "pgo",
+  "number": "40",
+  "legal": true,
+  "rarity": "Rare Holo V"
+}

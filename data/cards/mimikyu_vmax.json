@@ -1,0 +1,33 @@
+{
+  "name": "Mimikyu VMAX",
+  "hp": 300,
+  "attacks": [
+    {
+      "name": "Ominous Numbers",
+      "damage": 0,
+      "cost": 2,
+      "text": "Put 4 damage counters on your opponent's Pokémon in any way you like. If you played Acerola's Premonition from your hand during this turn, place 13 damage counters instead."
+    },
+    {
+      "name": "Max Shadow",
+      "damage": 120,
+      "cost": 2,
+      "text": "Discard a random card from your opponent's hand."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VMAX"
+  ],
+  "evolvesFrom": "Mimikyu V",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "69",
+  "legal": true,
+  "rarity": "Rare Holo VMAX"
+}

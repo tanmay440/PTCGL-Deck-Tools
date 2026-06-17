@@ -1,0 +1,33 @@
+{
+  "name": "Litten",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Gnaw",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Reprisal",
+      "damage": 20,
+      "cost": 2,
+      "text": "This attack does 20 damage for each damage counter on this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh12",
+  "number": "30",
+  "legal": true,
+  "rarity": "Common"
+}

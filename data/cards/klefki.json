@@ -1,0 +1,32 @@
+{
+  "name": "Klefki",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Joust",
+      "damage": 10,
+      "cost": 1,
+      "text": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Mischievous Lock",
+      "text": "As long as this Pokémon is in the Active Spot, Basic Pokémon in play (both yours and your opponent's) have no Abilities, except for Mischievous Lock."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv1",
+  "number": "96",
+  "legal": true,
+  "rarity": "Rare"
+}

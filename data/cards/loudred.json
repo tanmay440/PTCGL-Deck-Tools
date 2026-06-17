@@ -1,0 +1,33 @@
+{
+  "name": "Loudred",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Body Slam",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    },
+    {
+      "name": "Mega Impact",
+      "damage": 40,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Whismur",
+  "retreat_cost": 2,
+  "set_code": "sv4",
+  "number": "149",
+  "legal": true,
+  "rarity": "Common"
+}

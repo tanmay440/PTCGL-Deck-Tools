@@ -1,0 +1,33 @@
+{
+  "name": "Klawf ex",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Falling Press",
+      "damage": 100,
+      "cost": 3,
+      "text": "Flip a coin. If heads, this attack does 80 more damage."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Counterattacking Pincer",
+      "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), discard an Energy from the Attacking Pokémon."
+    }
+  ],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "sv3",
+  "number": "120",
+  "legal": true,
+  "rarity": "Double Rare"
+}

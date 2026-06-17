@@ -1,0 +1,27 @@
+{
+  "name": "Team Rocket's Rattata",
+  "hp": 50,
+  "attacks": [
+    {
+      "name": "Dangerous Incisors",
+      "damage": 10,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Poisoned."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "147",
+  "legal": true,
+  "rarity": "Common"
+}

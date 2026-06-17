@@ -1,0 +1,32 @@
+{
+  "name": "Garganacl",
+  "hp": 180,
+  "attacks": [
+    {
+      "name": "Knocking Hammer",
+      "damage": 130,
+      "cost": 2,
+      "text": "Discard the top card of your opponent's deck."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Blessed Salt",
+      "text": "During Pokémon Checkup, heal 20 damage from each of your Pokémon."
+    }
+  ],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Naclstack",
+  "retreat_cost": 3,
+  "set_code": "sv2",
+  "number": "123",
+  "legal": true,
+  "rarity": "Rare"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Stufful",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Take Down",
+      "damage": 30,
+      "cost": 1,
+      "text": "This Pokémon also does 10 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv6pt5",
+  "number": "52",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Dodrio",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Ballistic Beak",
+      "damage": 10,
+      "cost": 1,
+      "text": "This attack does 30 more damage for each damage counter on this Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Zooming Draw",
+      "text": "Once during your turn, you may put 1 damage counter on this Pokémon. If you do, draw a card."
+    }
+  ],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Doduo",
+  "retreat_cost": 1,
+  "set_code": "sv3pt5",
+  "number": "85",
+  "legal": true,
+  "rarity": "Rare"
+}

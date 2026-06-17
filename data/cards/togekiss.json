@@ -1,0 +1,32 @@
+{
+  "name": "Togekiss",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Magical Shot",
+      "damage": 120,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Shine of Happiness",
+      "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may heal 90 damage from your Active Pokémon."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Togetic",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "57",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

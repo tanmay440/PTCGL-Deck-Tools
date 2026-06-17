@@ -1,0 +1,33 @@
+{
+  "name": "Noibat",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Flap",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Glide",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12",
+  "number": "132",
+  "legal": true,
+  "rarity": "Common"
+}

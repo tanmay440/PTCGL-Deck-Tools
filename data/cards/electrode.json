@@ -1,0 +1,33 @@
+{
+  "name": "Electrode",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Lightning Ball",
+      "damage": 60,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Rolling Tackle",
+      "damage": 90,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Voltorb",
+  "retreat_cost": 1,
+  "set_code": "sv2",
+  "number": "67",
+  "legal": true,
+  "rarity": "Uncommon"
+}

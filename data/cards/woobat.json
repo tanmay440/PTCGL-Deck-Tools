@@ -1,0 +1,27 @@
+{
+  "name": "Woobat",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Reckless Charge",
+      "damage": 30,
+      "cost": 1,
+      "text": "This Pokémon also does 10 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv4pt5",
+  "number": "32",
+  "legal": true,
+  "rarity": "Common"
+}

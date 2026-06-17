@@ -1,0 +1,32 @@
+{
+  "name": "Sawsbuck",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Superpowered Horns",
+      "damage": 110,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Changing Seasons",
+      "text": "Once during your turn, you may search your deck for a Stadium card, reveal it, and put it into your hand. Then, shuffle your deck."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Deerling",
+  "retreat_cost": 2,
+  "set_code": "sv5",
+  "number": "17",
+  "legal": true,
+  "rarity": "Uncommon"
+}

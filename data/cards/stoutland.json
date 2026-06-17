@@ -1,0 +1,33 @@
+{
+  "name": "Stoutland",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Chomp Chomp Panic",
+      "damage": 50,
+      "cost": 1,
+      "text": "This attack does 50 damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+    },
+    {
+      "name": "Sharp Fang",
+      "damage": 140,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Herdier",
+  "retreat_cost": 3,
+  "set_code": "sv3",
+  "number": "172",
+  "legal": true,
+  "rarity": "Uncommon"
+}

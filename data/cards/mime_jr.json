@@ -1,0 +1,27 @@
+{
+  "name": "Mime Jr.",
+  "hp": 30,
+  "attacks": [
+    {
+      "name": "Mimed Games",
+      "damage": 0,
+      "cost": 1,
+      "text": "Your opponent chooses an attack from 1 of their Pokémon in play. Use the chosen attack as this attack."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv4pt5",
+  "number": "31",
+  "legal": true,
+  "rarity": "Common"
+}

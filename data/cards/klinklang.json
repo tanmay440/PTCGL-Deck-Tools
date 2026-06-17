@@ -1,0 +1,32 @@
+{
+  "name": "Klinklang",
+  "hp": 150,
+  "attacks": [
+    {
+      "name": "Tumbling Attack",
+      "damage": 90,
+      "cost": 3,
+      "text": "Flip a coin. If heads, this attack does 90 more damage."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Gear Wall",
+      "text": "Your Basic Pokémon take 20 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance)."
+    }
+  ],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Klang",
+  "retreat_cost": 3,
+  "set_code": "swsh9",
+  "number": "104",
+  "legal": true,
+  "rarity": "Rare"
+}

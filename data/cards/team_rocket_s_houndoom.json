@@ -1,0 +1,33 @@
+{
+  "name": "Team Rocket's Houndoom",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Cruel Coal",
+      "damage": 0,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Burned and Confused."
+    },
+    {
+      "name": "Scorching Fire",
+      "damage": 120,
+      "cost": 2,
+      "text": "Discard an Energy from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Team Rocket's Houndour",
+  "retreat_cost": 2,
+  "set_code": "sv10",
+  "number": "38",
+  "legal": true,
+  "rarity": "Uncommon"
+}

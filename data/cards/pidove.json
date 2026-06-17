@@ -1,0 +1,33 @@
+{
+  "name": "Pidove",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Growl",
+      "damage": 0,
+      "cost": 1,
+      "text": "During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance)."
+    },
+    {
+      "name": "Flap",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "pgo",
+  "number": "61",
+  "legal": true,
+  "rarity": "Common"
+}

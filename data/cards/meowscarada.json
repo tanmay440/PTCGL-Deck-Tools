@@ -1,0 +1,33 @@
+{
+  "name": "Meowscarada",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Trick Cape",
+      "damage": 40,
+      "cost": 1,
+      "text": "You may put an Energy attached to your opponent's Active Pokémon into their hand."
+    },
+    {
+      "name": "Flower Blast",
+      "damage": 130,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Floragato",
+  "retreat_cost": 1,
+  "set_code": "sv1",
+  "number": "15",
+  "legal": true,
+  "rarity": "Rare"
+}

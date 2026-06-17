@@ -1,0 +1,33 @@
+{
+  "name": "Alolan Geodude",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Knuckle Punch",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Tiny Charge",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv9",
+  "number": "44",
+  "legal": true,
+  "rarity": "Common"
+}

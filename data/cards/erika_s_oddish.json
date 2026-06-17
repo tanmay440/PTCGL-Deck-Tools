@@ -1,0 +1,27 @@
+{
+  "name": "Erika's Oddish",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Reckless Charge",
+      "damage": 30,
+      "cost": 1,
+      "text": "This Pokémon also does 10 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "me2pt5",
+  "number": "1",
+  "legal": false,
+  "rarity": "Common"
+}

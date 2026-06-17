@@ -1,0 +1,32 @@
+{
+  "name": "Team Rocket's Articuno",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Dark Frost",
+      "damage": 60,
+      "cost": 3,
+      "text": "If this Pokémon has any Team Rocket's Energy attached, this attack does 60 more damage."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Repelling Veil",
+      "text": "Prevent all effects of attacks used by your opponent's Pokémon done to your Basic Team Rocket's Pokémon. (Existing effects are not removed. Damage is not an effect.)"
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "51",
+  "legal": true,
+  "rarity": "Rare"
+}

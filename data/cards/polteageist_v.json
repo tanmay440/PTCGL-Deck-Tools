@@ -1,0 +1,33 @@
+{
+  "name": "Polteageist V",
+  "hp": 170,
+  "attacks": [
+    {
+      "name": "Mind Bend",
+      "damage": 100,
+      "cost": 3,
+      "text": "Your opponent's Active Pokémon is now Confused."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Teapot of Surprises",
+      "text": "If this Pokémon is in the Active Spot and is damaged by an opponent's attack (even if it is Knocked Out), choose a random card from your opponent's hand. Your opponent reveals that card and puts it on the bottom of their deck."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH021",
+  "legal": false,
+  "rarity": "Promo"
+}

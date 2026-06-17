@@ -1,0 +1,33 @@
+{
+  "name": "Radiant Blastoise",
+  "hp": 150,
+  "attacks": [
+    {
+      "name": "Torrential Cannon",
+      "damage": 170,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't use Torrential Cannon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Pump Shot",
+      "text": "You must discard a Water Energy card from your hand in order to use this Ability. Once during your turn, you may put 2 damage counters on 1 of your opponent's Benched Pokémon."
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Radiant"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "pgo",
+  "number": "18",
+  "legal": true,
+  "rarity": "Radiant Rare"
+}

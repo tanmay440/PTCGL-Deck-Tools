@@ -1,0 +1,33 @@
+{
+  "name": "Gothorita",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Mind Bend",
+      "damage": 20,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Confused."
+    },
+    {
+      "name": "Super Psy Bolt",
+      "damage": 40,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Gothita",
+  "retreat_cost": 1,
+  "set_code": "sv2",
+  "number": "91",
+  "legal": true,
+  "rarity": "Uncommon"
+}

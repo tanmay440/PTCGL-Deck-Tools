@@ -1,0 +1,27 @@
+{
+  "name": "Team Rocket's Diglett",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Relentless Burrowing",
+      "damage": 0,
+      "cost": 1,
+      "text": "Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "me2pt5",
+  "number": "100",
+  "legal": true,
+  "rarity": "Common"
+}

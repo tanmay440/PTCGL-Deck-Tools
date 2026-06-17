@@ -1,0 +1,25 @@
+{
+  "name": "Technical Machine: Crisis Punch",
+  "hp": 0,
+  "attacks": [
+    {
+      "name": "Crisis Punch",
+      "damage": 280,
+      "cost": 3,
+      "text": "You can use this attack only when your opponent has exactly 1 Prize card remaining."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Pokémon Tool"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv4pt5",
+  "number": "90",
+  "legal": true,
+  "rarity": "Uncommon"
+}

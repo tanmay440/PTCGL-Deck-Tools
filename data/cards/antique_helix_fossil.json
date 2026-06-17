@@ -1,0 +1,23 @@
+{
+  "name": "Antique Helix Fossil",
+  "hp": 60,
+  "attacks": [],
+  "abilities": [
+    {
+      "name": "Helical Swell",
+      "text": "As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand."
+    }
+  ],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Item"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv3pt5",
+  "number": "153",
+  "legal": true,
+  "rarity": "Common"
+}

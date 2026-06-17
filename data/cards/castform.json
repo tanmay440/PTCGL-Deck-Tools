@@ -1,0 +1,33 @@
+{
+  "name": "Castform",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Double Draw",
+      "damage": 0,
+      "cost": 1,
+      "text": "Draw 2 cards."
+    },
+    {
+      "name": "Hurricane",
+      "damage": 30,
+      "cost": 1,
+      "text": "Move a basic Energy from this Pokémon to 1 of your Benched Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "116",
+  "legal": true,
+  "rarity": "Common"
+}

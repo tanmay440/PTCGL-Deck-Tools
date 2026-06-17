@@ -1,0 +1,33 @@
+{
+  "name": "Crobat V",
+  "hp": 180,
+  "attacks": [
+    {
+      "name": "Venomous Fang",
+      "damage": 70,
+      "cost": 2,
+      "text": "Your opponent's Active Pokémon is now Poisoned."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Dark Asset",
+      "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may draw cards until you have 6 cards in your hand. You can't use more than 1 Dark Asset Ability each turn."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH098",
+  "legal": false,
+  "rarity": "Promo"
+}

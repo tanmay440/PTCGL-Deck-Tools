@@ -1,0 +1,27 @@
+{
+  "name": "Chikorita",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Razor Leaf",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "me1",
+  "number": "8",
+  "legal": true,
+  "rarity": "Common"
+}

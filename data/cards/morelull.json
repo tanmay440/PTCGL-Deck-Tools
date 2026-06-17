@@ -1,0 +1,27 @@
+{
+  "name": "Morelull",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Attach",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv8",
+  "number": "8",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Marill",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Bubble Drain",
+      "damage": 20,
+      "cost": 2,
+      "text": "Heal 20 damage from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv2",
+  "number": "44",
+  "legal": true,
+  "rarity": "Common"
+}

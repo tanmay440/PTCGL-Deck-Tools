@@ -1,0 +1,33 @@
+{
+  "name": "Maushold ex",
+  "hp": 230,
+  "attacks": [
+    {
+      "name": "Nom-Nom-Nom Incisors",
+      "damage": 120,
+      "cost": 2,
+      "text": "Draw 2 cards."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Solidarity",
+      "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon for each of your Tandemaus, Maushold, and Maushold ex in play."
+    }
+  ],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Tandemaus",
+  "retreat_cost": 0,
+  "set_code": "sv4",
+  "number": "155",
+  "legal": true,
+  "rarity": "Double Rare"
+}

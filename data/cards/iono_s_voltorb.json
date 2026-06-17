@@ -1,0 +1,27 @@
+{
+  "name": "Iono's Voltorb",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Voltaic Chain",
+      "damage": 20,
+      "cost": 2,
+      "text": "This attack does 20 more damage for each Lightning Energy attached to all of your Iono's Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv9",
+  "number": "47",
+  "legal": true,
+  "rarity": "Common"
+}

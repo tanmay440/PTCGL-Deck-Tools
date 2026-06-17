@@ -1,0 +1,32 @@
+{
+  "name": "Crabominable",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Haymaker",
+      "damage": 250,
+      "cost": 5,
+      "text": "During your next turn, this Pokémon can't use Haymaker."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Food Prep",
+      "text": "Attacks used by this Pokémon cost Colorless less for each Kofu card in your discard pile."
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Crabrawler",
+  "retreat_cost": 3,
+  "set_code": "svp",
+  "number": "134",
+  "legal": true,
+  "rarity": "Promo"
+}

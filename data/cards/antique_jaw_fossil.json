@@ -1,0 +1,23 @@
+{
+  "name": "Antique Jaw Fossil",
+  "hp": 60,
+  "attacks": [],
+  "abilities": [
+    {
+      "name": "Intimidating Jaw",
+      "text": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon do 30 less damage (before applying Weakness and Resistance)."
+    }
+  ],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Item"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "me3",
+  "number": "68",
+  "legal": false,
+  "rarity": "Common"
+}

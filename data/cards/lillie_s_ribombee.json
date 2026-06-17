@@ -1,0 +1,32 @@
+{
+  "name": "Lillie's Ribombee",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Magical Shot",
+      "damage": 50,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Inviting Wink",
+      "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may have your opponent reveal their hand and you put any number of Basic Pokémon you find there onto their Bench."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Lillie's Cutiefly",
+  "retreat_cost": 0,
+  "set_code": "svp",
+  "number": "183",
+  "legal": true,
+  "rarity": "Promo"
+}

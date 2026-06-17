@@ -1,0 +1,33 @@
+{
+  "name": "Sealeo",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Lunge Out",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Ice Ball",
+      "damage": 60,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Spheal",
+  "retreat_cost": 3,
+  "set_code": "sv8",
+  "number": "44",
+  "legal": true,
+  "rarity": "Common"
+}

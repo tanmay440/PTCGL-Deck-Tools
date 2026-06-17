@@ -1,0 +1,32 @@
+{
+  "name": "Rapidash",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Fire Mane",
+      "damage": 60,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Heat Boost",
+      "text": "Once during your turn, you may discard a Fire Energy card from your hand in order to use this Ability. During this turn, your Fire Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+    }
+  ],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Ponyta",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH270",
+  "legal": true,
+  "rarity": "Promo"
+}

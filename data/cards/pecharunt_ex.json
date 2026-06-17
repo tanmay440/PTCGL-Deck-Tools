@@ -1,0 +1,33 @@
+{
+  "name": "Pecharunt ex",
+  "hp": 190,
+  "attacks": [
+    {
+      "name": "Irritated Outburst",
+      "damage": 60,
+      "cost": 2,
+      "text": "This attack does 60 damage for each Prize card your opponent has taken."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Subjugating Chains",
+      "text": "Once during your turn, you may switch 1 of your Benched Darkness Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv6pt5",
+  "number": "39",
+  "legal": true,
+  "rarity": "Double Rare"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Shuppet",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Tongue Slap",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "72",
+  "legal": true,
+  "rarity": "Common"
+}

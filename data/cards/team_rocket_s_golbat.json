@@ -1,0 +1,32 @@
+{
+  "name": "Team Rocket's Golbat",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Confuse Ray",
+      "damage": 30,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Confused."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Sneaky Bite",
+      "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 2 damage counters on 1 of your opponent's Pokémon."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Team Rocket's Zubat",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "121",
+  "legal": true,
+  "rarity": "Uncommon"
+}

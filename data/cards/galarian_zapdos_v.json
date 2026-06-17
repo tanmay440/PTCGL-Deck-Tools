@@ -1,0 +1,33 @@
+{
+  "name": "Galarian Zapdos V",
+  "hp": 200,
+  "attacks": [
+    {
+      "name": "Thunderous Kick",
+      "damage": 170,
+      "cost": 4,
+      "text": "Before doing damage, discard a Special Energy from your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Fighting Instinct",
+      "text": "This Pokémon's attacks cost Colorless less for each of your opponent's Pokémon V in play."
+    }
+  ],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "182",
+  "legal": true,
+  "rarity": "Rare Secret"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Single Strike Urshifu V",
+  "hp": 220,
+  "attacks": [
+    {
+      "name": "Low Kick",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Brawny Knuckle",
+      "damage": 180,
+      "cost": 4,
+      "text": "This attack's damage isn't affected by Resistance."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V",
+    "Single Strike"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH106",
+  "legal": true,
+  "rarity": "Promo"
+}

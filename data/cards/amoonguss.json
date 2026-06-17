@@ -1,0 +1,32 @@
+{
+  "name": "Amoonguss",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Hypno Hammer",
+      "damage": 50,
+      "cost": 2,
+      "text": "Your opponent's Active Pokémon is now Asleep."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Surprise Spores",
+      "text": "During your opponent's turn, if this Pokémon is discarded from your hand by an effect of an attack or Ability from your opponent's Pokémon, or by an effect of your opponent's Item or Supporter cards, discard your opponent's hand."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Foongus",
+  "retreat_cost": 3,
+  "set_code": "swsh12",
+  "number": "12",
+  "legal": true,
+  "rarity": "Rare"
+}

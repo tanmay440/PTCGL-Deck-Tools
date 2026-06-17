@@ -1,0 +1,33 @@
+{
+  "name": "Greedent",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Collect",
+      "damage": 0,
+      "cost": 1,
+      "text": "Draw 2 cards."
+    },
+    {
+      "name": "Spill Out",
+      "damage": 60,
+      "cost": 2,
+      "text": "Discard your hand. If you discarded 5 or more cards in this way, this attack does 150 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Skwovet",
+  "retreat_cost": 3,
+  "set_code": "swsh11",
+  "number": "151",
+  "legal": true,
+  "rarity": "Rare"
+}

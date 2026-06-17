@@ -1,0 +1,27 @@
+{
+  "name": "N's Klink",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Double Spin",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip 2 coins. This attack does 10 damage for each heads."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv9",
+  "number": "103",
+  "legal": true,
+  "rarity": "Common"
+}

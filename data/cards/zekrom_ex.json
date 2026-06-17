@@ -1,0 +1,34 @@
+{
+  "name": "Zekrom ex",
+  "hp": 230,
+  "attacks": [
+    {
+      "name": "Slash",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Voltage Burst",
+      "damage": 130,
+      "cost": 3,
+      "text": "This attack does 50 more damage for each Prize card your opponent has taken. This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "zsv10pt5",
+  "number": "172",
+  "legal": true,
+  "rarity": "Black White Rare"
+}

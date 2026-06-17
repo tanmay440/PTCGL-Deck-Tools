@@ -1,0 +1,33 @@
+{
+  "name": "Calyrex",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "King's Instructions",
+      "damage": 30,
+      "cost": 2,
+      "text": "You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "Bloomshine",
+      "damage": 90,
+      "cost": 3,
+      "text": "Heal 20 damage from each of your Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh12pt5",
+  "number": "17",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

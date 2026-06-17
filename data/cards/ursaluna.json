@@ -1,0 +1,33 @@
+{
+  "name": "Ursaluna",
+  "hp": 180,
+  "attacks": [
+    {
+      "name": "Peat Hunt",
+      "damage": 0,
+      "cost": 1,
+      "text": "Put up to 2 cards from your discard pile into your hand."
+    },
+    {
+      "name": "Bulky Bump",
+      "damage": 200,
+      "cost": 3,
+      "text": "Discard 2 Energy from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Ursaring",
+  "retreat_cost": 4,
+  "set_code": "swsh10",
+  "number": "124",
+  "legal": true,
+  "rarity": "Rare"
+}

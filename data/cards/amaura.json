@@ -1,0 +1,27 @@
+{
+  "name": "Amaura",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Icy Wind",
+      "damage": 50,
+      "cost": 2,
+      "text": "Your opponent's Active Pokémon is now Asleep."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Antique Sail Fossil",
+  "retreat_cost": 3,
+  "set_code": "me3",
+  "number": "23",
+  "legal": false,
+  "rarity": "Common"
+}

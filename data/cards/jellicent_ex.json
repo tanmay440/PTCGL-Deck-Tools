@@ -1,0 +1,33 @@
+{
+  "name": "Jellicent ex",
+  "hp": 270,
+  "attacks": [
+    {
+      "name": "Power Press",
+      "damage": 80,
+      "cost": 2,
+      "text": "If this Pokémon has at least 2 extra Energy attached (in addition to this attack's cost), this attack does 80 more damage."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Oceanic Curse",
+      "text": "As long as this Pokémon is in the Active Spot, your opponent can't play any Item cards or Pokémon Tool cards from their hand."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Frillish",
+  "retreat_cost": 3,
+  "set_code": "rsv10pt5",
+  "number": "45",
+  "legal": true,
+  "rarity": "Double Rare"
+}

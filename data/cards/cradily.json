@@ -1,0 +1,32 @@
+{
+  "name": "Cradily",
+  "hp": 150,
+  "attacks": [
+    {
+      "name": "Miasma Wind",
+      "damage": 100,
+      "cost": 1,
+      "text": "This attack does 100 damage for each Special Condition affecting your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Selective Slime",
+      "text": "Once during your turn, you may flip a coin. If heads, choose Burned, Confused, or Poisoned. Your opponent's Active Pokémon is now affected by that Special Condition."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Lileep",
+  "retreat_cost": 3,
+  "set_code": "sv7",
+  "number": "6",
+  "legal": true,
+  "rarity": "Rare"
+}

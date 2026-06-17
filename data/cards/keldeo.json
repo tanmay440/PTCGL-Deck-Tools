@@ -1,0 +1,33 @@
+{
+  "name": "Keldeo",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Smash Kick",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Line Force",
+      "damage": 10,
+      "cost": 2,
+      "text": "This attack does 20 more damage for each of your Benched Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "45",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

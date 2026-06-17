@@ -1,0 +1,33 @@
+{
+  "name": "Kingler VMAX",
+  "hp": 330,
+  "attacks": [
+    {
+      "name": "Bubbles Galore",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for up to 5 Water Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck."
+    },
+    {
+      "name": "G-Max Pincer",
+      "damage": 240,
+      "cost": 3,
+      "text": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VMAX"
+  ],
+  "evolvesFrom": "Kingler V",
+  "retreat_cost": 3,
+  "set_code": "swsh9",
+  "number": "29",
+  "legal": true,
+  "rarity": "Rare Holo VMAX"
+}

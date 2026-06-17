@@ -1,0 +1,34 @@
+{
+  "name": "Veluza ex",
+  "hp": 210,
+  "attacks": [
+    {
+      "name": "Razor Fin",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Purging Strike",
+      "damage": 120,
+      "cost": 3,
+      "text": "You may discard your hand. If you discarded any cards in this way, this attack does 120 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv9",
+  "number": "43",
+  "legal": true,
+  "rarity": "Double Rare"
+}

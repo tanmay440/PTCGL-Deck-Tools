@@ -1,0 +1,32 @@
+{
+  "name": "Dachsbun",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Headbutt Bounce",
+      "damage": 100,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Well-Baked Body",
+      "text": "This Pokémon can't be Burned. Prevent all damage done to this Pokémon by attacks from your opponent's Fire Pokémon."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Fidough",
+  "retreat_cost": 1,
+  "set_code": "sv1",
+  "number": "99",
+  "legal": true,
+  "rarity": "Uncommon"
+}

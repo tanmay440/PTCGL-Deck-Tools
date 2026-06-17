@@ -1,0 +1,27 @@
+{
+  "name": "Yamask",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Ominous Eyes",
+      "damage": 0,
+      "cost": 2,
+      "text": "Put 3 damage counters on 1 of your opponent's Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv4",
+  "number": "75",
+  "legal": true,
+  "rarity": "Common"
+}

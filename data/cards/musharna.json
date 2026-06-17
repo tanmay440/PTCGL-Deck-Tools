@@ -1,0 +1,33 @@
+{
+  "name": "Musharna",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Dream Calling",
+      "damage": 0,
+      "cost": 1,
+      "text": "You may search your deck for any number of Fennel cards, reveal them, and put them into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "Sleep Pulse",
+      "damage": 50,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Asleep."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Munna",
+  "retreat_cost": 2,
+  "set_code": "zsv10pt5",
+  "number": "36",
+  "legal": true,
+  "rarity": "Uncommon"
+}

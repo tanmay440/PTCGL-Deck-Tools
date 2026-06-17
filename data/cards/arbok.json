@@ -1,0 +1,33 @@
+{
+  "name": "Arbok",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Panic Poison",
+      "damage": 0,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Burned, Confused, and Poisoned."
+    },
+    {
+      "name": "Darkness Fang",
+      "damage": 70,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Ekans",
+  "retreat_cost": 2,
+  "set_code": "sv5",
+  "number": "101",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Hisuian Electrode",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Triple Draw",
+      "damage": 0,
+      "cost": 0,
+      "text": "Draw 3 cards."
+    },
+    {
+      "name": "Irritated Bomb",
+      "damage": 50,
+      "cost": 0,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Hisuian Voltorb",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "3",
+  "legal": true,
+  "rarity": "Uncommon"
+}

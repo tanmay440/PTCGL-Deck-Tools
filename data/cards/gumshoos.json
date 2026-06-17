@@ -1,0 +1,33 @@
+{
+  "name": "Gumshoos",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Stakeout Headbutt",
+      "damage": 30,
+      "cost": 2,
+      "text": "If your opponent's Active Pokémon moved from the Bench to the Active Spot during your opponent's last turn, this attack does 120 more damage."
+    },
+    {
+      "name": "Lunge Out",
+      "damage": 60,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Yungoos",
+  "retreat_cost": 1,
+  "set_code": "swsh12pt5",
+  "number": "118",
+  "legal": true,
+  "rarity": "Rare"
+}

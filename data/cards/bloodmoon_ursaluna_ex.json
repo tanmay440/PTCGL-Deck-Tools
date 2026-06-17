@@ -1,0 +1,33 @@
+{
+  "name": "Bloodmoon Ursaluna ex",
+  "hp": 260,
+  "attacks": [
+    {
+      "name": "Blood Moon",
+      "damage": 240,
+      "cost": 5,
+      "text": "During your next turn, this Pokémon can't attack."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Seasoned Skill",
+      "text": "Blood Moon used by this Pokémon costs Colorless less for each Prize card your opponent has taken."
+    }
+  ],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "svp",
+  "number": "177",
+  "legal": true,
+  "rarity": "Promo"
+}

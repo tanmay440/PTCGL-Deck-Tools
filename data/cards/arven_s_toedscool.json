@@ -1,0 +1,27 @@
+{
+  "name": "Arven's Toedscool",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Slight Intrusion",
+      "damage": 30,
+      "cost": 1,
+      "text": "This Pokémon also does 10 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "109",
+  "legal": true,
+  "rarity": "Common"
+}

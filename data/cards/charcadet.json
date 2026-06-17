@@ -1,0 +1,27 @@
+{
+  "name": "Charcadet",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Heat Blast",
+      "damage": 60,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv1",
+  "number": "40",
+  "legal": true,
+  "rarity": "Common"
+}

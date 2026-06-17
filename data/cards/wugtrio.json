@@ -1,0 +1,33 @@
+{
+  "name": "Wugtrio",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Headbutt",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Undersea Tunnel",
+      "damage": 0,
+      "cost": 3,
+      "text": "Flip 3 coins. For each heads, discard the top 3 cards of your opponent's deck."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Wiglett",
+  "retreat_cost": 2,
+  "set_code": "sv1",
+  "number": "57",
+  "legal": true,
+  "rarity": "Uncommon"
+}

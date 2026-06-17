@@ -1,0 +1,32 @@
+{
+  "name": "Cherubi",
+  "hp": 40,
+  "attacks": [
+    {
+      "name": "Leafage",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Lively Fruit",
+      "text": "Prevent all effects of attacks from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)"
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "12",
+  "legal": true,
+  "rarity": "Common"
+}

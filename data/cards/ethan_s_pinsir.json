@@ -1,0 +1,33 @@
+{
+  "name": "Ethan's Pinsir",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Vise Grip",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Rallying Horn",
+      "damage": 70,
+      "cost": 3,
+      "text": "If any of your Ethan's Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 100 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv10",
+  "number": "1",
+  "legal": true,
+  "rarity": "Uncommon"
+}

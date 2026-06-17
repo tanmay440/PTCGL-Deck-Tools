@@ -1,0 +1,27 @@
+{
+  "name": "Mow Rotom",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Reaping Dash",
+      "damage": 30,
+      "cost": 1,
+      "text": "Before doing damage, discard all Pokémon Tools and Special Energy from your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv7",
+  "number": "8",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Cetitan",
+  "hp": 180,
+  "attacks": [
+    {
+      "name": "Hammer In",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Sweeping Tackle",
+      "damage": 200,
+      "cost": 3,
+      "text": "This attack does 20 less damage for each damage counter on this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Cetoddle",
+  "retreat_cost": 3,
+  "set_code": "sv1",
+  "number": "60",
+  "legal": true,
+  "rarity": "Uncommon"
+}

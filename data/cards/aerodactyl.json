@@ -1,0 +1,33 @@
+{
+  "name": "Aerodactyl",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Glide",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Devolution Ray",
+      "damage": 100,
+      "cost": 2,
+      "text": "If your opponent's Active Pokémon is an evolved Pokémon, devolve it by putting the highest Stage Evolution card on it into your opponent's hand."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Antique Old Amber",
+  "retreat_cost": 0,
+  "set_code": "sv3pt5",
+  "number": "142",
+  "legal": true,
+  "rarity": "Rare"
+}

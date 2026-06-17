@@ -1,0 +1,34 @@
+{
+  "name": "Teal Mask Ogerpon ex",
+  "hp": 210,
+  "attacks": [
+    {
+      "name": "Myriad Leaf Shower",
+      "damage": 30,
+      "cost": 3,
+      "text": "This attack does 30 more damage for each Energy attached to both Active Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Teal Dance",
+      "text": "Once during your turn, you may attach a Basic Grass Energy card from your hand to this Pokémon. If you attached Energy to a Pokémon in this way, draw a card."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Tera",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "svp",
+  "number": "166",
+  "legal": true,
+  "rarity": "Promo"
+}

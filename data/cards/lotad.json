@@ -1,0 +1,27 @@
+{
+  "name": "Lotad",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Water Gun",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv9",
+  "number": "35",
+  "legal": true,
+  "rarity": "Common"
+}

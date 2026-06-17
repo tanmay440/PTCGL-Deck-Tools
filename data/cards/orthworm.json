@@ -1,0 +1,32 @@
+{
+  "name": "Orthworm",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Shoot Through",
+      "damage": 100,
+      "cost": 4,
+      "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Nutritional Iron",
+      "text": "If this Pokémon has 3 or more Metal Energy attached, it gets +100 HP."
+    }
+  ],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv2",
+  "number": "151",
+  "legal": true,
+  "rarity": "Rare"
+}

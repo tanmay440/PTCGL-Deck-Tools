@@ -1,0 +1,25 @@
+{
+  "name": "Technical Machine: Blindside",
+  "hp": 0,
+  "attacks": [
+    {
+      "name": "Blindside",
+      "damage": 0,
+      "cost": 3,
+      "text": "This attack does 100 damage to 1 of your opponent's Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Pokémon Tool"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv4",
+  "number": "176",
+  "legal": true,
+  "rarity": "Uncommon"
+}

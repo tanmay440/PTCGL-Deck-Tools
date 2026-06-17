@@ -1,0 +1,33 @@
+{
+  "name": "Beartic",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Sheer Cold",
+      "damage": 40,
+      "cost": 2,
+      "text": "During your opponent's next turn, the Defending Pokémon can't attack."
+    },
+    {
+      "name": "Frost Smash",
+      "damage": 130,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Cubchoo",
+  "retreat_cost": 3,
+  "set_code": "swsh9",
+  "number": "43",
+  "legal": true,
+  "rarity": "Uncommon"
+}

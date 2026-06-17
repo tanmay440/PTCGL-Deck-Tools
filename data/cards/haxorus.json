@@ -1,0 +1,33 @@
+{
+  "name": "Haxorus",
+  "hp": 170,
+  "attacks": [
+    {
+      "name": "Slash",
+      "damage": 60,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Wild Axe",
+      "damage": 160,
+      "cost": 2,
+      "text": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Fraxure",
+  "retreat_cost": 2,
+  "set_code": "swsh9",
+  "number": "112",
+  "legal": true,
+  "rarity": "Rare"
+}

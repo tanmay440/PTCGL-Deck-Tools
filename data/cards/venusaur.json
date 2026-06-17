@@ -1,0 +1,32 @@
+{
+  "name": "Venusaur",
+  "hp": 180,
+  "attacks": [
+    {
+      "name": "Solar Beam",
+      "damage": 130,
+      "cost": 4,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Loopy Lasso",
+      "text": "Once during your turn, you may flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon, and the new Active Pokémon is now Asleep and Poisoned."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Ivysaur",
+  "retreat_cost": 4,
+  "set_code": "pgo",
+  "number": "3",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

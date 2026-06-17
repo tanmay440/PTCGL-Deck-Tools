@@ -1,0 +1,32 @@
+{
+  "name": "Erika's Tangela",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Bind",
+      "damage": 50,
+      "cost": 2,
+      "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Gathering of Blossoms",
+      "text": "Once during your turn, you may use this Ability. Search your deck for an Erika's Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "me2pt5",
+  "number": "7",
+  "legal": false,
+  "rarity": "Common"
+}

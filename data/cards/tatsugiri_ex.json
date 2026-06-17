@@ -1,0 +1,35 @@
+{
+  "name": "Tatsugiri ex",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Surprise Pump",
+      "damage": 100,
+      "cost": 2,
+      "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+    },
+    {
+      "name": "Cinnabar Lure",
+      "damage": 0,
+      "cost": 3,
+      "text": "Look at the top 10 cards of your deck. You may put any number of Pokémon you find there onto your Bench. Shuffle the other cards back into your deck."
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Tera",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv8",
+  "number": "142",
+  "legal": true,
+  "rarity": "Double Rare"
+}

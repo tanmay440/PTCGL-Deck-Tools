@@ -1,0 +1,27 @@
+{
+  "name": "Team Rocket's Drowzee",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Hypnotic Ray",
+      "damage": 10,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Asleep."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv10",
+  "number": "79",
+  "legal": true,
+  "rarity": "Common"
+}

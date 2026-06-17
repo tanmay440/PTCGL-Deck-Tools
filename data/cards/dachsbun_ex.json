@@ -1,0 +1,33 @@
+{
+  "name": "Dachsbun ex",
+  "hp": 250,
+  "attacks": [
+    {
+      "name": "Wonder Shine",
+      "damage": 130,
+      "cost": 2,
+      "text": "Your opponent's Active Pokémon is now Confused."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Time to Chow Down",
+      "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may heal all damage from each of your Evolution Pokémon. If you healed any damage in this way, discard all Energy from those Pokémon."
+    }
+  ],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Fidough",
+  "retreat_cost": 2,
+  "set_code": "sv7",
+  "number": "67",
+  "legal": true,
+  "rarity": "Double Rare"
+}

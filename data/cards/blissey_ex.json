@@ -1,0 +1,33 @@
+{
+  "name": "Blissey ex",
+  "hp": 300,
+  "attacks": [
+    {
+      "name": "Return",
+      "damage": 180,
+      "cost": 3,
+      "text": "You may draw cards until you have 6 cards in your hand."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Happy Switch",
+      "text": "Once during your turn, you may move a Basic Energy from 1 of your Pokémon to another of your Pokémon."
+    }
+  ],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Chansey",
+  "retreat_cost": 4,
+  "set_code": "sv6",
+  "number": "134",
+  "legal": true,
+  "rarity": "Double Rare"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Krokorok",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Crunch",
+      "damage": 60,
+      "cost": 3,
+      "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Sandile",
+  "retreat_cost": 3,
+  "set_code": "swsh12",
+  "number": "112",
+  "legal": true,
+  "rarity": "Uncommon"
+}

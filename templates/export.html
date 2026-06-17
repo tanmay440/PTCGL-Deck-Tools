@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}Export &mdash; PTCGL Deck Optimizer{% endblock %}
+
+{% block content %}
+<section id="export-page" class="card-section">
+  <h2>Raw Deck List</h2>
+  <p class="hint">
+    Paste this into PTCGL's deck import dialog.
+  </p>
+
+  <button
+    type="button"
+    class="copy-btn primary-btn"
+    data-copy-target="#export-text"
+  >Copy to Clipboard</button>
+
+  <pre id="export-text" class="export-pre">{{ export_text or '(no deck provided)' }}</pre>
+
+  <p>
+    <a href="{{ url_for('home') }}" class="back-link">&larr; Back to optimizer</a>
+  </p>
+</section>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+{% endblock %}

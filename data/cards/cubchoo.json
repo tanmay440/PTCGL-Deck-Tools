@@ -1,0 +1,27 @@
+{
+  "name": "Cubchoo",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Chilly",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "42",
+  "legal": true,
+  "rarity": "Common"
+}

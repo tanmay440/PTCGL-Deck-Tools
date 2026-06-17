@@ -1,0 +1,27 @@
+{
+  "name": "Meditite",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Focus Fist",
+      "damage": 30,
+      "cost": 1,
+      "text": "Flip a coin. If tails, this attack does nothing."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "99",
+  "legal": true,
+  "rarity": "Common"
+}

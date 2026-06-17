@@ -1,0 +1,33 @@
+{
+  "name": "Cascoon",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Harden",
+      "damage": 0,
+      "cost": 1,
+      "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 60 or less."
+    },
+    {
+      "name": "Rolling Tackle",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Wurmple",
+  "retreat_cost": 3,
+  "set_code": "swsh11",
+  "number": "9",
+  "legal": true,
+  "rarity": "Uncommon"
+}

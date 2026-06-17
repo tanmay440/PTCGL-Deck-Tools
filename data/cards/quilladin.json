@@ -1,0 +1,33 @@
+{
+  "name": "Quilladin",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Leafy Charge",
+      "damage": 20,
+      "cost": 1,
+      "text": "Search your deck for a Basic Grass Energy card and attach it to this Pokémon. Then, shuffle your deck."
+    },
+    {
+      "name": "Vine Whip",
+      "damage": 80,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Chespin",
+  "retreat_cost": 3,
+  "set_code": "me4",
+  "number": "6",
+  "legal": true,
+  "rarity": "Common"
+}

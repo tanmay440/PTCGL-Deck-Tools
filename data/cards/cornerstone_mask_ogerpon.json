@@ -1,0 +1,33 @@
+{
+  "name": "Cornerstone Mask Ogerpon",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Rock Kagura",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for a Basic Fighting Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck."
+    },
+    {
+      "name": "Mountain Ramming",
+      "damage": 100,
+      "cost": 3,
+      "text": "Discard the top card of your opponent's deck."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "111",
+  "legal": true,
+  "rarity": "Uncommon"
+}

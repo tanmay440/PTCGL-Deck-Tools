@@ -1,0 +1,33 @@
+{
+  "name": "Corvisquire",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Glide",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Clutch",
+      "damage": 70,
+      "cost": 3,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Rookidee",
+  "retreat_cost": 1,
+  "set_code": "sv2",
+  "number": "165",
+  "legal": true,
+  "rarity": "Uncommon"
+}

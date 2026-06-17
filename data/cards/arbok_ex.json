@@ -1,0 +1,34 @@
+{
+  "name": "Arbok ex",
+  "hp": 270,
+  "attacks": [
+    {
+      "name": "Bind Down",
+      "damage": 70,
+      "cost": 2,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    },
+    {
+      "name": "Menacing Fangs",
+      "damage": 150,
+      "cost": 3,
+      "text": "Your opponent discards 2 cards from their hand."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Ekans",
+  "retreat_cost": 2,
+  "set_code": "sv3pt5",
+  "number": "24",
+  "legal": true,
+  "rarity": "Double Rare"
+}

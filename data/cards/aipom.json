@@ -1,0 +1,33 @@
+{
+  "name": "Aipom",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Bustle",
+      "damage": 0,
+      "cost": 1,
+      "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+    },
+    {
+      "name": "Slap",
+      "damage": 30,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "pgo",
+  "number": "56",
+  "legal": true,
+  "rarity": "Common"
+}

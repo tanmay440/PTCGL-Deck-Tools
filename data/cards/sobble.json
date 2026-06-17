@@ -1,0 +1,27 @@
+{
+  "name": "Sobble",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Bind",
+      "damage": 20,
+      "cost": 2,
+      "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH003",
+  "legal": false,
+  "rarity": "Promo"
+}

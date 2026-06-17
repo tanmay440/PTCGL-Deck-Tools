@@ -1,0 +1,27 @@
+{
+  "name": "Clobbopus",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Feint",
+      "damage": 20,
+      "cost": 1,
+      "text": "This attack's damage isn't affected by Resistance."
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv4pt5",
+  "number": "51",
+  "legal": true,
+  "rarity": "Common"
+}

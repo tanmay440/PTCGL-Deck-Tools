@@ -1,0 +1,33 @@
+{
+  "name": "Pansage",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Call for Family",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+    },
+    {
+      "name": "Leech Seed",
+      "damage": 30,
+      "cost": 3,
+      "text": "Heal 10 damage from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv4",
+  "number": "4",
+  "legal": true,
+  "rarity": "Common"
+}

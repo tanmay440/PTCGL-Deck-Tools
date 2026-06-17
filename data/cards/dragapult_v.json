@@ -1,0 +1,34 @@
+{
+  "name": "Dragapult V",
+  "hp": 210,
+  "attacks": [
+    {
+      "name": "Bite",
+      "damage": 30,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Jet Assault",
+      "damage": 60,
+      "cost": 2,
+      "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 80 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "V"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH096",
+  "legal": false,
+  "rarity": "Promo"
+}

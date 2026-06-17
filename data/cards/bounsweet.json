@@ -1,0 +1,33 @@
+{
+  "name": "Bounsweet",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Stampede",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Reckless Charge",
+      "damage": 30,
+      "cost": 2,
+      "text": "This Pokémon also does 10 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv3",
+  "number": "16",
+  "legal": true,
+  "rarity": "Common"
+}

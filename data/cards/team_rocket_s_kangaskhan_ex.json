@@ -1,0 +1,34 @@
+{
+  "name": "Team Rocket's Kangaskhan ex",
+  "hp": 230,
+  "attacks": [
+    {
+      "name": "Comet Punch",
+      "damage": 30,
+      "cost": 2,
+      "text": "Flip 4 coins. This attack does 30 damage for each heads."
+    },
+    {
+      "name": "Wicked Impact",
+      "damage": 120,
+      "cost": 3,
+      "text": "If you played a Supporter card that has \"Team Rocket\" in its name from your hand during this turn, this attack does 100 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "me2pt5",
+  "number": "162",
+  "legal": true,
+  "rarity": "Double Rare"
+}

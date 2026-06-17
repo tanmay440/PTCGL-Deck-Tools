@@ -1,0 +1,33 @@
+{
+  "name": "Shroodle",
+  "hp": 50,
+  "attacks": [
+    {
+      "name": "Scratch",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Toxic Teeth",
+      "damage": 20,
+      "cost": 2,
+      "text": "Your opponent's Active Pokémon is now Poisoned."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "svp",
+  "number": "99",
+  "legal": true,
+  "rarity": "Promo"
+}

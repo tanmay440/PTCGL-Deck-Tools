@@ -1,0 +1,27 @@
+{
+  "name": "Melmetal VMAX",
+  "hp": 330,
+  "attacks": [
+    {
+      "name": "G-Max Juggernaut",
+      "damage": 160,
+      "cost": 3,
+      "text": "This attack does 60 more damage for each extra Metal Energy attached to this Pokémon (in addition to this attack's cost). You can't add more than 120 damage in this way."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "VMAX"
+  ],
+  "evolvesFrom": "Melmetal V",
+  "retreat_cost": 4,
+  "set_code": "pgo",
+  "number": "48",
+  "legal": true,
+  "rarity": "Rare Holo VMAX"
+}

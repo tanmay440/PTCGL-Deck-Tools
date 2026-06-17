@@ -1,0 +1,27 @@
+{
+  "name": "Ethan's Pichu",
+  "hp": 30,
+  "attacks": [
+    {
+      "name": "Zapping Draw",
+      "damage": 30,
+      "cost": 1,
+      "text": "Draw a card."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv10",
+  "number": "71",
+  "legal": true,
+  "rarity": "Common"
+}

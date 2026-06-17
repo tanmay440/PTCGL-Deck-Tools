@@ -1,0 +1,33 @@
+{
+  "name": "Grimmsnarl",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Longhair Shot",
+      "damage": 0,
+      "cost": 1,
+      "text": "This attack does 30 damage to 1 of your opponent's Pokémon for each Darkness Energy attached to this Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    },
+    {
+      "name": "Darkness Fang",
+      "damage": 110,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Morgrem",
+  "retreat_cost": 2,
+  "set_code": "swsh9",
+  "number": "94",
+  "legal": true,
+  "rarity": "Rare"
+}

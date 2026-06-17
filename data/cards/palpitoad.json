@@ -1,0 +1,27 @@
+{
+  "name": "Palpitoad",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Rain Splash",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Tympole",
+  "retreat_cost": 2,
+  "set_code": "sv3",
+  "number": "51",
+  "legal": true,
+  "rarity": "Common"
+}

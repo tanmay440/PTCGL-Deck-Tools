@@ -1,0 +1,35 @@
+{
+  "name": "Umbreon ex",
+  "hp": 280,
+  "attacks": [
+    {
+      "name": "Moon Mirage",
+      "damage": 160,
+      "cost": 3,
+      "text": "Your opponent's Active Pokémon is now Confused."
+    },
+    {
+      "name": "Onyx",
+      "damage": 0,
+      "cost": 3,
+      "text": "Discard all Energy from this Pokémon, and take a Prize card."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "Tera",
+    "ex"
+  ],
+  "evolvesFrom": "Eevee",
+  "retreat_cost": 2,
+  "set_code": "sv8pt5",
+  "number": "60",
+  "legal": true,
+  "rarity": "Double Rare"
+}

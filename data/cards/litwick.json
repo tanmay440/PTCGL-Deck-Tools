@@ -1,0 +1,27 @@
+{
+  "name": "Litwick",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Kindling Panic",
+      "damage": 0,
+      "cost": 1,
+      "text": "Discard the top card of your opponent's deck."
+    }
+  ],
+  "abilities": [],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "24",
+  "legal": true,
+  "rarity": "Common"
+}

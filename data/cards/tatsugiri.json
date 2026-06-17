@@ -1,0 +1,33 @@
+{
+  "name": "Tatsugiri",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Mise en Place",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for up to 2 Basic Water Energy cards and attach them to 1 of your Basic Pokémon. Then, shuffle your deck."
+    },
+    {
+      "name": "Curl Up",
+      "damage": 30,
+      "cost": 1,
+      "text": "Put this Pokémon and all attached cards into your hand."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv1",
+  "number": "62",
+  "legal": true,
+  "rarity": "Uncommon"
+}

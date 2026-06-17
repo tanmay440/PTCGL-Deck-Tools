@@ -1,0 +1,33 @@
+{
+  "name": "Registeel",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Regi Gate",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+    },
+    {
+      "name": "Heavy Slam",
+      "damage": 220,
+      "cost": 3,
+      "text": "This attack does 50 less damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "swsh10",
+  "number": "108",
+  "legal": true,
+  "rarity": "Rare"
+}

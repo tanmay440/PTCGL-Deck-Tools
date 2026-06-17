@@ -1,0 +1,33 @@
+{
+  "name": "Wooper",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Scoop Water",
+      "damage": 0,
+      "cost": 1,
+      "text": "Shuffle up to 3 Basic Water Energy cards from your discard pile into your deck."
+    },
+    {
+      "name": "Headbutt",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "svp",
+  "number": "155",
+  "legal": true,
+  "rarity": "Promo"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Team Rocket's Ampharos",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Head Bolt",
+      "damage": 140,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Darkest Impulse",
+      "text": "Whenever your opponent plays a Pokémon from their hand to evolve 1 of their Pokémon, put 4 damage counters on that Pokémon. The effect of Darkest Impulse doesn't stack."
+    }
+  ],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Team Rocket's Flaaffy",
+  "retreat_cost": 2,
+  "set_code": "sv10",
+  "number": "74",
+  "legal": true,
+  "rarity": "Uncommon"
+}

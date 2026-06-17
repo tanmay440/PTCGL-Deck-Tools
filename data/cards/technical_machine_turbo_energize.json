@@ -1,0 +1,25 @@
+{
+  "name": "Technical Machine: Turbo Energize",
+  "hp": 0,
+  "attacks": [
+    {
+      "name": "Turbo Energize",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for up to 2 Basic Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Pokémon Tool"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv4",
+  "number": "179",
+  "legal": true,
+  "rarity": "Uncommon"
+}

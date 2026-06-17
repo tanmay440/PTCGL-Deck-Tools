@@ -1,0 +1,33 @@
+{
+  "name": "Revavroom ex",
+  "hp": 280,
+  "attacks": [
+    {
+      "name": "Wild Drift",
+      "damage": 170,
+      "cost": 3,
+      "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Tune-Up",
+      "text": "This Pokémon may have up to 4 Pokémon Tools attached to it. If it loses this Ability, discard Pokémon Tools from it until only 1 remains."
+    }
+  ],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Varoom",
+  "retreat_cost": 1,
+  "set_code": "sv3",
+  "number": "156",
+  "legal": true,
+  "rarity": "Double Rare"
+}

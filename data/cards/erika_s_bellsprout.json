@@ -1,0 +1,27 @@
+{
+  "name": "Erika's Bellsprout",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Vine Slap",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "me2pt5",
+  "number": "4",
+  "legal": false,
+  "rarity": "Common"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Oddish",
+  "hp": 50,
+  "attacks": [
+    {
+      "name": "Ram",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "1",
+  "legal": true,
+  "rarity": "Common"
+}

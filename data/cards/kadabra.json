@@ -1,0 +1,27 @@
+{
+  "name": "Kadabra",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Teleportation Attack",
+      "damage": 30,
+      "cost": 1,
+      "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Abra",
+  "retreat_cost": 1,
+  "set_code": "sv3pt5",
+  "number": "64",
+  "legal": true,
+  "rarity": "Uncommon"
+}

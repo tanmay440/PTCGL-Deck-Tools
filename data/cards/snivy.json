@@ -1,0 +1,33 @@
+{
+  "name": "Snivy",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Tackle",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Vine Whip",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "zsv10pt5",
+  "number": "1",
+  "legal": true,
+  "rarity": "Common"
+}

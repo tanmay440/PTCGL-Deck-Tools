@@ -1,0 +1,32 @@
+{
+  "name": "Bastiodon",
+  "hp": 160,
+  "attacks": [
+    {
+      "name": "Iron Tackle",
+      "damage": 180,
+      "cost": 3,
+      "text": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Primal Fortress",
+      "text": "Your Pokémon take 30 less damage from attacks from your opponent's Pokémon V (after applying Weakness and Resistance)."
+    }
+  ],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Shieldon",
+  "retreat_cost": 4,
+  "set_code": "swsh10",
+  "number": "110",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

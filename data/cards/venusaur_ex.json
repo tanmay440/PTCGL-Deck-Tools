@@ -1,0 +1,33 @@
+{
+  "name": "Venusaur ex",
+  "hp": 340,
+  "attacks": [
+    {
+      "name": "Dangerous Toxwhip",
+      "damage": 150,
+      "cost": 3,
+      "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Tranquil Flower",
+      "text": "Once during your turn, if this Pokémon is in the Active Spot, you may heal 60 damage from 1 of your Pokémon."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Ivysaur",
+  "retreat_cost": 4,
+  "set_code": "sv3pt5",
+  "number": "3",
+  "legal": true,
+  "rarity": "Double Rare"
+}

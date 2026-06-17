@@ -1,0 +1,33 @@
+{
+  "name": "Poochyena",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Gnaw",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Slight Intrusion",
+      "damage": 30,
+      "cost": 2,
+      "text": "This Pokémon also does 10 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "95",
+  "legal": true,
+  "rarity": "Common"
+}

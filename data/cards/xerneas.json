@@ -1,0 +1,33 @@
+{
+  "name": "Xerneas",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Aurora Gain",
+      "damage": 30,
+      "cost": 2,
+      "text": "Heal 30 damage from this Pokémon."
+    },
+    {
+      "name": "Giga Impact",
+      "damage": 130,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't attack."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv8",
+  "number": "88",
+  "legal": true,
+  "rarity": "Uncommon"
+}

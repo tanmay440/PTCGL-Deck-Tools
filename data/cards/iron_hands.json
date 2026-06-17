@@ -1,0 +1,34 @@
+{
+  "name": "Iron Hands",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Volt Wave",
+      "damage": 30,
+      "cost": 2,
+      "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    },
+    {
+      "name": "Superalloy Hands",
+      "damage": 80,
+      "cost": 3,
+      "text": "If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 80 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Future"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 3,
+  "set_code": "sv5",
+  "number": "61",
+  "legal": true,
+  "rarity": "Uncommon"
+}

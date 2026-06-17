@@ -1,0 +1,35 @@
+{
+  "name": "Wugtrio ex",
+  "hp": 250,
+  "attacks": [
+    {
+      "name": "Tricolor Pump",
+      "damage": 0,
+      "cost": 1,
+      "text": "Discard up to 3 Energy cards from your hand. This attack does 60 damage to 1 of your opponent's Pokémon for each Energy card you discarded in this way. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    },
+    {
+      "name": "Numbing Hold",
+      "damage": 120,
+      "cost": 2,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "Tera",
+    "ex"
+  ],
+  "evolvesFrom": "Wiglett",
+  "retreat_cost": 1,
+  "set_code": "sv5",
+  "number": "60",
+  "legal": true,
+  "rarity": "Double Rare"
+}

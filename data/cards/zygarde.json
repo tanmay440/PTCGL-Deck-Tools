@@ -1,0 +1,33 @@
+{
+  "name": "Zygarde",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Shout of Power",
+      "damage": 20,
+      "cost": 1,
+      "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon."
+    },
+    {
+      "name": "Speed Attack",
+      "damage": 70,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Dragon",
+  "types": [
+    "Dragon"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12",
+  "number": "134",
+  "legal": true,
+  "rarity": "Rare"
+}

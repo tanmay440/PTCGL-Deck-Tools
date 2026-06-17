@@ -1,0 +1,27 @@
+{
+  "name": "Gloom",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Absorb",
+      "damage": 30,
+      "cost": 2,
+      "text": "Heal 30 damage from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Oddish",
+  "retreat_cost": 2,
+  "set_code": "swsh11",
+  "number": "2",
+  "legal": true,
+  "rarity": "Uncommon"
+}

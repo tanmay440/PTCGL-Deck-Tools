@@ -1,0 +1,33 @@
+{
+  "name": "Swirlix",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Flop",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Tackle",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12",
+  "number": "83",
+  "legal": true,
+  "rarity": "Common"
+}

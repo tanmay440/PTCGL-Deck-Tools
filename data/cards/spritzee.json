@@ -1,0 +1,27 @@
+{
+  "name": "Spritzee",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Fairy Wind",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv8pt5",
+  "number": "38",
+  "legal": true,
+  "rarity": "Common"
+}

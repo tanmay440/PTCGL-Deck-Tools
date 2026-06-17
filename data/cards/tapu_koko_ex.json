@@ -1,0 +1,34 @@
+{
+  "name": "Tapu Koko ex",
+  "hp": 210,
+  "attacks": [
+    {
+      "name": "Vengeful Shock",
+      "damage": 30,
+      "cost": 2,
+      "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 90 more damage, and your opponent's Active Pokémon is now Paralyzed."
+    },
+    {
+      "name": "Extreme Current",
+      "damage": 180,
+      "cost": 3,
+      "text": "Discard an Energy from this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv4",
+  "number": "68",
+  "legal": true,
+  "rarity": "Double Rare"
+}

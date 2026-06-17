@@ -1,0 +1,33 @@
+{
+  "name": "Special Delivery Bidoof",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Happy Delivery",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "Rock Smash",
+      "damage": 30,
+      "cost": 3,
+      "text": "Flip a coin. If heads, this attack does 30 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swshp",
+  "number": "SWSH177",
+  "legal": true,
+  "rarity": "Promo"
+}

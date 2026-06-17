@@ -1,0 +1,32 @@
+{
+  "name": "Pyroar",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Fire Fang",
+      "damage": 90,
+      "cost": 3,
+      "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Scorching Aura",
+      "text": "During Pokémon Checkup, put 4 damage counters on your opponent's Burned Pokémon instead of 2."
+    }
+  ],
+  "type": "Fire",
+  "types": [
+    "Fire"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Litleo",
+  "retreat_cost": 2,
+  "set_code": "swsh11",
+  "number": "29",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

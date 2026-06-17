@@ -1,0 +1,27 @@
+{
+  "name": "Zangoose",
+  "hp": 90,
+  "attacks": [
+    {
+      "name": "Slash",
+      "damage": 40,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv1",
+  "number": "146",
+  "legal": true,
+  "rarity": "Common"
+}

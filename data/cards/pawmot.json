@@ -1,0 +1,32 @@
+{
+  "name": "Pawmot",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Electro Paws",
+      "damage": 230,
+      "cost": 3,
+      "text": "Discard all Energy from this Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Electrogenesis",
+      "text": "Once during your turn, you may search your deck for a Basic Lightning Energy card and attach it to this Pokémon. Then, shuffle your deck."
+    }
+  ],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2"
+  ],
+  "evolvesFrom": "Pawmo",
+  "retreat_cost": 0,
+  "set_code": "sv1",
+  "number": "76",
+  "legal": true,
+  "rarity": "Rare"
+}

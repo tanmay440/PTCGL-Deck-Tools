@@ -1,0 +1,33 @@
+{
+  "name": "Hop's Silicobra",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Turf Maker",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for a Stadium card, reveal it, and put it into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "Gnaw",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Fighting",
+  "types": [
+    "Fighting"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv9",
+  "number": "86",
+  "legal": true,
+  "rarity": "Common"
+}

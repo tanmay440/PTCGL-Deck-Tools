@@ -1,0 +1,27 @@
+{
+  "name": "Togedemaru",
+  "hp": 80,
+  "attacks": [
+    {
+      "name": "Toge Dash",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip a coin. If heads, during your opponent's next turn, if this Pokémon is Knocked Out, your opponent can't take any Prize cards for it."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh12",
+  "number": "127",
+  "legal": true,
+  "rarity": "Common"
+}

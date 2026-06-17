@@ -1,0 +1,32 @@
+{
+  "name": "Thwackey",
+  "hp": 100,
+  "attacks": [
+    {
+      "name": "Beat",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Boom Boom Groove",
+      "text": "Once during your turn, if your Active Pokémon has the Festival Lead Ability, you may search your deck for a card and put it into your hand. Then, shuffle your deck."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Grookey",
+  "retreat_cost": 2,
+  "set_code": "svp",
+  "number": "115",
+  "legal": true,
+  "rarity": "Promo"
+}

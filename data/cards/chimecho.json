@@ -1,0 +1,33 @@
+{
+  "name": "Chimecho",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Clear Tone",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for up to 2 Special Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "Hang Down",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "63",
+  "legal": true,
+  "rarity": "Common"
+}

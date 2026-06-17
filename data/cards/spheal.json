@@ -1,0 +1,27 @@
+{
+  "name": "Spheal",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Powder Snow",
+      "damage": 10,
+      "cost": 1,
+      "text": "Your opponent's Active Pokémon is now Asleep."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv8",
+  "number": "43",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Glalie",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Bite",
+      "damage": 60,
+      "cost": 3,
+      "text": ""
+    },
+    {
+      "name": "Big Mouth",
+      "damage": 130,
+      "cost": 4,
+      "text": "If you played Candice from your hand during this turn, this attack does 130 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Snorunt",
+  "retreat_cost": 2,
+  "set_code": "swsh12",
+  "number": "42",
+  "legal": true,
+  "rarity": "Uncommon"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Pawniard",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Reckless Charge",
+      "damage": 30,
+      "cost": 1,
+      "text": "This Pokémon also does 10 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "115",
+  "legal": true,
+  "rarity": "Common"
+}

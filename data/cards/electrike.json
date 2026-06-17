@@ -1,0 +1,33 @@
+{
+  "name": "Electrike",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Zap Kick",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Thunder Fang",
+      "damage": 20,
+      "cost": 2,
+      "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh11",
+  "number": "54",
+  "legal": true,
+  "rarity": "Common"
+}

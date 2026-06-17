@@ -1,0 +1,27 @@
+{
+  "name": "Drifloon",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Triple Spin",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip 3 coins. This attack does 10 damage for each heads."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh10",
+  "number": "63",
+  "legal": true,
+  "rarity": "Common"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Palossand ex",
+  "hp": 280,
+  "attacks": [
+    {
+      "name": "Sand Tomb",
+      "damage": 160,
+      "cost": 3,
+      "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+    },
+    {
+      "name": "Barite Jail",
+      "damage": 0,
+      "cost": 3,
+      "text": "Put damage counters on each of your opponent's Benched Pokémon until its remaining HP is 100."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "Tera",
+    "ex"
+  ],
+  "evolvesFrom": "Sandygast",
+  "retreat_cost": 4,
+  "set_code": "sv8",
+  "number": "91",
+  "legal": true,
+  "rarity": "Double Rare"
+}

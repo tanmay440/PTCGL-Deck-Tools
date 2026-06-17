@@ -1,0 +1,33 @@
+{
+  "name": "Skarmory",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Peck",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Slashing Steel",
+      "damage": 120,
+      "cost": 3,
+      "text": "During your next turn, this Pokémon can't use Slashing Steel."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv3",
+  "number": "142",
+  "legal": true,
+  "rarity": "Uncommon"
+}

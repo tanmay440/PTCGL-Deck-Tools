@@ -1,0 +1,34 @@
+{
+  "name": "Aegislash ex",
+  "hp": 330,
+  "attacks": [
+    {
+      "name": "Peerless Edge",
+      "damage": 70,
+      "cost": 1,
+      "text": "This attack does 70 damage for each Prize card you have taken."
+    },
+    {
+      "name": "Double-Edged Slash",
+      "damage": 220,
+      "cost": 2,
+      "text": "This Pokémon also does 30 damage to itself."
+    }
+  ],
+  "abilities": [],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Doublade",
+  "retreat_cost": 3,
+  "set_code": "sv4",
+  "number": "135",
+  "legal": true,
+  "rarity": "Double Rare"
+}

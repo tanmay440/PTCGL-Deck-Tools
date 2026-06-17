@@ -1,0 +1,33 @@
+{
+  "name": "Clefairy",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Pound",
+      "damage": 10,
+      "cost": 1,
+      "text": ""
+    },
+    {
+      "name": "Magical Shot",
+      "damage": 30,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh9",
+  "number": "53",
+  "legal": true,
+  "rarity": "Common"
+}

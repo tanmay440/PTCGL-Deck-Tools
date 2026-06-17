@@ -1,0 +1,34 @@
+{
+  "name": "Xerneas ex",
+  "hp": 210,
+  "attacks": [
+    {
+      "name": "Aurora Beam",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Rising Horns",
+      "damage": 120,
+      "cost": 3,
+      "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 100 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "ex"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "svp",
+  "number": "179",
+  "legal": true,
+  "rarity": "Promo"
+}

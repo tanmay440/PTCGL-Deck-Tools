@@ -1,0 +1,34 @@
+{
+  "name": "Iron Valiant",
+  "hp": 130,
+  "attacks": [
+    {
+      "name": "Calculation",
+      "damage": 0,
+      "cost": 1,
+      "text": "Look at the top 4 cards of your deck and put them back in any order."
+    },
+    {
+      "name": "Majestic Sword",
+      "damage": 100,
+      "cost": 3,
+      "text": "If you played a Future Supporter card from your hand during this turn, this attack does 100 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic",
+    "Future"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "sv5",
+  "number": "80",
+  "legal": true,
+  "rarity": "Rare"
+}

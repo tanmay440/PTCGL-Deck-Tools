@@ -1,0 +1,27 @@
+{
+  "name": "Tadbulb",
+  "hp": 50,
+  "attacks": [
+    {
+      "name": "Thunder Wave",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv2",
+  "number": "77",
+  "legal": true,
+  "rarity": "Common"
+}

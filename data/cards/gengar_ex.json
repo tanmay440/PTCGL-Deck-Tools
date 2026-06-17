@@ -1,0 +1,33 @@
+{
+  "name": "Gengar ex",
+  "hp": 310,
+  "attacks": [
+    {
+      "name": "Tricky Steps",
+      "damage": 160,
+      "cost": 2,
+      "text": "You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Gnawing Curse",
+      "text": "Whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon."
+    }
+  ],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Haunter",
+  "retreat_cost": 2,
+  "set_code": "sv5",
+  "number": "104",
+  "legal": true,
+  "rarity": "Double Rare"
+}

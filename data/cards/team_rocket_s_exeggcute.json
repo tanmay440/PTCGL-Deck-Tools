@@ -1,0 +1,27 @@
+{
+  "name": "Team Rocket's Exeggcute",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Focused Wish",
+      "damage": 10,
+      "cost": 1,
+      "text": "Flip a coin. If heads, this attack does 20 more damage."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "me2pt5",
+  "number": "77",
+  "legal": true,
+  "rarity": "Common"
+}

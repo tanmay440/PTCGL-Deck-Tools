@@ -1,0 +1,27 @@
+{
+  "name": "Duosion",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Cell Spear",
+      "damage": 20,
+      "cost": 2,
+      "text": "Put 2 damage counters on 1 of your opponent's Benched Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Solosis",
+  "retreat_cost": 2,
+  "set_code": "swsh12",
+  "number": "77",
+  "legal": true,
+  "rarity": "Uncommon"
+}

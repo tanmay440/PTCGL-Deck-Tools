@@ -1,0 +1,19 @@
+{
+  "name": "Scramble Switch",
+  "hp": 0,
+  "attacks": [],
+  "abilities": [],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Item",
+    "ACE SPEC"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "sv8",
+  "number": "186",
+  "legal": true,
+  "rarity": "ACE SPEC Rare"
+}

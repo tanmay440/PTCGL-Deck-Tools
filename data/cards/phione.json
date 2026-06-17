@@ -1,0 +1,33 @@
+{
+  "name": "Phione",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Sea Feast",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for up to 3 Basic Water Pokémon and put them onto your Bench. Then, shuffle your deck."
+    },
+    {
+      "name": "Wave Splash",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swsh12",
+  "number": "45",
+  "legal": true,
+  "rarity": "Rare"
+}

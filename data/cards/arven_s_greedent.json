@@ -1,0 +1,32 @@
+{
+  "name": "Arven's Greedent",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Rolling Tackle",
+      "damage": 50,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Greedy Order",
+      "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put up to 2 Arven's Sandwich cards from your discard pile into your hand."
+    }
+  ],
+  "type": "Colorless",
+  "types": [
+    "Colorless"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Arven's Skwovet",
+  "retreat_cost": 2,
+  "set_code": "sv10",
+  "number": "159",
+  "legal": true,
+  "rarity": "Rare"
+}

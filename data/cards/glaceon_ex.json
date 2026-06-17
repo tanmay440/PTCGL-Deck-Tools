@@ -1,0 +1,35 @@
+{
+  "name": "Glaceon ex",
+  "hp": 270,
+  "attacks": [
+    {
+      "name": "Frost Bullet",
+      "damage": 110,
+      "cost": 2,
+      "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+    },
+    {
+      "name": "Euclase",
+      "damage": 0,
+      "cost": 3,
+      "text": "Knock Out 1 of your opponent's Pokémon that has exactly 6 damage counters on it."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "Tera",
+    "ex"
+  ],
+  "evolvesFrom": "Eevee",
+  "retreat_cost": 1,
+  "set_code": "sv8pt5",
+  "number": "26",
+  "legal": true,
+  "rarity": "Double Rare"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Inteleon",
+  "hp": 150,
+  "attacks": [
+    {
+      "name": "Waterfall",
+      "damage": 70,
+      "cost": 2,
+      "text": ""
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Quick Shooting",
+      "text": "Once during your turn, you may put 2 damage counters on 1 of your opponent's Pokémon."
+    }
+  ],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "Rapid Strike"
+  ],
+  "evolvesFrom": "Drizzile",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH113",
+  "legal": true,
+  "rarity": "Promo"
+}

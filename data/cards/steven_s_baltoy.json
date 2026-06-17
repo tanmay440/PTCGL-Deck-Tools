@@ -1,0 +1,33 @@
+{
+  "name": "Steven's Baltoy",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Summoning Sign",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for up to 2 Basic Steven's Pokémon and put them onto your Bench. Then, shuffle your deck."
+    },
+    {
+      "name": "Psychic Sphere",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv10",
+  "number": "83",
+  "legal": true,
+  "rarity": "Common"
+}

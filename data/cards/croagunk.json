@@ -1,0 +1,27 @@
+{
+  "name": "Croagunk",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Corkscrew Punch",
+      "damage": 20,
+      "cost": 1,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "swshp",
+  "number": "SWSH245",
+  "legal": true,
+  "rarity": "Promo"
+}

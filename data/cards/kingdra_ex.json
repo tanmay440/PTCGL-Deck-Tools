@@ -1,0 +1,34 @@
+{
+  "name": "Kingdra ex",
+  "hp": 310,
+  "attacks": [
+    {
+      "name": "King's Order",
+      "damage": 0,
+      "cost": 1,
+      "text": "Put up to 3 Water Pokémon from your discard pile onto your Bench."
+    },
+    {
+      "name": "Hydro Pump",
+      "damage": 50,
+      "cost": 2,
+      "text": "This attack does 50 more damage for each Water Energy attached to this Pokémon."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Seadra",
+  "retreat_cost": 1,
+  "set_code": "svp",
+  "number": "131",
+  "legal": true,
+  "rarity": "Promo"
+}

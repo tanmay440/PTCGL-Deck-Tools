@@ -1,0 +1,33 @@
+{
+  "name": "Team Rocket's Wobbuffet",
+  "hp": 110,
+  "attacks": [
+    {
+      "name": "Rocket Mirror",
+      "damage": 0,
+      "cost": 2,
+      "text": "Move all damage counters from 1 of your Benched Team Rocket's Pokémon to your opponent's Active Pokémon."
+    },
+    {
+      "name": "Headbutt Bounce",
+      "damage": 70,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Psychic",
+  "types": [
+    "Psychic"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "svp",
+  "number": "203",
+  "legal": true,
+  "rarity": "Promo"
+}

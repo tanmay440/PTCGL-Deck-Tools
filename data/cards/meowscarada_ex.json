@@ -1,0 +1,33 @@
+{
+  "name": "Meowscarada ex",
+  "hp": 310,
+  "attacks": [
+    {
+      "name": "Scratching Nails",
+      "damage": 100,
+      "cost": 2,
+      "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 120 more damage."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Bouquet Magic",
+      "text": "You must discard a Basic Grass Energy card from your hand in order to use this Ability. Once during your turn, you may put 3 damage counters on 1 of your opponent's Benched Pokémon."
+    }
+  ],
+  "type": "Grass",
+  "types": [
+    "Grass"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 2",
+    "ex"
+  ],
+  "evolvesFrom": "Floragato",
+  "retreat_cost": 2,
+  "set_code": "svp",
+  "number": "33",
+  "legal": true,
+  "rarity": "Promo"
+}

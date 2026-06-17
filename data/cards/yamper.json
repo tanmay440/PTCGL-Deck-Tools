@@ -1,0 +1,27 @@
+{
+  "name": "Yamper",
+  "hp": 70,
+  "attacks": [
+    {
+      "name": "Whimsy Tackle",
+      "damage": 20,
+      "cost": 1,
+      "text": "Flip a coin. If tails, this attack does nothing."
+    }
+  ],
+  "abilities": [],
+  "type": "Lightning",
+  "types": [
+    "Lightning"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "sv5",
+  "number": "58",
+  "legal": true,
+  "rarity": "Common"
+}

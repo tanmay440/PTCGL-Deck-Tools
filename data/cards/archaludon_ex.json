@@ -1,0 +1,33 @@
+{
+  "name": "Archaludon ex",
+  "hp": 300,
+  "attacks": [
+    {
+      "name": "Metal Defender",
+      "damage": 220,
+      "cost": 3,
+      "text": "During your opponent's next turn, this Pokémon has no Weakness."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Assemble Alloy",
+      "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may attach up to 2 Basic Metal Energy cards from your discard pile to your Metal Pokémon in any way you like."
+    }
+  ],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1",
+    "ex"
+  ],
+  "evolvesFrom": "Duraludon",
+  "retreat_cost": 2,
+  "set_code": "sv8",
+  "number": "130",
+  "legal": true,
+  "rarity": "Double Rare"
+}

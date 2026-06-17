@@ -1,0 +1,33 @@
+{
+  "name": "Scrafty",
+  "hp": 120,
+  "attacks": [
+    {
+      "name": "Nab 'n' Dash",
+      "damage": 0,
+      "cost": 1,
+      "text": "Search your deck for a number of cards up to the number of your Benched Pokémon and put them into your hand. Then, shuffle your deck."
+    },
+    {
+      "name": "High Jump Kick",
+      "damage": 100,
+      "cost": 3,
+      "text": ""
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Scraggy",
+  "retreat_cost": 1,
+  "set_code": "svp",
+  "number": "188",
+  "legal": true,
+  "rarity": "Promo"
+}

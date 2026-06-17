@@ -1,0 +1,27 @@
+{
+  "name": "Alolan Rattata",
+  "hp": 40,
+  "attacks": [
+    {
+      "name": "Hyper Fang",
+      "damage": 50,
+      "cost": 2,
+      "text": "Flip a coin. If tails, this attack does nothing."
+    }
+  ],
+  "abilities": [],
+  "type": "Darkness",
+  "types": [
+    "Darkness"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 1,
+  "set_code": "pgo",
+  "number": "41",
+  "legal": true,
+  "rarity": "Common"
+}

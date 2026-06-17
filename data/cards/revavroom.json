@@ -1,0 +1,32 @@
+{
+  "name": "Revavroom",
+  "hp": 140,
+  "attacks": [
+    {
+      "name": "Knock Away",
+      "damage": 90,
+      "cost": 4,
+      "text": "Flip a coin. If heads, this attack does 90 more damage."
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Rumbling Engine",
+      "text": "You must discard an Energy card from your hand in order to use this Ability. Once during your turn, you may draw cards until you have 6 cards in your hand."
+    }
+  ],
+  "type": "Metal",
+  "types": [
+    "Metal"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Stage 1"
+  ],
+  "evolvesFrom": "Varoom",
+  "retreat_cost": 2,
+  "set_code": "sv1",
+  "number": "142",
+  "legal": true,
+  "rarity": "Rare"
+}

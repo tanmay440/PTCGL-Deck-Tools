@@ -1,0 +1,24 @@
+{
+  "name": "Sky Seal Stone",
+  "hp": 0,
+  "attacks": [],
+  "abilities": [
+    {
+      "name": "Star Order",
+      "text": "During your turn, you may use this Ability. During this turn, if your opponent's Active Pokémon VSTAR or Active Pokémon VMAX is Knocked Out by damage from an attack from your Basic Pokémon V, take 1 more Prize card. (You can't use more than 1 VSTAR Power in a game.)"
+    }
+  ],
+  "type": "Colorless",
+  "types": [],
+  "supertype": "Trainer",
+  "subtypes": [
+    "Item",
+    "Pokémon Tool"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 0,
+  "set_code": "swsh12pt5",
+  "number": "143",
+  "legal": true,
+  "rarity": "Rare Holo"
+}

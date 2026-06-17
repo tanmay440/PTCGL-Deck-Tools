@@ -1,0 +1,33 @@
+{
+  "name": "Swinub",
+  "hp": 60,
+  "attacks": [
+    {
+      "name": "Stampede",
+      "damage": 20,
+      "cost": 2,
+      "text": ""
+    },
+    {
+      "name": "Icy Wind",
+      "damage": 40,
+      "cost": 3,
+      "text": "Your opponent's Active Pokémon is now Asleep."
+    }
+  ],
+  "abilities": [],
+  "type": "Water",
+  "types": [
+    "Water"
+  ],
+  "supertype": "Pokémon",
+  "subtypes": [
+    "Basic"
+  ],
+  "evolvesFrom": "",
+  "retreat_cost": 2,
+  "set_code": "swsh10",
+  "number": "31",
+  "legal": true,
+  "rarity": "Common"
+}
