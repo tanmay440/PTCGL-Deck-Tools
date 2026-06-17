@@ -1,0 +1,8 @@
+name:- Mega Charizard Y ex
+type:- Fire
+modifiers:- ex, mega, rule_box
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Charmander|0.15, Charmeleon|0.15, Energy Retrieval|0.01, Fire Energy|0.00, Lillie's Determination|0.00, Mega Charizard X ex|0.94, Oricorio ex|0.92, Poké Pad|0.00, Rare Candy|0.00
+bow_drivers:- discard, opponent, prize, cost_fire
+anti_meta:- N/A

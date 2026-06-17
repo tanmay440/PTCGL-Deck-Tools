@@ -1,0 +1,8 @@
+name:- Switching Cups
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Artazon|0.07, Arven|0.01, Battle Compressor|0.09, Buddy-Buddy Poffin|0.00, Counter Catcher|0.04, Counter Energy|0.06, Crobat|0.26, Cynthia & Caitlin|0.09, Dark Patch|0.17
+bow_drivers:- switch, hand, deck, zero_damage
+anti_meta:- N/A

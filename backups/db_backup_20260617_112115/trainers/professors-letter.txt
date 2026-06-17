@@ -1,0 +1,8 @@
+name:- Professor's Letter
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.36, Hisuian Heavy Ball|0.45, Nest Ball|0.40, Float Stone|0.53, Ultra Ball|0.02, Marnie|0.64, Arven|0.28, VS Seeker|0.31, Field Blower|0.43, Iono|0.28
+bow_drivers:- search, deck, energy, put
+anti_meta:- N/A

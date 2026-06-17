@@ -1,0 +1,8 @@
+name:- Tynamo
+type:- Lightning
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Buddy-Buddy Poffin|0.01, Canari|0.97, Eelektrik|1.00, Lightning Energy|0.12, Lillie's Determination|0.01, Ultra Ball|0.01, Battle Cage|0.09, Air Balloon|0.03, Mega Eelektross ex|0.88
+bow_drivers:- heal, damage, cost_colorless, zero_damage
+anti_meta:- N/A

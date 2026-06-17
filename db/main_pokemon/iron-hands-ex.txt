@@ -1,0 +1,8 @@
+name:- Iron Hands ex
+type:- Lightning
+modifiers:- ex, future, rule_box
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Ultra Ball|0.00, Archeops|0.67, Iono|0.04, Legacy Energy|0.04, Lugia V|0.67, Lugia VSTAR|0.67, Boss's Orders|0.00, Jet Energy|0.17, Professor's Research|0.21, Aurora Energy|0.21
+bow_drivers:- high_damage, cost_colorless, cost_lightning, opponent
+anti_meta:- N/A

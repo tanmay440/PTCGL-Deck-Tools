@@ -1,0 +1,7 @@
+game:- PTCG
+name:- Holon Locals #28
+date:- 2026-06-15T19:00:00.000Z
+format:- EX
+id:- 6a2f5fc2e334c3c9befd71b9
+players:- 10
+organizerId:- 1788

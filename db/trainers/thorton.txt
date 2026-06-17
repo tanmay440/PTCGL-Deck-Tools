@@ -1,0 +1,8 @@
+name:- Thorton
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.09, Hisuian Heavy Ball|0.11, Quick Ball|0.17, VS Seeker|0.09, Field Blower|0.10, Iono|0.08, Recycle Energy|0.56, Rescue Stretcher|0.11, Trainers' Mail|0.21, Ultra Ball|0.00
+bow_drivers:- discard, switch, damage, zero_damage
+anti_meta:- N/A

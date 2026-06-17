@@ -1,0 +1,8 @@
+name:- Surprise Box
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Budew|0.01, Capacious Bucket|0.50, Dive Ball|0.56, Drizzile|0.56, Evolution Incense|0.09, Field Blower|0.08, Forest Seal Stone|0.22, Guzma|0.06, Hugh|1.00
+bow_drivers:- discard, put, opponent, hand
+anti_meta:- N/A

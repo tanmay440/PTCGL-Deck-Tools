@@ -1,0 +1,8 @@
+name:- Great Haul Net
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Water Energy|0.04, Poké Pad|0.01, Boss's Orders|0.01, Surfing Beach|0.12, Lillie's Determination|0.01, Buddy-Buddy Poffin|0.01, Dawn|0.01, Night Stretcher|0.00, Ultra Ball|0.00, Kyogre|0.43
+bow_drivers:- discard, shuffle, deck, energy
+anti_meta:- N/A

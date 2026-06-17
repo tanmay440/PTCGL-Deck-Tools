@@ -1,0 +1,8 @@
+name:- Blacksmith
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.05, Chi-Yu|0.07, Escape Rope|0.19, Field Blower|0.08, Fire Energy|0.01, Float Stone|0.10, Guzma|0.06, Hisuian Heavy Ball|0.08, Lillie's Determination|0.00, Magcargo|0.99
+bow_drivers:- energy_acceleration, discard, attach, energy
+anti_meta:- N/A

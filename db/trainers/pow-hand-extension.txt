@@ -1,0 +1,8 @@
+name:- Pow! Hand Extension
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.84, Holon Mentor|0.78, Holon Transceiver|0.78, Holon Adventurer|0.78, Holon Scientist|0.78, Windstorm|0.81, Jirachi|0.77, Warp Point|0.58, Pokémon Retriever|0.71, Rare Candy|0.03
+bow_drivers:- opponent, defending, switch, prize
+anti_meta:- Bombtar|1.00, Bombchamp|1.00, Flygon δ|1.00

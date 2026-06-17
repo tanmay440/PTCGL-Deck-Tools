@@ -1,0 +1,8 @@
+name:- Jet Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Nest Ball|0.20, Ultra Ball|0.01, Arven|0.15, Iono|0.16, Buddy-Buddy Poffin|0.01, Night Stretcher|0.01, Guzma|0.11, VS Seeker|0.11, Super Rod|0.24, Double Turbo Energy|0.42
+bow_drivers:- energy_acceleration, energy, attach, hand
+anti_meta:- Gardevoir ex / Drifloon|0.68

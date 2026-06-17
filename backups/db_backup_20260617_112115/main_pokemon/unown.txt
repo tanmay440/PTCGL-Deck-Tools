@@ -1,0 +1,8 @@
+name:- Unown
+type:- Psychic
+modifiers:- v, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Acro Bike|0.61, Boost Shake|0.91, Chaotic Swell|0.71, Double Colorless Energy|0.28, Fog Crystal|0.35, Frillish|0.31, Grabber|1.00, Guzma|0.07, Jellicent ex|0.46, Karen|1.00
+bow_drivers:- cost_colorless, opponent, prize, attack
+anti_meta:- N/A

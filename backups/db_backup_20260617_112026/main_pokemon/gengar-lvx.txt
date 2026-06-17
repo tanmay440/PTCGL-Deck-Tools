@@ -1,0 +1,8 @@
+name:- Gengar LV.X
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Azelf|0.19, Baltoy|0.20, Bebe's Search|0.17, Claydol|0.22, Dusknoir|0.03, Duskull|0.03, Expert Belt|0.19, Gastly|0.50, Gengar|0.48, Haunter|0.51
+bow_drivers:- opponent, attack, shuffle, deck
+anti_meta:- N/A

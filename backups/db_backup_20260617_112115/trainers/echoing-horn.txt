@@ -1,0 +1,8 @@
+name:- Echoing Horn
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Bellelba & Brycen-Man|0.07, Camping Gear|0.33, Captivating Poké Puff|1.00, Chaotic Swell|0.05, Crushing Hammer|0.00, Cynthia & Caitlin|0.03, Double Colorless Energy|0.02, Energy Loto|1.00, Energy Swatter|0.96, Enhanced Hammer|0.00
+bow_drivers:- discard, put, opponent, bench
+anti_meta:- N/A

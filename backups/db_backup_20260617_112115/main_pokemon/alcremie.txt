@@ -1,0 +1,8 @@
+name:- Alcremie
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Cresselia|0.00, Granbull|1.00, Hero's Cape|0.00, Iris's Fighting Spirit|0.01, Lillie's Determination|0.00, Mega Diancie ex|0.01, Mega Signal|0.00
+bow_drivers:- attack, damage, cost_psychic
+anti_meta:- N/A

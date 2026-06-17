@@ -1,0 +1,8 @@
+name:- Claydol
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Baltoy|0.88, Luxury Ball|0.46, Rare Candy|0.02, Bebe's Search|0.59, Roseanne's Research|0.59, Expert Belt|0.63, Uxie|0.55, Call Energy|0.74, Psychic Energy|0.01, Warp Energy|0.35
+bow_drivers:- opponent, hand, cost_fighting
+anti_meta:- N/A

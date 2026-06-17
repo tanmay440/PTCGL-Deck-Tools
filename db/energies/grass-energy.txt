@@ -1,0 +1,8 @@
+name:- Grass Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.23, Night Stretcher|0.22, Lillie's Determination|0.22, Ultra Ball|0.21, Fezandipiti ex|0.22, Meowth ex|0.22, Bug Catching Set|0.58, Teal Mask Ogerpon ex|0.53, Poké Pad|0.14, Unfair Stamp|0.29
+bow_drivers:- zero_damage, zero_retreat
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Lillie's Clefairy|1.00, Cynthia's Garchomp|1.00, Lopunny Dudunsparce|1.00, Metagross|1.00, Ogerpon Meganium Hydrapple|1.00, Hop's Zacian|1.00, Hop's Trevenant|1.00, Rocket's Mewtwo|1.00, Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Lucario Hariyama|1.00, Starmie Froslass|1.00, Beedrill|1.00, Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Greninja|1.00, Decidueye|1.00, Ethan's Typhlosion|1.00, Alakazam Dudunsparce|1.00, N's Zoroark|1.00, Ursaluna Lunatone|1.00, Other|1.00, Hydreigon|1.00, Starmie Dusknoir|1.00, Manectric Eelektrik|1.00, Slowking|1.00, Rocket's Honchkrow|1.00, Bombtar|1.00, Future Thorns|1.00

@@ -1,0 +1,8 @@
+name:- Blastoise
+type:- Water
+modifiers:- ex, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Squirtle|0.90, Warp Point|0.01, Gardevoir|0.01, Gardevoir ex|0.01, Giant Stump|0.02, Here Comes Team Rocket!|0.79, Holon Adventurer|0.01, Holon Mentor|0.01, Holon Researcher|0.02, Holon Transceiver|0.01
+bow_drivers:- high_damage, discard, damage, weakness
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

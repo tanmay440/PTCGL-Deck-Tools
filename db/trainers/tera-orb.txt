@@ -1,0 +1,8 @@
+name:- Tera Orb
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Grass Energy|0.12, Lillie's Determination|0.03, Night Stretcher|0.03, Boss's Orders|0.03, Ultra Ball|0.03, Latias ex|0.11, Fezandipiti ex|0.03, Teal Mask Ogerpon ex|0.16, Crispin|0.05, Area Zero Underdepths|0.16
+bow_drivers:- search, deck, put, hand
+anti_meta:- Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Lucario Hariyama|1.00, Metagross|1.00, Starmie Froslass|1.00, Beedrill|1.00, Mega Lucario|1.00, Dragapult Dusknoir|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Alakazam Dudunsparce|1.00, Hydreigon|1.00, N's Zoroark|1.00

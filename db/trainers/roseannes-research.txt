@@ -1,0 +1,8 @@
+name:- Roseanne's Research
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Bebe's Search|1.00, Uxie|0.93, Expert Belt|0.93, Luxury Ball|0.58, Psychic Energy|0.02, Azelf|0.82, Call Energy|0.77, Night Maintenance|0.75, Warp Energy|0.42, Warp Point|0.34
+bow_drivers:- discard, search, put, deck
+anti_meta:- Gyarados|1.00

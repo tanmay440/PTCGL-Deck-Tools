@@ -1,0 +1,8 @@
+name:- Tate & Liza
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.04, Ball Guy|0.13, Buddy-Buddy Poffin|0.00, Field Blower|0.06, Float Stone|0.07, Guzma|0.04, Hisuian Heavy Ball|0.05, Iono|0.04, Level Ball|0.10, Marnie|0.08
+bow_drivers:- draw, shuffle, hand, deck
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Skuntank G
+type:- Psychic
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Luxury Ball|0.21, VS Seeker|0.08, Arven|0.06, Binding Mochi|0.09, Bloodmoon Ursaluna ex|0.13, Briar|0.08, Carmine|0.10, Colress|0.95, Colress's Tenacity|0.06, Crobat V|0.65
+bow_drivers:- attack, opponent, cost_colorless, defending
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Cyclone Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.37, Pow! Hand Extension|0.36, Windstorm|0.36, Warp Energy|0.32, Warp Point|0.26, Holon Mentor|0.30, Holon Adventurer|0.30, Holon Scientist|0.30, Holon Transceiver|0.30, Pokémon Retriever|0.34
+bow_drivers:- energy_acceleration, energy, switch, opponent
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

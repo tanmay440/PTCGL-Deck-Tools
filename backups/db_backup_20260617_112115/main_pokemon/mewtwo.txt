@@ -1,0 +1,8 @@
+name:- Mewtwo
+type:- Psychic
+modifiers:- ex, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Psychic Energy|0.00, VS Seeker|0.01, Acro Bike|0.08, Buddy-Buddy Poffin|0.00, Camping Gear|0.67, Cleffa|0.91, Counter Energy|0.05, Energy Switch|0.00, Evolution Incense|0.02, Faba|0.07
+bow_drivers:- high_damage, discard, attack, cost_psychic
+anti_meta:- N/A

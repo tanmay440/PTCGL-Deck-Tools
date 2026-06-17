@@ -1,0 +1,8 @@
+name:- Tulip
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.08, Buddy-Buddy Poffin|0.01, Evolution Incense|0.15, Field Blower|0.12, Float Stone|0.14, Fog Crystal|0.43, Guzma|0.09, Hisuian Heavy Ball|0.12, Inkay|0.90, Iron Boulder|0.58
+bow_drivers:- discard, put, energy, hand
+anti_meta:- N/A

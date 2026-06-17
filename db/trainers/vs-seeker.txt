@@ -1,0 +1,8 @@
+name:- VS Seeker
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.94, Field Blower|0.74, Iono|0.72, Arven|0.64, Rescue Stretcher|0.70, Hisuian Heavy Ball|0.70, Evolution Incense|0.65, Buddy-Buddy Poffin|0.05, Nest Ball|0.64, Night Stretcher|0.03
+bow_drivers:- discard, put, hand, attack
+anti_meta:- Bombtar|1.00, Gyarados|1.00

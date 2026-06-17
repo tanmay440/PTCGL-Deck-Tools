@@ -1,0 +1,8 @@
+name:- Weavile
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Lillie's Determination|0.00, Poké Pad|0.00, Sneasel|1.00, Team Rocket's Petrel|0.00, Ultra Ball|0.00, Brock's Scouting|0.00, Brute Bonnet|0.05
+bow_drivers:- high_damage, discard, cost_water, energy
+anti_meta:- N/A

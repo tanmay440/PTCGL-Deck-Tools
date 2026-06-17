@@ -1,0 +1,8 @@
+name:- Antique Cover Fossil
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Froakie|0.02, Frogadier|0.02, Hilda|0.00, Night Stretcher|0.00, Poké Pad|0.00, Tirtouga|0.97, Ultra Ball|0.00, Water Energy|0.01, Arven|0.02
+bow_drivers:- discard, opponent, damage, hp
+anti_meta:- N/A

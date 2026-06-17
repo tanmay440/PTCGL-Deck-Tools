@@ -1,0 +1,8 @@
+name:- Time-Space Distortion
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Bebe's Search|0.06, Felicity's Drawing|0.26, Luxury Ball|0.04, Roseanne's Research|0.06, Sableye|0.08, Uxie|0.06, Azelf|0.06, Broken Time-Space|0.49, Crobat G|0.11, Cynthia's Feelings|0.29
+bow_drivers:- search, discard, opponent, put
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Iron Boulder
+type:- Psychic
+modifiers:- future
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Psychic Energy|0.02, Lillie's Determination|0.01, Judge|0.03, Poké Pad|0.01, Night Stretcher|0.01, Telepathic Psychic Energy|0.04, Ultra Ball|0.01, Energy Retrieval|0.08, Pokégear 3.0|0.03, Buddy-Buddy Poffin|0.01
+bow_drivers:- high_damage, hand, opponent, attack
+anti_meta:- Future Thorns|1.00

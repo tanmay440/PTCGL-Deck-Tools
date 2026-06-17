@@ -1,0 +1,8 @@
+name:- Recycle Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.14, VS Seeker|0.14, Field Blower|0.18, Hisuian Heavy Ball|0.17, Iono|0.13, Quick Ball|0.25, Rescue Stretcher|0.19, Ultra Ball|0.01, Guzma & Hala|0.24, Pokégear 3.0|0.03
+bow_drivers:- discard, energy, put, hand
+anti_meta:- N/A

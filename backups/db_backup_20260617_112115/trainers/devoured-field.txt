@@ -1,0 +1,8 @@
+name:- Devoured Field
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Arven|0.02, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Budew|0.00, Charizard ex|0.33, Charmander|0.17, Charmeleon|0.17, Chi-Yu|0.02, Dawn|0.00
+bow_drivers:- discard, opponent, damage, weakness
+anti_meta:- N/A

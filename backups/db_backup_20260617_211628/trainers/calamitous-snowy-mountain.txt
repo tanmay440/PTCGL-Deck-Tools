@@ -1,0 +1,8 @@
+name:- Calamitous Snowy Mountain
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.02, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Ciphermaniac's Codebreaking|0.01, Counter Catcher|0.04, Darkness Energy|0.00, Dragapult ex|0.00, Drakloak|0.00, Dreepy|0.00, Earthen Vessel|0.06
+bow_drivers:- discard, put, energy, hand
+anti_meta:- N/A

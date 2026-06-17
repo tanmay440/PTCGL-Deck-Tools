@@ -1,0 +1,8 @@
+name:- Metal Goggles
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Archaludon|0.10, Arven|0.02, Ball Guy|0.06, Beldum|0.04, Bronzong|0.13, Bronzor|0.13, Buddy-Buddy Poffin|0.00, Ciphermaniac's Codebreaking|0.01, Crystal Cave|1.00, Dialga|0.14
+bow_drivers:- energy_acceleration, damage, opponent, attach
+anti_meta:- N/A

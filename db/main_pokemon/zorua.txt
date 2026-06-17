@@ -1,0 +1,8 @@
+name:- Zorua
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Binding Mochi|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Budew|0.00, Ciphermaniac's Codebreaking|0.00, Cyrano|0.00, Darkness Energy|0.00, Fezandipiti ex|0.00, Hilda|0.00, Ignition Energy|0.00
+bow_drivers:- cost_darkness
+anti_meta:- N/A

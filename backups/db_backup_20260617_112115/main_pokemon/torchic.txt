@@ -1,0 +1,8 @@
+name:- Torchic
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Combusken|1.00, Fire Energy|0.20, Lillie's Determination|0.06, Night Stretcher|0.06, Rare Candy|0.18, Ultra Ball|0.07, Poké Pad|0.07, Buddy-Buddy Poffin|0.08, Blaziken ex|0.97, Boss's Orders|0.06
+bow_drivers:- draw, cost_colorless, cost_fire, zero_damage
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00, Mega Venusaur|1.00, Ceruledge|1.00, Dragapult|1.00

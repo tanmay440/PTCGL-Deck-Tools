@@ -1,0 +1,80 @@
+tournament_id:- 6a2f7adc2d97f3b0c2617331
+player:- judesalinas
+placing:- 1
+wins:- 1
+losses:- 2
+draws:- 0
+archetype:- Other
+decklist:- Bergmite||Bergmite||Bergmite||Bergmite||Avalugg||Avalugg||Avalugg||Avalugg||Kyogre||Kyogre||Larry's Skill||Larry's Skill||Larry's Skill||Larry's Skill||Boss's Orders||Boss's Orders||Boss's Orders||Dawn||Dawn||Dawn||Poké Pad||Poké Pad||Poké Pad||Poké Pad||Great Haul Net||Great Haul Net||Great Haul Net||Great Haul Net||Surfing Beach||Surfing Beach||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy
+---
+tournament_id:- 6a2f7adc2d97f3b0c2617331
+player:- Scotty Hilborn
+placing:- 2
+wins:- 0
+losses:- 2
+draws:- 0
+archetype:- Other
+decklist:- Bramblin||Bramblin||Brambleghast||Brambleghast||Chikorita||Chikorita||Bayleef||Meganium||Meganium||Dunsparce||Dunsparce||Dudunsparce||Dudunsparce||Psyduck||Patrat||Crispin||Crispin||Crispin||Crispin||Lillie's Determination||Lillie's Determination||Hilda||Hilda||Boss's Orders||Boss's Orders||Lana's Aid||Brock's Scouting||Judge||Ultra Ball||Ultra Ball||Ultra Ball||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Rare Candy||Rare Candy||Jumbo Ice Cream||Jumbo Ice Cream||Switch||Switch||Bug Catching Set||Bug Catching Set||Energy Recycler||Energy Retrieval||Forest of Vitality||Forest of Vitality||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Lightning Energy||Lightning Energy||Lightning Energy||Lightning Energy||Lightning Energy
+---
+tournament_id:- 6a2f7adc2d97f3b0c2617331
+player:- William T
+placing:- 1
+wins:- 6
+losses:- 0
+draws:- 0
+archetype:- Hop's Trevenant
+decklist:- Hop's Phantump||Hop's Phantump||Hop's Phantump||Hop's Phantump||Hop's Trevenant||Hop's Trevenant||Hop's Trevenant||Hop's Snorlax||Hop's Snorlax||Hop's Cramorant||Hop's Cramorant||Hop's Wooloo||Hop's Dubwool||Shaymin||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Team Rocket's Petrel||Team Rocket's Petrel||Team Rocket's Petrel||Boss's Orders||Boss's Orders||Boss's Orders||Hilda||Hilda||Hassel||Hassel||Poké Pad||Poké Pad||Poké Pad||Poké Pad||Night Stretcher||Night Stretcher||Night Stretcher||Pokégear 3.0||Pokégear 3.0||Pokégear 3.0||Hop's Bag||Hop's Bag||Switch||Special Red Card||Ultra Ball||Hop's Choice Band||Hop's Choice Band||Hop's Choice Band||Hop's Choice Band||Air Balloon||Postwick||Postwick||Postwick||Postwick||Telepathic Psychic Energy||Telepathic Psychic Energy||Telepathic Psychic Energy||Telepathic Psychic Energy||Mist Energy||Mist Energy||Mist Energy||Mist Energy
+---
+tournament_id:- 6a2f7adc2d97f3b0c2617331
+player:- Trizzex
+placing:- 2
+wins:- 4
+losses:- 2
+draws:- 0
+archetype:- Festival Lead
+decklist:- Grookey||Grookey||Grookey||Grookey||Thwackey||Thwackey||Thwackey||Thwackey||Rillaboom||Applin||Applin||Applin||Applin||Dipplin||Dipplin||Dipplin||Goldeen||Seaking||Shaymin||Psyduck||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Boss's Orders||Boss's Orders||Boss's Orders||Lana's Aid||Judge||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Poké Pad||Poké Pad||Poké Pad||Poké Pad||Bug Catching Set||Bug Catching Set||Bug Catching Set||Night Stretcher||Night Stretcher||Ultra Ball||Ultra Ball||Sacred Ash||Tool Scrapper||Special Red Card||Air Balloon||Air Balloon||Festival Grounds||Festival Grounds||Festival Grounds||Festival Grounds||Forest of Vitality||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Growing Grass Energy||Growing Grass Energy
+---
+tournament_id:- 6a2f7adc2d97f3b0c2617331
+player:- Sky007
+placing:- 3
+wins:- 3
+losses:- 2
+draws:- 0
+archetype:- Festival Lead
+decklist:- Grookey||Grookey||Grookey||Grookey||Thwackey||Thwackey||Thwackey||Thwackey||Applin||Applin||Applin||Applin||Dipplin||Dipplin||Dipplin||Dipplin||Goldeen||Goldeen||Seaking||Shaymin||Shaymin||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Boss's Orders||Boss's Orders||Boss's Orders||Lana's Aid||Dawn||Crushing Hammer||Crushing Hammer||Crushing Hammer||Crushing Hammer||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Poké Pad||Poké Pad||Poké Pad||Poké Pad||Bug Catching Set||Bug Catching Set||Bug Catching Set||Bug Catching Set||Night Stretcher||Night Stretcher||Switch||Air Balloon||Air Balloon||Lucky Helmet||Festival Grounds||Festival Grounds||Festival Grounds||Festival Grounds||Grass Energy||Grass Energy||Grass Energy||Grass Energy
+---
+tournament_id:- 6a2f7adc2d97f3b0c2617331
+player:- NiJuanNiJose
+placing:- 4
+wins:- 3
+losses:- 2
+draws:- 0
+archetype:- Other
+decklist:- Fennekin||Fennekin||Fennekin||Fennekin||Braixen||Delphox||Delphox||Delphox||Tepig||Tepig||Tepig||Pignite||Emboar||Emboar||Dunsparce||Dunsparce||Dudunsparce||Dudunsparce||Heatmor||Hilda||Hilda||Team Rocket's Petrel||Team Rocket's Petrel||Lillie's Determination||Lillie's Determination||Judge||Larry's Skill||Boss's Orders||Rare Candy||Rare Candy||Rare Candy||Rare Candy||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Poké Pad||Poké Pad||Poké Pad||Ultra Ball||Ultra Ball||Energy Retrieval||Energy Retrieval||Night Stretcher||Night Stretcher||Energy Recycler||Blowtorch||Special Red Card||Air Balloon||Air Balloon||Battle Cage||Battle Cage||Fire Energy||Fire Energy||Fire Energy||Fire Energy||Fire Energy||Fire Energy||Fire Energy||Fire Energy||Fire Energy
+---
+tournament_id:- 6a2f7adc2d97f3b0c2617331
+player:- Big_PaPa_Lock
+placing:- 5
+wins:- 2
+losses:- 2
+draws:- 0
+archetype:- Misty's Gyarados
+decklist:- Misty's Magikarp||Misty's Magikarp||Misty's Magikarp||Misty's Magikarp||Misty's Gyarados||Misty's Gyarados||Misty's Gyarados||Misty's Gyarados||Misty's Staryu||Misty's Staryu||Misty's Staryu||Misty's Staryu||Misty's Starmie||Misty's Starmie||Misty's Starmie||Misty's Starmie||Misty's Lapras||Misty's Lapras||Misty's Lapras||Misty's Lapras||Misty's Psyduck||Misty's Psyduck||Misty's Psyduck||Misty's Psyduck||Psyduck||Iris's Fighting Spirit||Iris's Fighting Spirit||Iris's Fighting Spirit||Iris's Fighting Spirit||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lana's Aid||Boss's Orders||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Night Stretcher||Night Stretcher||Night Stretcher||Night Stretcher||Sacred Ash||Sacred Ash||Sacred Ash||Sacred Ash||Great Haul Net||Great Haul Net||Great Haul Net||Poké Pad||Poké Pad||Poké Pad||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy
+---
+tournament_id:- 6a2f7adc2d97f3b0c2617331
+player:- Abrane
+placing:- 6
+wins:- 1
+losses:- 3
+draws:- 0
+archetype:- Eelektrik
+decklist:- Tynamo||Tynamo||Tynamo||Eelektrik||Eelektrik||Eelektrik||Shinx||Shinx||Shinx||Luxio||Luxio||Luxio||Luxray||Luxray||Luxray||Dreepy||Dreepy||Drakloak||Drakloak||Stunfisk||Stunfisk||Budew||Canari||Canari||Canari||Canari||Lillie's Determination||Lillie's Determination||Lillie's Determination||Boss's Orders||Boss's Orders||Boss's Orders||Lana's Aid||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Poké Pad||Poké Pad||Poké Pad||Poké Pad||Ultra Ball||Ultra Ball||Ultra Ball||Ultra Ball||Switch||Switch||Sacred Ash||Night Stretcher||Battle Cage||Levincia||Lightning Energy||Lightning Energy||Lightning Energy||Lightning Energy||Lightning Energy||Lightning Energy||Lightning Energy||Lightning Energy||Lightning Energy
+---
+tournament_id:- 6a2f7adc2d97f3b0c2617331
+player:- CaptainDogFood
+placing:- 7
+wins:- 1
+losses:- 3
+draws:- 0
+archetype:- Other
+decklist:- Dunsparce||Dunsparce||Dunsparce||Dunsparce||Dudunsparce||Dudunsparce||Dudunsparce||Dudunsparce||Nymble||Nymble||Nymble||Nymble||Lokix||Lokix||Lokix||Lokix||Budew||Maractus||Fan Rotom||Turtonator||Tatsugiri||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Hilda||Hilda||Hilda||Boss's Orders||Boss's Orders||Lana's Aid||Bug Catching Set||Bug Catching Set||Bug Catching Set||Bug Catching Set||Poké Pad||Poké Pad||Poké Pad||Poké Pad||Night Stretcher||Night Stretcher||Night Stretcher||Night Stretcher||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Air Balloon||Air Balloon||Forest of Vitality||Forest of Vitality||Forest of Vitality||Forest of Vitality||Ignition Energy||Ignition Energy||Ignition Energy||Ignition Energy||Grass Energy||Grass Energy||Grass Energy

@@ -1,0 +1,8 @@
+name:- Hyper Potion
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.02, Battle Compressor|0.10, Blissey V|1.00, Bouffalant|0.21, Bravery Charm|0.20, Double Colorless Energy|0.07, Faba|0.14, Fan Rotom|0.01, Field Blower|0.02, Float Stone|0.03
+bow_drivers:- discard, damage, energy, heal
+anti_meta:- N/A

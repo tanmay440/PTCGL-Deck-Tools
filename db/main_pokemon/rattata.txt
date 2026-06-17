@@ -1,0 +1,8 @@
+name:- Rattata
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Desert Ruins|0.01, Double Rainbow Energy|0.02, Fluffy Berry|1.00, Grass Energy|0.00, Holon Adventurer|0.00, Holon Mentor|0.00, Holon Scientist|0.00, Holon Transceiver|0.00, Holon's Electrode|0.04, Mr. Briney's Compassion|0.01
+bow_drivers:- opponent, cost_colorless
+anti_meta:- Bombtar|1.00

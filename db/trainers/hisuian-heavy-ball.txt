@@ -1,0 +1,8 @@
+name:- Hisuian Heavy Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.74, Arven|0.65, VS Seeker|0.70, Iono|0.67, Field Blower|0.83, Ultra Ball|0.04, Nest Ball|0.76, Night Stretcher|0.04, Rescue Stretcher|0.77, Buddy-Buddy Poffin|0.05
+bow_drivers:- discard, prize, put, look
+anti_meta:- N/A

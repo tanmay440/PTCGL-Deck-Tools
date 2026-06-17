@@ -1,0 +1,8 @@
+name:- Crushing Hammer
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.15, Lillie's Determination|0.14, Ultra Ball|0.15, Buddy-Buddy Poffin|0.19, Poké Pad|0.14, Night Stretcher|0.13, Psychic Energy|0.24, Munkidori|0.33, Fezandipiti ex|0.18, Darkness Energy|0.31
+bow_drivers:- discard, energy, opponent, zero_damage
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Lillie's Clefairy|1.00, Cynthia's Garchomp|1.00, Lopunny Dudunsparce|1.00, Metagross|1.00, Ogerpon Meganium Hydrapple|1.00, Raging Bolt Ogerpon|1.00, Other|1.00, Dragapult Dusknoir|1.00, Archaludon Zoroark|1.00, Mega Greninja|1.00, Steven's Metagross|1.00, Festival Lead|1.00, Beedrill|1.00, Ursaluna Lunatone|1.00, Lucario Hariyama|1.00, Ethan's Typhlosion|1.00, Dragapult Dudunsparce|1.00, Lopunny Dusknoir|1.00, Mega Froslass|1.00, Mega Charizard X|1.00, Slowking|1.00, Future Thorns|1.00, Alakazam Dudunsparce|0.83

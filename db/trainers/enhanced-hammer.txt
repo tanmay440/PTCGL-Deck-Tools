@@ -1,0 +1,8 @@
+name:- Enhanced Hammer
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.07, Poké Pad|0.07, Night Stretcher|0.06, Buddy-Buddy Poffin|0.08, Psychic Energy|0.10, Rare Candy|0.16, Telepathic Psychic Energy|0.28, Dudunsparce|0.24, Sacred Ash|0.48, Hilda|0.20
+bow_drivers:- discard, energy, opponent, zero_damage
+anti_meta:- Starmie Dusknoir|1.00, Joltik Box|1.00, Toxtricity|1.00, Beedrill|1.00, Cynthia's Garchomp|1.00, Hop's Trevenant|1.00, Raging Bolt Ogerpon|1.00, Metagross|0.67, Starmie Froslass|0.67

@@ -1,0 +1,8 @@
+name:- Blacephalon
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Arven|0.14, Buddy-Buddy Poffin|0.01, Counter Energy|0.55, Energy Retrieval|0.10, Field Blower|0.19, Fog Crystal|0.57, Guzma|0.15, Guzma & Hala|0.29, Hex Maniac|0.39, Hisuian Heavy Ball|0.19
+bow_drivers:- put, damage, opponent, prize
+anti_meta:- N/A

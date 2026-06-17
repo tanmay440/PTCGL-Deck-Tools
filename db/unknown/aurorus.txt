@@ -1,0 +1,8 @@
+name:- Aurorus
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Academy at Night|0.00, Annihilape|0.00, Boomerang Energy|0.00, Ciphermaniac's Codebreaking|0.00, Colress's Tenacity|0.00, Dawn|0.00, Fezandipiti ex|0.00, Haxorus|0.00, Hilda|0.00, Kyurem|0.00
+bow_drivers:- unknown
+anti_meta:- N/A

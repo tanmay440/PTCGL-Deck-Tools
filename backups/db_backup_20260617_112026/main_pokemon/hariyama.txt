@@ -1,0 +1,8 @@
+name:- Hariyama
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Fighting Energy|0.21, Fighting Gong|0.35, Lillie's Determination|0.04, Lunatone|0.45, Makuhita|1.00, Mega Lucario ex|0.76, Premium Power Pro|0.55, Riolu|0.76, Solrock|0.45, Boss's Orders|0.04
+bow_drivers:- high_damage, hand, evolve, switch
+anti_meta:- Mega Venusaur|1.00, Dragapult Blaziken|1.00, Festival Lead|1.00, Sylveon|1.00, Mega Gengar|1.00, Alakazam Dudunsparce|1.00, Beedrill|1.00, Mega Greninja|1.00, Doublade|1.00

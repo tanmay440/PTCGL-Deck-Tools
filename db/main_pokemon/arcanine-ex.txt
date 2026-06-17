@@ -1,0 +1,8 @@
+name:- Arcanine ex
+type:- Fire
+modifiers:- ex, rule_box
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Copycat|0.42, Crystal Beach|0.16, Energy Removal 2|0.12, Fire Energy|0.00, Growlithe|1.00, Poké Ball|0.41, Pokémon Reversal|0.42, Prof. Oak's Research|0.56, React Energy|0.43, Rocket's Admin.|0.02
+bow_drivers:- high_damage, discard, cost_fire, damage
+anti_meta:- Scizor|1.00

@@ -1,0 +1,8 @@
+name:- Crobat V
+type:- Darkness
+modifiers:- v, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Guzma|0.11, Quick Ball|0.21, VS Seeker|0.11, Hisuian Heavy Ball|0.13, Field Blower|0.14, Double Colorless Energy|0.37, Iono|0.09, Rescue Stretcher|0.14, Latias ex|0.02, Forest Seal Stone|0.24
+bow_drivers:- draw, hand, bench, opponent
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Cook
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.00, Boss's Orders|0.00, Jumbo Ice Cream|0.02, Ultra Ball|0.00, Fighting Energy|0.00, Fighting Gong|0.01, Switch|0.00, Team Rocket's Petrel|0.00, Hero's Cape|0.01, Poké Pad|0.00
+bow_drivers:- heal, damage, zero_damage, zero_retreat
+anti_meta:- Metagross|1.00, Other|1.00

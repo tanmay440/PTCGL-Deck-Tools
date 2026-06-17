@@ -1,0 +1,8 @@
+name:- Mega Pyroar ex
+type:- Fire
+modifiers:- ex, mega, rule_box
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Black Belt's Training|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Crushing Hammer|0.00, Dudunsparce|0.00, Dunsparce|0.00, Fan Rotom|0.00, Fezandipiti ex|0.00, Fire Energy|0.00
+bow_drivers:- high_damage, damage, cost_fire, opponent
+anti_meta:- N/A

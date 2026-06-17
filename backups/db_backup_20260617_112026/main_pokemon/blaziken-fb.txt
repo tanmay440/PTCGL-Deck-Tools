@@ -1,0 +1,8 @@
+name:- Blaziken FB
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Aaron's Collection|0.54, Bebe's Search|0.16, Blaziken FB LV.X|1.00, Bronzong G|0.54, Crobat G|0.33, Cyrus's Conspiracy|0.47, Cyrus's Initiative|0.95, Darkness Energy|0.01, Drifblim FB|0.60, Expert Belt|0.17
+bow_drivers:- defending, opponent, damage, cost_fire
+anti_meta:- Gyarados|1.00

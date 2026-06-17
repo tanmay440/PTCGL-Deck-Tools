@@ -1,0 +1,8 @@
+name:- Pidgeot
+type:- Colorless
+modifiers:- ex, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Pidgey|0.61, Rare Candy|0.04, Holon Adventurer|0.69, Holon Mentor|0.69, Holon Transceiver|0.69, Rocket's Admin.|0.63, Windstorm|0.75, Pokémon Retriever|0.80, Holon Scientist|0.68, Jirachi|0.82
+bow_drivers:- search, high_damage, deck, discard
+anti_meta:- Bombtar|1.00, Bombchamp|1.00, Flygon δ|1.00

@@ -1,0 +1,8 @@
+name:- Zarude
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Bayleef|0.01, Boss's Orders|0.00, Bug Catching Set|0.00, Chikorita|0.01, Fezandipiti ex|0.00, Forest of Vitality|0.01, Grass Energy|0.00, Lillie's Determination|0.00, Meganium|0.01, Night Stretcher|0.00
+bow_drivers:- cost_grass, damage, heal, put
+anti_meta:- Hydreigon|1.00

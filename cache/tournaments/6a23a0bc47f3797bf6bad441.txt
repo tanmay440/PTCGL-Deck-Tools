@@ -1,0 +1,7 @@
+game:- PTCG
+name:- 🇧🇷 Hit Challenge #4 • TCG Live | Booster Box
+date:- 2026-06-15T23:00:00.000Z
+format:- STANDARD
+id:- 6a23a0bc47f3797bf6bad441
+players:- 20
+organizerId:- 2612

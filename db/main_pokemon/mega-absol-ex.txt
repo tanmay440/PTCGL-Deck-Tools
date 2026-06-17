@@ -1,0 +1,8 @@
+name:- Mega Absol ex
+type:- Darkness
+modifiers:- ex, mega, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Darkness Energy|0.05, Boss's Orders|0.02, Night Stretcher|0.02, Munkidori|0.05, Lillie's Determination|0.02, Ultra Ball|0.02, Fezandipiti ex|0.03, Special Red Card|0.03, Cyrano|0.13, Team Rocket's Watchtower|0.06
+bow_drivers:- high_damage, discard, opponent, cost_darkness
+anti_meta:- N/A

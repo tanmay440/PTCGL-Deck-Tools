@@ -1,0 +1,8 @@
+name:- Acro Bike
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.13, Trainers' Mail|0.33, VS Seeker|0.13, Rescue Stretcher|0.17, Rescue Carrier|0.70, Buddy-Buddy Poffin|0.01, Evolution Incense|0.10, Field Blower|0.09, Fog Crystal|0.26, Gladion|0.40
+bow_drivers:- discard, look, deck, put
+anti_meta:- N/A

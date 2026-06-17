@@ -1,0 +1,8 @@
+name:- Squirtle
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Warp Point|0.01, Blastoise|0.90, Giant Stump|0.02, Holon Mentor|0.01, Holon Transceiver|0.01, Holon's Castform|0.02, Jirachi|0.02, Pidgeot|0.02, Pidgeotto|0.01, Pidgey|0.01
+bow_drivers:- cost_water, opponent, damage, zero_damage
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

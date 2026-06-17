@@ -1,0 +1,8 @@
+name:- Landorus
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Barbaracle|0.00, Binacle|0.00, Boss's Orders|0.00, Brock's Scouting|0.00, Carmine|0.00, Chien-Pao|0.00, Colress's Tenacity|0.00, Cornerstone Mask Ogerpon ex|0.00, Darkness Energy|0.00
+bow_drivers:- energy_acceleration, discard, cost_colorless, attach
+anti_meta:- N/A

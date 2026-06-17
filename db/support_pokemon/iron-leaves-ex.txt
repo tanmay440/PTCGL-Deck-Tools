@@ -1,0 +1,8 @@
+name:- Iron Leaves ex
+type:- Grass
+modifiers:- ex, future, rule_box
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Ultra Ball|0.04, Grass Energy|0.15, Boss's Orders|0.04, Latias ex|0.17, Night Stretcher|0.03, Fezandipiti ex|0.05, Crispin|0.08, Meowth ex|0.05, Teal Mask Ogerpon ex|0.24, Energy Switch|0.27
+bow_drivers:- high_damage, hand, bench, switch
+anti_meta:- Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Lucario Hariyama|1.00, Metagross|1.00, Starmie Froslass|1.00, Beedrill|1.00, Mega Lucario|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Alakazam Dudunsparce|1.00, Future Thorns|1.00, Dragapult Dusknoir|0.83

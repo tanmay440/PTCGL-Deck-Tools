@@ -1,0 +1,8 @@
+name:- Greninja ex
+type:- Water
+modifiers:- ex, mega, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Froakie|0.78, Water Energy|0.23, Frogadier|0.79, Rare Candy|0.12, Lillie's Determination|0.04, Buddy-Buddy Poffin|0.06, Ultra Ball|0.04, Boss's Orders|0.04, Poké Pad|0.04, Hilda|0.15
+bow_drivers:- high_damage, discard, energy, hand
+anti_meta:- Other|1.00, Mega Manectric|1.00, Festival Lead|1.00, Metagross|1.00, Hop's Trevenant|1.00, Okidogi Barbaracle|1.00, Alakazam Dudunsparce|0.75

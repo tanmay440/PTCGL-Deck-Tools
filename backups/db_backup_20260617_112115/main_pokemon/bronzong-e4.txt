@@ -1,0 +1,8 @@
+name:- Bronzong E4
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Azelf|0.00, Baltoy|0.00, Bebe's Search|0.00, Call Energy|0.00, Claydol|0.00, Cynthia's Feelings|0.02, Darkness Energy|0.00, Dusclops|0.00, Dusknoir|0.00, Dusknoir LV.X|1.00
+bow_drivers:- draw, damage, hand, deck
+anti_meta:- N/A

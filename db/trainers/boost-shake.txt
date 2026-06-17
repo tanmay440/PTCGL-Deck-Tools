@@ -1,0 +1,8 @@
+name:- Boost Shake
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.07, Trainers' Mail|0.17, VS Seeker|0.07, Acro Bike|0.47, Chaotic Swell|0.71, Double Colorless Energy|0.28, Fog Crystal|0.23, Frillish|0.27, Grabber|0.91, Jellicent ex|0.42
+bow_drivers:- search, deck, put, evolve
+anti_meta:- N/A

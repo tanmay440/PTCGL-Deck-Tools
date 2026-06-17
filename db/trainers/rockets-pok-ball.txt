@@ -1,0 +1,8 @@
+name:- Rocket's Poké Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Darkness Energy|0.00, Holon Adventurer|0.01, Holon Mentor|0.01, Holon Scientist|0.01, Holon Transceiver|0.01, Rocket's Admin.|0.01, Voltorb|0.02, Windstorm|0.01, Dark Dragonair|0.79, Dark Dragonite|0.79
+bow_drivers:- search, deck, opponent, put
+anti_meta:- N/A

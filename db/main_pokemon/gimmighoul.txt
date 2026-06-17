@@ -1,0 +1,8 @@
+name:- Gimmighoul
+type:- Psychic
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.01, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Calamitous Snowy Mountain|1.00, Ciphermaniac's Codebreaking|0.01, Counter Catcher|0.04, Darkness Energy|0.00, Dragapult ex|0.00, Drakloak|0.00, Dreepy|0.00
+bow_drivers:- cost_colorless
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Lillie's Ribombee
+type:- Psychic
+modifiers:- Lillie's
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Boss's Orders|0.00, Colress's Tenacity|0.00, Crispin|0.00, Darkness Energy|0.00, Full Metal Lab|0.01, Hilda|0.00, Hop's Bag|0.00, Hop's Choice Band|0.00, Hop's Corviknight|0.01
+bow_drivers:- hand, evolve, opponent, put
+anti_meta:- N/A

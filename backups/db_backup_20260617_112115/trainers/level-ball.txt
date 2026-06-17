@@ -1,0 +1,8 @@
+name:- Level Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.43, Hisuian Heavy Ball|0.55, Night Stretcher|0.02, VS Seeker|0.42, Buddy-Buddy Poffin|0.03, Field Blower|0.55, Ultra Ball|0.02, Poké Pad|0.02, Iono|0.37, Evolution Incense|0.64
+bow_drivers:- search, deck, hp, put
+anti_meta:- N/A

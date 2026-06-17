@@ -1,0 +1,8 @@
+name:- Frigibax
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Chien-Pao ex|0.89, Baxcalibur|0.76, Arven|0.07, Buddy-Buddy Poffin|0.01, Irida|0.31, Rare Candy|0.01, Superior Energy Retrieval|0.64, Ultra Ball|0.00, Basic Water Energy|0.50, Bibarel|0.75
+bow_drivers:- draw, cost_water, cost_colorless, zero_damage
+anti_meta:- Miraidon ex / Sandy Shocks|0.88, Charizard ex / Pidgeot ex|0.72, Gardevoir ex / Drifloon|0.56

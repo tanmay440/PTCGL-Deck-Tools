@@ -1,0 +1,8 @@
+name:- Holon Scientist
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.99, Holon Mentor|0.98, Holon Transceiver|0.99, Rocket's Admin.|0.81, Pokémon Retriever|0.84, Windstorm|0.82, Pow! Hand Extension|0.78, Warp Point|0.63, Jirachi|0.71, Rare Candy|0.04
+bow_drivers:- discard, draw, hand, opponent
+anti_meta:- Bombtar|1.00, Bombchamp|1.00, Flygon δ|1.00

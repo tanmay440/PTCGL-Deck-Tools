@@ -1,0 +1,8 @@
+name:- Blend Energy GRPD
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.03, Battle Compressor|0.19, Buddy-Buddy Poffin|0.00, Canceling Cologne|0.76, Colress's Tenacity|0.03, Counter Energy|0.17, Counter Gain|0.19, Dark Patch|0.37, Darkness Energy|0.01, Deino|0.24
+bow_drivers:- unknown
+anti_meta:- N/A

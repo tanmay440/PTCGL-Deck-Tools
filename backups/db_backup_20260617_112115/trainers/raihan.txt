@@ -1,0 +1,8 @@
+name:- Raihan
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Float Stone|0.56, Guzma|0.36, Hisuian Heavy Ball|0.46, Marnie|0.70, VS Seeker|0.35, Arven|0.31, Evolution Incense|0.57, Field Blower|0.47, Nest Ball|0.40, Iono|0.31
+bow_drivers:- energy_acceleration, discard, search, deck
+anti_meta:- N/A

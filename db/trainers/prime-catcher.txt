@@ -1,0 +1,8 @@
+name:- Prime Catcher
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ultra Ball|0.04, Night Stretcher|0.04, Boss's Orders|0.04, Fezandipiti ex|0.05, Meowth ex|0.05, Poké Pad|0.03, Lillie's Determination|0.03, Latias ex|0.13, Psychic Energy|0.04, Lillie's Clefairy ex|0.09
+bow_drivers:- switch, deck, opponent, zero_damage
+anti_meta:- Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Lucario Hariyama|1.00, Metagross|1.00, Starmie Froslass|1.00, Beedrill|1.00, Mega Lucario|1.00, Dragapult Dusknoir|1.00, Steven's Metagross|1.00, Okidogi Barbaracle|1.00, Dragapult|1.00, Festival Lead|1.00, Lillie's Clefairy|1.00, N's Zoroark|1.00, Archaludon|1.00, Mega Greninja|1.00, Decidueye|1.00, Dragapult Dudunsparce|1.00, Kangaskhan Bouffalant|1.00, Other|1.00

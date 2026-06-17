@@ -1,0 +1,8 @@
+name:- Scraggy
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Darkness Energy|0.00, Mega Scrafty ex|1.00, Buddy-Buddy Poffin|0.00, Lillie's Determination|0.00, Boss's Orders|0.00, Night Stretcher|0.00, Fezandipiti ex|0.00, Pokégear 3.0|0.01, Munkidori|0.00, Pecharunt ex|0.02
+bow_drivers:- discard, opponent, hand, cost_darkness
+anti_meta:- Mega Greninja|1.00

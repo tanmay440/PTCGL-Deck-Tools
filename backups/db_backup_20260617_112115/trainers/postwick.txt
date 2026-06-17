@@ -1,0 +1,8 @@
+name:- Postwick
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Hop's Choice Band|1.00, Night Stretcher|0.04, Poké Pad|0.04, Hop's Snorlax|0.96, Lillie's Determination|0.04, Ultra Ball|0.04, Boss's Orders|0.03, Hop's Cramorant|0.85, Mist Energy|0.34, Air Balloon|0.10
+bow_drivers:- discard, opponent, damage, weakness
+anti_meta:- N's Zoroark|1.00, Beedrill|1.00, Basic Box|1.00, Dragapult|1.00, Ceruledge|1.00

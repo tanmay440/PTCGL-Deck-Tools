@@ -1,0 +1,8 @@
+name:- Ruffian
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.02, Night Stretcher|0.02, Lillie's Determination|0.02, Poké Pad|0.02, Ultra Ball|0.02, Secret Box|0.14, Shaymin|0.04, Telepathic Psychic Energy|0.07, Team Rocket's Petrel|0.04, Hassel|0.32
+bow_drivers:- discard, energy, opponent, zero_damage
+anti_meta:- Dragapult|1.00, Raging Bolt Ogerpon|1.00, Froslass Dudunsparce|1.00, Ethan's Typhlosion|1.00, Rocket's Spidops|1.00, Slowking|1.00, Mega Greninja|1.00, N's Zoroark|1.00, Beedrill|1.00, Basic Box|1.00, Ceruledge|1.00, Alakazam Dudunsparce|0.67, Dragapult Dusknoir|0.67

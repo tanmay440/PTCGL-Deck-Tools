@@ -1,0 +1,8 @@
+name:- Sobble
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.01, Capacious Bucket|0.83, Dive Ball|1.00, Drizzile|1.00, Field Blower|0.16, Guzma|0.12, Inteleon|1.00, Iono|0.11, Irida|0.39, Night Stretcher|0.01
+bow_drivers:- attack, cost_water
+anti_meta:- N/A

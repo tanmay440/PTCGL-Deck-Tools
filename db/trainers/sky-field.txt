@@ -1,0 +1,8 @@
+name:- Sky Field
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Field Blower|0.13, Guzma|0.10, Iono|0.10, VS Seeker|0.10, Arven|0.08, Mr. Mime|0.55, Precious Trolley|0.12, Rescue Stretcher|0.12, Stealthy Hood|0.41, Hisuian Heavy Ball|0.09
+bow_drivers:- discard, bench, zero_damage, zero_retreat
+anti_meta:- N/A

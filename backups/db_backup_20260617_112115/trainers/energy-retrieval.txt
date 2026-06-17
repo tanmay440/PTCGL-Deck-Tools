@@ -1,0 +1,8 @@
+name:- Energy Retrieval
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ultra Ball|0.08, Night Stretcher|0.08, Boss's Orders|0.08, Lillie's Determination|0.07, Poké Pad|0.07, Fezandipiti ex|0.08, Meowth ex|0.08, Special Red Card|0.08, Crispin|0.11, Water Energy|0.22
+bow_drivers:- discard, put, energy, hand
+anti_meta:- Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Lucario Hariyama|1.00, Metagross|1.00, Other|1.00, Mega Manectric|1.00, Festival Lead|1.00, Hop's Trevenant|1.00, Lillie's Clefairy|1.00, Slowking|1.00, Starmie Froslass|1.00, Dragapult Dudunsparce|1.00, Future Thorns|1.00, Alakazam Dudunsparce|0.75

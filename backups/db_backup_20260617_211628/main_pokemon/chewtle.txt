@@ -1,0 +1,8 @@
+name:- Chewtle
+type:- Water
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Aipom|0.05, Ambipom|0.05, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Colress's Tenacity|0.00, Drednaw|1.00, Froslass|0.00, Great Haul Net|0.00, Hilda|0.00, Ignition Energy|0.00
+bow_drivers:- cost_colorless
+anti_meta:- N/A

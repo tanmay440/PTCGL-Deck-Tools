@@ -1,0 +1,8 @@
+name:- Roxie's Performance
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Darkness Energy|0.00, Lillie's Determination|0.00, Ultra Ball|0.00, Crispin|0.00, Mega Dragalge ex|0.24, Skrelp|0.24, Water Energy|0.01, Buddy-Buddy Poffin|0.00, Poké Pad|0.00
+bow_drivers:- opponent, zero_damage, zero_retreat
+anti_meta:- Dragapult Dudunsparce|1.00, Kangaskhan Bouffalant|1.00

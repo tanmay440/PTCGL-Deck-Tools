@@ -1,0 +1,8 @@
+name:- Stantler
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Cyclone Energy|0.16, Gardevoir|0.05, Gardevoir ex|0.04, Giant Stump|0.13, Grovyle|0.62, Holon Adventurer|0.07, Holon Mentor|0.07, Holon Researcher|0.13, Holon Scientist|0.07, Holon Transceiver|0.07
+bow_drivers:- cost_colorless, opponent, damage, weakness
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

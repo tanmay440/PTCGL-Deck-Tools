@@ -1,0 +1,8 @@
+name:- Tatsugiri ex
+type:- Dragon
+modifiers:- ex, rule_box
+type_requirement:- Darkness, Fire, Water
+properties:- N/A
+commonly_found_with:- Alolan Muk|0.95, Cynthia & Caitlin|0.05, Double Dragon Energy|0.27, Dusknoir|0.01, Faba|0.07, Float Stone|0.01, Gallade|0.07, Gladion|0.05, Gloom|0.95, Guzma|0.01
+bow_drivers:- opponent, damage, deck, bench
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Conductive Quarry
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Aaron's Collection|0.06, Azelf|0.02, Baltoy|0.02, Bebe's Search|0.02, Bertha's Warmth|0.47, Bronzong G|0.06, Call Energy|0.02, Claydol|0.02, Crobat G|0.04, Cyrus's Conspiracy|0.05
+bow_drivers:- discard, energy, opponent, hand
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Naganadel & Guzzlord-GX
+type:- Dragon
+modifiers:- gx, rule_box
+type_requirement:- Darkness, Psychic
+properties:- N/A
+commonly_found_with:- Archeops|0.50, Aurora Energy|0.21, Battle Compressor|0.12, Crobat V|0.22, Dedenne-GX|0.61, Double Colorless Energy|0.09, Field Blower|0.03, Guzma|0.02, Hisuian Heavy Ball|0.03, Iono|0.02
+bow_drivers:- high_damage, discard, attack, hand
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Metal Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.06, Ultra Ball|0.06, Night Stretcher|0.05, Buddy-Buddy Poffin|0.06, Lillie's Determination|0.05, Special Red Card|0.06, Poké Pad|0.03, Team Rocket's Petrel|0.11, Fezandipiti ex|0.04, Beldum|0.47
+bow_drivers:- energy, zero_damage, zero_retreat
+anti_meta:- Dragapult Blaziken|1.00, Hop's Trevenant|1.00, Beedrill|1.00, Manectric Eelektrik|1.00, Other|1.00, Ogerpon Meganium Arboliva|1.00, Raging Bolt Ogerpon|1.00, Metagross|1.00, Ethan's Typhlosion|1.00, Okidogi Barbaracle|1.00, N's Zoroark|1.00, Bombtar|1.00, Bombchamp|1.00, Future Thorns|1.00

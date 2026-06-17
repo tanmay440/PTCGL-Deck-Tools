@@ -1,0 +1,8 @@
+name:- Energy Swatter
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.00, Bellelba & Brycen-Man|0.05, Camping Gear|0.33, Captivating Poké Puff|0.75, Chaotic Swell|0.05, Crushing Hammer|0.00, Cynthia & Caitlin|0.02, Double Colorless Energy|0.02, Echoing Horn|0.75, Energy Loto|0.75
+bow_drivers:- opponent, hand, energy, put
+anti_meta:- N/A

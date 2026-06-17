@@ -1,0 +1,8 @@
+name:- Larvitar
+type:- Fighting
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Darkness Energy|0.02, Rare Candy|0.02, Fire Energy|0.01, Dark Pupitar|0.52, Dark Tyranitar|0.52, Electrode ex|0.52, Holon Adventurer|0.23, Holon Mentor|0.23, Holon Scientist|0.24, Holon Transceiver|0.23
+bow_drivers:- discard, opponent, deck, cost_colorless
+anti_meta:- Flygon δ|1.00

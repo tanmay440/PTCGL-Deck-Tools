@@ -1,0 +1,8 @@
+name:- TV Reporter
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.17, Pow! Hand Extension|0.15, Cyclone Energy|0.29, Windstorm|0.14, Professor Elm's Training Method|0.57, Holon Adventurer|0.10, Holon Mentor|0.10, Holon Scientist|0.10, Holon Transceiver|0.10, Pokémon Retriever|0.12
+bow_drivers:- draw, discard, hand, deck
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

@@ -1,0 +1,8 @@
+name:- Vibrava
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Fighting Energy|0.00, Flygon|1.00, Trapinch|1.00, Arven|0.01, Ball Guy|0.04, Barboach|0.86, Battle Compressor|0.06, Brooklet Hill|0.09, Counter Catcher|0.03, Cynthia & Caitlin|0.06
+bow_drivers:- cost_fighting
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Mega Venusaur ex
+type:- Grass
+modifiers:- ex, mega, rule_box
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Bulbasaur|1.00, Grass Energy|0.03, Ivysaur|1.00, Lillie's Determination|0.01, Teal Mask Ogerpon ex|0.06, Forest of Vitality|0.07, Night Stretcher|0.01, Bug Catching Set|0.05, Ultra Ball|0.01
+bow_drivers:- high_damage, energy, cost_grass, heal
+anti_meta:- Lillie's Clefairy|1.00, Slowking|1.00, Starmie Froslass|1.00, Hop's Trevenant|1.00

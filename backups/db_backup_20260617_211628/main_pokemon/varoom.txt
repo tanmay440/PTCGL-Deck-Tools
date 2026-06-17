@@ -1,0 +1,8 @@
+name:- Varoom
+type:- Metal
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Archaludon|0.10, Buddy-Buddy Poffin|0.00, Duraludon|0.08, Metal Energy|0.02, Night Stretcher|0.00, Ultra Ball|0.00, Arven|0.02, Ball Guy|0.06, Beldum|0.04, Bronzong|0.13
+bow_drivers:- cost_colorless
+anti_meta:- N/A

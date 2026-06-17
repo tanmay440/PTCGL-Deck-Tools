@@ -1,0 +1,8 @@
+name:- Battle Cage
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.11, Poké Pad|0.10, Night Stretcher|0.08, Buddy-Buddy Poffin|0.11, Lillie's Determination|0.08, Ultra Ball|0.07, Dudunsparce|0.28, Dunsparce|0.28, Fezandipiti ex|0.08, Air Balloon|0.16
+bow_drivers:- discard, damage, opponent, put
+anti_meta:- Mega Venusaur|1.00, Dragapult Blaziken|1.00, Festival Lead|1.00, Metagross|1.00, Starmie Dusknoir|1.00, Joltik Box|1.00, Toxtricity|1.00, Beedrill|1.00, Cynthia's Garchomp|1.00, Hop's Trevenant|1.00, Dragapult|1.00, Manectric Eelektrik|1.00, Other|1.00, Sylveon|1.00, Mega Gengar|1.00, Alakazam Dudunsparce|1.00, Mega Greninja|1.00, Doublade|1.00, Rocket's Honchkrow|1.00, Rocket's Mewtwo|1.00, Blaziken|1.00, Ethan's Typhlosion|1.00, Okidogi Barbaracle|1.00, N's Zoroark|1.00, Starmie Froslass|1.00, Dragapult Dudunsparce|1.00, Slowking|0.75

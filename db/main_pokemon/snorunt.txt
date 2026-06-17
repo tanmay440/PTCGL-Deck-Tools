@@ -1,0 +1,8 @@
+name:- Snorunt
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.09, Boss's Orders|0.06, Lillie's Determination|0.06, Poké Pad|0.06, Night Stretcher|0.05, Water Energy|0.25, Mega Froslass ex|0.77, Hilda|0.17, Ultra Ball|0.05, Budew|0.10
+bow_drivers:- cost_water
+anti_meta:- Doublade|1.00, Mega Starmie|1.00, Dragapult|1.00, Festival Lead|1.00, Lillie's Clefairy|1.00, N's Zoroark|1.00, Rocket's Mewtwo|1.00, Archaludon|1.00, Mega Greninja|1.00, Alakazam Dudunsparce|1.00, Blaziken|1.00, Okidogi Barbaracle|1.00, Dragapult Dudunsparce|1.00, Kangaskhan Bouffalant|1.00

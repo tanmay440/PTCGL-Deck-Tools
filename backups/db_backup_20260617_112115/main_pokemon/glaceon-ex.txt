@@ -1,0 +1,8 @@
+name:- Glaceon ex
+type:- Water
+modifiers:- ex, rule_box
+type_requirement:- Darkness, Grass, Water
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Area Zero Underdepths|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Crispin|0.00, Darkness Energy|0.00, Dawn|0.00, Eevee|0.00, Energy Retrieval|0.00, Fan Rotom|0.00
+bow_drivers:- opponent, damage, cost_water, attack
+anti_meta:- N/A

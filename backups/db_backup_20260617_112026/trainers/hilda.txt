@@ -1,0 +1,8 @@
+name:- Hilda
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.27, Buddy-Buddy Poffin|0.33, Poké Pad|0.26, Night Stretcher|0.21, Lillie's Determination|0.22, Ultra Ball|0.18, Air Balloon|0.44, Rare Candy|0.42, Fezandipiti ex|0.20, Special Red Card|0.24
+bow_drivers:- search, deck, energy, put
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Slowking|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Other|1.00, Alakazam Dudunsparce|1.00, Mega Manectric|1.00, Festival Lead|1.00, Metagross|1.00, Hop's Trevenant|1.00, Doublade|1.00, Mega Starmie|1.00, Lillie's Clefairy|1.00, N's Zoroark|1.00, Rocket's Mewtwo|1.00, Starmie Dusknoir|1.00, Joltik Box|1.00, Toxtricity|1.00, Beedrill|1.00, Cynthia's Garchomp|1.00, Sylveon|1.00, Mega Gengar|1.00, Mega Greninja|1.00, Okidogi Barbaracle|1.00, Dragapult Dudunsparce|1.00, Kangaskhan Bouffalant|1.00

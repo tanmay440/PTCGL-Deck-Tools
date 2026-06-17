@@ -1,0 +1,8 @@
+name:- Camping Gear
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Faba|0.11, Guzma|0.01, Trainers' Mail|0.03, VS Seeker|0.01, Acro Bike|0.06, Buddy-Buddy Poffin|0.00, Cleffa|0.67, Counter Energy|0.03, Energy Switch|0.00, Evolution Incense|0.01
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

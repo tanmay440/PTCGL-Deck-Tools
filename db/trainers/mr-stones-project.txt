@@ -1,0 +1,8 @@
+name:- Mr. Stone's Project
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Balloon Berry|0.35, Castaway|0.33, Cessation Crystal|0.38, Cursed Stone|0.33, Minun|0.83, Pow! Hand Extension|0.06, Rocket's Admin.|0.05, Stantler|0.14, Energy Removal 2|0.33, Lanette's Net Search|0.09
+bow_drivers:- discard, search, put, deck
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Scizor ex
+type:- Metal
+modifiers:- ex, rule_box
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Beldum|0.00, Boss's Orders|0.00, Brave Bangle|0.00, Buddy-Buddy Poffin|0.00, Energy Recycler|0.00, Fezandipiti ex|0.00, Genesect ex|0.00, Gravity Mountain|0.00, Heatran|0.00, Meowth ex|0.00
+bow_drivers:- high_damage, discard, opponent, damage
+anti_meta:- N/A

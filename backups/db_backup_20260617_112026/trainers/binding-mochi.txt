@@ -1,0 +1,8 @@
+name:- Binding Mochi
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Pecharunt ex|0.73, Darkness Energy|0.11, Night Stretcher|0.04, Boss's Orders|0.04, Ultra Ball|0.05, Lillie's Determination|0.04, Poké Pad|0.04, Munkidori|0.11, Buddy-Buddy Poffin|0.06, Fezandipiti ex|0.06
+bow_drivers:- energy_acceleration, attach, damage, opponent
+anti_meta:- Raging Bolt Ogerpon|1.00, Froslass Dudunsparce|1.00, Ethan's Typhlosion|1.00, Rocket's Spidops|1.00, Slowking|1.00, Mega Greninja|1.00, Alakazam Dudunsparce|0.67, Dragapult Dusknoir|0.67, Dragapult|0.58

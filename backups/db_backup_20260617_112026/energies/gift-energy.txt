@@ -1,0 +1,8 @@
+name:- Gift Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Double Turbo Energy|0.84, Iono|0.11, Jet Energy|0.42, Night Stretcher|0.01, Ultra Ball|0.01, Artazon|0.37, Arven|0.08, Buddy-Buddy Poffin|0.01, Capture Energy|0.50, Dodrio|0.80
+bow_drivers:- draw, energy, damage, attack
+anti_meta:- N/A

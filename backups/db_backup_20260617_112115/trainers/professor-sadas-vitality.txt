@@ -1,0 +1,8 @@
+name:- Professor Sada's Vitality
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Field Blower|0.03, Float Stone|0.03, Guzma|0.02, Quick Ball|0.04, Ultra Ball|0.00, VS Seeker|0.02, Arven|0.01, Ball Guy|0.04, Barboach|0.62, Battle Compressor|0.06
+bow_drivers:- energy_acceleration, discard, draw, energy
+anti_meta:- N/A

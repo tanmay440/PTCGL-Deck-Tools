@@ -1,0 +1,8 @@
+name:- Snivy
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Bug Catching Set|0.00, Dawn|0.00, Fezandipiti ex|0.00, Forest of Vitality|0.00, Grass Energy|0.00, Lillie's Determination|0.00, Rare Candy|0.00, Serperior ex|0.82
+bow_drivers:- cost_grass
+anti_meta:- N/A

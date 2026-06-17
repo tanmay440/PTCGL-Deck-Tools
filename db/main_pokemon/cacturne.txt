@@ -1,0 +1,8 @@
+name:- Cacturne
+type:- Grass
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ancient Technical Machine [Rock]|0.01, Cacnea|1.00, Crystal Beach|0.01, Eevee|0.00, Fighting Energy|0.00, Holon Adventurer|0.00, Holon Mentor|0.00, Holon Scientist|0.00, Holon Transceiver|0.00, Jirachi|0.00
+bow_drivers:- high_damage, attack, opponent, put
+anti_meta:- N/A

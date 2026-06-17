@@ -1,0 +1,8 @@
+name:- Dragonair
+type:- Dragon
+modifiers:- N/A
+type_requirement:- Lightning, Water
+properties:- N/A
+commonly_found_with:- Dratini|0.98, Boss's Orders|0.00, Lightning Energy|0.05, Mega Dragonite ex|0.99, Poké Pad|0.00, Ultra Ball|0.00, Water Energy|0.02, Crispin|0.01, Night Stretcher|0.00, Lillie's Determination|0.00
+bow_drivers:- search, deck, energy, put
+anti_meta:- N/A

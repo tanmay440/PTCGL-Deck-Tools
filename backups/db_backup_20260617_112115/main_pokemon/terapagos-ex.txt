@@ -1,0 +1,8 @@
+name:- Terapagos ex
+type:- Colorless
+modifiers:- ex, rule_box
+type_requirement:- Grass, Lightning, Water
+properties:- N/A
+commonly_found_with:- Fezandipiti ex|0.02, Latias ex|0.07, Night Stretcher|0.01, Ultra Ball|0.01, Area Zero Underdepths|0.09, Crispin|0.02, Lillie's Determination|0.01, Glass Trumpet|0.20, Tera Orb|0.27, Grass Energy|0.03
+bow_drivers:- high_damage, damage, opponent, attack
+anti_meta:- N's Zoroark|1.00, Dragapult Dusknoir|1.00

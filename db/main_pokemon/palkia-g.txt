@@ -1,0 +1,8 @@
+name:- Palkia G
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Aaron's Collection|0.02, Azelf|0.01, Bebe's Search|0.00, Bronzong G|0.02, Call Energy|0.01, Crobat G|0.01, Cyrus's Conspiracy|0.01, Lightning Energy|0.00, Lucario GL|0.02, Luxray GL|0.02
+bow_drivers:- cost_colorless, cost_water, switch, damage
+anti_meta:- Gyarados|1.00

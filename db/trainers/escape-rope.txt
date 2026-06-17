@@ -1,0 +1,8 @@
+name:- Escape Rope
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Nest Ball|0.37, Float Stone|0.40, Guzma|0.26, Hisuian Heavy Ball|0.32, Marnie|0.46, Field Blower|0.31, Arven|0.21, Evolution Incense|0.34, VS Seeker|0.22, Ultra Ball|0.01
+bow_drivers:- opponent, switch, zero_damage, zero_retreat
+anti_meta:- N/A

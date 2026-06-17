@@ -1,0 +1,8 @@
+name:- Dragonite ex
+type:- Dragon
+modifiers:- ex, mega, rule_box
+type_requirement:- Lightning, Water
+properties:- N/A
+commonly_found_with:- Crystal Beach|0.01, Cursed Stone|0.01, Dragonair|0.01, Dratini|0.01, Girafarig|0.01, Grass Energy|0.00, Holon Adventurer|0.00, Holon Mentor|0.00, Holon Researcher|0.00, Holon Scientist|0.00
+bow_drivers:- high_damage, discard, switch, opponent
+anti_meta:- N/A

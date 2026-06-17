@@ -1,0 +1,8 @@
+name:- Garchomp C LV.X
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Aaron's Collection|0.46, Bebe's Search|0.14, Bronzong G|0.46, Crobat G|0.28, Cyrus's Conspiracy|0.39, Garchomp C|1.00, Psychic Energy|0.00, Roseanne's Research|0.14, Team Galactic's Invention G-101 Energy Gain|0.39, Team Galactic's Invention G-103 Power Spray|0.46
+bow_drivers:- attack, discard, put, damage
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Glaceon
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Azelf|0.00, Bebe's Search|0.00, Call Energy|0.01, Cyrus's Initiative|0.02, Eevee|0.01, Expert Belt|0.00, Felicity's Drawing|0.02, Giratina|0.02, Giratina LV.X|1.00, Glaceon LV.X|1.00
+bow_drivers:- high_damage, cost_water, opponent, put
+anti_meta:- N/A

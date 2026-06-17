@@ -1,0 +1,8 @@
+name:- Luxury Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Spiritomb|0.58, Bebe's Search|0.58, Roseanne's Research|0.58, Uxie|0.57, VS Seeker|0.17, Expert Belt|0.56, Psychic Energy|0.02, Rare Candy|0.03, Night Maintenance|0.49, Darkness Energy|0.02
+bow_drivers:- search, discard, deck, opponent
+anti_meta:- Gyarados|1.00

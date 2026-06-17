@@ -1,0 +1,8 @@
+name:- Future Booster Energy Capsule
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Bellelba & Brycen-Man|0.24, Capture Energy|0.11, Cynthia & Caitlin|0.12, Double Colorless Energy|0.09, Enhanced Hammer|0.02, Eri|0.05, Faba|0.19, Gladion|0.12, Guzma|0.02, Guzma & Hala|0.04
+bow_drivers:- energy_acceleration, attach, damage, opponent
+anti_meta:- N/A

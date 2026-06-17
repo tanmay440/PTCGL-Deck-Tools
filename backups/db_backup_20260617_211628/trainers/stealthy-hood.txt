@@ -1,0 +1,8 @@
+name:- Stealthy Hood
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.26, VS Seeker|0.25, Rescue Stretcher|0.31, Arven|0.16, Trainers' Mail|0.38, Lillie's Determination|0.01, Double Colorless Energy|0.55, Mr. Mime|0.55, Team Flare Grunt|0.45, Forest Seal Stone|0.33
+bow_drivers:- energy_acceleration, attach, opponent, attack
+anti_meta:- N/A

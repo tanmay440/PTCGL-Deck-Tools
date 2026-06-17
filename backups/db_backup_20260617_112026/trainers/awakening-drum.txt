@@ -1,0 +1,8 @@
+name:- Awakening Drum
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Canari|0.00, Crispin|0.00, Energy Recycler|0.00, Energy Switch|0.00, Fighting Energy|0.00, Iono's Bellibolt ex|0.10, Iono's Tadbulb|0.10, Judge|0.00, Koraidon|0.00
+bow_drivers:- draw, deck, zero_damage, mod_ancient
+anti_meta:- N/A

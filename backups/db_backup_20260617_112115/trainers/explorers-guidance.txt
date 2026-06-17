@@ -1,0 +1,8 @@
+name:- Explorer's Guidance
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.02, Poké Pad|0.02, Ultra Ball|0.02, Boss's Orders|0.02, Prism Tower|0.30, Lillie's Determination|0.01, Special Red Card|0.02, Fighting Energy|0.06, Fighting Gong|0.10, Lunatone|0.13
+bow_drivers:- discard, look, deck, put
+anti_meta:- Dragapult Dusknoir|1.00, Dragapult Dudunsparce|1.00, Mega Lopunny|1.00, Mega Venusaur|1.00, Ethan's Typhlosion|1.00

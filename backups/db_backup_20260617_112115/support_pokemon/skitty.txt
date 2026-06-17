@@ -1,0 +1,8 @@
+name:- Skitty
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Delcatty|1.00, Grass Energy|0.01, Acro Bike|0.31, Bellelba & Brycen-Man|0.56, Buddy-Buddy Poffin|0.00, Bunnelby|0.40, Capture Energy|0.19, Cheryl|0.59, Cinccino|0.33, Clay|0.59
+bow_drivers:- search, cost_colorless, deck, put
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Dunsparce
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Dudunsparce|1.00, Buddy-Buddy Poffin|0.31, Poké Pad|0.23, Boss's Orders|0.22, Night Stretcher|0.18, Lillie's Determination|0.17, Ultra Ball|0.17, Fezandipiti ex|0.21, Special Red Card|0.23, Psychic Energy|0.23
+bow_drivers:- cost_colorless, switch, zero_damage
+anti_meta:- Other|1.00, Alakazam Dudunsparce|1.00, Mega Manectric|1.00, Festival Lead|1.00, Metagross|1.00, Hop's Trevenant|1.00, Starmie Dusknoir|1.00, N's Zoroark|1.00, Ogerpon Meganium|1.00, Mega Greninja|1.00, Manectric Eelektrik|1.00, Dragapult|1.00, Lillie's Clefairy|1.00, Rocket's Mewtwo|1.00, Joltik Box|1.00, Toxtricity|1.00, Beedrill|1.00, Cynthia's Garchomp|1.00, Sylveon|1.00, Mega Gengar|1.00, Doublade|1.00, Ethan's Typhlosion|1.00, Dragapult Dudunsparce|1.00, Kangaskhan Bouffalant|1.00

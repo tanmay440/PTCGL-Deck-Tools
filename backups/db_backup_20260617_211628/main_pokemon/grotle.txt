@@ -1,0 +1,8 @@
+name:- Grotle
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Accelgor|1.00, Air Balloon|0.00, Applin|0.02, Arven|0.02, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Budew|0.00, Bug Catching Set|0.01, Colress's Tenacity|0.02, Cynthia|0.25
+bow_drivers:- cost_grass, cost_colorless, opponent, damage
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Team Rocket's Great Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Colress's Tenacity|0.00, Energy Search|0.00, Fire Energy|0.00, Hero's Cape|0.00, Hilda|0.00, Latias ex|0.00, Lillie's Determination|0.00, Nitro Fire Energy|0.00, Poké Pad|0.00
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

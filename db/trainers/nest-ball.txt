@@ -1,0 +1,8 @@
+name:- Nest Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.67, Guzma|0.69, Hisuian Heavy Ball|0.76, Iono|0.63, VS Seeker|0.64, Ultra Ball|0.04, Field Blower|0.70, Float Stone|0.66, Night Stretcher|0.03, Buddy-Buddy Poffin|0.04
+bow_drivers:- search, deck, put, bench
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Tarragon
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Fighting Energy|0.11, Fighting Gong|0.18, Lillie's Determination|0.02, Poké Pad|0.02, Boss's Orders|0.02, Air Balloon|0.06, Lunatone|0.19, Solrock|0.19, Night Stretcher|0.02, Barbaracle|0.61
+bow_drivers:- discard, put, energy, hand
+anti_meta:- Mega Venusaur|1.00, Dragapult Blaziken|1.00, Festival Lead|1.00, Starmie Froslass|1.00, Dragapult Dudunsparce|1.00, Beedrill|1.00, Slowking|0.75

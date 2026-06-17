@@ -1,0 +1,8 @@
+name:- Krookodile
+type:- Darkness
+modifiers:- ex, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Binding Mochi|0.01, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Darkness Energy|0.00, Energy Recycler|0.01, Krokorok|1.00, Krookodile ex|1.00, Lillie's Determination|0.00, Meowth ex|0.00, Munkidori|0.00
+bow_drivers:- high_damage, cost_darkness, opponent, cost_colorless
+anti_meta:- N/A

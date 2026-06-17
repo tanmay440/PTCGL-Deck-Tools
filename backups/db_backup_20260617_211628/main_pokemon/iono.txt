@@ -1,0 +1,8 @@
+name:- Iono
+type:- Lightning
+modifiers:- N/A
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Arven|0.78, Ultra Ball|0.05, Buddy-Buddy Poffin|0.07, Guzma|0.68, VS Seeker|0.68, Field Blower|0.64, Hisuian Heavy Ball|0.61, Nest Ball|0.61, Night Stretcher|0.04, Evolution Incense|0.51
+bow_drivers:- cost_lightning, cost_colorless
+anti_meta:- Gardevoir ex / Drifloon|0.68

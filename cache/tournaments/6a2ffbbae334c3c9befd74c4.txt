@@ -1,0 +1,7 @@
+game:- PTCG
+name:- ARTEUS TCG - MONDAY LEGENDS
+date:- 2026-06-15T22:00:00.000Z
+format:- STANDARD
+id:- 6a2ffbbae334c3c9befd74c4
+players:- 24
+organizerId:- 2692

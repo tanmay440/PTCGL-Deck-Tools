@@ -1,0 +1,8 @@
+name:- Energy Search
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.05, Boss's Orders|0.04, Ultra Ball|0.04, Poké Pad|0.04, Fezandipiti ex|0.05, Crispin|0.09, Lillie's Determination|0.04, Psychic Energy|0.06, Water Energy|0.16, Meowth ex|0.05
+bow_drivers:- search, deck, energy, put
+anti_meta:- Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Lucario|1.00, Mega Greninja|1.00, Decidueye|1.00, Other|1.00, Mega Manectric|1.00, Metagross|1.00, Hop's Trevenant|1.00, Dragapult|1.00, Lillie's Clefairy|1.00, N's Zoroark|1.00, Rocket's Mewtwo|1.00, Okidogi Barbaracle|1.00, Alakazam Dudunsparce|0.75

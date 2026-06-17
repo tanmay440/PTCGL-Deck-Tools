@@ -1,0 +1,8 @@
+name:- Sacred Ash
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Poké Pad|0.12, Boss's Orders|0.11, Buddy-Buddy Poffin|0.14, Night Stretcher|0.10, Shaymin|0.24, Dudunsparce|0.34, Dunsparce|0.34, Lana's Aid|0.35, Fezandipiti ex|0.11, Rare Candy|0.22
+bow_drivers:- discard, shuffle, deck, zero_damage
+anti_meta:- Ethan's Typhlosion|1.00, Raging Bolt Ogerpon|1.00, N's Zoroark|1.00, Alakazam Dudunsparce|1.00, Ursaluna Lunatone|1.00, Starmie Dusknoir|1.00, Ogerpon Meganium|1.00, Mega Greninja|1.00, Manectric Eelektrik|1.00, Metagross|1.00, Joltik Box|1.00, Toxtricity|1.00, Beedrill|1.00, Cynthia's Garchomp|1.00, Hop's Trevenant|1.00, Rocket's Honchkrow|1.00, Rocket's Mewtwo|1.00, Dragapult Blaziken|1.00, Dragapult Dusknoir|1.00, Okidogi Barbaracle|1.00, Future Thorns|1.00

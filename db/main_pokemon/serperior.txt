@@ -1,0 +1,8 @@
+name:- Serperior
+type:- Grass
+modifiers:- ex, rule_box
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Bug Catching Set|0.00, Dawn|0.00, Energy Recycler|0.00, Fezandipiti ex|0.00, Forest of Vitality|0.00, Grass Energy|0.00, Lana's Aid|0.00
+bow_drivers:- high_damage, search, opponent, damage
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Claw Fossil
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ancient Technical Machine [Rock]|0.10, Cyclone Energy|0.03, Giant Stump|0.02, Holon Adventurer|0.01, Holon Mentor|0.01, Holon Scientist|0.01, Holon Transceiver|0.01, Holon's Castform|0.02, Holon's Magnemite|0.03, Jirachi|0.02
+bow_drivers:- deck, look, put, bench
+anti_meta:- N/A

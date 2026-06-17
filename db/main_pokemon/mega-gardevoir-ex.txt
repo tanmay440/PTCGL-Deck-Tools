@@ -1,0 +1,8 @@
+name:- Mega Gardevoir ex
+type:- Psychic
+modifiers:- ex, mega, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Kirlia|0.12, Lillie's Determination|0.00, Psychic Energy|0.01, Ralts|0.12, Buddy-Buddy Poffin|0.01, Lillie's Clefairy ex|0.02, Rare Candy|0.01, Boss's Orders|0.00, Poké Pad|0.00, Telepathic Psychic Energy|0.01
+bow_drivers:- energy_acceleration, search, deck, energy
+anti_meta:- N/A

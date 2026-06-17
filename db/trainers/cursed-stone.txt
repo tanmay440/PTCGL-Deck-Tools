@@ -1,0 +1,8 @@
+name:- Cursed Stone
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.16, Cessation Crystal|0.83, Steven's Advice|0.31, Pow! Hand Extension|0.13, Energy Removal 2|0.54, Holon Adventurer|0.08, Holon Mentor|0.08, Holon Scientist|0.08, Holon Transceiver|0.08, Scramble Energy|0.21
+bow_drivers:- discard, damage, zero_damage, zero_retreat
+anti_meta:- Flygon δ|1.00

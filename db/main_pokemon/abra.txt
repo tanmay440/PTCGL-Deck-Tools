@@ -1,0 +1,8 @@
+name:- Abra
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.06, Buddy-Buddy Poffin|0.08, Poké Pad|0.06, Hilda|0.22, Dudunsparce|0.26, Enriching Energy|0.90, Dunsparce|0.26, Psychic Energy|0.10, Kadabra|0.86, Alakazam|0.84
+bow_drivers:- switch, cost_psychic
+anti_meta:- Starmie Dusknoir|1.00, Joltik Box|1.00, Toxtricity|1.00, Beedrill|1.00, Cynthia's Garchomp|1.00, Hop's Trevenant|1.00, Raging Bolt Ogerpon|1.00, Dragapult|0.75, Metagross|0.67, Starmie Froslass|0.67

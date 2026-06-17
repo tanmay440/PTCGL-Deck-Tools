@@ -1,0 +1,8 @@
+name:- Cynthia & Caitlin
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.18, Hisuian Heavy Ball|0.19, Night Stretcher|0.01, Poké Pad|0.01, VS Seeker|0.13, Nest Ball|0.15, Guzma & Hala|0.27, Ultra Ball|0.01, Field Blower|0.17, Quick Ball|0.24
+bow_drivers:- discard, draw, hand, put
+anti_meta:- N/A

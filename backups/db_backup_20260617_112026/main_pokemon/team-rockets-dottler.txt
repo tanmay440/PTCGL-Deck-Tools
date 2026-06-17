@@ -1,0 +1,8 @@
+name:- Team Rocket's Dottler
+type:- Psychic
+modifiers:- Team Rocket's
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Boxed Order|0.04, Buddy-Buddy Poffin|0.00, Dawn|0.00, Energy Search|0.00, Erika's Gloom|0.02, Erika's Oddish|0.02, Erika's Tangela|0.24, Erika's Vileplume ex|0.02, Fire Energy|0.00
+bow_drivers:- cost_colorless, look, opponent, deck
+anti_meta:- N/A

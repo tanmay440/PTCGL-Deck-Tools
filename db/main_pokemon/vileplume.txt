@@ -1,0 +1,8 @@
+name:- Vileplume
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Alolan Muk|1.00, Cynthia & Caitlin|0.05, Double Dragon Energy|0.27, Dusknoir|0.01, Faba|0.07, Float Stone|0.01, Gallade|0.07, Gladion|0.05, Gloom|1.00, Guzma|0.01
+bow_drivers:- high_damage, cost_grass, opponent, attack
+anti_meta:- N/A

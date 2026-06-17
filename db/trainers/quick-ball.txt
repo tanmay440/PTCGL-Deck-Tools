@@ -1,0 +1,8 @@
+name:- Quick Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.51, Hisuian Heavy Ball|0.62, VS Seeker|0.47, Field Blower|0.60, Arven|0.38, Rescue Stretcher|0.56, Nest Ball|0.48, Night Stretcher|0.02, Ultra Ball|0.02, Iono|0.38
+bow_drivers:- discard, search, hand, deck
+anti_meta:- N/A

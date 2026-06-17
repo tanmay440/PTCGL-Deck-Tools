@@ -1,0 +1,8 @@
+name:- Sparkling Crystal
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.02, Ultra Ball|0.02, Night Stretcher|0.01, Psychic Energy|0.03, Fezandipiti ex|0.02, Buddy-Buddy Poffin|0.02, Crispin|0.03, Poké Pad|0.01, Lillie's Determination|0.01, Fire Energy|0.04
+bow_drivers:- energy_acceleration, attack, energy, attach
+anti_meta:- Dragapult|1.00, Beedrill|1.00, Mega Charizard X|1.00, Slowking|1.00, Mega Greninja|1.00, Metagross|1.00, Alakazam Dudunsparce|0.75

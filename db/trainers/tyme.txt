@@ -1,0 +1,8 @@
+name:- Tyme
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Bubbly Water Energy|0.11, Buddy-Buddy Poffin|0.00, Dragapult ex|0.01, Drakloak|0.00, Dreepy|0.00, Froslass|0.04, Gravity Mountain|0.01, Hilda|0.01, Ignition Energy|0.01
+bow_drivers:- draw, opponent, hand, put
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Iron Defender
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Beldum|0.01, Boss's Orders|0.00, Brock's Scouting|0.00, Counter Gain|0.02, Dusk Ball|0.02, Energy Recycler|0.00, Genesect ex|0.01, Hop's Bag|0.01, Hop's Choice Band|0.01
+bow_drivers:- opponent, damage, weakness, resistance
+anti_meta:- N/A

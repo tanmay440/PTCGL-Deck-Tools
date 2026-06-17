@@ -1,0 +1,8 @@
+name:- Silent Lab
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.18, Hisuian Heavy Ball|0.23, Iono|0.17, Ultra Ball|0.01, VS Seeker|0.17, Field Blower|0.21, Rescue Stretcher|0.22, Arven|0.13, Buddy-Buddy Poffin|0.01, Evolution Incense|0.25
+bow_drivers:- discard, hand, zero_damage, zero_retreat
+anti_meta:- N/A

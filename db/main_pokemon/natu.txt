@@ -1,0 +1,8 @@
+name:- Natu
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.01, Field Blower|0.22, Fog Crystal|0.66, Guzma|0.18, Hisuian Heavy Ball|0.22, Inkay|1.00, Iron Boulder|0.79, Kirlia|0.30, Level Ball|0.35, Malamar|1.00
+bow_drivers:- attack, damage, cost_psychic
+anti_meta:- N/A

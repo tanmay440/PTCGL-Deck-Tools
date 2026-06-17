@@ -1,0 +1,8 @@
+name:- Mallow
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Archaludon|0.07, Arven|0.01, Ball Guy|0.05, Beldum|0.03, Bronzong|0.12, Bronzor|0.12, Buddy-Buddy Poffin|0.00, Ciphermaniac's Codebreaking|0.01, Crystal Cave|1.00, Dialga|0.13
+bow_drivers:- discard, switch, hand, heal
+anti_meta:- N/A

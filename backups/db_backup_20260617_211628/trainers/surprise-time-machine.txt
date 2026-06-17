@@ -1,0 +1,8 @@
+name:- Surprise! Time Machine
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boost Energy|1.00, Cyclone Energy|0.33, Delcatty|0.39, Delcatty ex|1.00, Electrode ex|0.32, Girafarig|0.40, Grass Energy|0.01, Great Ball|1.00, Holon Energy GL|1.00, Lightning Energy|0.02
+bow_drivers:- search, deck, shuffle, put
+anti_meta:- N/A

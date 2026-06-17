@@ -1,0 +1,8 @@
+name:- Thunder Mountain Prism Star
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Bellelba & Brycen-Man|0.37, Capture Energy|0.12, Cynthia & Caitlin|0.13, Double Colorless Energy|0.09, Enhanced Hammer|0.02, Eri|0.06, Faba|0.19, Future Booster Energy Capsule|1.00, Gladion|0.16, Guzma|0.02
+bow_drivers:- discard, opponent, hand, deck
+anti_meta:- N/A

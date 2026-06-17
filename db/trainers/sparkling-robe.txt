@@ -1,0 +1,8 @@
+name:- Sparkling Robe
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Artazon|0.27, Arven|0.05, Ball Guy|0.22, Buddy-Buddy Poffin|0.00, Capture Energy|0.32, Cinccino|0.50, Dodrio|0.75, Doduo|0.75, Double Turbo Energy|0.50, Dudunsparce|0.02
+bow_drivers:- energy_acceleration, attach, attack, zero_damage
+anti_meta:- N/A

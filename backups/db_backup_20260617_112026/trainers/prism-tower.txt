@@ -1,0 +1,8 @@
+name:- Prism Tower
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.05, Lillie's Determination|0.04, Ultra Ball|0.04, Boss's Orders|0.04, Poké Pad|0.04, Special Red Card|0.05, Fighting Energy|0.13, Fezandipiti ex|0.03, Fighting Gong|0.18, Meowth ex|0.03
+bow_drivers:- discard, draw, hand, zero_damage
+anti_meta:- Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Lucario|1.00, Mega Greninja|1.00, Decidueye|1.00, Dragapult Blaziken|1.00, Dragapult Dudunsparce|1.00, Mega Lopunny|1.00, Mega Venusaur|1.00, Ethan's Typhlosion|1.00, Steven's Metagross|1.00, N's Zoroark|1.00

@@ -1,0 +1,8 @@
+name:- Professor Juniper
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Field Blower|0.09, Guzma|0.07, Iono|0.07, VS Seeker|0.07, Battle Compressor|0.32, Rescue Stretcher|0.09, Tapu Lele-GX|0.86, Buddy-Buddy Poffin|0.00, Float Stone|0.07, Fog Crystal|0.22
+bow_drivers:- discard, draw, hand, attack
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Snorlax
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.10, Capture Energy|0.58, Float Stone|0.18, Guzma|0.11, Hisuian Heavy Ball|0.14, Nest Ball|0.13, Night Stretcher|0.01, Quick Ball|0.22, VS Seeker|0.11, Lillie's Determination|0.01
+bow_drivers:- high_damage, damage, opponent, weakness
+anti_meta:- N/A

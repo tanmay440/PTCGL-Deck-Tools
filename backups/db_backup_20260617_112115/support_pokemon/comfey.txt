@@ -1,0 +1,8 @@
+name:- Comfey
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Basic Water Energy|0.50, Colress's Experiment|1.00, Cramorant|0.98, Escape Rope|0.21, Jet Energy|0.25, Mirage Gate|1.00, Nest Ball|0.08, Psychic Energy|0.01, Radiant Greninja|0.39, Sableye|0.47
+bow_drivers:- search, deck, put, bench
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Parallel City
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.21, Hisuian Heavy Ball|0.26, VS Seeker|0.20, Buddy-Buddy Poffin|0.02, Evolution Incense|0.32, Iono|0.19, Level Ball|0.46, Nest Ball|0.22, Night Stretcher|0.01, Ultra Ball|0.01
+bow_drivers:- discard, bench, damage, weakness
+anti_meta:- N/A

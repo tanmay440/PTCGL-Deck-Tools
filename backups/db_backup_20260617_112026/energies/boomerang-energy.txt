@@ -1,0 +1,8 @@
+name:- Boomerang Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.05, Ultra Ball|0.05, Poké Pad|0.05, Switch|0.18, Kyurem|0.73, Night Stretcher|0.05, Psychic Energy|0.09, Slowking|0.74, Slowpoke|0.74, Wondrous Patch|0.43
+bow_drivers:- energy_acceleration, discard, energy, attack
+anti_meta:- Sylveon|1.00, Greninja|1.00, Steven's Metagross|1.00, Starmie Froslass|1.00, Basic Box|1.00, Beedrill|1.00, Rocket's Mewtwo|1.00, Raging Bolt Ogerpon|0.67, Dragapult|0.67, Alakazam Dudunsparce|0.60

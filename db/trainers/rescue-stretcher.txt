@@ -1,0 +1,8 @@
+name:- Rescue Stretcher
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.74, VS Seeker|0.70, Field Blower|0.83, Arven|0.57, Hisuian Heavy Ball|0.77, Iono|0.57, Nest Ball|0.62, Ultra Ball|0.03, Evolution Incense|0.70, Poké Pad|0.03
+bow_drivers:- discard, put, hand, shuffle
+anti_meta:- N/A

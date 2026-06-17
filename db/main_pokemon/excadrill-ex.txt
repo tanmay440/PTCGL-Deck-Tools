@@ -1,0 +1,8 @@
+name:- Excadrill ex
+type:- Fighting
+modifiers:- ex, rule_box
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Briar|0.00, Ceruledge ex|0.00, Charcadet|0.00, Drilbur|0.00, Explorer's Guidance|0.00, Fighting Energy|0.00, Fighting Gong|0.00, Fire Energy|0.00, Legacy Energy|0.00
+bow_drivers:- high_damage, cost_fighting, damage, attack
+anti_meta:- N/A

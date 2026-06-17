@@ -1,0 +1,8 @@
+name:- Team Rocket's Muk
+type:- Darkness
+modifiers:- Team Rocket's
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.00, Poké Pad|0.00, Team Rocket's Archer|0.02, Team Rocket's Ariana|0.02, Team Rocket's Articuno|0.01, Team Rocket's Energy|0.02, Team Rocket's Factory|0.01, Team Rocket's Giovanni|0.02, Team Rocket's Grimer|1.00, Team Rocket's Murkrow|0.03
+bow_drivers:- high_damage, opponent, cost_darkness, cost_colorless
+anti_meta:- N/A

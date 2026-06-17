@@ -1,0 +1,8 @@
+name:- Galarian Obstagoon
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Academy at Night|0.01, Annihilape|0.02, Ciphermaniac's Codebreaking|0.00, Fezandipiti ex|0.00, Haxorus|0.08, Kyurem|0.01, Latias ex|0.00, Lillie's Clefairy ex|0.00, Lillie's Determination|0.00, Meowth ex|0.00
+bow_drivers:- high_damage, discard, cost_colorless, damage
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Uxie
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Bebe's Search|0.93, Roseanne's Research|0.93, Psychic Energy|0.02, Expert Belt|0.87, Luxury Ball|0.57, Azelf|0.77, Call Energy|0.72, Night Maintenance|0.70, Warp Energy|0.42, Warp Point|0.34
+bow_drivers:- put, damage, opponent, cost_psychic
+anti_meta:- Gyarados|1.00

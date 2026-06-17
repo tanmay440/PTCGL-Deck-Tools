@@ -1,0 +1,8 @@
+name:- Pumpkaboo
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Banette|0.10, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Gourgeist ex|1.00, Handheld Fan|0.00, Latias ex|0.00, Lillie's Clefairy ex|0.00, Lillie's Determination|0.00, Poké Pad|0.00, Psychic Energy|0.00
+bow_drivers:- cost_psychic
+anti_meta:- N/A

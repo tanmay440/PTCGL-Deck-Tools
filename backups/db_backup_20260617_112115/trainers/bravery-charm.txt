@@ -1,0 +1,8 @@
+name:- Bravery Charm
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.08, Iono|0.09, Buddy-Buddy Poffin|0.01, Counter Catcher|0.18, Cresselia|0.29, Drifloon|0.80, Earthen Vessel|0.23, Gardevoir ex|0.27, Kirlia|0.15, Psychic Energy|0.01
+bow_drivers:- energy_acceleration, attach, hp, zero_damage
+anti_meta:- N/A

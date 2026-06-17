@@ -1,0 +1,8 @@
+name:- Devolution Spray
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.01, Ball Guy|0.04, Barboach|1.00, Battle Compressor|0.06, Brooklet Hill|0.09, Counter Catcher|0.03, Cynthia & Caitlin|0.06, Donphan|1.00, Double Turbo Energy|0.08, Enhanced Hammer|0.01
+bow_drivers:- deck, evolve, attack, zero_damage
+anti_meta:- N/A

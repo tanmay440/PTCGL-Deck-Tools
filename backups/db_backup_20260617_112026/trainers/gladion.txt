@@ -1,0 +1,8 @@
+name:- Gladion
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.15, VS Seeker|0.14, Hisuian Heavy Ball|0.15, Night Stretcher|0.01, Quick Ball|0.22, Trainers' Mail|0.28, Nest Ball|0.12, Capture Energy|0.50, Eri|0.24, Lillie's Determination|0.01
+bow_drivers:- prize, put, hand, look
+anti_meta:- N/A

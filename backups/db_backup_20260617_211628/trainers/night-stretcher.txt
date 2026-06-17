@@ -1,0 +1,8 @@
+name:- Night Stretcher
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Poké Pad|0.86, Boss's Orders|0.85, Lillie's Determination|0.85, Ultra Ball|0.82, Fezandipiti ex|0.65, Buddy-Buddy Poffin|0.63, Meowth ex|0.59, Special Red Card|0.54, Psychic Energy|0.47, Budew|0.38
+bow_drivers:- discard, put, energy, hand
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00, Mega Venusaur|1.00, Ceruledge|1.00, Dragapult|1.00, Raging Bolt Ogerpon|1.00, Other|1.00, Alakazam Dudunsparce|1.00, Dragapult Dusknoir|1.00, Mega Greninja|1.00, Steven's Metagross|1.00, Metagross|1.00, Beedrill|1.00, Ursaluna Lunatone|1.00, Froslass Dudunsparce|1.00, Ethan's Typhlosion|1.00, Rocket's Spidops|1.00, Slowking|1.00, Ogerpon Meganium Hydrapple|1.00, Ogerpon Meganium|1.00, Dragapult Dudunsparce|1.00, Lopunny Dusknoir|1.00, Mega Lucario|1.00, Decidueye|1.00, Dragapult Blaziken|1.00, Hop's Zacian|1.00, Rocket's Mewtwo|1.00, Sylveon|1.00, Greninja|1.00, Starmie Froslass|1.00, Basic Box|1.00, Kangaskhan Bouffalant|1.00, Crustle|1.00, Grimmsnarl Froslass|1.00, Rocket's Honchkrow|1.00, Ogerpon Meganium Arboliva|1.00, Starmie Dusknoir|1.00, Mega Lopunny|1.00, Okidogi Barbaracle|1.00

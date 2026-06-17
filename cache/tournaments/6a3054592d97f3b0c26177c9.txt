@@ -1,0 +1,7 @@
+game:- PTCG
+name:- 🏛💫 Card Temple Weekly Battles #63
+date:- 2026-06-16T02:00:00.000Z
+format:- STANDARD
+id:- 6a3054592d97f3b0c26177c9
+players:- 108
+organizerId:- 2152

@@ -1,0 +1,8 @@
+name:- Relicanth
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.02, Lillie's Determination|0.02, Poké Pad|0.02, Night Stretcher|0.02, Special Red Card|0.03, Buddy-Buddy Poffin|0.02, Ultra Ball|0.02, Archaludon ex|0.64, Duraludon|0.64, Metal Energy|0.23
+bow_drivers:- attack, energy, cost_fighting, cost_colorless
+anti_meta:- Dragapult Blaziken|1.00, Metagross|1.00, Ethan's Typhlosion|1.00

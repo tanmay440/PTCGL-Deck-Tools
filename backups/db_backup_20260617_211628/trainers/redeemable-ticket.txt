@@ -1,0 +1,8 @@
+name:- Redeemable Ticket
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.02, Buddy-Buddy Poffin|0.03, Poké Pad|0.02, Lillie's Determination|0.02, Ultra Ball|0.02, Shaymin|0.06, Special Red Card|0.03, Night Stretcher|0.02, Sacred Ash|0.16, Rare Candy|0.05
+bow_drivers:- prize, put, deck, shuffle
+anti_meta:- Starmie Dusknoir|1.00, N's Zoroark|1.00, Ogerpon Meganium|1.00, Mega Greninja|1.00, Manectric Eelektrik|1.00, Rocket's Honchkrow|1.00, Rocket's Mewtwo|1.00, Dragapult Blaziken|1.00, Okidogi Barbaracle|1.00

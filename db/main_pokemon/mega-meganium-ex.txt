@@ -1,0 +1,8 @@
+name:- Mega Meganium ex
+type:- Grass
+modifiers:- ex, mega, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Bayleef|0.10, Chikorita|0.10, Forest of Vitality|0.05, Grass Energy|0.02, Lillie's Determination|0.01, Meganium|0.10, Teal Mask Ogerpon ex|0.04, Boss's Orders|0.01, Night Stretcher|0.01, Bug Catching Set|0.04
+bow_drivers:- cost_colorless, opponent, prize, attack
+anti_meta:- Hydreigon|1.00, Lillie's Clefairy|1.00, Slowking|1.00, Starmie Froslass|1.00, Hop's Trevenant|1.00

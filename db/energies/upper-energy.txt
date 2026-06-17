@@ -1,0 +1,8 @@
+name:- Upper Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Baltoy|0.36, Bebe's Search|0.32, Claydol|0.41, Expert Belt|0.35, Looker's Investigation|0.52, Luxury Ball|0.21, Roseanne's Research|0.32, Uxie|0.30, Warp Point|0.17, Azelf|0.34
+bow_drivers:- energy, deck, zero_damage, zero_retreat
+anti_meta:- N/A

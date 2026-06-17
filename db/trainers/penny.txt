@@ -1,0 +1,8 @@
+name:- Penny
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.04, Faba|0.42, Float Stone|0.07, Forest Seal Stone|0.17, Guzma|0.05, Lillie's Determination|0.00, Nest Ball|0.05, Team Flare Grunt|0.31, VS Seeker|0.05, Articuno-GX|0.67
+bow_drivers:- put, hand, zero_damage, zero_retreat
+anti_meta:- N/A

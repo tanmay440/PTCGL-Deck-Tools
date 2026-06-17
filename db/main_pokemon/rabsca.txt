@@ -1,0 +1,8 @@
+name:- Rabsca
+type:- Grass
+modifiers:- ex, rule_box
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.03, Rellor|1.00, Buddy-Buddy Poffin|0.04, Poké Pad|0.03, Lillie's Determination|0.03, Night Stretcher|0.03, Grass Energy|0.11, Bug Catching Set|0.19, Black Belt's Training|0.26, Air Balloon|0.08
+bow_drivers:- draw, cost_colorless, opponent, deck
+anti_meta:- Ethan's Typhlosion|1.00, N's Zoroark|1.00, Alakazam Dudunsparce|1.00, Ursaluna Lunatone|1.00, Other|1.00, Ogerpon Meganium|1.00, Beedrill|0.67, Crustle|0.62

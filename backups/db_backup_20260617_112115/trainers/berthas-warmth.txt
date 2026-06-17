@@ -1,0 +1,8 @@
+name:- Bertha's Warmth
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Aaron's Collection|0.12, Bebe's Search|0.04, Bronzong G|0.12, Call Energy|0.05, Crobat G|0.07, Cyrus's Conspiracy|0.11, Dialga G|0.17, Dialga G LV.X|0.17, Expert Belt|0.04, Garchomp C|0.27
+bow_drivers:- discard, put, damage, zero_damage
+anti_meta:- N/A

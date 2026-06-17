@@ -1,0 +1,8 @@
+name:- Ange Floette
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Colress's Tenacity|0.02, Deoxys|0.20, Jacinthe|0.25, Latias ex|0.01, Lillie's Clefairy ex|0.01, Lillie's Determination|0.00, Mega Floette ex|0.69, Mega Kangaskhan ex|0.01, Poké Pad|0.00
+bow_drivers:- discard, put, opponent, hp
+anti_meta:- N/A

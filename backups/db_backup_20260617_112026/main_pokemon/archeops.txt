@@ -1,0 +1,8 @@
+name:- Archeops
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Iono|0.05, Iron Hands ex|0.67, Legacy Energy|0.04, Lugia V|1.00, Lugia VSTAR|1.00, Ultra Ball|0.00, Aurora Energy|0.25, Battle Compressor|0.13, Crobat V|0.22, Dedenne-GX|0.50
+bow_drivers:- high_damage, opponent, hand, cost_fighting
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Team Rocket's Handiwork
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Faba|0.36, Float Stone|0.06, Gladion|0.22, Guzma|0.04, Lusamine|0.21, Plumeria|0.61, Stealthy Hood|0.17, Team Flare Grunt|0.26, Teammates|0.09, Trainers' Mail|0.10
+bow_drivers:- discard, opponent, deck, attack
+anti_meta:- N/A

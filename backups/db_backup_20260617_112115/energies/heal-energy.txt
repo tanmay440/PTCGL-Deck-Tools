@@ -1,0 +1,8 @@
+name:- Heal Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Electrode ex|0.19, Holon Adventurer|0.08, Holon Mentor|0.08, Holon Scientist|0.08, Holon Transceiver|0.08, Jirachi|0.09, Pidgeot|0.08, Pidgey|0.04, Pokémon Retriever|0.09, Pow! Hand Extension|0.09
+bow_drivers:- energy_acceleration, energy, heal, attach
+anti_meta:- N/A

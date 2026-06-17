@@ -1,0 +1,8 @@
+name:- Holon Energy FF
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Electrode ex|0.23, Holon Adventurer|0.08, Holon Mentor|0.08, Holon Scientist|0.08, Holon Transceiver|0.08, Jirachi|0.10, Pow! Hand Extension|0.09, Rocket's Admin.|0.07, Voltorb|0.23, Steven's Advice|0.20
+bow_drivers:- energy, weakness, damage, attack
+anti_meta:- Flygon δ|1.00

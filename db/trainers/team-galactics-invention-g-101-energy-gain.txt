@@ -1,0 +1,8 @@
+name:- Team Galactic's Invention G-101 Energy Gain
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Bebe's Search|0.34, Crobat G|0.71, Cyrus's Conspiracy|1.00, Roseanne's Research|0.34, Team Galactic's Invention G-105 Poké Turn|0.91, Team Galactic's Invention G-109 SP Radar|1.00, Uxie|0.32, Unown [Q]|0.66, Uxie LV.X|0.75, Aaron's Collection|0.87
+bow_drivers:- energy_acceleration, discard, energy, attach
+anti_meta:- Gyarados|1.00

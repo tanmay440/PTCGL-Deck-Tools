@@ -1,0 +1,8 @@
+name:- Koraidon ex
+type:- Dragon
+modifiers:- ex, ancient, rule_box
+type_requirement:- Fighting, Fire
+properties:- N/A
+commonly_found_with:- Area Zero Underdepths|0.21, Boss's Orders|0.02, Crispin|0.06, Cyrano|0.17, Fezandipiti ex|0.03, Fighting Energy|0.11, Latias ex|0.11, Lillie's Clefairy ex|0.08, Psychic Energy|0.04, Ultra Ball|0.02
+bow_drivers:- high_damage, damage, cost_colorless, cost_fighting
+anti_meta:- Dragapult Dusknoir|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Rocket's Mewtwo|1.00, Mega Greninja|1.00, Alakazam Dudunsparce|1.00, Steven's Metagross|1.00

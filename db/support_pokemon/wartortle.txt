@@ -1,0 +1,8 @@
+name:- Wartortle
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Squirtle|0.29, Warp Point|0.00, Water Energy|0.00, Blastoise ex|0.34, Celebi ex|0.34, Giant Stump|0.00, Holon Mentor|0.00, Holon Scientist|0.00, Holon Transceiver|0.00, Holon's Castform|0.00
+bow_drivers:- discard, cost_water, put, energy
+anti_meta:- N/A

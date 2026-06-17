@@ -1,0 +1,8 @@
+name:- Great Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boost Energy|1.00, Cyclone Energy|0.33, Delcatty|0.39, Delcatty ex|1.00, Electrode ex|0.32, Girafarig|0.40, Grass Energy|0.01, Holon Energy GL|1.00, Lightning Energy|0.02, Master Ball|0.51
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

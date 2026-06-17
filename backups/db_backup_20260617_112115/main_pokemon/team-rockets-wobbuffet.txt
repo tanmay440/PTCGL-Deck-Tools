@@ -1,0 +1,8 @@
+name:- Team Rocket's Wobbuffet
+type:- Psychic
+modifiers:- Team Rocket's
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Team Rocket's Ariana|0.05, Team Rocket's Articuno|0.03, Team Rocket's Energy|0.04, Team Rocket's Factory|0.03, Team Rocket's Giovanni|0.05, Team Rocket's Transceiver|0.03, Night Stretcher|0.00, Team Rocket's Mimikyu|0.10, Team Rocket's Petrel|0.01, Psychic Energy|0.00
+bow_drivers:- cost_colorless, cost_psychic, damage, opponent
+anti_meta:- Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Lucario|1.00, Mega Greninja|1.00, Decidueye|1.00

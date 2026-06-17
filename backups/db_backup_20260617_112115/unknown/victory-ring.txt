@@ -1,0 +1,8 @@
+name:- Victory Ring
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Cyclone Energy|0.23, Giant Stump|0.18, Holon Adventurer|0.10, Holon Mentor|0.10, Holon Scientist|0.10, Holon Transceiver|0.10, Holon's Castform|0.17, Holon's Magnemite|0.66, Jirachi|0.10, Mew Star|1.00
+bow_drivers:- unknown
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

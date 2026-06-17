@@ -1,0 +1,8 @@
+name:- Copycat
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Energy Removal 2|0.29, Pokémon Reversal|1.00, Rocket's Admin.|0.04, Steven's Advice|0.12, Poké Ball|0.94, Boost Energy|0.26, Cursed Stone|0.16, Cyclone Energy|0.06, Dark Metal Energy|0.28, Metal Energy|0.01
+bow_drivers:- draw, hand, shuffle, deck
+anti_meta:- Scizor|1.00

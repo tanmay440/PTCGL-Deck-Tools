@@ -1,0 +1,8 @@
+name:- Oranguru V
+type:- Colorless
+modifiers:- v, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.06, Binding Mochi|0.09, Carmine|0.10, Colress's Tenacity|0.06, Fezandipiti ex|0.01, Forest Seal Stone|0.26, Hisuian Heavy Ball|0.09, Iono|0.07, Latias ex|0.02, Lumineon V|0.29
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

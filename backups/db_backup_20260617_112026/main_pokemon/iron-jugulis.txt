@@ -1,0 +1,8 @@
+name:- Iron Jugulis
+type:- Colorless
+modifiers:- future
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Black Belt's Training|0.00, Boss's Orders|0.00, Crispin|0.00, Crushing Hammer|0.00, Energy Search|0.00, Fire Energy|0.00, Hero's Cape|0.00, Iron Crown|0.26, Iron Moth|0.26
+bow_drivers:- high_damage, attack, opponent, put
+anti_meta:- N/A

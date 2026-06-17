@@ -1,0 +1,8 @@
+name:- Team Skull Grunt
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Bellelba & Brycen-Man|0.07, Camping Gear|0.33, Captivating Poké Puff|1.00, Chaotic Swell|0.05, Crushing Hammer|0.00, Cynthia & Caitlin|0.03, Double Colorless Energy|0.02, Echoing Horn|1.00, Energy Loto|1.00, Energy Swatter|0.96
+bow_drivers:- discard, opponent, hand, energy
+anti_meta:- N/A

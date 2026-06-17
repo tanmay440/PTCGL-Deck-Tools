@@ -1,0 +1,92 @@
+tournament_id:- 6a2f5fc2e334c3c9befd71b9
+player:- xell0x
+placing:- 1
+wins:- 5
+losses:- 0
+draws:- 0
+archetype:- Gardevoir δ
+decklist:- Ralts||Ralts||Ralts||Ralts||Kirlia||Kirlia||Gardevoir||Gardevoir||Gardevoir ex||Gardevoir ex||Holon's Castform||Holon's Castform||Holon's Castform||Pidgey||Pidgey||Pidgeot||Pidgeot||Pidgeot||Pidgeot||Jirachi||Jirachi||Treecko||Sceptile ex||Rayquaza ex||Regirock ex||Holon's Voltorb||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||Holon Mentor||Holon Mentor||Lanette's Net Search||Lanette's Net Search||Holon Researcher||Holon Scientist||Holon Adventurer||Holon Transceiver||Holon Transceiver||Holon Transceiver||Holon Transceiver||Rare Candy||Rare Candy||Rare Candy||Rare Candy||Warp Point||Warp Point||Warp Point||Warp Point||Windstorm||Windstorm||Windstorm||Windstorm||Pow! Hand Extension||Pokémon Retriever||Giant Stump||Warp Energy||Warp Energy||Warp Energy||Warp Energy||δ Rainbow Energy
+---
+tournament_id:- 6a2f5fc2e334c3c9befd71b9
+player:- sableye44
+placing:- 2
+wins:- 4
+losses:- 1
+draws:- 0
+archetype:- Bombtar
+decklist:- Larvitar||Larvitar||Larvitar||Dark Pupitar||Dark Pupitar||Dark Tyranitar||Dark Tyranitar||Dark Tyranitar||Dark Tyranitar||Voltorb||Voltorb||Electrode ex||Electrode ex||Pidgey||Pidgey||Pidgeot||Pidgeot||Pidgeot||Jirachi||Jirachi||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||Holon Mentor||Holon Mentor||Steven's Advice||Steven's Advice||Holon Scientist||Holon Adventurer||Holon Transceiver||Holon Transceiver||Holon Transceiver||Holon Transceiver||Pow! Hand Extension||Pow! Hand Extension||Pow! Hand Extension||Pow! Hand Extension||Rare Candy||Rare Candy||Rare Candy||Rare Candy||Warp Point||Warp Point||Warp Point||Windstorm||Windstorm||Windstorm||Pokémon Retriever||Switch||Ancient Technical Machine [Rock]||Ancient Technical Machine [Rock]||Solid Rage||Darkness Energy||Darkness Energy||Darkness Energy||Darkness Energy||Scramble Energy||Scramble Energy||Scramble Energy
+---
+tournament_id:- 6a2f5fc2e334c3c9befd71b9
+player:- Tooran97
+placing:- 3
+wins:- 4
+losses:- 1
+draws:- 0
+archetype:- Bombcatty
+decklist:- Skitty||Skitty||Skitty||Skitty||Delcatty||Delcatty||Delcatty||Delcatty||Delcatty ex||Voltorb||Voltorb||Voltorb||Electrode ex||Electrode ex||Electrode ex||Girafarig||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||Wally's Training||Wally's Training||Wally's Training||Wally's Training||TV Reporter||Master Ball||Master Ball||Master Ball||Master Ball||Great Ball||Great Ball||Great Ball||Great Ball||Pow! Hand Extension||Pow! Hand Extension||Pow! Hand Extension||Pow! Hand Extension||Windstorm||Windstorm||Windstorm||Windstorm||Surprise! Time Machine||Surprise! Time Machine||Surprise! Time Machine||Scramble Energy||Scramble Energy||Scramble Energy||Scramble Energy||Holon Energy GL||Holon Energy GL||Holon Energy GL||Cyclone Energy||Cyclone Energy||Cyclone Energy||Lightning Energy||Lightning Energy||Lightning Energy||Grass Energy||Grass Energy||Boost Energy
+---
+tournament_id:- 6a2f5fc2e334c3c9befd71b9
+player:- Blaevy1
+placing:- 4
+wins:- 3
+losses:- 2
+draws:- 0
+archetype:- Banette
+decklist:- Shuppet||Shuppet||Shuppet||Shuppet||Banette ex||Banette ex||Banette ex||Banette ex||Banette||Smoochum||Hitmontop||Holon's Voltorb||Mew||Lunatone||Jynx||Solrock||Jolteon Star||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||TV Reporter||TV Reporter||TV Reporter||Holon Mentor||Holon Mentor||Holon Mentor||Professor Elm's Training Method||Professor Elm's Training Method||Holon Scientist||Steven's Advice||Holon Adventurer||Scott||Holon Transceiver||Holon Transceiver||Holon Transceiver||Warp Point||Warp Point||Warp Point||Energy Removal 2||Energy Removal 2||Pokémon Retriever||Crystal Beach||Crystal Beach||Crystal Beach||Desert Ruins||Desert Ruins||Psychic Energy||Psychic Energy||Psychic Energy||Psychic Energy||Psychic Energy||Psychic Energy||Rainbow Energy||Rainbow Energy||Rainbow Energy||Rainbow Energy||Warp Energy||Warp Energy||Cyclone Energy
+---
+tournament_id:- 6a2f5fc2e334c3c9befd71b9
+player:- FluffyTiddless
+placing:- 5
+wins:- 2
+losses:- 3
+draws:- 0
+archetype:- Gardevoir δ
+decklist:- Ralts||Ralts||Ralts||Kirlia||Kirlia||Gardevoir ex||Gardevoir ex||Gardevoir||Gardevoir||Holon's Castform||Holon's Castform||Holon's Castform||Pidgey||Pidgey||Pidgeotto||Pidgeot||Pidgeot||Jirachi||Jirachi||Treecko||Grovyle||Sceptile ex||Stantler||Rayquaza ex||Holon's Magnemite||Regirock ex||Mew Star||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||Holon Mentor||Holon Mentor||Holon Researcher||Holon Adventurer||Holon Scientist||Lanette's Net Search||Windstorm||Windstorm||Windstorm||Windstorm||Holon Transceiver||Holon Transceiver||Holon Transceiver||Holon Transceiver||Rare Candy||Rare Candy||Rare Candy||Pokémon Retriever||Pokémon Retriever||Warp Point||Pow! Hand Extension||Victory Ring||Giant Stump||Warp Energy||Warp Energy||Warp Energy||δ Rainbow Energy||δ Rainbow Energy||Metal Energy||Cyclone Energy
+---
+tournament_id:- 6a2f5fc2e334c3c9befd71b9
+player:- edgeorge92
+placing:- 6
+wins:- 1
+losses:- 4
+draws:- 0
+archetype:- Bombchamp
+decklist:- Machop||Machop||Machop||Machop||Machoke||Machoke||Machamp||Machamp||Machamp||Voltorb||Voltorb||Electrode ex||Electrode ex||Pidgey||Pidgey||Pidgeot||Pidgeot||Jirachi||Jirachi||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||Steven's Advice||Steven's Advice||Steven's Advice||Holon Mentor||Holon Mentor||Holon Mentor||Holon Scientist||Holon Adventurer||Holon Transceiver||Holon Transceiver||Holon Transceiver||Holon Transceiver||Rare Candy||Rare Candy||Rare Candy||Rare Candy||Windstorm||Windstorm||Windstorm||Windstorm||Pow! Hand Extension||Pow! Hand Extension||Pow! Hand Extension||Pokémon Retriever||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||React Energy||React Energy||React Energy||React Energy||Heal Energy||Heal Energy||Holon Energy FF||Holon Energy FF||Rainbow Energy
+---
+tournament_id:- 6a2f5fc2e334c3c9befd71b9
+player:- Janekyrie
+placing:- 7
+wins:- 1
+losses:- 2
+draws:- 0
+archetype:- Rai-Eggs
+decklist:- Exeggcute||Exeggcute||Exeggcute||Exeggcute||Exeggutor||Exeggutor||Exeggutor||Exeggutor||Pikachu||Pikachu||Pikachu||Pikachu||Raichu||Raichu||Raichu||Raichu||Holon's Castform||Holon's Castform||Holon's Castform||Holon's Castform||Holon's Magnemite||Holon's Magnemite||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||Steven's Advice||Steven's Advice||Holon Mentor||Holon Mentor||Holon Researcher||Holon Researcher||Mr. Briney's Compassion||Mr. Briney's Compassion||Holon Adventurer||Holon Scientist||Holon Transceiver||Holon Transceiver||Holon Transceiver||Holon Transceiver||Cessation Crystal||Cessation Crystal||Cessation Crystal||Cessation Crystal||Desert Ruins||Desert Ruins||Cursed Stone||Cursed Stone||Scramble Energy||Scramble Energy||Scramble Energy||Scramble Energy||Double Rainbow Energy||Double Rainbow Energy||Double Rainbow Energy||Double Rainbow Energy||Warp Energy||Warp Energy||Metal Energy||Metal Energy
+---
+tournament_id:- 6a2f5fc2e334c3c9befd71b9
+player:- OrlandoVarba
+placing:- 8
+wins:- 0
+losses:- 1
+draws:- 0
+archetype:- Nidoqueen
+decklist:- Nidoran ♀||Nidoran ♀||Nidoran ♀||Nidoran ♀||Nidorina||Nidorina||Nidoqueen||Nidoqueen||Nidoqueen||Pidgey||Pidgey||Pidgeotto||Pidgeot||Pidgeot||Treecko||Treecko||Grovyle||Sceptile ex||Sceptile||Holon's Voltorb||Holon's Electrode||Holon Mentor||Holon Mentor||Rocket's Admin.||Rocket's Admin.||Mr. Briney's Compassion||Mr. Briney's Compassion||Holon Scientist||Steven's Advice||Holon Adventurer||Celio's Network||Holon Transceiver||Holon Transceiver||Holon Transceiver||Holon Transceiver||Windstorm||Windstorm||Windstorm||Windstorm||Rare Candy||Rare Candy||Rare Candy||Rare Candy||VS Seeker||VS Seeker||VS Seeker||Pokémon Retriever||Pokémon Retriever||Desert Ruins||Desert Ruins||Desert Ruins||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Double Rainbow Energy||Double Rainbow Energy||Double Rainbow Energy||Double Rainbow Energy||Rainbow Energy
+---
+tournament_id:- 6a2f5fc2e334c3c9befd71b9
+player:- Autumn Lamb
+placing:- 9
+wins:- 0
+losses:- 1
+draws:- 0
+archetype:- Other
+decklist:- Mudkip||Mudkip||Mudkip||Mudkip||Marshtomp||Marshtomp||Marshtomp||Marshtomp||Swampert||Swampert||Swampert ex||Swampert ex||Holon's Castform||Holon's Castform||Jirachi||Jirachi||Mew Star||Rayquaza ex||Lugia ex||Holon's Magnemite||Holon Mentor||Holon Mentor||Holon Mentor||Holon Mentor||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||Steven's Advice||Steven's Advice||Holon Scientist||Holon Adventurer||Holon Transceiver||Holon Transceiver||Holon Transceiver||Holon Transceiver||Windstorm||Windstorm||Windstorm||Windstorm||Warp Point||Warp Point||Warp Point||Claw Fossil||Claw Fossil||Pow! Hand Extension||Pow! Hand Extension||Rare Candy||Victory Ring||Ancient Technical Machine [Rock]||Giant Stump||Rainbow Energy||Rainbow Energy||Rainbow Energy||Rainbow Energy||Scramble Energy||Scramble Energy||Warp Energy||Warp Energy||Water Energy||Cyclone Energy
+---
+tournament_id:- 6a2f5fc2e334c3c9befd71b9
+player:- Tsurara
+placing:- 10
+wins:- 0
+losses:- 3
+draws:- 0
+archetype:- Bombtar
+decklist:- Larvitar||Larvitar||Larvitar||Dark Pupitar||Dark Pupitar||Dark Tyranitar||Dark Tyranitar||Dark Tyranitar||Voltorb||Voltorb||Electrode ex||Electrode ex||Pidgey||Pidgey||Pidgeot||Pidgeot||Pidgeot||Jirachi||Jirachi||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||Rocket's Admin.||Holon Mentor||Holon Mentor||Holon Mentor||Steven's Advice||Steven's Advice||Holon Scientist||Holon Adventurer||Warp Point||Warp Point||Warp Point||Warp Point||Holon Transceiver||Holon Transceiver||Holon Transceiver||Holon Transceiver||Rare Candy||Rare Candy||Rare Candy||Rare Candy||Pow! Hand Extension||Pow! Hand Extension||Pow! Hand Extension||Windstorm||Windstorm||Pokémon Retriever||Ancient Technical Machine [Rock]||Ancient Technical Machine [Rock]||Solid Rage||Darkness Energy||Darkness Energy||Darkness Energy||Darkness Energy||Scramble Energy||Scramble Energy||Scramble Energy||Heal Energy||Heal Energy
+---
+MATCH:- Bombtar|Gardevoir δ|0.0
+MATCH:- Bombchamp|Gardevoir δ|0.0

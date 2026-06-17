@@ -1,0 +1,8 @@
+name:- Zekrom ex
+type:- Lightning
+modifiers:- ex, rule_box
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Fezandipiti ex|0.00, Lightning Energy|0.00, Lillie's Determination|0.00, Meowth ex|0.00, Night Stretcher|0.00, Poké Pad|0.00, Ultra Ball|0.00, Buddy-Buddy Poffin|0.00, Eelektrik|0.01
+bow_drivers:- high_damage, cost_colorless, damage, prize
+anti_meta:- N/A

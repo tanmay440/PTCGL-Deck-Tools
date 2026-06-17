@@ -1,0 +1,8 @@
+name:- Rapidash
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Artazon|0.14, Arven|0.03, Avery|0.33, Blacksmith|0.50, Blaziken|0.15, Buddy-Buddy Poffin|0.00, Chi-Yu|0.04, Colress's Tenacity|0.03, Combusken|0.03, Counter Energy|0.17
+bow_drivers:- draw, cost_fire, cost_colorless
+anti_meta:- N/A

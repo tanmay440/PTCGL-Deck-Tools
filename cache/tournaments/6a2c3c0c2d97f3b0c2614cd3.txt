@@ -1,0 +1,7 @@
+game:- PTCG
+name:- Mega Lunes 17
+date:- 2026-06-16T01:10:00.000Z
+format:- STANDARD
+id:- 6a2c3c0c2d97f3b0c2614cd3
+players:- 27
+organizerId:- 2689

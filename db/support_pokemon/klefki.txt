@@ -1,0 +1,8 @@
+name:- Klefki
+type:- Metal
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Fezandipiti ex|0.01, Ultra Ball|0.00, Arven|0.05, Bloodmoon Ursaluna ex|0.12, Budew|0.01, Counter Catcher|0.16, Crispin|0.01, Darkness Energy|0.01
+bow_drivers:- discard, draw, cost_colorless, hand
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Giratina
+type:- Dragon
+modifiers:- vstar, rule_box
+type_requirement:- Grass, Psychic
+properties:- N/A
+commonly_found_with:- Psychic Energy|0.01, VS Seeker|0.05, Buddy-Buddy Poffin|0.00, Field Blower|0.07, Fog Crystal|0.20, Gallade|0.43, Guzma|0.05, Hisuian Heavy Ball|0.06, Inkay|0.30, Iron Boulder|0.23
+bow_drivers:- high_damage, opponent, cost_grass, cost_psychic
+anti_meta:- N/A

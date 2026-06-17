@@ -1,0 +1,8 @@
+name:- Double Dragon Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Faba|0.14, Float Stone|0.03, Guzma|0.02, N|0.05, Alolan Muk|0.54, Cynthia & Caitlin|0.05, Dusknoir|0.01, Gallade|0.09, Gladion|0.06, Gloom|0.54
+bow_drivers:- discard, energy, zero_damage, zero_retreat
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Cornerstone Mask Ogerpon
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Abra|0.02, Azelf|0.11, Baltoy|0.12, Barbaracle|0.08, Beldum|0.04, Binacle|0.08, Boss's Orders|0.00, Brave Bangle|0.01, Bronzong|0.16, Bronzor|0.16
+bow_drivers:- energy_acceleration, search, discard, deck
+anti_meta:- N/A

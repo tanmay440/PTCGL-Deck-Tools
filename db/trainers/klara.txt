@@ -1,0 +1,8 @@
+name:- Klara
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.17, Guzma|0.19, Hisuian Heavy Ball|0.23, Nest Ball|0.22, Ultra Ball|0.01, Field Blower|0.22, Marnie|0.32, Rescue Stretcher|0.23, Professor's Letter|0.40, Evolution Incense|0.24
+bow_drivers:- discard, put, hand, energy
+anti_meta:- N/A

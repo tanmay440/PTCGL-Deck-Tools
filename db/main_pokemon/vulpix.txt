@@ -1,0 +1,8 @@
+name:- Vulpix
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Air Balloon|0.01, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Fire Energy|0.01, Lillie's Determination|0.00, Night Stretcher|0.00, Ninetales|1.00, Poké Pad|0.00, Switch|0.01, Ultra Ball|0.00
+bow_drivers:- opponent, cost_fire, zero_damage
+anti_meta:- N/A

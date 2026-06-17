@@ -1,0 +1,8 @@
+name:- Team Rocket's Porygon
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ignition Energy|0.31, Poké Pad|0.04, Roto-Stick|0.99, Team Rocket's Archer|0.74, Team Rocket's Ariana|0.68, Team Rocket's Energy|0.62, Team Rocket's Factory|0.44, Team Rocket's Giovanni|0.68, Team Rocket's Honchkrow|1.00, Team Rocket's Murkrow|0.97
+bow_drivers:- unknown
+anti_meta:- Kangaskhan Bouffalant|1.00, Dragapult Blaziken|1.00, Crustle|1.00, Grimmsnarl Froslass|1.00, Dragapult|0.67

@@ -1,0 +1,8 @@
+name:- Volcarona
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- AZ's Tranquility|0.00, Battle Cage|0.00, Bianca's Devotion|0.00, Blowtorch|0.02, Boss's Orders|0.00, Cinderace|0.00, Dangerous Laser|0.68, Dawn|0.00, Energy Retrieval|0.00, Fire Energy|0.00
+bow_drivers:- discard, energy, hand, opponent
+anti_meta:- N/A

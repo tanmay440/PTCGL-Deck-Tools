@@ -1,0 +1,8 @@
+name:- Bunnelby
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.01, Capture Energy|0.47, Counter Catcher|0.24, Eri|0.20, Gladion|0.53, Guzma|0.09, Hisuian Heavy Ball|0.11, Quick Ball|0.18, Trainers' Mail|0.23, VS Seeker|0.09
+bow_drivers:- attack, damage, cost_colorless
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Lost City
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.01, Counter Catcher|0.27, Iono|0.10, Ultra Ball|0.01, Arven|0.06, Bloodmoon Ursaluna ex|0.13, Boss's Orders|0.00, Budew|0.01, Crispin|0.01, Darkness Energy|0.01
+bow_drivers:- discard, opponent, put, zero_damage
+anti_meta:- N/A

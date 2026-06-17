@@ -1,0 +1,8 @@
+name:- Empoleon
+type:- Metal
+modifiers:- ex, rule_box
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Aqua Patch|1.00, Ball Guy|0.02, Battle Compressor|0.04, Bicycle|1.00, Buddy-Buddy Poffin|0.00, Colress's Experiment|0.10, Cramorant|0.10, Dive Ball|0.06, Drizzile|0.06, Earthen Vessel|0.03
+bow_drivers:- high_damage, opponent, damage, cost_metal
+anti_meta:- N/A

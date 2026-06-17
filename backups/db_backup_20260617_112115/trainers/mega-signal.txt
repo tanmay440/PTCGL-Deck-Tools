@@ -1,0 +1,8 @@
+name:- Mega Signal
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.03, Lillie's Determination|0.02, Night Stretcher|0.02, Wally's Compassion|0.12, Pokégear 3.0|0.08, Team Rocket's Petrel|0.06, Poké Pad|0.02, Ultra Ball|0.01, Judge|0.05, Special Red Card|0.02
+bow_drivers:- search, deck, put, hand
+anti_meta:- Mega Venusaur|1.00, Dragapult Blaziken|1.00, Festival Lead|1.00, Doublade|1.00, Mega Starmie|1.00, Dragapult|1.00, Lillie's Clefairy|1.00, N's Zoroark|1.00, Rocket's Mewtwo|1.00, Sylveon|1.00, Mega Gengar|1.00, Alakazam Dudunsparce|1.00, Beedrill|1.00, Mega Greninja|1.00, Blaziken|1.00

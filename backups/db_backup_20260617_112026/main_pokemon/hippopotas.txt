@@ -1,0 +1,8 @@
+name:- Hippopotas
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Baltoy|0.01, Bebe's Search|0.01, Claydol|0.01, Cynthia's Feelings|0.03, Expert Belt|0.01, Felicity's Drawing|0.02, Fighting Energy|0.00, Hippowdon|1.00, Hippowdon LV.X|1.00, Life Herb|1.00
+bow_drivers:- opponent, switch, bench, cost_fighting
+anti_meta:- N/A

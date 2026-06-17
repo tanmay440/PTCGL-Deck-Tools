@@ -1,0 +1,8 @@
+name:- Pelipper
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Artazon|0.28, Arven|0.06, Ball Guy|0.23, Buddy-Buddy Poffin|0.01, Capture Energy|0.38, Cinccino|0.67, Dodrio|0.75, Doduo|0.75, Double Turbo Energy|0.50, Dudunsparce|0.02
+bow_drivers:- high_damage, cost_colorless, cost_water
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Sneasel
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Carmine|0.00, Dewgong|1.00, Fezandipiti ex|0.00, Froakie|0.00, Frogadier|0.00, Greninja ex|0.00, Lillie's Determination|0.00
+bow_drivers:- cost_water, opponent, defending
+anti_meta:- N/A

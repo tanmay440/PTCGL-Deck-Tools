@@ -1,0 +1,8 @@
+name:- Manectric ex
+type:- Lightning
+modifiers:- ex, mega, rule_box
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Balloon Berry|0.01, Battle Frontier|0.46, Castaway|0.01, Crystal Beach|0.01, Cyclone Energy|0.00, Dual Ball|1.00, Electrike|0.01, Giant Stump|0.00, Holon Mentor|0.00, Holon's Electrode|0.04
+bow_drivers:- high_damage, discard, cost_lightning, opponent
+anti_meta:- N/A

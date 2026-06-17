@@ -1,0 +1,8 @@
+name:- Alomomola
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Colress's Tenacity|0.00, Cubchoo|0.02, Dedenne|0.00, Energy Retrieval|0.00, Enhanced Hammer|0.00, Eri|0.00, Feebas|0.04
+bow_drivers:- discard, put, hp, bench
+anti_meta:- N/A

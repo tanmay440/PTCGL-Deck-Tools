@@ -1,0 +1,8 @@
+name:- Ancient Booster Energy Capsule
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Area Zero Underdepths|0.01, Arven|0.01, Binding Mochi|0.01, Boss's Orders|0.00, Brute Bonnet|0.20, Budew|0.00, Canceling Cologne|0.24, Carmine|0.02, Colress's Tenacity|0.01, Darkness Energy|0.00
+bow_drivers:- energy_acceleration, attach, hp, zero_damage
+anti_meta:- N/A

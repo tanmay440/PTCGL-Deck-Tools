@@ -1,0 +1,8 @@
+name:- Fighting Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.19, Ultra Ball|0.17, Lillie's Determination|0.16, Night Stretcher|0.14, Poké Pad|0.14, Fighting Gong|0.61, Meowth ex|0.16, Lunatone|0.47, Solrock|0.47, Fezandipiti ex|0.13
+bow_drivers:- zero_damage, zero_retreat
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Slowking|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Lucario Hariyama|1.00, Metagross|1.00, Mega Venusaur|1.00, Dragapult Blaziken|1.00, Festival Lead|1.00, Dragapult Dusknoir|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Mega Greninja|1.00, Alakazam Dudunsparce|1.00, Steven's Metagross|1.00, Sylveon|1.00, Mega Gengar|1.00, Beedrill|1.00, Doublade|1.00, Dragapult Dudunsparce|1.00, Mega Lopunny|1.00, N's Zoroark|1.00, Starmie Froslass|1.00, Future Thorns|1.00

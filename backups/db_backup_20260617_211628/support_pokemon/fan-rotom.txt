@@ -1,0 +1,8 @@
+name:- Fan Rotom
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Poké Pad|0.09, Boss's Orders|0.07, Night Stretcher|0.07, Ultra Ball|0.07, Buddy-Buddy Poffin|0.09, Lillie's Determination|0.06, Dudunsparce|0.25, Dunsparce|0.25, Fezandipiti ex|0.07, Special Red Card|0.08
+bow_drivers:- search, deck, hp, put
+anti_meta:- Starmie Dusknoir|1.00, N's Zoroark|1.00, Ogerpon Meganium|1.00, Mega Greninja|1.00, Manectric Eelektrik|1.00, Dragapult|1.00, Ethan's Typhlosion|1.00

@@ -1,0 +1,8 @@
+name:- Dialga G
+type:- Metal
+modifiers:- N/A
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Bebe's Search|0.21, Call Energy|0.27, Crobat G|0.43, Dialga G LV.X|1.00, Metal Energy|0.05, Psychic Energy|0.01, Roseanne's Research|0.21, Uxie|0.20, Azelf|0.21, Unown [Q]|0.39
+bow_drivers:- damage, cost_colorless, opponent, cost_metal
+anti_meta:- N/A

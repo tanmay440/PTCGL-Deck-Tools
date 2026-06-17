@@ -1,0 +1,8 @@
+name:- Mareep
+type:- Lightning
+modifiers:- N/A
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Ampharos|1.00, Blaziken ex|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Budew|0.00, Combusken|0.00, Crispin|0.00, Dawn|0.00, Fezandipiti ex|0.00, Fire Energy|0.00
+bow_drivers:- opponent, cost_lightning, cost_colorless
+anti_meta:- N/A

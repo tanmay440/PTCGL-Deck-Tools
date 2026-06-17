@@ -1,0 +1,7 @@
+game:- PTCG
+name:- After NAIC LAST PRIZE SERIES
+date:- 2026-06-16T23:35:00.000Z
+format:- STANDARD
+id:- 6a28d75ce334c3c9befd2cd9
+players:- 206
+organizerId:- 2227

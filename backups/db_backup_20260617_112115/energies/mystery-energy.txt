@@ -1,0 +1,8 @@
+name:- Mystery Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.02, Ball Guy|0.06, Buddy-Buddy Poffin|0.00, Cynthia & Caitlin|0.10, Dawn|0.00, Evolution Incense|0.03, Field Blower|0.02, Float Stone|0.03, Flutter Mane|0.17, Fog Crystal|0.09
+bow_drivers:- discard, energy, zero_damage, zero_retreat
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Team Rocket's Crobat ex
+type:- Darkness
+modifiers:- Team Rocket's, ex, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.01, Team Rocket's Energy|0.15, Team Rocket's Golbat|1.00, Team Rocket's Zubat|1.00, Ultra Ball|0.01, Team Rocket's Mimikyu|0.33, Team Rocket's Articuno|0.09, Team Rocket's Petrel|0.02, Boss's Orders|0.00, Buddy-Buddy Poffin|0.01
+bow_drivers:- high_damage, discard, hand, opponent
+anti_meta:- Cynthia's Garchomp|1.00, Festival Lead|1.00

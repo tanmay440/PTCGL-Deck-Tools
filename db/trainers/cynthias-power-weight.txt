@@ -1,0 +1,8 @@
+name:- Cynthia's Power Weight
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.02, Buddy-Buddy Poffin|0.02, Cynthia's Gabite|1.00, Cynthia's Garchomp ex|1.00, Cynthia's Gible|1.00, Fighting Energy|0.08, Lillie's Determination|0.02, Fighting Gong|0.13, Poké Pad|0.02, Cynthia's Roselia|0.99
+bow_drivers:- energy_acceleration, attach, hp, zero_damage
+anti_meta:- Metagross|1.00

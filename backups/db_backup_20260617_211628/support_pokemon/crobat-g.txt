@@ -1,0 +1,8 @@
+name:- Crobat G
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Bebe's Search|0.48, Roseanne's Research|0.48, Uxie|0.47, Unown [Q]|0.93, Expert Belt|0.45, Uxie LV.X|0.84, Psychic Energy|0.01, Team Galactic's Invention G-105 Poké Turn|0.78, Luxury Ball|0.24, Cyrus's Conspiracy|0.71
+bow_drivers:- put, damage, hand, bench
+anti_meta:- Gyarados|1.00

@@ -1,0 +1,8 @@
+name:- Togekiss
+type:- Psychic
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Poké Pad|0.00, Togepi|1.00, Buddy-Buddy Poffin|0.00, Rare Candy|0.01, Hilda|0.01, Psychic Energy|0.00, Telepathic Psychic Energy|0.01, Dawn|0.00, Night Stretcher|0.00, Lillie's Determination|0.00
+bow_drivers:- high_damage, opponent, prize, cost_colorless
+anti_meta:- N/A

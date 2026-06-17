@@ -1,0 +1,8 @@
+name:- Totodile
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Buddy-Buddy Poffin|0.01, Lillie's Determination|0.01, Night Stretcher|0.01, Poké Pad|0.01, Water Energy|0.04, Air Balloon|0.02, Rare Candy|0.02, Hilda|0.03, Budew|0.02
+bow_drivers:- opponent, defending, cost_water
+anti_meta:- N/A

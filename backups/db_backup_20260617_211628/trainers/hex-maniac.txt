@@ -1,0 +1,8 @@
+name:- Hex Maniac
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.02, Evolution Incense|0.47, Field Blower|0.39, Guzma|0.29, Hisuian Heavy Ball|0.37, Iono|0.27, Level Ball|0.68, Night Stretcher|0.02, Poké Pad|0.02, Rescue Stretcher|0.41
+bow_drivers:- discard, opponent, hand, attack
+anti_meta:- N/A

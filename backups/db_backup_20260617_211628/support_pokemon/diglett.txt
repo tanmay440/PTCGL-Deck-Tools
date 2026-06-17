@@ -1,0 +1,8 @@
+name:- Diglett
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Arven|0.02, Baltoy|0.12, Bench Shield|1.00, Brooklet Hill|0.18, Buddy-Buddy Poffin|0.00, Budew|0.00, Capacious Bucket|0.17, Claydol|0.13, Double Colorless Energy|0.09, Dugtrio|1.00
+bow_drivers:- discard, opponent, deck, cost_fighting
+anti_meta:- N/A

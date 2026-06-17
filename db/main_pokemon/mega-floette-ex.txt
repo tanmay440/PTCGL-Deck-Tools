@@ -1,0 +1,8 @@
+name:- Mega Floette ex
+type:- Psychic
+modifiers:- ex, mega, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.00, Psychic Energy|0.00, Night Stretcher|0.00, Boss's Orders|0.00, Latias ex|0.01, Lillie's Clefairy ex|0.01, Mega Kangaskhan ex|0.01, Smoochum|0.02, Telepathic Psychic Energy|0.01, Special Red Card|0.00
+bow_drivers:- energy_acceleration, high_damage, search, cost_psychic
+anti_meta:- N/A

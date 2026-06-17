@@ -1,0 +1,8 @@
+name:- Switch Cart
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Nest Ball|0.08, Basic Water Energy|0.50, Colress's Experiment|0.86, Comfey|0.86, Cramorant|0.86, Escape Rope|0.19, Jet Energy|0.25, Mirage Gate|0.86, Psychic Energy|0.01, Radiant Greninja|0.39
+bow_drivers:- switch, heal, damage, bench
+anti_meta:- N/A

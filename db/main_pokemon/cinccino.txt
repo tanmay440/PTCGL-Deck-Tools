@@ -1,0 +1,8 @@
+name:- Cinccino
+type:- Colorless
+modifiers:- ex, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.01, Capture Energy|0.63, Dudunsparce|0.03, Dunsparce|0.03, Evolution Incense|0.18, Fan Rotom|0.08, Field Blower|0.16, Guzma|0.12, Hex Maniac|0.32, Hisuian Heavy Ball|0.15
+bow_drivers:- damage, attack, energy, opponent
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Cynthia's Roserade
+type:- Grass
+modifiers:- Cynthia's
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Poké Pad|0.02, Lillie's Determination|0.02, Boss's Orders|0.02, Buddy-Buddy Poffin|0.02, Cynthia's Gabite|0.99, Cynthia's Garchomp ex|0.99, Cynthia's Gible|0.99, Cynthia's Power Weight|0.99, Cynthia's Roselia|1.00, Fighting Energy|0.08
+bow_drivers:- damage, opponent, weakness, resistance
+anti_meta:- Metagross|1.00

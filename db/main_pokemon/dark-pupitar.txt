@@ -1,0 +1,8 @@
+name:- Dark Pupitar
+type:- Fighting, Darkness
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Dark Tyranitar|1.00, Darkness Energy|0.01, Electrode ex|0.68, Holon Adventurer|0.23, Holon Mentor|0.23, Holon Scientist|0.24, Holon Transceiver|0.23, Larvitar|0.52, Pow! Hand Extension|0.25, Rocket's Admin.|0.21
+bow_drivers:- search, damage, deck, cost_colorless
+anti_meta:- Flygon δ|1.00

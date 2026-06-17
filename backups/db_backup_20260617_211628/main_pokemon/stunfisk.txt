@@ -1,0 +1,8 @@
+name:- Stunfisk
+type:- Lightning
+modifiers:- N/A
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Ultra Ball|0.01, Lillie's Determination|0.01, Poké Pad|0.01, Buddy-Buddy Poffin|0.01, Battle Cage|0.10, Air Balloon|0.03, Dudunsparce|0.04, Dunsparce|0.04, Lightning Energy|0.10
+bow_drivers:- defending, opponent, damage, weakness
+anti_meta:- Dragapult|1.00

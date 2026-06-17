@@ -1,0 +1,8 @@
+name:- Nighttime Mine
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.05, Poké Pad|0.05, Buddy-Buddy Poffin|0.06, Dudunsparce|0.19, Dunsparce|0.19, Night Stretcher|0.04, Sacred Ash|0.36, Psychic Energy|0.07, Rare Candy|0.11, Hilda|0.13
+bow_drivers:- discard, opponent, put, zero_damage
+anti_meta:- Starmie Dusknoir|1.00, Joltik Box|1.00, Toxtricity|1.00, Beedrill|1.00, Cynthia's Garchomp|1.00, Hop's Trevenant|1.00, Raging Bolt Ogerpon|1.00, Ogerpon Meganium Arboliva|1.00, Ethan's Typhlosion|1.00, Metagross|0.67, Starmie Froslass|0.67

@@ -1,0 +1,8 @@
+name:- Super Rod
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.35, Iono|0.37, Ultra Ball|0.02, Buddy-Buddy Poffin|0.03, Nest Ball|0.32, Psychic Energy|0.03, Hisuian Heavy Ball|0.27, Counter Catcher|0.44, Earthen Vessel|0.41, Escape Rope|0.41
+bow_drivers:- discard, shuffle, energy, deck
+anti_meta:- Gardevoir ex / Drifloon|0.68

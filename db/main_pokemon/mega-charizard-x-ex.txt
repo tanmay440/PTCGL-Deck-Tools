@@ -1,0 +1,8 @@
+name:- Mega Charizard X ex
+type:- Fire
+modifiers:- ex, mega, rule_box
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Charmander|0.23, Charmeleon|0.23, Energy Retrieval|0.02, Fire Energy|0.00, Lillie's Determination|0.00, Oricorio ex|0.97, Poké Pad|0.00, Rare Candy|0.00, Ultra Ball|0.00
+bow_drivers:- high_damage, discard, cost_fire, energy
+anti_meta:- Decidueye|1.00

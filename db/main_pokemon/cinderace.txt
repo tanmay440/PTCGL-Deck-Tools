@@ -1,0 +1,8 @@
+name:- Cinderace
+type:- Fire
+modifiers:- ex, rule_box
+type_requirement:- Darkness, Fighting, Fire
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Lillie's Determination|0.01, Ultra Ball|0.01, Switch|0.02, Mega Signal|0.20, Xerosic's Machinations|0.06, Energy Switch|0.04, Crispin|0.01, Buddy-Buddy Poffin|0.00, Darkness Energy|0.01
+bow_drivers:- high_damage, opponent, damage, cost_fire
+anti_meta:- Sylveon|1.00, Mega Gengar|1.00, Alakazam Dudunsparce|1.00, Mega Greninja|1.00, Doublade|1.00, Ethan's Magcargo|1.00

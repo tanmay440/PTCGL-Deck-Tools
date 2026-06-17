@@ -1,0 +1,8 @@
+name:- Jirachi ex
+type:- Psychic
+modifiers:- ex, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.10, Holon Mentor|0.10, Holon Transceiver|0.10, Holon's Castform|0.16, Psychic Energy|0.00, Windstorm|0.11, Giant Stump|0.18, Holon Scientist|0.10, Holon's Magnemite|0.23, Pokémon Retriever|0.12
+bow_drivers:- opponent, energy, cost_colorless, cost_psychic
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

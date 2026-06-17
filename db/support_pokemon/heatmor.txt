@@ -1,0 +1,8 @@
+name:- Heatmor
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Air Balloon|0.01, Fire Energy|0.01, Lillie's Determination|0.00, Poké Pad|0.00, Rare Candy|0.01, Ultra Ball|0.00, Emboar|0.90, Energy Recycler|0.05, Night Stretcher|0.00, Pignite|0.90
+bow_drivers:- search, cost_fire, deck, energy
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Slowking
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Academy at Night|0.93, Kyurem|0.99, Lillie's Determination|0.06, Poké Pad|0.07, Slowpoke|1.00, Telepathic Psychic Energy|0.34, Latias ex|0.31, Metagross|0.74, Night Stretcher|0.06, Ultra Ball|0.07
+bow_drivers:- cost_colorless, put, energy, opponent
+anti_meta:- Sylveon|1.00, Greninja|1.00, Steven's Metagross|1.00, Starmie Froslass|1.00, Basic Box|1.00, Beedrill|1.00, Rocket's Mewtwo|1.00, Raging Bolt Ogerpon|0.67, Dragapult|0.67, Alakazam Dudunsparce|0.60

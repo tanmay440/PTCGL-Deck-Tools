@@ -1,0 +1,8 @@
+name:- Mysterious Treasure
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.21, VS Seeker|0.21, Buddy-Buddy Poffin|0.02, Field Blower|0.26, Iono|0.20, Arven|0.18, Lillie's Determination|0.01, Rescue Stretcher|0.27, N|0.51, Float Stone|0.30
+bow_drivers:- discard, search, hand, deck
+anti_meta:- N/A

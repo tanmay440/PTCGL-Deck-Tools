@@ -1,0 +1,8 @@
+name:- Zoroark
+type:- Darkness
+modifiers:- ex, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Academy at Night|0.04, Fezandipiti ex|0.00, Kyurem|0.05, Latias ex|0.02, Lillie's Determination|0.00, Night Stretcher|0.00, Poké Pad|0.00, Psychic Energy|0.01, Slowking|0.05, Slowpoke|0.05
+bow_drivers:- discard, draw, hand, cost_darkness
+anti_meta:- N/A

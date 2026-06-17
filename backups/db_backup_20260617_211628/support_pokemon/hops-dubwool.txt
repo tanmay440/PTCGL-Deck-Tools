@@ -1,0 +1,8 @@
+name:- Hop's Dubwool
+type:- Colorless
+modifiers:- Hop's
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Hop's Choice Band|0.58, Hop's Cramorant|0.66, Hop's Snorlax|0.60, Hop's Wooloo|0.99, Mist Energy|0.23, Night Stretcher|0.02, Poké Pad|0.02, Postwick|0.58, Ultra Ball|0.02, Boss's Orders|0.02
+bow_drivers:- hand, evolve, switch, opponent
+anti_meta:- N's Zoroark|1.00, Beedrill|1.00, Basic Box|1.00, Dragapult|1.00, Ceruledge|1.00

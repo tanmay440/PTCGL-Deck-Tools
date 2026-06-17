@@ -1,0 +1,8 @@
+name:- Archaludon
+type:- Metal
+modifiers:- N/A
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Duraludon|0.70, Metal Energy|0.18, Night Stretcher|0.01, Ultra Ball|0.01, Boss's Orders|0.01, Lillie's Determination|0.01, Poké Pad|0.01, Archaludon ex|0.68, Mega Mawile ex|0.61, Relicanth|0.46
+bow_drivers:- high_damage, cost_metal, opponent, damage
+anti_meta:- Dragapult Blaziken|1.00, Ethan's Typhlosion|1.00

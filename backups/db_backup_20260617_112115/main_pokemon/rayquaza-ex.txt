@@ -1,0 +1,8 @@
+name:- Rayquaza ex
+type:- Lightning
+modifiers:- ex, rule_box
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Giant Stump|1.00, Holon Adventurer|0.51, Holon Mentor|0.51, Holon Scientist|0.51, Holon Transceiver|0.51, Holon's Castform|0.91, Jirachi|0.57, Pow! Hand Extension|0.54, Rare Candy|0.02, Rocket's Admin.|0.45
+bow_drivers:- opponent, prize, energy, cost_lightning
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

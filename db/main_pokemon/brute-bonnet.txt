@@ -1,0 +1,8 @@
+name:- Brute Bonnet
+type:- Darkness
+modifiers:- ancient
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Darkness Energy|0.01, Munkidori|0.01, Ultra Ball|0.00, Fezandipiti ex|0.00, Night Stretcher|0.00, Pecharunt|0.17, Buddy-Buddy Poffin|0.00, Lillie's Determination|0.00, Air Balloon|0.01
+bow_drivers:- cost_darkness, opponent, damage, attack
+anti_meta:- N/A

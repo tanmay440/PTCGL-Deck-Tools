@@ -1,0 +1,8 @@
+name:- Mr. Briney's Compassion
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Desert Ruins|0.46, Double Rainbow Energy|1.00, Holon Adventurer|0.09, Holon Mentor|0.09, Holon Scientist|0.09, Holon Transceiver|0.09, Rocket's Admin.|0.08, Steven's Advice|0.18, Cessation Crystal|0.53, Cursed Stone|0.53
+bow_drivers:- discard, put, return, hand
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Ambipom
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Aipom|1.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Hilda|0.00, Ignition Energy|0.01, Lillie's Determination|0.00, Night Stretcher|0.00, Poké Pad|0.00, Wally's Compassion|0.00, Dudunsparce|0.00
+bow_drivers:- discard, cost_colorless, energy, attack
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Minccino
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ultra Ball|0.02, Lillie's Determination|0.01, Buddy-Buddy Poffin|0.01, Night Stretcher|0.01, Cinccino ex|0.59, Boss's Orders|0.01, Beldum|0.31, Energy Recycler|0.18, Genesect ex|0.43, Metal Energy|0.15
+bow_drivers:- damage, cost_colorless
+anti_meta:- N/A

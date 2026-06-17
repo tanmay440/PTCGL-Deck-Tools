@@ -1,0 +1,10 @@
+label:- UNLABELED
+members:- Fezandipiti ex, Meowth ex, Night Stretcher, Ultra Ball, Lillie's Determination, Ciphermaniac's Codebreaking
+roles:- support_pokemon, support_pokemon, trainer, trainer, trainer, trainer
+avg_score:- 118.7
+bow_drivers:- attack, cost_colorless, deck
+appears_in:- Ogerpon Meganium Arboliva|1.00, Dragapult Froslass|1.00, Dragapult Iron Thorns|1.00, Cinderace|1.00
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00
+decklist_appearances:- 1200
+properties:- N/A
+notes:- N/A

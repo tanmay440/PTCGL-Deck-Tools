@@ -1,0 +1,8 @@
+name:- Mesprit
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Azelf|0.14, Bebe's Search|0.13, Crobat G|0.26, Luxury Ball|0.08, Roseanne's Research|0.13, Uxie|0.12, Expert Belt|0.13, Felicity's Drawing|0.52, Unown [Q]|0.26, Pokémon Rescue|0.66
+bow_drivers:- energy_acceleration, high_damage, cost_psychic, attach
+anti_meta:- Gyarados|1.00

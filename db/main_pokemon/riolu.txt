@@ -1,0 +1,8 @@
+name:- Riolu
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Fighting Energy|0.29, Mega Lucario ex|1.00, Fighting Gong|0.48, Lillie's Determination|0.06, Boss's Orders|0.06, Premium Power Pro|0.71, Ultra Ball|0.06, Lunatone|0.59, Solrock|0.59, Poké Pad|0.06
+bow_drivers:- cost_fighting
+anti_meta:- Mega Venusaur|1.00, Dragapult Blaziken|1.00, Festival Lead|1.00, Sylveon|1.00, Mega Gengar|1.00, Alakazam Dudunsparce|1.00, Mega Greninja|1.00, Doublade|1.00, Ethan's Magcargo|1.00

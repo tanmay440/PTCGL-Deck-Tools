@@ -1,0 +1,8 @@
+name:- Cessation Crystal
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Cursed Stone|1.00, Desert Ruins|0.25, Double Rainbow Energy|0.53, Exeggcute|1.00, Exeggutor|1.00, Holon Adventurer|0.05, Holon Mentor|0.05, Holon Researcher|0.09, Holon Scientist|0.05, Holon Transceiver|0.05
+bow_drivers:- energy_acceleration, discard, attach, opponent
+anti_meta:- N/A

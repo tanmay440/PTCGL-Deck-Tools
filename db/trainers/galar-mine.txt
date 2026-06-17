@@ -1,0 +1,8 @@
+name:- Galar Mine
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Acro Bike|0.47, Bellelba & Brycen-Man|0.71, Buddy-Buddy Poffin|0.00, Bunnelby|0.57, Capture Energy|0.32, Cheryl|1.00, Cinccino|0.50, Clay|1.00, Counter Catcher|0.16, Delcatty|0.71
+bow_drivers:- discard, zero_damage, zero_retreat
+anti_meta:- N/A

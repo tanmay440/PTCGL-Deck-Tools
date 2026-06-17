@@ -1,0 +1,8 @@
+name:- Combee
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Azelf|0.02, Bebe's Search|0.02, Broken Time-Space|0.20, Crobat G|0.05, Expert Belt|0.02, Felicity's Drawing|0.09, Gyarados|0.21, Luxury Ball|0.01, Magikarp|0.21, Roseanne's Research|0.02
+bow_drivers:- cost_grass, heal, damage, zero_damage
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Holon's Magneton
+type:- Metal
+modifiers:- Holon's
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Ditto|0.97, Pidgeot|0.19, Pidgeotto|0.18, Pidgey|0.12, Rare Candy|0.01, Darkness Energy|0.00, Arven|0.03, Battle Compressor|0.18, Blend Energy GRPD|0.64, Buddy-Buddy Poffin|0.00
+bow_drivers:- energy_acceleration, energy, damage, attach
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

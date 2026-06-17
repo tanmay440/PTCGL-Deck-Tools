@@ -1,0 +1,8 @@
+name:- Dizzying Valley
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Carvanha|0.01, Colress's Tenacity|0.00, Crobat|0.01, Darkness Energy|0.00, Golbat|0.01, Grimsley's Move|0.01, Iris's Fighting Spirit|0.00, Jumbo Ice Cream|0.00
+bow_drivers:- discard, opponent, evolve, put
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Professor Turo's Scenario
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.14, Buddy-Buddy Poffin|0.01, Budew|0.02, Iono|0.13, Super Rod|0.31, Counter Catcher|0.37, Darkness Energy|0.02, Earthen Vessel|0.50, Munkidori|0.02, Psychic Energy|0.01
+bow_drivers:- discard, put, hand, zero_damage
+anti_meta:- N/A

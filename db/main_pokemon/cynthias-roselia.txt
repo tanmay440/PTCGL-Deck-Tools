@@ -1,0 +1,8 @@
+name:- Cynthia's Roselia
+type:- Grass
+modifiers:- Cynthia's
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.02, Buddy-Buddy Poffin|0.02, Cynthia's Gabite|0.99, Cynthia's Garchomp ex|0.99, Cynthia's Gible|0.99, Cynthia's Power Weight|0.99, Cynthia's Roserade|1.00, Fighting Energy|0.08, Fighting Gong|0.13, Lillie's Determination|0.02
+bow_drivers:- cost_colorless
+anti_meta:- Metagross|1.00

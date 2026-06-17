@@ -1,0 +1,8 @@
+name:- Ethan's Pichu
+type:- Lightning
+modifiers:- Ethan's
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Judge|0.00, Lillie's Determination|0.00, Night Stretcher|0.00, Poké Pad|0.00, Rare Candy|0.00, Special Red Card|0.00, Area Zero Underdepths|0.00
+bow_drivers:- draw, zero_retreat
+anti_meta:- N/A

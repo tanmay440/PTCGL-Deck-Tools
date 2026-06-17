@@ -1,0 +1,8 @@
+name:- Field Blower
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.75, VS Seeker|0.70, Iono|0.64, Hisuian Heavy Ball|0.79, Arven|0.52, Rescue Stretcher|0.80, Nest Ball|0.65, Float Stone|0.73, Ultra Ball|0.03, Evolution Incense|0.69
+bow_drivers:- discard, opponent, attack, zero_damage
+anti_meta:- N/A

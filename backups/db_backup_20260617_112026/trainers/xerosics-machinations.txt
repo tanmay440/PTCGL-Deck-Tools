@@ -1,0 +1,8 @@
+name:- Xerosic's Machinations
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.08, Lillie's Determination|0.08, Buddy-Buddy Poffin|0.08, Ultra Ball|0.06, Night Stretcher|0.05, Poké Pad|0.05, Hilda|0.16, Pokégear 3.0|0.18, Team Rocket's Petrel|0.13, Hero's Cape|0.32
+bow_drivers:- hand, opponent, zero_damage, zero_retreat
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Slowking|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Sylveon|1.00, Mega Gengar|1.00, Alakazam Dudunsparce|1.00, Beedrill|1.00, Mega Greninja|1.00, Doublade|1.00, Lillie's Clefairy|1.00, Starmie Froslass|1.00, Hop's Trevenant|1.00

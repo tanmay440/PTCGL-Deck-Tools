@@ -1,0 +1,8 @@
+name:- Team Rocket's Sneasel
+type:- Darkness
+modifiers:- Team Rocket's
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.00, Lillie's Determination|0.01, Team Rocket's Energy|0.08, Ultra Ball|0.01, Team Rocket's Mimikyu|0.21, Team Rocket's Articuno|0.05, Poké Pad|0.00, Buddy-Buddy Poffin|0.00, Team Rocket's Petrel|0.01, Hilda|0.01
+bow_drivers:- cost_darkness, damage, attack, opponent
+anti_meta:- Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Greninja|1.00, Decidueye|1.00, Cynthia's Garchomp|1.00, Mega Lucario|0.83

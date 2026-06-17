@@ -1,0 +1,8 @@
+name:- Manaphy
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.02, Iono|0.19, Night Stretcher|0.01, Budew|0.03, Irida|0.55, Arven|0.12, Earthen Vessel|0.42, Ultra Ball|0.01, Forest Seal Stone|0.33, Lumineon V|0.38
+bow_drivers:- damage, opponent, cost_water
+anti_meta:- N/A

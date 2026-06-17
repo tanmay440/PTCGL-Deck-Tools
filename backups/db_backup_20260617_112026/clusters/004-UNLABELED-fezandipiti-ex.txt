@@ -1,0 +1,10 @@
+label:- UNLABELED
+members:- Fezandipiti ex, Night Stretcher, Poké Pad, Telepathic Psychic Energy, Psychic Energy
+roles:- support_pokemon, trainer, trainer, energy, energy
+avg_score:- 95.5
+bow_drivers:- attack, cost_colorless, deck
+appears_in:- Dragapult Blaziken|1.00, Tera Box|1.00, Dudunsparce Control|1.00, Jellicent Dusknoir|1.00
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00
+decklist_appearances:- 877
+properties:- N/A
+notes:- N/A

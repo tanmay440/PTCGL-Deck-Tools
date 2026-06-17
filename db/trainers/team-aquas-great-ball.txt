@@ -1,0 +1,8 @@
+name:- Team Aqua's Great Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Antique Cover Fossil|0.99, Arven|0.02, Ball Guy|0.07, Battle Compressor|0.12, Buddy-Buddy Poffin|0.00, Capacious Bucket|0.17, Chaotic Swell|0.24, Dive Ball|0.19, Drizzile|0.19, Earthen Vessel|0.07
+bow_drivers:- search, deck, energy, put
+anti_meta:- N/A

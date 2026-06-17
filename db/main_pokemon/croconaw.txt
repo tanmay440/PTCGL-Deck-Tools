@@ -1,0 +1,8 @@
+name:- Croconaw
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Hilda|0.00, Lillie's Determination|0.00, Mega Feraligatr ex|0.97, Meowth ex|0.00, Neo Upper Energy|0.01, Night Stretcher|0.00, Poké Pad|0.00, Rare Candy|0.00
+bow_drivers:- switch, cost_water
+anti_meta:- N/A

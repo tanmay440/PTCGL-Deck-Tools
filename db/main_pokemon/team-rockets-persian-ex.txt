@@ -1,0 +1,8 @@
+name:- Team Rocket's Persian ex
+type:- Colorless
+modifiers:- Team Rocket's, ex, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Team Rocket's Energy|0.01, Team Rocket's Meowth|1.00, Hilda|0.00, Lillie's Determination|0.00, Night Stretcher|0.00, Team Rocket's Archer|0.01, Team Rocket's Ariana|0.01, Team Rocket's Factory|0.00, Team Rocket's Giovanni|0.01, Team Rocket's Petrel|0.00
+bow_drivers:- high_damage, cost_colorless, opponent, deck
+anti_meta:- N/A

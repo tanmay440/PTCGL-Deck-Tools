@@ -1,0 +1,8 @@
+name:- Beldum
+type:- Metal
+modifiers:- N/A
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Metang|1.00, Boss's Orders|0.03, Metal Energy|0.47, Ultra Ball|0.03, Buddy-Buddy Poffin|0.03, Night Stretcher|0.02, Team Rocket's Petrel|0.08, Metagross|0.26, Lillie's Determination|0.02, Energy Recycler|0.40
+bow_drivers:- cost_metal, cost_colorless
+anti_meta:- Dragapult Blaziken|1.00, Hop's Trevenant|1.00, Beedrill|1.00, Manectric Eelektrik|1.00, Other|1.00, Okidogi Barbaracle|1.00, N's Zoroark|1.00

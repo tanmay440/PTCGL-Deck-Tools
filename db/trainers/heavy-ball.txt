@@ -1,0 +1,8 @@
+name:- Heavy Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.13, Nest Ball|0.15, Arven|0.10, Field Blower|0.14, Float Stone|0.17, Marnie|0.20, VS Seeker|0.10, Ball Guy|0.33, Escape Rope|0.29, Hisuian Heavy Ball|0.11
+bow_drivers:- discard, prize, put, look
+anti_meta:- N/A

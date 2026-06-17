@@ -1,0 +1,8 @@
+name:- Rowlet
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Dartrix|1.00, Dawn|0.01, Decidueye ex|1.00, Fezandipiti ex|0.00, Forest of Vitality|0.02, Grass Energy|0.01, Lillie's Determination|0.00, Night Stretcher|0.00, Poké Pad|0.00
+bow_drivers:- draw, cost_colorless, cost_grass, zero_damage
+anti_meta:- N/A

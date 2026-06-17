@@ -1,0 +1,8 @@
+name:- Fire Crystal
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.01, Arven|0.03, Ball Guy|0.11, Blacksmith|0.50, Centiskorch|1.00, Charizard|1.00, Charmander|0.31, Charmeleon|0.31, Chi-Yu|0.03, Cynthia & Caitlin|0.17
+bow_drivers:- discard, put, energy, hand
+anti_meta:- N/A

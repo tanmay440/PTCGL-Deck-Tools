@@ -1,0 +1,8 @@
+name:- Red Card
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Escape Rope|0.12, Evolution Incense|0.06, Field Blower|0.05, Float Stone|0.06, Guzma|0.04, Hex Maniac|0.10, Hisuian Heavy Ball|0.05, Level Ball|0.08, Lillie's Determination|0.00
+bow_drivers:- draw, opponent, deck, prize
+anti_meta:- N/A

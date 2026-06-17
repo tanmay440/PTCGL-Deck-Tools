@@ -1,0 +1,8 @@
+name:- Bloodmoon Ursaluna
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Poké Pad|0.01, Boss's Orders|0.01, Fighting Energy|0.06, Fighting Gong|0.10, Lillie's Determination|0.01, Lunatone|0.13, Solrock|0.13, Air Balloon|0.04, Night Stretcher|0.01, Tarragon|0.50
+bow_drivers:- energy_acceleration, high_damage, hand, bench
+anti_meta:- Starmie Froslass|1.00, Dragapult Dudunsparce|1.00, Slowking|0.75

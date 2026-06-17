@@ -1,0 +1,8 @@
+name:- Palkia LV.X
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Azelf|0.09, Bebe's Search|0.08, Call Energy|0.11, Fighting Energy|0.01, Luxury Ball|0.05, Night Maintenance|0.11, Palkia|0.67, Premier Ball|0.27, Roseanne's Research|0.08, Spiritomb|0.07
+bow_drivers:- opponent, switch, attack, defending
+anti_meta:- N/A

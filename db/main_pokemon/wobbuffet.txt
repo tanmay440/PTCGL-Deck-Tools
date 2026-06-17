@@ -1,0 +1,8 @@
+name:- Wobbuffet
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Battle Compressor|0.23, Float Stone|0.06, Guzma|0.04, Mysterious Treasure|0.18, N|0.10, Tapu Lele-GX|0.65, VS Seeker|0.04, Rare Candy|0.01, Arven|0.03, Buddy-Buddy Poffin|0.00
+bow_drivers:- cost_colorless, cost_psychic, damage, opponent
+anti_meta:- Bombtar|1.00

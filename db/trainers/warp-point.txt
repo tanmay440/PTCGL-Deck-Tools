@@ -1,0 +1,8 @@
+name:- Warp Point
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rare Candy|0.05, Warp Energy|0.78, Rocket's Admin.|0.66, Holon Mentor|0.64, Holon Transceiver|0.64, Holon Adventurer|0.64, Holon Scientist|0.63, Gardevoir|0.59, Kirlia|0.37, Ralts|0.37
+bow_drivers:- opponent, defending, switch, zero_damage
+anti_meta:- Bombtar|1.00, Bombchamp|1.00, Flygon δ|1.00, Scizor|1.00

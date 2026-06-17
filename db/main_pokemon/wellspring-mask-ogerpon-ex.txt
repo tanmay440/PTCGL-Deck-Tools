@@ -1,0 +1,8 @@
+name:- Wellspring Mask Ogerpon ex
+type:- Water
+modifiers:- ex, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.07, Ultra Ball|0.07, Fezandipiti ex|0.09, Latias ex|0.31, Area Zero Underdepths|0.59, Lillie's Clefairy ex|0.23, Crispin|0.16, Mega Kangaskhan ex|0.37, Night Stretcher|0.06, Psychic Energy|0.11
+bow_drivers:- high_damage, opponent, cost_colorless, damage
+anti_meta:- Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Lucario Hariyama|1.00, Metagross|1.00, Starmie Froslass|1.00, Beedrill|1.00, Mega Lucario|1.00, Dragapult Dusknoir|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Alakazam Dudunsparce|1.00, Steven's Metagross|1.00, Okidogi Barbaracle|1.00, Dragapult|1.00, N's Zoroark|1.00

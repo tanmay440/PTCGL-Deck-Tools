@@ -1,0 +1,8 @@
+name:- Zebstrika
+type:- Lightning
+modifiers:- N/A
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Battle Compressor|0.06, Blitzle|1.00, Carmine|0.02, Fiery Flint|1.00, Fire Energy|0.00, PokéStop|0.14, Precious Trolley|0.02, Professor's Research|0.05, Quick Ball|0.02, Ultra Ball|0.00
+bow_drivers:- high_damage, cost_colorless, cost_lightning, attack
+anti_meta:- N/A

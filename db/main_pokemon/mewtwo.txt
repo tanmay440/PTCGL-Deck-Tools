@@ -1,0 +1,8 @@
+name:- Mewtwo
+type:- Psychic
+modifiers:- ex, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Psychic Energy|0.00, Balloon Berry|0.63, Castaway|0.59, Giant Stump|0.18, Holon Mentor|0.10, Lapras|0.34, Lightning Energy|0.02, Pokémon Retriever|0.12, Rayquaza ex|0.24, Scott|0.54
+bow_drivers:- high_damage, discard, attack, cost_psychic
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Latias
+type:- Dragon
+modifiers:- ex, mega, rule_box
+type_requirement:- Fire, Psychic
+properties:- N/A
+commonly_found_with:- Blastoise ex|1.00, Celebi ex|1.00, Giant Stump|0.00, Holon Mentor|0.00, Holon Scientist|0.00, Holon Transceiver|0.00, Holon's Castform|0.00, Holon's Electrode|0.05, Jirachi|0.00, Latias Star|1.00
+bow_drivers:- high_damage, discard, cost_colorless, switch
+anti_meta:- N/A

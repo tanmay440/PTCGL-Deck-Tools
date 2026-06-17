@@ -1,0 +1,8 @@
+name:- Team Rocket's Murkrow
+type:- Darkness
+modifiers:- Team Rocket's
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Poké Pad|0.04, Night Stretcher|0.04, Team Rocket's Archer|0.74, Team Rocket's Ariana|0.68, Team Rocket's Energy|0.62, Team Rocket's Factory|0.44, Team Rocket's Giovanni|0.68, Team Rocket's Petrel|0.13, Team Rocket's Proton|0.68, Team Rocket's Transceiver|0.42
+bow_drivers:- search, deck, opponent, cost_colorless
+anti_meta:- Kangaskhan Bouffalant|1.00, Dragapult Blaziken|1.00, Crustle|1.00, Grimmsnarl Froslass|1.00, Dragapult|0.67

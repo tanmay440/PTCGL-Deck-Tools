@@ -1,0 +1,8 @@
+name:- Nitro Fire Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Fire Energy|0.01, Poké Pad|0.00, Lillie's Determination|0.00, Rare Candy|0.01, Ultra Ball|0.00, Night Stretcher|0.00, Pokégear 3.0|0.01, Colress's Tenacity|0.03, Artazon|0.13, Arven|0.03
+bow_drivers:- attack, energy, put, hand
+anti_meta:- Decidueye|1.00

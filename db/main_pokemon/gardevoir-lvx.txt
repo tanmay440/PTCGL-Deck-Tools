@@ -1,0 +1,8 @@
+name:- Gardevoir LV.X
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Azelf|0.34, Azelf LV.X|1.00, Baltoy|0.36, Bebe's Search|0.32, Call Energy|0.41, Claydol|0.41, Dusclops|0.04, Dusknoir|0.04, Duskull|0.04, Expert Belt|0.34
+bow_drivers:- attack, switch, cost_psychic, opponent
+anti_meta:- N/A

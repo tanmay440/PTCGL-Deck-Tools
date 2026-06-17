@@ -1,0 +1,8 @@
+name:- Pecharunt ex
+type:- Darkness
+modifiers:- ex, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Darkness Energy|0.15, Boss's Orders|0.06, Ultra Ball|0.06, Night Stretcher|0.06, Munkidori|0.15, Lillie's Determination|0.06, Poké Pad|0.06, Fezandipiti ex|0.08, Buddy-Buddy Poffin|0.07, Special Red Card|0.08
+bow_drivers:- switch, prize, opponent, cost_darkness
+anti_meta:- Raging Bolt Ogerpon|1.00, Froslass Dudunsparce|1.00, Ethan's Typhlosion|1.00, Rocket's Spidops|1.00, Slowking|1.00, Mega Greninja|1.00, Dragapult Dudunsparce|1.00, Kangaskhan Bouffalant|1.00, Alakazam Dudunsparce|0.67, Dragapult Dusknoir|0.67, Dragapult|0.58

@@ -1,0 +1,8 @@
+name:- Slugma
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Arven|0.06, Blacksmith|1.00, Chi-Yu|0.08, Escape Rope|0.21, Field Blower|0.10, Fire Energy|0.01, Float Stone|0.11, Guzma|0.07, Hisuian Heavy Ball|0.09, Lillie's Determination|0.00
+bow_drivers:- cost_fire
+anti_meta:- N/A

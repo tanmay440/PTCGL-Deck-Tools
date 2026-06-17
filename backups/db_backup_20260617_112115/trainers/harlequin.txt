@@ -1,0 +1,8 @@
+name:- Harlequin
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ultra Ball|0.00, Boss's Orders|0.00, Team Rocket's Petrel|0.01, Energy Switch|0.02, Fighting Energy|0.01, Hero's Cape|0.02, Cinderace|0.30, Lillie's Determination|0.00, Battle Cage|0.02, Wally's Compassion|0.01
+bow_drivers:- draw, opponent, hand, deck
+anti_meta:- Sylveon|1.00, Mega Gengar|1.00, Alakazam Dudunsparce|1.00, Beedrill|1.00, Mega Greninja|1.00, Doublade|1.00, Dragapult Dudunsparce|1.00, Kangaskhan Bouffalant|1.00

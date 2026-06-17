@@ -1,0 +1,8 @@
+name:- Guzma & Hala
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.52, VS Seeker|0.50, Evolution Incense|0.70, Arven|0.41, Rescue Stretcher|0.61, Hisuian Heavy Ball|0.56, Iono|0.42, Nest Ball|0.51, Field Blower|0.56, Ultra Ball|0.03
+bow_drivers:- search, discard, deck, hand
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Mega Dragonite ex
+type:- Dragon
+modifiers:- ex, mega, rule_box
+type_requirement:- Lightning, Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Dragonair|0.99, Dratini|0.97, Lightning Energy|0.05, Poké Pad|0.00, Ultra Ball|0.00, Water Energy|0.02, Crispin|0.01, Night Stretcher|0.00, Lillie's Determination|0.00
+bow_drivers:- high_damage, discard, switch, opponent
+anti_meta:- N/A

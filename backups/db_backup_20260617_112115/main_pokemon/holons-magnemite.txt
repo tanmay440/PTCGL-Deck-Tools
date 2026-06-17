@@ -1,0 +1,8 @@
+name:- Holon's Magnemite
+type:- Metal
+modifiers:- Holon's
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.14, Holon Mentor|0.14, Holon Scientist|0.14, Holon Transceiver|0.14, Holon's Castform|0.25, Rocket's Admin.|0.13, Warp Energy|0.09, Holon Researcher|0.22, Metal Energy|0.02, Cyclone Energy|0.23
+bow_drivers:- energy_acceleration, energy, opponent, attack
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

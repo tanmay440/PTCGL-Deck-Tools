@@ -1,0 +1,8 @@
+name:- Unown [R]
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Azelf|0.02, Bebe's Search|0.02, Broken Time-Space|0.18, Crobat G|0.04, Cyclone Energy|0.07, Cynthia's Feelings|0.11, Expert Belt|0.02, Felicity's Drawing|0.09, Gyarados|0.20, Lunatone|0.00
+bow_drivers:- unknown
+anti_meta:- N/A

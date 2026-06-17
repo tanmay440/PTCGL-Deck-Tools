@@ -1,0 +1,8 @@
+name:- Max Rod
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.01, Boss's Orders|0.01, Poké Pad|0.01, Bug Catching Set|0.06, Grass Energy|0.03, Forest of Vitality|0.08, Dawn|0.02, Ultra Ball|0.01, Fezandipiti ex|0.01, Meowth ex|0.01
+bow_drivers:- discard, deck, put, energy
+anti_meta:- Hydreigon|1.00, Starmie Dusknoir|1.00, N's Zoroark|1.00, Ogerpon Meganium|1.00, Mega Greninja|1.00, Manectric Eelektrik|1.00, Cynthia's Garchomp|1.00, Lillie's Clefairy|1.00, Slowking|1.00, Starmie Froslass|1.00, Hop's Trevenant|1.00, Other|1.00, Okidogi Barbaracle|1.00

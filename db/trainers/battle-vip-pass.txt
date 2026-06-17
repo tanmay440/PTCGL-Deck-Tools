@@ -1,0 +1,8 @@
+name:- Battle VIP Pass
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Field Blower|0.24, Float Stone|0.30, Guzma|0.19, Professor's Letter|0.46, Ultra Ball|0.01, VS Seeker|0.19, Arven|0.16, Evolution Incense|0.28, Guzma & Hala|0.36, Hisuian Heavy Ball|0.23
+bow_drivers:- search, deck, put, bench
+anti_meta:- N/A

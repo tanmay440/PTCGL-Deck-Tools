@@ -1,0 +1,8 @@
+name:- Cramorant
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Colress's Experiment|0.98, Escape Rope|0.21, Nest Ball|0.08, Basic Water Energy|0.50, Comfey|0.88, Jet Energy|0.25, Mirage Gate|0.88, Psychic Energy|0.01, Radiant Greninja|0.39, Sableye|0.40
+bow_drivers:- high_damage, opponent, prize, attack
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Team Rocket's Archer
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Team Rocket's Energy|0.84, Team Rocket's Ariana|0.92, Team Rocket's Factory|0.60, Team Rocket's Giovanni|0.92, Team Rocket's Petrel|0.18, Team Rocket's Transceiver|0.57, Team Rocket's Articuno|0.59, Team Rocket's Proton|0.92, Night Stretcher|0.05, Poké Pad|0.04
+bow_drivers:- draw, opponent, hand, deck
+anti_meta:- Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Lucario|1.00, Mega Greninja|1.00, Decidueye|1.00, Kangaskhan Bouffalant|1.00, Dragapult Blaziken|1.00, Crustle|1.00, Grimmsnarl Froslass|1.00, Dragapult|0.67

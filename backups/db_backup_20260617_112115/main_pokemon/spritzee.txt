@@ -1,0 +1,8 @@
+name:- Spritzee
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Aromatisse|1.00, Boss's Orders|0.00, Clefairy|0.07, Hilda|0.00, Jacinthe|0.01, Lillie's Clefairy ex|0.00, Lillie's Determination|0.00, Mega Clefable ex|0.94, Mystery Garden|0.01, Night Stretcher|0.00
+bow_drivers:- cost_psychic
+anti_meta:- N/A

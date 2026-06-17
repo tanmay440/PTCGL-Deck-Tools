@@ -1,0 +1,8 @@
+name:- Charmander
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Charmeleon|1.00, Fire Energy|0.02, Rare Candy|0.02, Arven|0.08, Ultra Ball|0.01, Boss's Orders|0.00, Lillie's Determination|0.00, Poké Pad|0.00, Air Balloon|0.01, Night Stretcher|0.00
+bow_drivers:- energy, cost_fire
+anti_meta:- Gardevoir ex / Drifloon|0.68

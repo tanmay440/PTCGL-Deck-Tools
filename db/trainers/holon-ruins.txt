@@ -1,0 +1,8 @@
+name:- Holon Ruins
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Alakazam Star|1.00, Balloon Berry|0.62, Castaway|0.58, Giant Stump|0.17, Groudon ex|0.88, Holon Adventurer|0.10, Holon Mentor|0.10, Holon Scientist|0.10, Holon Transceiver|0.10, Holon's Castform|0.15
+bow_drivers:- discard, draw, hand, zero_damage
+anti_meta:- N/A

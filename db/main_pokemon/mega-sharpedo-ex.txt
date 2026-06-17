@@ -1,0 +1,8 @@
+name:- Mega Sharpedo ex
+type:- Darkness
+modifiers:- ex, mega, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Carvanha|1.00, Darkness Energy|0.01, Toxel|0.22, Toxtricity|0.22, Pecharunt ex|0.03, Poké Pad|0.00, Team Rocket's Petrel|0.01, Boss's Orders|0.00, Lillie's Determination|0.00, Ultra Ball|0.00
+bow_drivers:- high_damage, draw, cost_darkness, damage
+anti_meta:- Mega Greninja|1.00

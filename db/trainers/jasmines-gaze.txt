@@ -1,0 +1,8 @@
+name:- Jasmine's Gaze
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Darkness Energy|0.00, Drayton|0.12, Energy Recycler|0.00, Kofu|0.00, Latias ex|0.00, Marnie's Grimmsnarl ex|0.00, Marnie's Impidimp|0.00, Marnie's Liepard|1.00
+bow_drivers:- opponent, damage, weakness, resistance
+anti_meta:- N/A

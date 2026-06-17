@@ -1,0 +1,8 @@
+name:- Moltres
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.12, Ultra Ball|0.12, Lillie's Determination|0.12, Poké Pad|0.12, Fire Energy|0.35, Night Stretcher|0.11, Meowth ex|0.16, Crispin|0.26, Psychic Energy|0.19, Fezandipiti ex|0.15
+bow_drivers:- opponent, attack, damage, cost_fire
+anti_meta:- Raging Bolt Ogerpon|1.00, Other|1.00, Alakazam Dudunsparce|1.00, Dragapult Dusknoir|1.00, Archaludon Zoroark|1.00, Mega Greninja|1.00, Steven's Metagross|1.00, Festival Lead|1.00, Beedrill|1.00, Ursaluna Lunatone|1.00, Ogerpon Meganium Hydrapple|1.00, Ogerpon Meganium|1.00, Ethan's Typhlosion|1.00, Dragapult Dudunsparce|1.00, Lopunny Dusknoir|1.00, Hop's Zacian|1.00, Rocket's Mewtwo|1.00, Dragapult|1.00, Starmie Froslass|1.00, Metagross|0.75, Slowking|0.75

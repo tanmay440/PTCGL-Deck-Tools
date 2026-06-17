@@ -1,0 +1,8 @@
+name:- Maractus
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.00, Night Stretcher|0.00, Poké Pad|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Budew|0.01, Ultra Ball|0.00, Special Red Card|0.01, Darkness Energy|0.01, Munkidori|0.01
+bow_drivers:- cost_grass, attack, damage, cost_colorless
+anti_meta:- Hydreigon|1.00

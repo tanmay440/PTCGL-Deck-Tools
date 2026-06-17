@@ -1,0 +1,8 @@
+name:- Absol ex
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Chimecho|0.03, Flygon|0.06, Flygon ex|0.22, Holon Adventurer|0.00, Holon Mentor|0.00, Holon Researcher|0.01, Holon Scientist|0.00, Holon Transceiver|0.00, Holon's Castform|0.00, Holon's Voltorb|0.01
+bow_drivers:- unknown
+anti_meta:- N/A

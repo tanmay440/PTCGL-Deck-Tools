@@ -1,0 +1,8 @@
+name:- Braixen
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Delphox|1.00, Fennekin|1.00, Fire Energy|0.01, Lillie's Determination|0.00, Poké Pad|0.00, Rare Candy|0.01, Ultra Ball|0.00, Night Stretcher|0.00, Special Red Card|0.00
+bow_drivers:- discard, cost_fire, energy
+anti_meta:- Decidueye|1.00

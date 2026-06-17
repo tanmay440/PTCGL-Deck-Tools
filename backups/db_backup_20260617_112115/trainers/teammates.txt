@@ -1,0 +1,8 @@
+name:- Teammates
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.42, VS Seeker|0.40, Arven|0.35, Float Stone|0.60, Hisuian Heavy Ball|0.48, Nest Ball|0.42, Evolution Incense|0.61, Guzma & Hala|0.75, Rescue Stretcher|0.49, Field Blower|0.45
+bow_drivers:- search, deck, opponent, put
+anti_meta:- N/A

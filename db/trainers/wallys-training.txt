@@ -1,0 +1,8 @@
+name:- Wally's Training
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boost Energy|0.74, Cyclone Energy|0.17, Delcatty|0.28, Delcatty ex|1.00, Electrode ex|0.23, Grass Energy|0.01, Great Ball|0.94, Holon Energy GL|1.00, Lightning Energy|0.02, Pow! Hand Extension|0.08
+bow_drivers:- discard, search, put, deck
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Groudon ex
+type:- Fighting
+modifiers:- ex, rule_box
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Balloon Berry|0.71, Castaway|0.66, Lanette's Net Search|0.19, Mr. Briney's Compassion|0.64, Pokémon Retriever|0.13, Psychic Energy|0.00, Scott|0.60, Stantler|0.28, Alakazam Star|0.88, Giant Stump|0.17
+bow_drivers:- high_damage, discard, energy, damage
+anti_meta:- N/A

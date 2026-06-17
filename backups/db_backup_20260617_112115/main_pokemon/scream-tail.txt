@@ -1,0 +1,8 @@
+name:- Scream Tail
+type:- Psychic
+modifiers:- ancient
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Arven|0.09, Buddy-Buddy Poffin|0.01, Counter Catcher|0.27, Gardevoir ex|0.41, Iono|0.10, Kirlia|0.22, Psychic Energy|0.01, Ralts|0.22, Technical Machine: Evolution|0.52, Artazon|0.28
+bow_drivers:- damage, cost_psychic, attack, opponent
+anti_meta:- N/A

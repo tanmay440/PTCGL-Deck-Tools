@@ -1,0 +1,8 @@
+name:- Alakazam Star
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Balloon Berry|0.62, Castaway|0.58, Giant Stump|0.17, Groudon ex|0.88, Holon Adventurer|0.10, Holon Mentor|0.10, Holon Ruins|1.00, Holon Scientist|0.10, Holon Transceiver|0.10, Holon's Castform|0.15
+bow_drivers:- unknown
+anti_meta:- N/A

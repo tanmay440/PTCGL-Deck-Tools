@@ -1,0 +1,8 @@
+name:- Miracle Headset
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.03, Poké Pad|0.04, Team Rocket's Articuno|0.41, Ignition Energy|0.28, Roto-Stick|0.90, Team Rocket's Archer|0.67, Team Rocket's Ariana|0.62, Team Rocket's Energy|0.56, Team Rocket's Factory|0.40, Team Rocket's Giovanni|0.62
+bow_drivers:- discard, put, hand, deck
+anti_meta:- Kangaskhan Bouffalant|1.00, Dragapult Blaziken|1.00, Crustle|1.00, Grimmsnarl Froslass|1.00, Dragapult|0.67

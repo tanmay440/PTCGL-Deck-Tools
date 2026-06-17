@@ -1,0 +1,8 @@
+name:- Haunter
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Gastly|0.99, Rare Candy|0.01, Gengar|0.57, Azelf|0.19, Baltoy|0.20, Bebe's Search|0.17, Claydol|0.22, Dusknoir|0.03, Duskull|0.03, Expert Belt|0.19
+bow_drivers:- cost_darkness
+anti_meta:- Mega Greninja|1.00

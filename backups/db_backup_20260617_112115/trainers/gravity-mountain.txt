@@ -1,0 +1,8 @@
+name:- Gravity Mountain
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.10, Lillie's Determination|0.10, Ultra Ball|0.09, Poké Pad|0.08, Night Stretcher|0.06, Air Balloon|0.18, Judge|0.24, Wally's Compassion|0.36, Meowth ex|0.08, Fighting Energy|0.27
+bow_drivers:- discard, opponent, hp, put
+anti_meta:- Mega Venusaur|1.00, Dragapult Blaziken|1.00, Festival Lead|1.00, Hop's Trevenant|1.00, Beedrill|1.00, Manectric Eelektrik|1.00, Other|1.00, Sylveon|1.00, Mega Gengar|1.00, Alakazam Dudunsparce|1.00, Mega Greninja|1.00, Doublade|1.00, Rocket's Honchkrow|1.00, Rocket's Mewtwo|1.00, Okidogi Barbaracle|1.00

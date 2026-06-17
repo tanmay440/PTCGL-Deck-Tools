@@ -1,0 +1,8 @@
+name:- Gouging Fire
+type:- Fire
+modifiers:- ancient
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Fire Energy|0.01, Lillie's Determination|0.00, Night Stretcher|0.00, Poké Pad|0.00, Ultra Ball|0.00, Artazon|0.14, Arven|0.03, Avery|0.33, Blacksmith|0.50
+bow_drivers:- high_damage, cost_fire, opponent, prize
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Garbodor
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Float Stone|0.08, Guzma|0.05, Trubbish|1.00, VS Seeker|0.05, Ultra Ball|0.00, Buddy-Buddy Poffin|0.00, Evolution Incense|0.06, Iono|0.03, Budew|0.00, Secret Box|0.01
+bow_drivers:- high_damage, opponent, damage, weakness
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Expert Belt
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Bebe's Search|0.93, Roseanne's Research|0.93, Uxie|0.87, Luxury Ball|0.56, Psychic Energy|0.02, Night Maintenance|0.81, Azelf|0.81, Call Energy|0.75, Warp Energy|0.41, Looker's Investigation|0.67
+bow_drivers:- energy_acceleration, discard, opponent, attach
+anti_meta:- Gyarados|1.00

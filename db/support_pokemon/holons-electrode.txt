@@ -1,0 +1,8 @@
+name:- Holon's Electrode
+type:- Lightning
+modifiers:- Holon's
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Holon Mentor|0.03, Pokémon Retriever|0.04, Rocket's Admin.|0.03, Steven's Advice|0.08, Double Rainbow Energy|0.53, Grass Energy|0.00, Holon Adventurer|0.03, Holon Scientist|0.03, Holon Transceiver|0.03, Holon's Voltorb|0.09
+bow_drivers:- energy_acceleration, energy, attach, hand
+anti_meta:- Bombtar|1.00

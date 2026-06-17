@@ -1,0 +1,10 @@
+label:- UNLABELED
+members:- Night Stretcher, Bug Catching Set, Lillie's Determination, Boss's Orders, Grass Energy
+roles:- trainer, trainer, trainer, trainer, energy
+avg_score:- 90.0
+bow_drivers:- deck, discard, draw
+appears_in:- Ogerpon Meganium Hydrapple|1.00, Festival Lead|1.00, Ogerpon Meganium|1.00, Beedrill|1.00
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00
+decklist_appearances:- 486
+properties:- N/A
+notes:- N/A

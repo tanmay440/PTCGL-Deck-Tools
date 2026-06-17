@@ -1,0 +1,8 @@
+name:- Frogadier
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Froakie|0.99, Water Energy|0.29, Ultra Ball|0.06, Rare Candy|0.15, Poké Pad|0.06, Buddy-Buddy Poffin|0.07, Lillie's Determination|0.05, Boss's Orders|0.05, Hilda|0.19, Night Stretcher|0.05
+bow_drivers:- search, cost_water, deck, put
+anti_meta:- Other|1.00, Mega Manectric|1.00, Festival Lead|1.00, Metagross|1.00, Hop's Trevenant|1.00, Okidogi Barbaracle|1.00, Alakazam Dudunsparce|0.75

@@ -1,0 +1,8 @@
+name:- Articuno-GX
+type:- Colorless
+modifiers:- gx, rule_box
+type_requirement:- Fire, Lightning, Water
+properties:- N/A
+commonly_found_with:- Arven|0.03, Bunnelby|0.40, Capture Energy|0.19, Counter Catcher|0.09, Enhanced Hammer|0.03, Eri|0.09, Faba|0.28, Float Stone|0.06, Forest Seal Stone|0.11, Galarian Stunfisk|1.00
+bow_drivers:- high_damage, attack, opponent, cost_colorless
+anti_meta:- N/A

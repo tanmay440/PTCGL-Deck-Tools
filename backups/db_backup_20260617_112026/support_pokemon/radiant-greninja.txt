@@ -1,0 +1,8 @@
+name:- Radiant Greninja
+type:- Water
+modifiers:- radiant
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Basic Water Energy|0.77, Ultra Ball|0.01, Arven|0.08, Buddy-Buddy Poffin|0.01, Nest Ball|0.10, Psychic Energy|0.01, Superior Energy Retrieval|0.48, Baxcalibur|0.39, Bibarel|0.39, Bidoof|0.39
+bow_drivers:- discard, draw, energy, hand
+anti_meta:- Miraidon ex / Sandy Shocks|0.88, Charizard ex / Pidgeot ex|0.72, Gardevoir ex / Drifloon|0.56

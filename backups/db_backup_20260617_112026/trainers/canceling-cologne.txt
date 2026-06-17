@@ -1,0 +1,8 @@
+name:- Canceling Cologne
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.04, Colress's Tenacity|0.04, Darkness Energy|0.01, Professor's Research|0.21, Battle Compressor|0.19, Blend Energy GRPD|0.76, Buddy-Buddy Poffin|0.00, Counter Energy|0.17, Counter Gain|0.19, Dark Patch|0.37
+bow_drivers:- opponent, zero_damage, zero_retreat
+anti_meta:- N/A

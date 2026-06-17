@@ -1,0 +1,8 @@
+name:- Mega Skarmory ex
+type:- Metal
+modifiers:- ex, mega, rule_box
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Ultra Ball|0.01, Boss's Orders|0.00, Metal Energy|0.06, Team Rocket's Petrel|0.01, Lillie's Determination|0.00, Night Stretcher|0.00, Fezandipiti ex|0.00, Special Red Card|0.01, Mega Mawile ex|0.16, Meowth ex|0.00
+bow_drivers:- opponent, prize, cost_metal, shuffle
+anti_meta:- Dragapult Blaziken|1.00, Ogerpon Meganium Arboliva|1.00, Raging Bolt Ogerpon|1.00, Okidogi Barbaracle|1.00, N's Zoroark|1.00

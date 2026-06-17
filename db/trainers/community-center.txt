@@ -1,0 +1,8 @@
+name:- Community Center
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Lillie's Determination|0.01, Mega Kangaskhan ex|0.03, Ultra Ball|0.01, Grass Energy|0.02, Bianca's Devotion|0.35, Buddy-Buddy Poffin|0.01, Crustle|0.27, Dwebble|0.27, Eri|0.21
+bow_drivers:- discard, put, hand, heal
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Lillie's Clefairy|1.00, Cynthia's Garchomp|1.00, Lopunny Dudunsparce|1.00, Metagross|1.00, Ogerpon Meganium Hydrapple|1.00

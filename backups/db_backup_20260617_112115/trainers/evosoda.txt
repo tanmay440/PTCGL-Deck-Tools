@@ -1,0 +1,8 @@
+name:- Evosoda
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.07, Buddy-Buddy Poffin|0.01, Field Blower|0.11, Float Stone|0.13, Guzma|0.08, Hisuian Heavy Ball|0.11, Iono|0.08, Level Ball|0.20, Lillie's Determination|0.01, Marnie|0.16
+bow_drivers:- search, deck, put, shuffle
+anti_meta:- N/A

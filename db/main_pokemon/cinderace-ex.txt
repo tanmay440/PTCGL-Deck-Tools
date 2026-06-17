@@ -1,0 +1,8 @@
+name:- Cinderace ex
+type:- Fire
+modifiers:- ex, rule_box
+type_requirement:- Darkness, Fighting, Fire
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Cinderace|0.01, Crispin|0.00, Darkness Energy|0.00, Fezandipiti ex|0.00, Fighting Energy|0.00, Fire Energy|0.00, Lillie's Determination|0.00, Meowth ex|0.00
+bow_drivers:- high_damage, opponent, damage, cost_fire
+anti_meta:- N/A

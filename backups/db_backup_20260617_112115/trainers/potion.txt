@@ -1,0 +1,8 @@
+name:- Potion
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- AZ's Tranquility|0.00, Beedrill ex|0.00, Black Belt's Training|0.00, Boss's Orders|0.00, Brock's Scouting|0.00, Buddy-Buddy Poffin|0.00, Bug Catching Set|0.00, Colress's Tenacity|0.00, Cook|0.02, Crushing Hammer|0.00
+bow_drivers:- heal, damage, zero_damage, zero_retreat
+anti_meta:- N/A

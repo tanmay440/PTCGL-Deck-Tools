@@ -1,0 +1,8 @@
+name:- Adversity Policy
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- AZ's Tranquility|0.03, Battle Cage|0.00, Buddy-Buddy Poffin|0.00, Crushing Hammer|0.00, Dawn|0.00, Energy Search|0.01, Fezandipiti ex|0.00, Judge|0.00, Poké Pad|0.00, Pokémon Catcher|0.02
+bow_drivers:- draw, opponent, weakness, attack
+anti_meta:- N/A

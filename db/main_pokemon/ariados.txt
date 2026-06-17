@@ -1,0 +1,8 @@
+name:- Ariados
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Battle Frontier|0.54, Ditto|0.01, Eevee|0.00, Espeon ex|0.00, Fire Energy|0.00, Flareon ex|0.00, Girafarig|0.01, Grass Energy|0.00, Great Ball|0.02, Holon's Magneton|0.01
+bow_drivers:- opponent, attack, damage, cost_grass
+anti_meta:- N/A

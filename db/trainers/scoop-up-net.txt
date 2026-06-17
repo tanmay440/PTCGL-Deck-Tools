@@ -1,0 +1,8 @@
+name:- Scoop Up Net
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Field Blower|0.34, Guzma|0.27, Hisuian Heavy Ball|0.33, Level Ball|0.54, Night Stretcher|0.02, Poké Pad|0.02, Ultra Ball|0.02, VS Seeker|0.27, Quick Ball|0.51, Buddy-Buddy Poffin|0.02
+bow_drivers:- discard, put, hand, zero_damage
+anti_meta:- N/A

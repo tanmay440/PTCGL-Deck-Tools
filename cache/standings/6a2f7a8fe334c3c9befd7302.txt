@@ -1,0 +1,35 @@
+tournament_id:- 6a2f7a8fe334c3c9befd7302
+player:- moat
+placing:- 1
+wins:- 0
+losses:- 1
+draws:- 0
+archetype:- Other
+decklist:- Remoraid||Remoraid||Remoraid||Octillery||Octillery||Octillery||Fletchling||Fletchling||Fletchling||Fletchinder||Fletchinder||Talonflame||Talonflame||Talonflame||Dreepy||Dreepy||Drakloak||Drakloak||Totodile||Budew||Fan Rotom||Drilbur||Shaymin||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Boss's Orders||Boss's Orders||Boss's Orders||Dawn||Dawn||Xerosic's Machinations||Xerosic's Machinations||Lana's Aid||Hilda||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Poké Pad||Poké Pad||Poké Pad||Poké Pad||Rare Candy||Rare Candy||Night Stretcher||Pokégear 3.0||Sacred Ash||Handheld Fan||Handheld Fan||Air Balloon||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Bubbly Water Energy||Bubbly Water Energy||Bubbly Water Energy
+---
+tournament_id:- 6a2f7a8fe334c3c9befd7302
+player:- CLS084449
+placing:- 1
+wins:- 4
+losses:- 0
+draws:- 0
+archetype:- Other
+decklist:- Dreepy||Dreepy||Dreepy||Dreepy||Drakloak||Drakloak||Drakloak||Drakloak||Koraidon||Koraidon||Koraidon||Koraidon||Binacle||Binacle||Binacle||Barbaracle||Barbaracle||Barbaracle||Sandy Shocks||Sandy Shocks||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Kofu||Kofu||Kofu||Kofu||Boss's Orders||Boss's Orders||Boss's Orders||Tarragon||Tarragon||Poké Pad||Poké Pad||Poké Pad||Poké Pad||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Fighting Gong||Fighting Gong||Fighting Gong||Fighting Gong||Pokégear 3.0||Pokégear 3.0||Air Balloon||Air Balloon||Air Balloon||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy
+---
+tournament_id:- 6a2f7a8fe334c3c9befd7302
+player:- William T
+placing:- 2
+wins:- 2
+losses:- 2
+draws:- 0
+archetype:- Other
+decklist:- Bergmite||Bergmite||Bergmite||Bergmite||Avalugg||Avalugg||Avalugg||Avalugg||Larry's Skill||Larry's Skill||Larry's Skill||Larry's Skill||Dawn||Dawn||Dawn||Dawn||Poké Pad||Poké Pad||Poké Pad||Poké Pad||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy||Water Energy
+---
+tournament_id:- 6a2f7a8fe334c3c9befd7302
+player:- DailyDabbers
+placing:- 3
+wins:- 1
+losses:- 2
+draws:- 0
+archetype:- Other
+decklist:- Beldum||Beldum||Metang||Metang||Binacle||Binacle||Barbaracle||Barbaracle||Bronzor||Bronzor||Bronzong||Bronzong||Azelf||Azelf||Baltoy||Baltoy||Carbink||Carbink||Cornerstone Mask Ogerpon||Cornerstone Mask Ogerpon||Abra||Kadabra||Crispin||Crispin||Crispin||Crispin||Boss's Orders||Boss's Orders||Lillie's Determination||Lillie's Determination||Team Rocket's Petrel||Team Rocket's Petrel||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Fighting Gong||Fighting Gong||Premium Power Pro||Premium Power Pro||Wondrous Patch||Wondrous Patch||Night Stretcher||Brave Bangle||Brave Bangle||Brave Bangle||Brave Bangle||Mystery Garden||Mystery Garden||Psychic Energy||Psychic Energy||Psychic Energy||Psychic Energy||Psychic Energy||Psychic Energy||Psychic Energy||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy

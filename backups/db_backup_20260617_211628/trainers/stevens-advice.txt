@@ -1,0 +1,8 @@
+name:- Steven's Advice
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.51, Holon Mentor|0.51, Holon Scientist|0.51, Holon Transceiver|0.51, Rocket's Admin.|0.45, Pokémon Retriever|0.47, Warp Point|0.22, Rare Candy|0.01, Windstorm|0.37, Pidgeot|0.32
+bow_drivers:- discard, draw, put, opponent
+anti_meta:- N/A

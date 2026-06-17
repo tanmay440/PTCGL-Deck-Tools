@@ -1,0 +1,8 @@
+name:- Misty's Magikarp
+type:- Water
+modifiers:- Misty's
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Great Haul Net|0.17, Lana's Aid|0.01, Lillie's Determination|0.00, Misty's Gyarados|0.99, Misty's Lapras|1.00, Misty's Psyduck|1.00, Misty's Starmie|0.53, Misty's Staryu|0.53
+bow_drivers:- bench, damage, opponent, cost_water
+anti_meta:- N/A

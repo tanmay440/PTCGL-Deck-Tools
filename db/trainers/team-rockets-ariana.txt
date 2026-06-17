@@ -1,0 +1,8 @@
+name:- Team Rocket's Ariana
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Team Rocket's Energy|0.93, Team Rocket's Factory|0.64, Team Rocket's Transceiver|0.62, Team Rocket's Giovanni|1.00, Team Rocket's Proton|1.00, Team Rocket's Petrel|0.20, Team Rocket's Articuno|0.65, Night Stretcher|0.06, Team Rocket's Archer|0.93, Poké Pad|0.05
+bow_drivers:- draw, hand, zero_damage, zero_retreat
+anti_meta:- Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Greninja|1.00, Decidueye|1.00, Kangaskhan Bouffalant|1.00, Dragapult Blaziken|1.00, Crustle|1.00, Grimmsnarl Froslass|1.00, Mega Lucario|0.83, Dragapult|0.67

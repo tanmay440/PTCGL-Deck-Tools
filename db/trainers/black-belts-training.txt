@@ -1,0 +1,8 @@
+name:- Black Belt's Training
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.10, Boss's Orders|0.10, Poké Pad|0.10, Night Stretcher|0.09, Buddy-Buddy Poffin|0.11, Ultra Ball|0.08, Special Red Card|0.10, Fezandipiti ex|0.07, Cyrano|0.36, Air Balloon|0.13
+bow_drivers:- damage, opponent, weakness, resistance
+anti_meta:- Alakazam Dudunsparce|1.00, Raging Bolt Ogerpon|1.00, Froslass Dudunsparce|1.00, Ethan's Typhlosion|1.00, Rocket's Spidops|1.00, Slowking|1.00, Mega Greninja|1.00, Mega Venusaur|1.00, Dragapult Blaziken|1.00, Festival Lead|1.00, N's Zoroark|1.00, Ursaluna Lunatone|1.00, Other|1.00, Ogerpon Meganium|1.00, Rocket's Honchkrow|1.00, Rocket's Mewtwo|1.00, Steven's Metagross|1.00, Future Thorns|1.00, Dragapult Dusknoir|0.67, Beedrill|0.67, Crustle|0.62

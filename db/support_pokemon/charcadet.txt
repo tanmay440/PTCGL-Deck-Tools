@@ -1,0 +1,8 @@
+name:- Charcadet
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.02, Ceruledge ex|1.00, Fighting Energy|0.09, Fighting Gong|0.15, Fire Energy|0.05, Lunatone|0.19, Night Stretcher|0.02, Poké Pad|0.02, Solrock|0.19, Ultra Ball|0.02
+bow_drivers:- search, deck, cost_fire, energy
+anti_meta:- Dragapult Dusknoir|1.00, Dragapult Dudunsparce|1.00, Mega Lopunny|1.00, Mega Venusaur|1.00

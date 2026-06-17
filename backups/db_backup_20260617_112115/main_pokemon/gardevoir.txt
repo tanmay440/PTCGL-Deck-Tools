@@ -1,0 +1,8 @@
+name:- Gardevoir
+type:- Psychic
+modifiers:- ex, mega, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Kirlia|0.47, Ralts|0.47, Rare Candy|0.04, Warp Energy|0.58, Warp Point|0.53, Psychic Energy|0.02, Gardevoir ex|0.32, Giant Stump|0.37, Holon Adventurer|0.37, Holon Mentor|0.37
+bow_drivers:- energy_acceleration, search, deck, energy
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

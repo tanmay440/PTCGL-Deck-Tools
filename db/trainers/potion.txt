@@ -1,0 +1,8 @@
+name:- Potion
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Drayton|0.18, Rare Candy|0.00, Switch|0.00, Darkness Energy|0.00, Energy Recycler|0.00, Jasmine's Gaze|0.67, Kofu|0.00, Latias ex|0.00
+bow_drivers:- heal, damage, zero_damage, zero_retreat
+anti_meta:- N/A

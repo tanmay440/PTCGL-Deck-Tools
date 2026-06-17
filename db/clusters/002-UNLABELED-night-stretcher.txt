@@ -1,0 +1,10 @@
+label:- UNLABELED
+members:- Boss's Orders, Lillie's Determination, Ultra Ball, Night Stretcher, Poké Pad, Grass Energy
+roles:- trainer, trainer, trainer, trainer, trainer, energy
+avg_score:- 175.2
+bow_drivers:- deck, discard, draw
+appears_in:- Dragapult Blaziken|1.00, Archaludon|1.00, Ogerpon Meganium|1.00, Ogerpon Meganium Arboliva|1.00
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00
+decklist_appearances:- 2222
+properties:- N/A
+notes:- N/A

@@ -1,0 +1,8 @@
+name:- PokéStop
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Quick Ball|0.23, Ultra Ball|0.01, Buddy-Buddy Poffin|0.01, Evolution Incense|0.16, Field Blower|0.14, Guzma|0.11, Hisuian Heavy Ball|0.13, Level Ball|0.22, Night Stretcher|0.01, Poké Pad|0.01
+bow_drivers:- discard, deck, put, hand
+anti_meta:- N/A

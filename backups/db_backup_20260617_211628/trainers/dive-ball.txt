@@ -1,0 +1,8 @@
+name:- Dive Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.01, Capacious Bucket|0.83, Drizzile|1.00, Field Blower|0.16, Guzma|0.12, Inteleon|1.00, Iono|0.11, Irida|0.39, Night Stretcher|0.01, Sobble|1.00
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

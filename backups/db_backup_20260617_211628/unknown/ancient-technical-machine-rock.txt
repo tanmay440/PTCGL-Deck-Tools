@@ -1,0 +1,8 @@
+name:- Ancient Technical Machine [Rock]
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.26, Holon Mentor|0.26, Holon Scientist|0.26, Holon Transceiver|0.26, Jirachi|0.29, Pow! Hand Extension|0.28, Rare Candy|0.01, Rocket's Admin.|0.23, Scramble Energy|0.58, Steven's Advice|0.51
+bow_drivers:- unknown
+anti_meta:- N/A

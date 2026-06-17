@@ -1,0 +1,8 @@
+name:- Latias Star
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Blastoise ex|1.00, Celebi ex|1.00, Giant Stump|0.00, Holon Mentor|0.00, Holon Scientist|0.00, Holon Transceiver|0.00, Holon's Castform|0.00, Holon's Electrode|0.05, Jirachi|0.00, Latias|1.00
+bow_drivers:- unknown
+anti_meta:- N/A

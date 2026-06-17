@@ -1,0 +1,8 @@
+name:- Judge Whistle
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Acro Bike|0.08, Buddy-Buddy Poffin|0.00, Camping Gear|0.67, Cleffa|1.00, Counter Energy|0.05, Energy Switch|0.00, Evolution Incense|0.02, Faba|0.07, Field Blower|0.01, Float Stone|0.02
+bow_drivers:- draw, discard, put, hand
+anti_meta:- N/A

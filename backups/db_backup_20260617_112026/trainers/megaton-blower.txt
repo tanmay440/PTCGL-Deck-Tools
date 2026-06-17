@@ -1,0 +1,8 @@
+name:- Megaton Blower
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.01, Guzma|0.13, VS Seeker|0.13, Double Colorless Energy|0.46, Team Flare Grunt|0.68, Trainers' Mail|0.25, Psychic Energy|0.01, Telepathic Psychic Energy|0.03, Chaotic Swell|0.50, Acro Bike|0.47
+bow_drivers:- discard, energy, opponent, deck
+anti_meta:- Dragapult Dudunsparce|1.00, Kangaskhan Bouffalant|1.00

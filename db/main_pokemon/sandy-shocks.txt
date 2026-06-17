@@ -1,0 +1,8 @@
+name:- Sandy Shocks
+type:- Fighting
+modifiers:- ex, ancient, rule_box
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Air Balloon|0.01, Barbaracle|0.25, Binacle|0.25, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Drakloak|0.01, Dreepy|0.01, Fighting Energy|0.02, Fighting Gong|0.03, Kofu|0.23
+bow_drivers:- energy_acceleration, high_damage, discard, opponent
+anti_meta:- N/A

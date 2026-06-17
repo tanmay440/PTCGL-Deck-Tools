@@ -1,0 +1,8 @@
+name:- Light Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Crispin|0.01, Grass Energy|0.01, Latias ex|0.01, Lightning Energy|0.02, Metal Energy|0.03, Pikachu ex|0.75, Precious Trolley|0.05, Team Rocket's Petrel|0.01, Ultra Ball|0.00
+bow_drivers:- energy_acceleration, attach, damage, opponent
+anti_meta:- Metagross|1.00, Other|1.00

@@ -1,0 +1,8 @@
+name:- N's Vanillish
+type:- Water
+modifiers:- N's
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Area Zero Underdepths|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Counter Gain|0.00, Crispin|0.00, Energy Recycler|0.00, Fezandipiti ex|0.00, Fighting Energy|0.00, Heavy Baton|0.06
+bow_drivers:- cost_colorless, opponent, defending, cost_water
+anti_meta:- N/A

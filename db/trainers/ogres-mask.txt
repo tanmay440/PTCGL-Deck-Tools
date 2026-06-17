@@ -1,0 +1,8 @@
+name:- Ogre's Mask
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Area Zero Underdepths|0.00, Battle Cage|0.00, Boss's Orders|0.00, Brock's Scouting|0.00, Chien-Pao|0.00, Ciphermaniac's Codebreaking|0.00, Crispin|0.00, Cyrano|0.00, Energy Switch|0.00, Fezandipiti ex|0.00
+bow_drivers:- discard, switch, damage, zero_damage
+anti_meta:- N/A

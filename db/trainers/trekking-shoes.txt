@@ -1,0 +1,8 @@
+name:- Trekking Shoes
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Counter Energy|0.07, Evolution Incense|0.03, Field Blower|0.02, Float Stone|0.03, Guzma|0.02, Hisuian Heavy Ball|0.02, Iono|0.02, Level Ball|0.04, Marnie|0.03
+bow_drivers:- discard, draw, look, deck
+anti_meta:- N/A

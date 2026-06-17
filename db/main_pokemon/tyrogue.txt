@@ -1,0 +1,8 @@
+name:- Tyrogue
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Free
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Night Stretcher|0.00, Premium Power Pro|0.00, Shaymin|0.00, Air Balloon|0.00, Battle Cage|0.00, Bloodmoon Ursaluna|0.01, Brave Bangle|0.00, Carmine|0.00
+bow_drivers:- attack, damage, cost_free, zero_retreat
+anti_meta:- N/A

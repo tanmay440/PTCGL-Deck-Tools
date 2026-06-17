@@ -1,0 +1,8 @@
+name:- Hydreigon ex
+type:- Darkness
+modifiers:- ex, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Darkness Energy|0.02, Buddy-Buddy Poffin|0.01, Boss's Orders|0.01, Lillie's Determination|0.01, Metal Energy|0.12, Psychic Energy|0.02, Ultra Ball|0.01, Crispin|0.02, Neo Upper Energy|0.12, Dudunsparce|0.03
+bow_drivers:- high_damage, opponent, prize, damage
+anti_meta:- N/A

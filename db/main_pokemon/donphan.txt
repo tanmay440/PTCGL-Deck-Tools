@@ -1,0 +1,8 @@
+name:- Donphan
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Arven|0.01, Ball Guy|0.03, Barboach|1.00, Battle Compressor|0.06, Brooklet Hill|0.09, Counter Catcher|0.03, Cynthia & Caitlin|0.06, Devolution Spray|0.55, Double Turbo Energy|0.08, Enhanced Hammer|0.01
+bow_drivers:- high_damage, discard, cost_colorless, cost_fighting
+anti_meta:- N/A

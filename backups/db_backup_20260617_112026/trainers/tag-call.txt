@@ -1,0 +1,8 @@
+name:- Tag Call
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Cynthia & Caitlin|0.68, Guzma|0.12, Guzma & Hala|0.26, VS Seeker|0.11, Hisuian Heavy Ball|0.12, Level Ball|0.21, Night Stretcher|0.01, Poké Pad|0.01, U-Turn Board|0.21, Ultra Ball|0.01
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

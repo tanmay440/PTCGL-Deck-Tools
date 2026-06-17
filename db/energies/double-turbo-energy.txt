@@ -1,0 +1,8 @@
+name:- Double Turbo Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.01, Ultra Ball|0.01, Iono|0.11, Gift Energy|0.84, Jet Energy|0.42, Arven|0.09, Hisuian Heavy Ball|0.13, Nest Ball|0.12, Field Blower|0.12, Float Stone|0.14
+bow_drivers:- energy, damage, opponent, weakness
+anti_meta:- N/A

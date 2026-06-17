@@ -1,0 +1,8 @@
+name:- Glalie
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Hilda|0.01, Lillie's Determination|0.00, Mega Froslass ex|0.05, Poké Pad|0.00, Snorunt|0.04, Water Energy|0.01, Night Stretcher|0.00, Ignition Energy|0.02
+bow_drivers:- high_damage, discard, damage, cost_water
+anti_meta:- Dragapult Dudunsparce|1.00, Kangaskhan Bouffalant|1.00

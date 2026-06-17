@@ -1,0 +1,8 @@
+name:- Toxel
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Darkness Energy|0.03, Toxtricity|1.00, Poké Pad|0.01, Lillie's Determination|0.01, Night Stretcher|0.01, Ultra Ball|0.01, Buddy-Buddy Poffin|0.01, Boss's Orders|0.01, Pecharunt ex|0.11, Team Rocket's Petrel|0.03
+bow_drivers:- search, deck, cost_darkness, put
+anti_meta:- Mega Greninja|1.00

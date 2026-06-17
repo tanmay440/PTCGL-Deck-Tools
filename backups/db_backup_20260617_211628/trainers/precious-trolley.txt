@@ -1,0 +1,8 @@
+name:- Precious Trolley
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ultra Ball|0.04, Boss's Orders|0.03, Team Rocket's Petrel|0.12, Night Stretcher|0.03, Fezandipiti ex|0.04, Lillie's Determination|0.03, Team Rocket's Transceiver|0.28, Special Red Card|0.04, Metal Energy|0.33, Meowth ex|0.03
+bow_drivers:- search, deck, put, bench
+anti_meta:- Okidogi Barbaracle|1.00, Ogerpon Meganium Hydrapple|1.00, Luxray|1.00, Steven's Metagross|1.00, Iron Thorns|1.00, Miraidon|1.00, Hop's Trevenant|1.00, Beedrill|1.00, Manectric Eelektrik|1.00, Other|1.00, Ogerpon Meganium Arboliva|1.00, Raging Bolt Ogerpon|1.00, Metagross|1.00, N's Zoroark|1.00

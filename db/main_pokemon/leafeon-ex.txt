@@ -1,0 +1,8 @@
+name:- Leafeon ex
+type:- Grass
+modifiers:- ex, rule_box
+type_requirement:- Fire, Grass, Water
+properties:- N/A
+commonly_found_with:- Area Zero Underdepths|0.05, Boss's Orders|0.01, Buddy-Buddy Poffin|0.01, Crispin|0.02, Eevee|0.61, Fan Rotom|0.07, Fezandipiti ex|0.01, Fire Energy|0.02, Flareon ex|0.99, Grass Energy|0.02
+bow_drivers:- high_damage, damage, opponent, cost_grass
+anti_meta:- N/A

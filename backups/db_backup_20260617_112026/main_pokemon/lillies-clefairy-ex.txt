@@ -1,0 +1,8 @@
+name:- Lillie's Clefairy ex
+type:- Psychic
+modifiers:- Lillie's, ex, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Ultra Ball|0.26, Night Stretcher|0.23, Psychic Energy|0.43, Lillie's Determination|0.23, Fezandipiti ex|0.30, Meowth ex|0.31, Boss's Orders|0.19, Poké Pad|0.20, Latias ex|0.59, Crispin|0.36
+bow_drivers:- weakness, opponent, attack, damage
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00, Mega Venusaur|1.00, Ceruledge|1.00, Dragapult|1.00, Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Lucario Hariyama|1.00, Metagross|1.00, Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Mega Lucario|1.00, Mega Greninja|1.00, Decidueye|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Alakazam Dudunsparce|1.00, Steven's Metagross|1.00, Raging Bolt Ogerpon|1.00, Sylveon|1.00, Greninja|1.00, Starmie Froslass|1.00, Basic Box|1.00, Beedrill|1.00

@@ -1,0 +1,8 @@
+name:- Dugtrio
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Diglett|1.00, Rare Candy|0.00, Water Energy|0.01, Arven|0.02, Baltoy|0.12, Bench Shield|0.98, Brooklet Hill|0.18, Buddy-Buddy Poffin|0.00, Budew|0.00, Capacious Bucket|0.17
+bow_drivers:- opponent, bench, damage, cost_fighting
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Pokémon Retriever
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.92, Holon Mentor|0.92, Holon Scientist|0.92, Holon Transceiver|0.92, Rocket's Admin.|0.81, Warp Point|0.49, Pidgeot|0.80, Pidgey|0.44, Rare Candy|0.02, Windstorm|0.83
+bow_drivers:- search, discard, opponent, put
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

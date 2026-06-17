@@ -1,0 +1,8 @@
+name:- Roserade GL
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Aaron's Collection|0.84, Bebe's Search|0.25, Bronzong G|0.84, Crobat G|0.51, Cyrus's Conspiracy|0.73, Drifblim FB|0.92, Psychic Energy|0.01, Roseanne's Research|0.25, Team Galactic's Invention G-101 Energy Gain|0.73, Team Galactic's Invention G-103 Power Spray|0.84
+bow_drivers:- defending, cost_colorless, opponent, damage
+anti_meta:- Gyarados|1.00

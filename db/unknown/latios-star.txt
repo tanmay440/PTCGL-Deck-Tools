@@ -1,0 +1,8 @@
+name:- Latios Star
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ditto|0.01, Grass Energy|0.00, Grovyle|0.00, Holon Adventurer|0.00, Holon Mentor|0.00, Holon Scientist|0.00, Holon Transceiver|0.00, Holon's Castform|0.00, Holon's Magnemite|0.00, Holon's Magneton|0.01
+bow_drivers:- unknown
+anti_meta:- N/A

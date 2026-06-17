@@ -1,0 +1,8 @@
+name:- Galarian Stunfisk
+type:- Metal
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Articuno-GX|1.00, Arven|0.03, Bunnelby|0.40, Capture Energy|0.19, Counter Catcher|0.09, Enhanced Hammer|0.03, Eri|0.09, Faba|0.28, Float Stone|0.06, Forest Seal Stone|0.11
+bow_drivers:- high_damage, cost_colorless, damage
+anti_meta:- N/A

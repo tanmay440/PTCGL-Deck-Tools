@@ -1,0 +1,8 @@
+name:- Reset Stamp
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.10, Guzma & Hala|0.22, Hisuian Heavy Ball|0.13, Level Ball|0.24, Night Stretcher|0.01, Poké Pad|0.01, Ultra Ball|0.01, VS Seeker|0.10, Buddy-Buddy Poffin|0.01, Evolution Incense|0.15
+bow_drivers:- opponent, hand, deck, prize
+anti_meta:- N/A

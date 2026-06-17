@@ -1,0 +1,8 @@
+name:- Capturing Aroma
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Archeops|0.50, Bloodmoon Ursaluna ex|0.04, Boss's Orders|0.00, Carmine|0.03, Double Turbo Energy|0.17, Drapion V|1.00, Dusk Ball|0.11, Gift Energy|0.20, Iono|0.02, Iron Hands ex|0.33
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

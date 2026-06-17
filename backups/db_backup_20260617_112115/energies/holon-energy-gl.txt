@@ -1,0 +1,8 @@
+name:- Holon Energy GL
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boost Energy|1.00, Cyclone Energy|0.33, Delcatty|0.39, Delcatty ex|1.00, Electrode ex|0.32, Girafarig|0.40, Grass Energy|0.01, Great Ball|1.00, Lightning Energy|0.02, Master Ball|0.51
+bow_drivers:- energy, damage, opponent, zero_damage
+anti_meta:- N/A

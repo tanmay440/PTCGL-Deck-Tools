@@ -1,0 +1,8 @@
+name:- Taillow
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Artazon|0.09, Arven|0.02, Bibarel|0.25, Bidoof|0.25, Buddy-Buddy Poffin|0.00, Capture Energy|0.12, Colress's Tenacity|0.02, Cynthia & Caitlin|0.13, Dodrio|0.25, Doduo|0.25
+bow_drivers:- cost_colorless
+anti_meta:- N/A

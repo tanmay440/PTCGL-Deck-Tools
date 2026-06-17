@@ -1,0 +1,8 @@
+name:- Mew ex
+type:- Psychic
+modifiers:- ex, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Artazon|0.27, Arven|0.05, Buddy-Buddy Poffin|0.00, Budew|0.01, Counter Catcher|0.16, Cresselia|0.23, Darkness Energy|0.01, Earthen Vessel|0.22, Energy Switch|0.03, Flutter Mane|0.66
+bow_drivers:- draw, hand, cost_colorless, opponent
+anti_meta:- N/A

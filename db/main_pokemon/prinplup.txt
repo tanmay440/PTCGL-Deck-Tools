@@ -1,0 +1,8 @@
+name:- Prinplup
+type:- Water
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Empoleon ex|0.16, Full Metal Lab|0.08, Lillie's Determination|0.00, Metal Energy|0.01, Piplup|0.16, Rare Candy|0.00, Special Red Card|0.00, Ultra Ball|0.00, Hero's Cape|0.00
+bow_drivers:- cost_colorless, attack, damage, opponent
+anti_meta:- N/A

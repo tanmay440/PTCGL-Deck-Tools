@@ -1,0 +1,8 @@
+name:- Jirachi
+type:- Metal
+modifiers:- N/A
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Holon Mentor|0.72, Holon Transceiver|0.72, Rocket's Admin.|0.65, Holon Adventurer|0.72, Pow! Hand Extension|0.77, Holon Scientist|0.71, Warp Point|0.59, Windstorm|0.74, Rare Candy|0.03, Pokémon Retriever|0.76
+bow_drivers:- energy_acceleration, discard, cost_colorless, attach
+anti_meta:- Bombtar|1.00, Bombchamp|1.00, Flygon δ|1.00

@@ -1,0 +1,8 @@
+name:- Team Rocket's Chingling
+type:- Psychic
+modifiers:- Team Rocket's
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.00, Night Stretcher|0.00, Ultra Ball|0.00, Team Rocket's Archer|0.02, Team Rocket's Ariana|0.02, Team Rocket's Energy|0.02, Team Rocket's Factory|0.01, Team Rocket's Mimikyu|0.05, Team Rocket's Petrel|0.00, Team Rocket's Proton|0.02
+bow_drivers:- discard, opponent, hand, zero_damage
+anti_meta:- N/A

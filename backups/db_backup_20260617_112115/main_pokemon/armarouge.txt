@@ -1,0 +1,8 @@
+name:- Armarouge
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Academy at Night|0.01, Ciphermaniac's Codebreaking|0.00, Kyurem|0.01, Lana's Aid|0.00, Latias ex|0.00, Lillie's Clefairy ex|0.00, Lillie's Determination|0.00, Meowth ex|0.00, Metagross|0.00, Night Stretcher|0.00
+bow_drivers:- discard, cost_colorless, cost_fire, energy
+anti_meta:- N/A

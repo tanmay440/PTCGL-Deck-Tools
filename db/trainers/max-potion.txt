@@ -1,0 +1,8 @@
+name:- Max Potion
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.01, Evolution Incense|0.18, Field Blower|0.16, Guzma|0.12, Iono|0.12, Night Stretcher|0.01, U-Turn Board|0.24, VS Seeker|0.12, Budew|0.01, Capacious Bucket|0.50
+bow_drivers:- discard, heal, damage, energy
+anti_meta:- N/A

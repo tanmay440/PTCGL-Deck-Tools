@@ -1,0 +1,8 @@
+name:- Lanette's Net Search
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Pokémon Retriever|0.64, Giant Stump|0.91, Holon Adventurer|0.53, Holon Mentor|0.53, Holon Scientist|0.54, Holon Transceiver|0.53, Holon's Castform|0.81, Regirock ex|0.91, Windstorm|0.58, Pow! Hand Extension|0.52
+bow_drivers:- discard, search, put, deck
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

@@ -1,0 +1,8 @@
+name:- Elgyem
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.02, Buddy-Buddy Poffin|0.03, Poké Pad|0.02, Psychic Energy|0.03, Dudunsparce|0.08, Dunsparce|0.08, Night Stretcher|0.02, Sacred Ash|0.14, Nighttime Mine|0.30, Fezandipiti ex|0.02
+bow_drivers:- cost_colorless, energy, opponent, cost_psychic
+anti_meta:- Metagross|1.00, Starmie Dusknoir|1.00, Joltik Box|1.00, Toxtricity|1.00, Beedrill|1.00, Cynthia's Garchomp|1.00, Hop's Trevenant|1.00

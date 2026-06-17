@@ -1,0 +1,8 @@
+name:- Spiritomb
+type:- Darkness
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Luxury Ball|0.58, Bebe's Search|0.52, Roseanne's Research|0.52, Expert Belt|0.52, Uxie|0.52, Call Energy|0.52, Azelf|0.51, Night Maintenance|0.51, Psychic Energy|0.01, Warp Point|0.45
+bow_drivers:- damage, attack, weakness, cost_colorless
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Trubbish
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Float Stone|0.07, Garbodor|1.00, Guzma|0.04, VS Seeker|0.04, Ultra Ball|0.00, Buddy-Buddy Poffin|0.00, Evolution Incense|0.04, Iono|0.03, Budew|0.00, Secret Box|0.01
+bow_drivers:- discard, energy, opponent, cost_darkness
+anti_meta:- N/A

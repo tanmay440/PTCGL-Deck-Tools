@@ -1,0 +1,8 @@
+name:- Dark Dragonair
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Lightning, Water
+properties:- N/A
+commonly_found_with:- Dark Dragonite|1.00, Dark Electrode|1.00, Dark Metal Energy|0.05, Darkness Energy|0.00, Dratini|0.02, Holon Adventurer|0.00, Holon Mentor|0.00, Holon Scientist|0.00, Holon Transceiver|0.00, Holon's Magneton|0.03
+bow_drivers:- search, deck, attack, opponent
+anti_meta:- N/A

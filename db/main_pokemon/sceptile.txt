@@ -1,0 +1,8 @@
+name:- Sceptile
+type:- Grass
+modifiers:- gx, rule_box
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Grass Energy|0.00, Grovyle|0.12, Holon Adventurer|0.03, Holon Mentor|0.03, Holon Scientist|0.03, Holon Transceiver|0.03, Pidgeot|0.04, Pidgeotto|0.04, Pidgey|0.03, Pokémon Retriever|0.04
+bow_drivers:- high_damage, discard, cost_grass, energy
+anti_meta:- Bombtar|1.00

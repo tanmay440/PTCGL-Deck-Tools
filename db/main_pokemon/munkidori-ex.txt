@@ -1,0 +1,8 @@
+name:- Munkidori ex
+type:- Darkness
+modifiers:- ex, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Binding Mochi|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Darkness Energy|0.00, Energy Recycler|0.00, Fezandipiti ex|0.00, Janine's Secret Art|0.00, Lillie's Determination|0.00, Mega Absol ex|0.00
+bow_drivers:- high_damage, opponent, prize, damage
+anti_meta:- N/A

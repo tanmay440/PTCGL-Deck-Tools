@@ -1,0 +1,8 @@
+name:- Cinccino ex
+type:- Colorless
+modifiers:- ex, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.01, Minccino|0.54, Boss's Orders|0.01, Precious Trolley|0.19, Beldum|0.27, Energy Recycler|0.15, Genesect ex|0.34, Metal Energy|0.12, Metang|0.27, Team Rocket's Petrel|0.03
+bow_drivers:- damage, attack, energy, opponent
+anti_meta:- N/A

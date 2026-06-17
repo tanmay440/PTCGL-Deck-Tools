@@ -1,0 +1,8 @@
+name:- Faba
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.13, VS Seeker|0.12, Nest Ball|0.12, Trainers' Mail|0.25, Float Stone|0.16, Team Flare Grunt|0.53, Enhanced Hammer|0.07, Lillie's Determination|0.01, Gladion|0.53, Lusamine|0.42
+bow_drivers:- energy, opponent, put, attack
+anti_meta:- N/A

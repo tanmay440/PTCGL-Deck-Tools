@@ -1,0 +1,8 @@
+name:- Seaking
+type:- Water
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.04, Buddy-Buddy Poffin|0.05, Goldeen|0.97, Grookey|0.92, Lillie's Determination|0.04, Poké Pad|0.04, Thwackey|0.92, Night Stretcher|0.04, Shaymin|0.11, Air Balloon|0.10
+bow_drivers:- attack, opponent, draw, cost_colorless
+anti_meta:- Ethan's Typhlosion|1.00, Raging Bolt Ogerpon|1.00, N's Zoroark|1.00, Alakazam Dudunsparce|1.00, Ursaluna Lunatone|1.00

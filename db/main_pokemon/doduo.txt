@@ -1,0 +1,8 @@
+name:- Doduo
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Artazon|0.36, Arven|0.07, Buddy-Buddy Poffin|0.01, Capture Energy|0.42, Dodrio|1.00, Double Turbo Energy|0.67, Evolution Incense|0.12, Fan Rotom|0.05, Field Blower|0.10, Float Stone|0.13
+bow_drivers:- damage, cost_colorless
+anti_meta:- N/A

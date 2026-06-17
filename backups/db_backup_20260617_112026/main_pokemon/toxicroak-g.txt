@@ -1,0 +1,8 @@
+name:- Toxicroak G
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Aaron's Collection|1.00, Bebe's Search|0.30, Bronzong G|1.00, Crobat G|0.61, Cyrus's Conspiracy|0.87, Psychic Energy|0.01, Roseanne's Research|0.30, Team Galactic's Invention G-101 Energy Gain|0.87, Team Galactic's Invention G-103 Power Spray|1.00, Team Galactic's Invention G-105 Poké Turn|0.79
+bow_drivers:- damage, defending, attack, cost_psychic
+anti_meta:- Gyarados|1.00

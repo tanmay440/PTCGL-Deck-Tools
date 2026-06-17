@@ -1,0 +1,8 @@
+name:- Shuckle
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Bug Catching Set|0.00, Forest of Vitality|0.00, Grass Energy|0.00, Lillie's Determination|0.00, Teal Mask Ogerpon ex|0.00, Bayleef|0.00, Boss's Orders|0.00, Bulbasaur|0.02, Chikorita|0.00, Dawn|0.00
+bow_drivers:- energy, heal, damage, cost_grass
+anti_meta:- Lillie's Clefairy|1.00, Slowking|1.00, Starmie Froslass|1.00, Hop's Trevenant|1.00

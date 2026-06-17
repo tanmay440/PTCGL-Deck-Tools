@@ -1,0 +1,8 @@
+name:- Bianca's Devotion
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Team Rocket's Petrel|0.06, Jumbo Ice Cream|0.34, Buddy-Buddy Poffin|0.02, Boss's Orders|0.02, Lillie's Determination|0.02, Switch|0.06, Crustle|0.74, Dwebble|0.74, Growing Grass Energy|0.35, Hero's Cape|0.17
+bow_drivers:- heal, damage, hp, zero_damage
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Lillie's Clefairy|1.00, Cynthia's Garchomp|1.00, Lopunny Dudunsparce|1.00, Metagross|1.00, Ogerpon Meganium Hydrapple|1.00

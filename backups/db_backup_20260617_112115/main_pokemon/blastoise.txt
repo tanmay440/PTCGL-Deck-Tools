@@ -1,0 +1,8 @@
+name:- Blastoise
+type:- Water
+modifiers:- ex, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Azelf|0.00, Baltoy|0.01, Bebe's Search|0.00, Blissey|1.00, Broken Time-Space|0.04, Chansey|0.02, Claydol|0.01, Delcatty|0.02, Dialga|0.01, Expert Belt|0.00
+bow_drivers:- high_damage, discard, damage, weakness
+anti_meta:- N/A

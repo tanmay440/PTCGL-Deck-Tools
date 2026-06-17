@@ -1,0 +1,8 @@
+name:- Dolliv
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Arboliva ex|1.00, Dawn|0.03, Forest of Vitality|0.09, Grass Energy|0.04, Night Stretcher|0.01, Smoliv|1.00, Boss's Orders|0.01, Bug Catching Set|0.06, Lillie's Determination|0.01, Poké Pad|0.01
+bow_drivers:- cost_colorless, heal, damage, cost_grass
+anti_meta:- N's Zoroark|1.00, Other|1.00, Starmie Dusknoir|1.00, Rocket's Honchkrow|1.00

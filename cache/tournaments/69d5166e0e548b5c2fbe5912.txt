@@ -1,0 +1,7 @@
+game:- PTCG
+name:- Nightshades Premier Circuit Challenge #5
+date:- 2026-06-15T23:00:00.000Z
+format:- STANDARD
+id:- 69d5166e0e548b5c2fbe5912
+players:- 32
+organizerId:- 2579

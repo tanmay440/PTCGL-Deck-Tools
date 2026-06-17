@@ -1,0 +1,8 @@
+name:- Mega Clefable ex
+type:- Psychic
+modifiers:- ex, mega, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Aromatisse|0.84, Boss's Orders|0.00, Clefable|0.77, Clefairy|0.09, Energy Recycler|0.00, Hilda|0.00, Jacinthe|0.02, Latias ex|0.00, Lillie's Clefairy ex|0.00, Lillie's Determination|0.00
+bow_drivers:- high_damage, opponent, discard, prize
+anti_meta:- N/A

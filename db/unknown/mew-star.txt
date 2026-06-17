@@ -1,0 +1,8 @@
+name:- Mew Star
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.27, Holon Mentor|0.27, Holon Transceiver|0.27, Rocket's Admin.|0.25, Warp Point|0.23, Windstorm|0.29, Holon's Castform|0.41, Jirachi|0.35, Rare Candy|0.01, Holon's Magnemite|0.60
+bow_drivers:- unknown
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

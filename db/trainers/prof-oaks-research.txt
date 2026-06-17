@@ -1,0 +1,8 @@
+name:- Prof. Oak's Research
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Energy Removal 2|0.22, Rocket's Admin.|0.03, Steven's Advice|0.09, Copycat|0.47, Poké Ball|0.46, Pokémon Reversal|0.47, Arcanine ex|0.56, Crystal Beach|0.16, Fire Energy|0.00, Growlithe|0.56
+bow_drivers:- discard, draw, put, shuffle
+anti_meta:- Scizor|1.00

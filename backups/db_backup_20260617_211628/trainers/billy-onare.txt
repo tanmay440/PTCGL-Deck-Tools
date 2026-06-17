@@ -1,0 +1,8 @@
+name:- Billy & O'Nare
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Abra|0.00, Alakazam|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Dawn|0.00, Dudunsparce|0.00, Dunsparce|0.00, Enriching Energy|0.00, Fan Rotom|0.00, Hilda|0.00
+bow_drivers:- draw, hand, zero_damage, zero_retreat
+anti_meta:- N/A

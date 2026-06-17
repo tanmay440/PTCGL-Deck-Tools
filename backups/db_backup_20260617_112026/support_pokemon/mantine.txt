@@ -1,0 +1,8 @@
+name:- Mantine
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Dawn|0.00, Energy Search|0.00, Enhanced Hammer|0.00, Hero's Cape|0.00, Hilda|0.00, Lillie's Determination|0.00, Lucky Helmet|0.00, Mega Froslass ex|0.00
+bow_drivers:- search, deck, cost_colorless, put
+anti_meta:- N/A

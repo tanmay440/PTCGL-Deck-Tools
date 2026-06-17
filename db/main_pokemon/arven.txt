@@ -1,0 +1,8 @@
+name:- Arven
+type:- Fighting
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Chien-Pao ex|0.72, Iono|0.81, Ultra Ball|0.05, Buddy-Buddy Poffin|0.07, Nest Ball|0.67, Guzma|0.67, Hisuian Heavy Ball|0.65, VS Seeker|0.64, Night Stretcher|0.04, Field Blower|0.58
+bow_drivers:- damage, cost_colorless
+anti_meta:- Miraidon ex / Sandy Shocks|0.88, Charizard ex / Pidgeot ex|0.72, Gardevoir ex / Drifloon|0.68

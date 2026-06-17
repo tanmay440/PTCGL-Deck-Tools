@@ -1,0 +1,8 @@
+name:- Oricorio ex
+type:- Fire
+modifiers:- ex, rule_box
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Fire Energy|0.00, Poké Pad|0.00, Charmander|0.23, Charmeleon|0.23, Energy Retrieval|0.02, Lillie's Determination|0.00, Mega Charizard X ex|0.97, Rare Candy|0.00, Ultra Ball|0.00
+bow_drivers:- energy_acceleration, high_damage, attach, energy
+anti_meta:- Decidueye|1.00

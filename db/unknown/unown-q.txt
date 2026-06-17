@@ -1,0 +1,8 @@
+name:- Unown [Q]
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Bebe's Search|0.46, Roseanne's Research|0.46, Uxie|0.43, Crobat G|0.93, Uxie LV.X|0.87, Expert Belt|0.43, Luxury Ball|0.24, Psychic Energy|0.01, Team Galactic's Invention G-105 Poké Turn|0.73, Cyrus's Conspiracy|0.66
+bow_drivers:- unknown
+anti_meta:- Gyarados|1.00

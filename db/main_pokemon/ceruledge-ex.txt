@@ -1,0 +1,8 @@
+name:- Ceruledge ex
+type:- Fire
+modifiers:- ex, rule_box
+type_requirement:- Fire, Metal, Psychic
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.02, Charcadet|1.00, Fighting Energy|0.09, Fighting Gong|0.15, Fire Energy|0.05, Lunatone|0.19, Night Stretcher|0.02, Poké Pad|0.02, Solrock|0.19, Ultra Ball|0.02
+bow_drivers:- high_damage, discard, damage, energy
+anti_meta:- Dragapult Dusknoir|1.00, Dragapult Dudunsparce|1.00, Mega Lopunny|1.00, Mega Venusaur|1.00

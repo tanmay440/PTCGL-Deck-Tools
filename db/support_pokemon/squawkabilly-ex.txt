@@ -1,0 +1,8 @@
+name:- Squawkabilly ex
+type:- Colorless
+modifiers:- ex, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Carmine|0.13, Iono|0.09, Lumineon V|0.37, Bloodmoon Ursaluna ex|0.16, Forest Seal Stone|0.28, Arven|0.06, Binding Mochi|0.09, Colress's Tenacity|0.06, Fezandipiti ex|0.01, Hisuian Heavy Ball|0.09
+bow_drivers:- discard, energy_acceleration, draw, hand
+anti_meta:- N/A

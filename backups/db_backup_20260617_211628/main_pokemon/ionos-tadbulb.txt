@@ -1,0 +1,8 @@
+name:- Iono's Tadbulb
+type:- Lightning
+modifiers:- Iono's
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Crispin|0.00, Fighting Energy|0.00, Iono's Bellibolt ex|1.00, Levincia|0.17, Lightning Energy|0.01, Raging Bolt ex|0.01, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Lillie's Determination|0.00, Meowth ex|0.00
+bow_drivers:- cost_lightning, cost_colorless
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Pawniard
+type:- Metal
+modifiers:- N/A
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Archaludon|0.00, Archaludon ex|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Crushing Hammer|0.00, Dudunsparce|0.00, Dunsparce|0.00, Duraludon|0.00, Explorer's Guidance|0.00, Hero's Cape|0.00
+bow_drivers:- opponent, switch, bench, cost_metal
+anti_meta:- N/A

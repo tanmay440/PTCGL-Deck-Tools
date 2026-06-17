@@ -1,0 +1,8 @@
+name:- Steven's Metang
+type:- Metal
+modifiers:- Steven's
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Genesect ex|0.09, Lillie's Determination|0.00, Metal Energy|0.03, Night Stretcher|0.00, Psychic Energy|0.00, Steven's Beldum|1.00, Steven's Metagross ex|1.00, Team Rocket's Petrel|0.01, Rare Candy|0.01
+bow_drivers:- attack, cost_metal, cost_colorless
+anti_meta:- Ogerpon Meganium Arboliva|1.00, Raging Bolt Ogerpon|1.00, Okidogi Barbaracle|1.00, N's Zoroark|1.00

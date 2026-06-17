@@ -1,0 +1,8 @@
+name:- Erika's Tangela
+type:- Grass
+modifiers:- Erika's
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Erika's Gloom|0.10, Erika's Oddish|0.08, Erika's Vileplume ex|0.10, Forest of Vitality|0.00, Lillie's Determination|0.00, Poké Pad|0.00, Dawn|0.00, Lana's Aid|0.00, Ultra Ball|0.00, Bayleef|0.00
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Float Stone
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.64, VS Seeker|0.59, Arven|0.53, Nest Ball|0.66, Hisuian Heavy Ball|0.69, Field Blower|0.71, Marnie|0.82, Iono|0.49, Ultra Ball|0.03, Rescue Stretcher|0.66
+bow_drivers:- energy_acceleration, attach, attack, zero_damage
+anti_meta:- N/A

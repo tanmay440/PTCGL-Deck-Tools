@@ -1,0 +1,8 @@
+name:- Colress
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.05, Binding Mochi|0.08, Bloodmoon Ursaluna ex|0.12, Briar|0.06, Carmine|0.09, Colress's Tenacity|0.05, Crobat V|0.65, Double Colorless Energy|0.28, Fezandipiti ex|0.01, Field Blower|0.08
+bow_drivers:- search, deck, energy, put
+anti_meta:- N/A

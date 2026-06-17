@@ -1,0 +1,8 @@
+name:- Cresselia
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Psychic Energy|0.03, Buddy-Buddy Poffin|0.02, Ultra Ball|0.01, Arven|0.22, Iono|0.24, Kirlia|0.42, Ralts|0.42, Night Stretcher|0.01, Hisuian Heavy Ball|0.23, Rare Candy|0.02
+bow_drivers:- energy_acceleration, search, cost_psychic, deck
+anti_meta:- N/A

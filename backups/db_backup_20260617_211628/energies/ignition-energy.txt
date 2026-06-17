@@ -1,0 +1,8 @@
+name:- Ignition Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Poké Pad|0.12, Night Stretcher|0.11, Ultra Ball|0.09, Buddy-Buddy Poffin|0.11, Boss's Orders|0.08, Hilda|0.28, Lillie's Determination|0.08, Water Energy|0.36, Meowth ex|0.10, Budew|0.15
+bow_drivers:- discard, energy, zero_damage, zero_retreat
+anti_meta:- Other|1.00, Mega Manectric|1.00, Festival Lead|1.00, Metagross|1.00, Hop's Trevenant|1.00, Dragapult|1.00, Kangaskhan Bouffalant|1.00, Dragapult Blaziken|1.00, Crustle|1.00, Grimmsnarl Froslass|1.00, Doublade|1.00, Mega Starmie|1.00, Lillie's Clefairy|1.00, N's Zoroark|1.00, Rocket's Mewtwo|1.00, Cynthia's Garchomp|1.00, Okidogi Barbaracle|1.00, Alakazam Dudunsparce|0.75

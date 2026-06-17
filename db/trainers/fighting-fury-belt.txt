@@ -1,0 +1,8 @@
+name:- Fighting Fury Belt
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Escape Rope|0.10, Evolution Incense|0.05, Float Stone|0.05, Guzma|0.03, Hisuian Heavy Ball|0.04, Marnie|0.06, Nest Ball|0.04, VS Seeker|0.03, Baltoy|0.09
+bow_drivers:- energy_acceleration, attach, hp, damage
+anti_meta:- N/A

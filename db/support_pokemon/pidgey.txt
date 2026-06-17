@@ -1,0 +1,8 @@
+name:- Pidgey
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rare Candy|0.06, Pidgeotto|0.65, Pidgeot|0.61, Holon Adventurer|0.53, Holon Mentor|0.54, Holon Transceiver|0.54, Rocket's Admin.|0.54, Windstorm|0.54, Pokémon Retriever|0.53, Holon Scientist|0.53
+bow_drivers:- search, cost_colorless, deck, put
+anti_meta:- Bombtar|1.00, Bombchamp|1.00, Flygon δ|1.00, Gardevoir ex / Drifloon|0.68

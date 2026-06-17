@@ -1,0 +1,8 @@
+name:- Squirtle
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Azelf|0.00, Baltoy|0.01, Bebe's Search|0.00, Blastoise|1.00, Blissey|1.00, Broken Time-Space|0.04, Chansey|0.02, Claydol|0.01, Delcatty|0.02, Dialga|0.01
+bow_drivers:- cost_water, opponent, damage, zero_damage
+anti_meta:- N/A

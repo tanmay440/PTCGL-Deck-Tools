@@ -1,0 +1,8 @@
+name:- Bergmite
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Avalugg|1.00, Water Energy|0.03, Dawn|0.02, Larry's Skill|0.24, Poké Pad|0.01, Kyogre|0.68, Surfing Beach|0.07, Boss's Orders|0.00, Great Haul Net|0.45, Academy at Night|0.00
+bow_drivers:- cost_water, cost_colorless
+anti_meta:- N/A

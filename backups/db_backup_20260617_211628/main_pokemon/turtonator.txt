@@ -1,0 +1,8 @@
+name:- Turtonator
+type:- Dragon
+modifiers:- N/A
+type_requirement:- Fighting, Fire
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Lana's Aid|0.00, Lillie's Determination|0.00, Night Stretcher|0.00, Poké Pad|0.00, Air Balloon|0.00, Budew|0.00, Bug Catching Set|0.00, Dudunsparce|0.00
+bow_drivers:- discard, cost_colorless, energy, opponent
+anti_meta:- N/A

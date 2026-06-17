@@ -1,0 +1,8 @@
+name:- Seismitoad-EX
+type:- Water
+modifiers:- ex, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Double Colorless Energy|0.35, Guzma|0.09, Hisuian Heavy Ball|0.12, Luxury Ball|0.25, Nest Ball|0.10, VS Seeker|0.09, Arven|0.06, Binding Mochi|0.09, Bloodmoon Ursaluna ex|0.13, Briar|0.08
+bow_drivers:- high_damage, cost_colorless, opponent, cost_water
+anti_meta:- N/A

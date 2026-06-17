@@ -1,0 +1,8 @@
+name:- Piplup
+type:- Water
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Empoleon ex|1.00, Metal Energy|0.04, Rare Candy|0.01, Ultra Ball|0.00, Boss's Orders|0.00, Night Stretcher|0.00, Team Rocket's Petrel|0.01, Special Red Card|0.00, Buddy-Buddy Poffin|0.00, Energy Recycler|0.05
+bow_drivers:- search, cost_colorless, deck, put
+anti_meta:- Hop's Trevenant|1.00, Beedrill|1.00, Manectric Eelektrik|1.00, Other|1.00, Archaludon|1.00, Ogerpon Meganium Hydrapple|1.00, N's Zoroark|1.00, Rocket's Mewtwo|1.00, Ogerpon Meganium Arboliva|1.00, Raging Bolt Ogerpon|1.00

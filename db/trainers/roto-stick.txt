@@ -1,0 +1,8 @@
+name:- Roto-Stick
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Team Rocket's Factory|0.47, Team Rocket's Petrel|0.15, Ignition Energy|0.33, Poké Pad|0.04, Team Rocket's Archer|0.77, Team Rocket's Ariana|0.72, Team Rocket's Energy|0.67, Team Rocket's Giovanni|0.72, Team Rocket's Honchkrow|0.99, Team Rocket's Murkrow|0.98
+bow_drivers:- deck, look, put, hand
+anti_meta:- Kangaskhan Bouffalant|1.00, Dragapult Blaziken|1.00, Crustle|1.00, Grimmsnarl Froslass|1.00, Dragapult|0.67

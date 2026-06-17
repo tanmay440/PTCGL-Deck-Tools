@@ -1,0 +1,8 @@
+name:- Fighting Gong
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Fighting Energy|0.61, Boss's Orders|0.11, Poké Pad|0.12, Lillie's Determination|0.11, Lunatone|0.77, Solrock|0.77, Ultra Ball|0.09, Night Stretcher|0.08, Air Balloon|0.24, Premium Power Pro|0.64
+bow_drivers:- search, deck, energy, put
+anti_meta:- Mega Venusaur|1.00, Dragapult Blaziken|1.00, Festival Lead|1.00, Sylveon|1.00, Mega Gengar|1.00, Alakazam Dudunsparce|1.00, Beedrill|1.00, Mega Greninja|1.00, Doublade|1.00, Metagross|1.00, Dragapult Dusknoir|1.00, Dragapult Dudunsparce|1.00, Mega Lopunny|1.00, Starmie Froslass|1.00, Slowking|0.75

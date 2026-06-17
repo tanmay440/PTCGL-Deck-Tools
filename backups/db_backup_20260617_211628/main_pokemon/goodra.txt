@@ -1,0 +1,8 @@
+name:- Goodra
+type:- Dragon
+modifiers:- N/A
+type_requirement:- Psychic, Water
+properties:- N/A
+commonly_found_with:- Battle Cage|0.00, Buddy-Buddy Poffin|0.00, Goomy|1.00, Great Haul Net|0.00, Lillie's Determination|0.00, Mist Energy|0.00, Neutralization Zone|0.01, Octillery|0.00, Patrat|0.00, Poké Pad|0.00
+bow_drivers:- high_damage, opponent, discard, energy
+anti_meta:- N/A

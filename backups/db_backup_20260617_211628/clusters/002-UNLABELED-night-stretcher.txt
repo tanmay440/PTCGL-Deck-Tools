@@ -1,0 +1,10 @@
+label:- UNLABELED
+members:- Night Stretcher, Ultra Ball, Lillie's Determination, Poké Pad, Boss's Orders, Team Rocket's Petrel
+roles:- trainer, trainer, trainer, trainer, trainer, trainer
+avg_score:- 148.4
+bow_drivers:- deck, discard, draw
+appears_in:- Dragapult Blaziken|1.00, Archaludon|1.00, Hop's Trevenant|1.00, Grimmsnarl Froslass|1.00
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00
+decklist_appearances:- 1653
+properties:- N/A
+notes:- N/A

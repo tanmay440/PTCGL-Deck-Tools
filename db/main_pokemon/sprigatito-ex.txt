@@ -1,0 +1,8 @@
+name:- Sprigatito ex
+type:- Grass
+modifiers:- ex, rule_box
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Boss's Orders|0.00, Budew|0.00, Bug Catching Set|0.00, Erika's Gloom|0.00, Erika's Oddish|0.00, Erika's Tangela|0.02, Erika's Vileplume ex|0.00, Forest of Vitality|0.00, Grass Energy|0.00
+bow_drivers:- high_damage, cost_colorless, heal, damage
+anti_meta:- N/A

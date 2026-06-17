@@ -1,0 +1,8 @@
+name:- Scream Tail ex
+type:- Psychic
+modifiers:- ex, ancient, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Dusclops|0.00, Dusknoir|0.00, Duskull|0.00, Frillish|0.01, Judge|0.00, Latias ex|0.00, Lillie's Clefairy ex|0.00, Lillie's Determination|0.00, Mega Diancie ex|0.02
+bow_drivers:- high_damage, discard, opponent, cost_colorless
+anti_meta:- N/A

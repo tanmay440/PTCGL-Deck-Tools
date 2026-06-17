@@ -1,0 +1,8 @@
+name:- Umbreon Star
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Balloon Berry|0.08, Castaway|0.08, Cessation Crystal|0.09, Cursed Stone|0.08, Darkness Energy|0.00, Desert Ruins|0.12, Energy Removal 2|0.08, Fighting Energy|0.00, Groudon ex|0.12, Lanette's Net Search|0.02
+bow_drivers:- unknown
+anti_meta:- N/A

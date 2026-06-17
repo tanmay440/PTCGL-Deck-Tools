@@ -1,0 +1,8 @@
+name:- Lost Vacuum
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Earthen Vessel|0.08, Nest Ball|0.03, Night Stretcher|0.00, Ultra Ball|0.00, Water Energy|0.01, Arven|0.01, Boss's Orders|0.00, Calamitous Snowy Mountain|0.69, Ciphermaniac's Codebreaking|0.01
+bow_drivers:- put, hand, zero_damage, zero_retreat
+anti_meta:- N/A

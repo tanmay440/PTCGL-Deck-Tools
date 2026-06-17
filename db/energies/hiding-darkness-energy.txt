@@ -1,0 +1,8 @@
+name:- Hiding Darkness Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Artazon|0.24, Arven|0.05, Buddy-Buddy Poffin|0.00, Counter Energy|0.20, Crobat|0.94, Dark Patch|0.60, Darkness Energy|0.01, Evolution Incense|0.08, Golbat|0.94, Guzma|0.06
+bow_drivers:- energy, zero_damage, zero_retreat
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Luminous Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.00, Archeops|0.50, Bloodmoon Ursaluna ex|0.04, Boss's Orders|0.00, Capturing Aroma|0.57, Carmine|0.03, Double Turbo Energy|0.17, Drapion V|0.57, Dusk Ball|0.10, Gift Energy|0.20
+bow_drivers:- energy, zero_damage, zero_retreat
+anti_meta:- N/A

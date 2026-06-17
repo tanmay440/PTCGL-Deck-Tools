@@ -1,0 +1,8 @@
+name:- Lance
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.09, Boss's Orders|0.01, Buddy-Buddy Poffin|0.01, Budew|0.02, Counter Catcher|0.27, Dragapult ex|0.02, Drakloak|0.02, Dreepy|0.02, Earthen Vessel|0.34, Fezandipiti ex|0.01
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Shroomish
+type:- Grass
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boost Energy|0.09, Breloom|1.00, Cyclone Energy|0.02, Delcatty|0.04, Delcatty ex|0.13, Electrode ex|0.03, Grass Energy|0.00, Great Ball|0.12, Holon Energy GL|0.13, Lightning Energy|0.00
+bow_drivers:- cost_colorless
+anti_meta:- N/A

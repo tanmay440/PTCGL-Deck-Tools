@@ -1,0 +1,8 @@
+name:- Toedscruel
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Barbaracle|0.02, Binacle|0.02, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Carmine|0.01, Ciphermaniac's Codebreaking|0.00, Conkeldurr|0.29, Cook|0.35, Dawn|0.00, Fighting Energy|0.00
+bow_drivers:- unknown
+anti_meta:- N/A

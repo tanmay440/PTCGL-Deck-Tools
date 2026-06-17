@@ -1,0 +1,8 @@
+name:- Clefable
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Aromatisse|0.67, Boss's Orders|0.00, Clefairy|0.05, Energy Recycler|0.00, Hilda|0.00, Jacinthe|0.01, Latias ex|0.00, Lillie's Clefairy ex|0.00, Lillie's Determination|0.00, Mega Clefable ex|0.72
+bow_drivers:- cost_colorless, opponent, attack, cost_psychic
+anti_meta:- N/A

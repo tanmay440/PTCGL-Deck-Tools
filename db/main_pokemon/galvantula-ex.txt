@@ -1,0 +1,8 @@
+name:- Galvantula ex
+type:- Lightning
+modifiers:- ex, rule_box
+type_requirement:- Fighting, Grass, Lightning
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Crispin|0.00, Galvantula|0.24, Grass Energy|0.00, Joltik|0.18, Latias ex|0.01, Light Ball|0.52, Lightning Energy|0.01, Mega Kangaskhan ex|0.01, Meowth ex|0.00
+bow_drivers:- high_damage, discard, opponent, damage
+anti_meta:- N/A

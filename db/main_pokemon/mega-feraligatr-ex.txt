@@ -1,0 +1,8 @@
+name:- Mega Feraligatr ex
+type:- Water
+modifiers:- ex, mega, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Lillie's Determination|0.00, Meowth ex|0.00, Night Stretcher|0.00, Poké Pad|0.00, Rare Candy|0.00, Surfing Beach|0.01, Team Rocket's Petrel|0.00, Totodile|0.12
+bow_drivers:- high_damage, opponent, damage, prize
+anti_meta:- N/A

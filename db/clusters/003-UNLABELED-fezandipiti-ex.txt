@@ -1,0 +1,10 @@
+label:- UNLABELED
+members:- Boss's Orders, Lillie's Determination, Fighting Gong, Poké Pad, Fighting Energy
+roles:- trainer, trainer, trainer, trainer, energy
+avg_score:- 95.7
+bow_drivers:- deck, draw, energy
+appears_in:- Lucario Hariyama|1.00, Ursaluna Lunatone|1.00, Cynthia's Garchomp|1.00, Ceruledge|1.00
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00
+decklist_appearances:- 311
+properties:- N/A
+notes:- N/A

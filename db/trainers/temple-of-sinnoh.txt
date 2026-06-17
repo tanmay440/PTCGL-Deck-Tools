@@ -1,0 +1,8 @@
+name:- Temple of Sinnoh
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.14, Counter Catcher|0.41, Forest Seal Stone|0.47, Nest Ball|0.14, Buddy-Buddy Poffin|0.01, Iono|0.12, Psychic Energy|0.01, Ultra Ball|0.01, Boss's Orders|0.01, Budew|0.01
+bow_drivers:- energy, opponent, zero_damage, zero_retreat
+anti_meta:- N/A

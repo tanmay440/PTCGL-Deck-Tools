@@ -1,0 +1,8 @@
+name:- Pokémon Reversal
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Copycat|1.00, Energy Removal 2|0.29, Rocket's Admin.|0.04, Steven's Advice|0.12, Poké Ball|0.94, Boost Energy|0.26, Cursed Stone|0.16, Cyclone Energy|0.06, Dark Metal Energy|0.28, Metal Energy|0.01
+bow_drivers:- opponent, switch, zero_damage, zero_retreat
+anti_meta:- Scizor|1.00

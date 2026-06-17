@@ -1,0 +1,8 @@
+name:- Drilbur
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.02, Night Stretcher|0.02, Poké Pad|0.03, Fighting Energy|0.10, Ultra Ball|0.02, Ceruledge ex|0.81, Charcadet|0.81, Fighting Gong|0.16, Fire Energy|0.06, Lunatone|0.20
+bow_drivers:- cost_fighting
+anti_meta:- Dragapult Dusknoir|1.00, Dragapult Dudunsparce|1.00, Mega Lopunny|1.00, Mega Venusaur|1.00

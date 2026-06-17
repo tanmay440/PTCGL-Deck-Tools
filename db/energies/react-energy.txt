@@ -1,0 +1,8 @@
+name:- React Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.04, Steven's Advice|0.12, Windstorm|0.05, Electrode ex|0.08, Fighting Energy|0.00, Heal Energy|0.24, Holon Adventurer|0.03, Holon Energy FF|0.33, Holon Mentor|0.03, Holon Scientist|0.03
+bow_drivers:- energy, zero_damage, zero_retreat
+anti_meta:- Scizor|1.00

@@ -1,0 +1,8 @@
+name:- Magikarp
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Azelf|0.11, Bebe's Search|0.10, Broken Time-Space|0.93, Crobat G|0.22, Felicity's Drawing|0.44, Gyarados|1.00, Luxury Ball|0.07, Roseanne's Research|0.10, Sableye|0.16, Unown [Q]|0.23
+bow_drivers:- bench, damage, opponent, cost_water
+anti_meta:- N/A

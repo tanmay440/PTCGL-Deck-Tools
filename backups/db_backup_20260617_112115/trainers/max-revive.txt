@@ -1,0 +1,8 @@
+name:- Max Revive
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Artazon|0.07, Arven|0.02, Battle Compressor|0.10, Buddy-Buddy Poffin|0.00, Counter Catcher|0.04, Counter Energy|0.09, Crobat|0.31, Cynthia & Caitlin|0.10, Dark Patch|0.19
+bow_drivers:- discard, put, deck, attack
+anti_meta:- N/A

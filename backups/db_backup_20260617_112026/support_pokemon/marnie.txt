@@ -1,0 +1,8 @@
+name:- Marnie
+type:- Darkness
+modifiers:- ex, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Float Stone|0.80, Guzma|0.51, Nest Ball|0.57, Hisuian Heavy Ball|0.64, Field Blower|0.65, VS Seeker|0.47, Arven|0.42, Ultra Ball|0.03, Iono|0.41, Evolution Incense|0.69
+bow_drivers:- energy_acceleration, high_damage, search, deck
+anti_meta:- N/A

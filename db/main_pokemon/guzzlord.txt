@@ -1,0 +1,8 @@
+name:- Guzzlord
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Artazon|0.18, Arven|0.04, Ball Guy|0.14, Buddy-Buddy Poffin|0.00, Counter Energy|0.15, Crobat|0.68, Dark Patch|0.44, Darkness Energy|0.01, Energy Retrieval|0.03, Escape Rope|0.13
+bow_drivers:- high_damage, discard, cost_darkness, opponent
+anti_meta:- N/A

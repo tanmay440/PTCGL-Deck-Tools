@@ -1,0 +1,8 @@
+name:- Team Rocket's Porygon
+type:- Colorless
+modifiers:- Team Rocket's
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ignition Energy|0.33, Poké Pad|0.04, Roto-Stick|0.99, Team Rocket's Archer|0.77, Team Rocket's Ariana|0.72, Team Rocket's Energy|0.67, Team Rocket's Factory|0.46, Team Rocket's Giovanni|0.72, Team Rocket's Honchkrow|1.00, Team Rocket's Murkrow|0.98
+bow_drivers:- discard, hand, opponent, cost_colorless
+anti_meta:- Kangaskhan Bouffalant|1.00, Dragapult Blaziken|1.00, Crustle|1.00, Grimmsnarl Froslass|1.00, Dragapult|0.67

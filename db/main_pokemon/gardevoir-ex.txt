@@ -1,0 +1,8 @@
+name:- Gardevoir ex
+type:- Psychic
+modifiers:- ex, mega, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Kirlia|0.52, Ralts|0.52, Psychic Energy|0.02, Rare Candy|0.03, Arven|0.14, Buddy-Buddy Poffin|0.01, Counter Catcher|0.41, Iono|0.15, Gardevoir|0.45, Holon Adventurer|0.50
+bow_drivers:- energy_acceleration, search, deck, energy
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

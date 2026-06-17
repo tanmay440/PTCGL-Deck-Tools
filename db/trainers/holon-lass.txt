@@ -1,0 +1,8 @@
+name:- Holon Lass
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Dark Metal Energy|0.67, Dark Pupitar|0.28, Dark Tyranitar|0.28, Darkness Energy|0.00, Electrode ex|0.19, Girafarig|0.28, Heal Energy|0.59, Holon Adventurer|0.07, Holon Mentor|0.07, Holon Scientist|0.07
+bow_drivers:- discard, put, hand, deck
+anti_meta:- N/A

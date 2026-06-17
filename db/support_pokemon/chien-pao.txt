@@ -1,0 +1,8 @@
+name:- Chien-Pao
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.06, Ultra Ball|0.07, Meowth ex|0.09, Area Zero Underdepths|0.51, Fezandipiti ex|0.08, Crispin|0.14, Latias ex|0.26, Night Stretcher|0.05, Psychic Energy|0.10, Lillie's Clefairy ex|0.19
+bow_drivers:- high_damage, discard, hand, bench
+anti_meta:- Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Lucario Hariyama|1.00, Metagross|1.00, Starmie Froslass|1.00, Beedrill|1.00, Mega Lucario|1.00, Dragapult Dusknoir|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Alakazam Dudunsparce|1.00, Steven's Metagross|1.00, Okidogi Barbaracle|1.00, Dragapult|1.00

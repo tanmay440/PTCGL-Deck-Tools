@@ -1,0 +1,8 @@
+name:- Canari
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lightning Energy|0.13, Lillie's Determination|0.01, Buddy-Buddy Poffin|0.01, Ultra Ball|0.01, Boss's Orders|0.01, Eelektrik|0.97, Tynamo|0.97, Battle Cage|0.09, Air Balloon|0.03, Mega Eelektross ex|0.85
+bow_drivers:- discard, search, hand, deck
+anti_meta:- Steven's Metagross|1.00, N's Zoroark|1.00

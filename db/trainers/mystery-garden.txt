@@ -1,0 +1,8 @@
+name:- Mystery Garden
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.01, Psychic Energy|0.02, Boss's Orders|0.01, Telepathic Psychic Energy|0.06, Wondrous Patch|0.09, Night Stretcher|0.01, Ultra Ball|0.01, Judge|0.04, Poké Pad|0.01, Lillie's Clefairy ex|0.03
+bow_drivers:- discard, draw, hand, energy
+anti_meta:- Okidogi Barbaracle|1.00, Ogerpon Meganium Hydrapple|1.00, Luxray|1.00, Steven's Metagross|1.00, Iron Thorns|1.00, Miraidon|1.00, Grimmsnarl Froslass|1.00, Basic Box|1.00, Dragapult Blaziken|1.00, Starmie Froslass|1.00, Future Thorns|1.00

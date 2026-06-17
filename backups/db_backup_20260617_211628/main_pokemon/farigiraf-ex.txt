@@ -1,0 +1,8 @@
+name:- Farigiraf ex
+type:- Darkness
+modifiers:- ex, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Bronzong|0.00, Bronzor|0.00, Fezandipiti ex|0.00, Frillish|0.00, Girafarig|0.00, Hilda|0.00, Ignition Energy|0.00, Jellicent ex|0.00, Judge|0.00
+bow_drivers:- high_damage, opponent, damage, bench
+anti_meta:- N/A

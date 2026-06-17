@@ -1,0 +1,8 @@
+name:- Hop's Trevenant
+type:- Psychic
+modifiers:- Hop's
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.03, Hop's Bag|0.82, Hop's Choice Band|0.70, Hop's Cramorant|0.77, Hop's Phantump|1.00, Hop's Snorlax|0.72, Lillie's Determination|0.03, Mist Energy|0.29, Postwick|0.70, Ultra Ball|0.03
+bow_drivers:- high_damage, cost_colorless, damage, attack
+anti_meta:- N's Zoroark|1.00, Beedrill|1.00, Basic Box|1.00, Dragapult|1.00, Ceruledge|1.00, Lillie's Clefairy|1.00, Starmie Froslass|1.00, Slowking|1.00, Lopunny Dudunsparce|1.00, Dragapult Dusknoir|1.00, Crustle|1.00

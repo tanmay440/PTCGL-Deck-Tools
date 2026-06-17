@@ -1,0 +1,8 @@
+name:- Flutter Mane
+type:- Psychic
+modifiers:- ancient
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Psychic Energy|0.01, Night Stretcher|0.01, Kirlia|0.19, Ralts|0.19, Arven|0.08, Buddy-Buddy Poffin|0.01, Hisuian Heavy Ball|0.12, Munkidori|0.01, Ultra Ball|0.01, Secret Box|0.03
+bow_drivers:- high_damage, opponent, cost_colorless, put
+anti_meta:- N/A

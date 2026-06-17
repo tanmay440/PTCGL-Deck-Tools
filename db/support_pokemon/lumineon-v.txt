@@ -1,0 +1,8 @@
+name:- Lumineon V
+type:- Water
+modifiers:- v, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Iono|0.23, Forest Seal Stone|0.81, Budew|0.02, Arven|0.15, Fezandipiti ex|0.01, Nest Ball|0.19, Buddy-Buddy Poffin|0.01, Bloodmoon Ursaluna ex|0.29, Field Blower|0.16, Guzma|0.12
+bow_drivers:- high_damage, search, deck, hand
+anti_meta:- N/A

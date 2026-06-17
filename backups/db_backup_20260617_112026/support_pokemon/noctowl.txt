@@ -1,0 +1,8 @@
+name:- Noctowl
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.02, Hoothoot|1.00, Poké Pad|0.03, Ultra Ball|0.03, Grass Energy|0.10, Night Stretcher|0.02, Area Zero Underdepths|0.21, Fezandipiti ex|0.03, Teal Mask Ogerpon ex|0.16, Crispin|0.05
+bow_drivers:- search, hand, deck, evolve
+anti_meta:- Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Lucario Hariyama|1.00, Metagross|1.00, Dragapult Dusknoir|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Mega Greninja|1.00, Alakazam Dudunsparce|1.00, N's Zoroark|1.00, Other|1.00, Starmie Dusknoir|1.00, Rocket's Honchkrow|1.00

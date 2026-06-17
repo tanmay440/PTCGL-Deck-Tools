@@ -1,0 +1,8 @@
+name:- Piers
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Artazon|0.21, Arven|0.05, Buddy-Buddy Poffin|0.00, Counter Energy|0.26, Crobat|0.94, Dark Patch|0.56, Darkness Energy|0.01, Enhanced Hammer|0.04, Evolution Incense|0.09, Golbat|0.94
+bow_drivers:- search, deck, energy, put
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Jamming Tower
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Poké Pad|0.06, Night Stretcher|0.06, Ultra Ball|0.06, Lillie's Determination|0.06, Boss's Orders|0.06, Buddy-Buddy Poffin|0.08, Meowth ex|0.08, Crispin|0.14, Fezandipiti ex|0.08, Psychic Energy|0.10
+bow_drivers:- discard, opponent, put, zero_damage
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00, Mega Venusaur|1.00, Ceruledge|1.00, Dragapult|1.00, Mega Greninja|1.00, Ogerpon Meganium Hydrapple|1.00, Ogerpon Meganium|1.00, Alakazam Dudunsparce|1.00, Ethan's Typhlosion|1.00, Dragapult Dudunsparce|1.00, Lopunny Dusknoir|1.00, Mega Froslass|1.00, Raging Bolt Ogerpon|1.00, Mega Lucario|1.00, Sylveon|1.00, Mega Gengar|1.00, Doublade|1.00, Ethan's Magcargo|1.00, Ogerpon Meganium Arboliva|1.00, Okidogi Barbaracle|1.00, Beedrill|1.00, Mega Charizard X|1.00, Slowking|1.00, Metagross|1.00, Other|0.67

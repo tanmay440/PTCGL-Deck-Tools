@@ -1,0 +1,8 @@
+name:- Annihilape
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Academy at Night|0.50, Kyurem|0.52, Latias ex|0.17, Lillie's Determination|0.04, Night Stretcher|0.04, Poké Pad|0.04, Slowking|0.52, Slowpoke|0.52, Telepathic Psychic Energy|0.19, Metagross|0.39
+bow_drivers:- high_damage, damage, opponent, weakness
+anti_meta:- Sylveon|1.00, Greninja|1.00, Steven's Metagross|1.00, Starmie Froslass|1.00, Basic Box|1.00, Beedrill|1.00, Rocket's Mewtwo|1.00, Mega Greninja|1.00, Dragapult|0.75, Raging Bolt Ogerpon|0.67

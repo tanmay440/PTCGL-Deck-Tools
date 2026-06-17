@@ -1,0 +1,8 @@
+name:- Reversal Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Float Stone|0.09, Guzma|0.06, Guzma & Hala|0.12, Arven|0.04, Field Blower|0.06, Hisuian Heavy Ball|0.06, Level Ball|0.11, Lillie's Determination|0.00, Nest Ball|0.05, Night Stretcher|0.00
+bow_drivers:- energy, prize, opponent, zero_damage
+anti_meta:- N/A

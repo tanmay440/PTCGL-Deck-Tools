@@ -1,0 +1,98 @@
+tournament_id:- 6a31f1d32d97f3b0c2618251
+player:- Camilo G
+placing:- 1
+wins:- 0
+losses:- 1
+draws:- 0
+archetype:- Dragapult Blaziken
+decklist:- Dreepy||Dreepy||Dreepy||Dreepy||Drakloak||Drakloak||Drakloak||Drakloak||Dragapult ex||Dragapult ex||Torchic||Torchic||Combusken||Blaziken ex||Blaziken ex||Munkidori||Munkidori||Chi-Yu||Budew||Fezandipiti ex||Lillie's Clefairy ex||Meowth ex||Shaymin||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Boss's Orders||Boss's Orders||Boss's Orders||Crispin||Crispin||Dawn||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Ultra Ball||Ultra Ball||Ultra Ball||Ultra Ball||Poké Pad||Poké Pad||Poké Pad||Rare Candy||Rare Candy||Night Stretcher||Night Stretcher||Unfair Stamp||Special Red Card||Team Rocket's Watchtower||Area Zero Underdepths||Fire Energy||Fire Energy||Fire Energy||Psychic Energy||Psychic Energy||Psychic Energy||Darkness Energy||Darkness Energy
+---
+tournament_id:- 6a31f1d32d97f3b0c2618251
+player:- Errorclap
+placing:- 2
+wins:- 0
+losses:- 1
+draws:- 0
+archetype:- Crustle
+decklist:- Mega Kangaskhan ex||Mega Kangaskhan ex||Mega Kangaskhan ex||Mega Kangaskhan ex||Dwebble||Dwebble||Dwebble||Crustle||Crustle||Crustle||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Boss's Orders||Boss's Orders||Boss's Orders||Boss's Orders||Team Rocket's Petrel||Team Rocket's Petrel||Team Rocket's Petrel||Team Rocket's Petrel||Hilda||Hilda||Eri||Eri||Xerosic's Machinations||Pokémon Center Lady||Bianca's Devotion||Lisia's Appeal||Jumbo Ice Cream||Jumbo Ice Cream||Jumbo Ice Cream||Jumbo Ice Cream||Pokégear 3.0||Pokégear 3.0||Pokégear 3.0||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Ultra Ball||Switch||Hand Trimmer||Hero's Cape||Handheld Fan||Team Rocket's Factory||Community Center||Festival Grounds||Spiky Energy||Spiky Energy||Spiky Energy||Spiky Energy||Growing Grass Energy||Growing Grass Energy||Growing Grass Energy||Growing Grass Energy||Mist Energy||Mist Energy||Mist Energy||Mist Energy||Grass Energy
+---
+tournament_id:- 6a31f1d32d97f3b0c2618251
+player:- GGPotoco
+placing:- 1
+wins:- 4
+losses:- 0
+draws:- 0
+archetype:- Ogerpon Meganium Hydrapple
+decklist:- Teal Mask Ogerpon ex||Teal Mask Ogerpon ex||Teal Mask Ogerpon ex||Teal Mask Ogerpon ex||Chikorita||Chikorita||Bayleef||Bayleef||Meganium||Meganium||Applin||Applin||Dipplin||Dipplin||Hydrapple ex||Hydrapple ex||Tapu Bulu||Meowth ex||Fezandipiti ex||Celebi||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Boss's Orders||Boss's Orders||Briar||Ciphermaniac's Codebreaking||Lana's Aid||Dawn||Team Rocket's Petrel||Ultra Ball||Ultra Ball||Ultra Ball||Ultra Ball||Bug Catching Set||Bug Catching Set||Bug Catching Set||Bug Catching Set||Night Stretcher||Poké Pad||Unfair Stamp||Forest of Vitality||Forest of Vitality||Forest of Vitality||Forest of Vitality||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy
+---
+tournament_id:- 6a31f1d32d97f3b0c2618251
+player:- Airtonbm
+placing:- 2
+wins:- 3
+losses:- 1
+draws:- 0
+archetype:- Dragapult
+decklist:- Dreepy||Dreepy||Dreepy||Dreepy||Drakloak||Drakloak||Drakloak||Drakloak||Dragapult ex||Dragapult ex||Dragapult ex||Munkidori||Munkidori||Budew||Budew||Moltres||Meowth ex||Shaymin||Yveltal||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Boss's Orders||Boss's Orders||Boss's Orders||Crispin||Crispin||Rosa's Encouragement||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Poké Pad||Poké Pad||Poké Pad||Poké Pad||Ultra Ball||Ultra Ball||Ultra Ball||Night Stretcher||Night Stretcher||Special Red Card||Pokégear 3.0||Air Balloon||Hero's Cape||Handheld Fan||Risky Ruins||Risky Ruins||Team Rocket's Watchtower||Psychic Energy||Psychic Energy||Psychic Energy||Psychic Energy||Fire Energy||Fire Energy||Fire Energy||Darkness Energy||Darkness Energy||Darkness Energy
+---
+tournament_id:- 6a31f1d32d97f3b0c2618251
+player:- Juan Andree
+placing:- 3
+wins:- 3
+losses:- 1
+draws:- 0
+archetype:- N's Zoroark
+decklist:- N's Zorua||N's Zorua||N's Zorua||N's Zorua||N's Zoroark ex||N's Zoroark ex||N's Zoroark ex||N's Zoroark ex||N's Zekrom||N's Zekrom||N's Darumaka||N's Darmanitan||Meowth ex||Pecharunt ex||Munkidori||Fezandipiti ex||Budew||Yveltal||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Boss's Orders||Boss's Orders||Boss's Orders||Cyrano||Cyrano||Black Belt's Training||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Transformation Tome||Transformation Tome||Transformation Tome||Transformation Tome||Ultra Ball||Ultra Ball||Ultra Ball||Ultra Ball||N's PP Up||N's PP Up||N's PP Up||Night Stretcher||Night Stretcher||Poké Pad||Poké Pad||Special Red Card||Secret Box||Binding Mochi||Binding Mochi||N's Castle||N's Castle||Darkness Energy||Darkness Energy||Darkness Energy||Darkness Energy||Darkness Energy||Darkness Energy||Darkness Energy
+---
+tournament_id:- 6a31f1d32d97f3b0c2618251
+player:- dgtorres
+placing:- 4
+wins:- 3
+losses:- 1
+draws:- 0
+archetype:- Raging Bolt Ogerpon
+decklist:- Teal Mask Ogerpon ex||Teal Mask Ogerpon ex||Teal Mask Ogerpon ex||Lillie's Clefairy ex||Lillie's Clefairy ex||Raging Bolt ex||Raging Bolt ex||Mega Kangaskhan ex||Mega Kangaskhan ex||Meowth ex||Meowth ex||Latias ex||Latias ex||Passimian||Wellspring Mask Ogerpon ex||Iron Leaves ex||Fezandipiti ex||Chien-Pao||Cornerstone Mask Ogerpon ex||Crispin||Crispin||Crispin||Crispin||Boss's Orders||Boss's Orders||Cyrano||Cyrano||Ciphermaniac's Codebreaking||Team Rocket's Petrel||Ultra Ball||Ultra Ball||Ultra Ball||Energy Switch||Energy Switch||Energy Switch||Night Stretcher||Night Stretcher||Energy Retrieval||Unfair Stamp||Energy Recycler||Special Red Card||Glass Trumpet||Area Zero Underdepths||Area Zero Underdepths||Area Zero Underdepths||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Fighting Energy||Fighting Energy||Fighting Energy||Lightning Energy||Lightning Energy||Psychic Energy||Psychic Energy||Water Energy
+---
+tournament_id:- 6a31f1d32d97f3b0c2618251
+player:- ElDreampirataa
+placing:- 5
+wins:- 2
+losses:- 2
+draws:- 0
+archetype:- Dragapult Dusknoir
+decklist:- Dreepy||Dreepy||Dreepy||Dreepy||Drakloak||Drakloak||Drakloak||Drakloak||Dragapult ex||Dragapult ex||Dragapult ex||Duskull||Duskull||Dusclops||Dusknoir||Meowth ex||Meowth ex||Munkidori||Munkidori||Budew||Budew||Fezandipiti ex||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Boss's Orders||Boss's Orders||Boss's Orders||Crispin||Crispin||Rosa's Encouragement||Team Rocket's Petrel||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Poké Pad||Poké Pad||Poké Pad||Poké Pad||Ultra Ball||Ultra Ball||Ultra Ball||Rare Candy||Rare Candy||Night Stretcher||Night Stretcher||Special Red Card||Unfair Stamp||Risky Ruins||Jamming Tower||Psychic Energy||Psychic Energy||Psychic Energy||Fire Energy||Fire Energy||Fire Energy||Darkness Energy||Darkness Energy
+---
+tournament_id:- 6a31f1d32d97f3b0c2618251
+player:- Fernando Lezana
+placing:- 6
+wins:- 2
+losses:- 2
+draws:- 0
+archetype:- Dragapult Dusknoir
+decklist:- Dreepy||Dreepy||Dreepy||Dreepy||Drakloak||Drakloak||Drakloak||Drakloak||Dragapult ex||Dragapult ex||Dragapult ex||Duskull||Duskull||Dusclops||Dusclops||Dusknoir||Budew||Budew||Meowth ex||Meowth ex||Munkidori||Fezandipiti ex||Shaymin||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Crispin||Crispin||Boss's Orders||Boss's Orders||Rosa's Encouragement||Ultra Ball||Ultra Ball||Ultra Ball||Ultra Ball||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Poké Pad||Poké Pad||Poké Pad||Poké Pad||Night Stretcher||Night Stretcher||Rare Candy||Rare Candy||Unfair Stamp||Special Red Card||Jamming Tower||Jamming Tower||Psychic Energy||Psychic Energy||Psychic Energy||Fire Energy||Fire Energy||Fire Energy||Darkness Energy||Darkness Energy
+---
+tournament_id:- 6a31f1d32d97f3b0c2618251
+player:- BlackRaizer
+placing:- 7
+wins:- 2
+losses:- 2
+draws:- 0
+archetype:- Lucario Hariyama
+decklist:- Riolu||Riolu||Riolu||Riolu||Mega Lucario ex||Mega Lucario ex||Mega Lucario ex||Makuhita||Makuhita||Hariyama||Hariyama||Solrock||Solrock||Lunatone||Lunatone||Meowth ex||Lillie's Determination||Lillie's Determination||Lillie's Determination||Lillie's Determination||Boss's Orders||Boss's Orders||Judge||Judge||Wally's Compassion||Surfer||Team Rocket's Petrel||Carmine||Hilda||Fighting Gong||Fighting Gong||Fighting Gong||Fighting Gong||Premium Power Pro||Premium Power Pro||Premium Power Pro||Premium Power Pro||Poké Pad||Poké Pad||Poké Pad||Ultra Ball||Ultra Ball||Ultra Ball||Switch||Unfair Stamp||Air Balloon||Gravity Mountain||Team Rocket's Watchtower||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||Fighting Energy||Rocky Fighting Energy||Rocky Fighting Energy||Rocky Fighting Energy
+---
+tournament_id:- 6a31f1d32d97f3b0c2618251
+player:- Isacris1306
+placing:- 8
+wins:- 1
+losses:- 3
+draws:- 0
+archetype:- Dragapult
+decklist:- Dreepy||Dreepy||Dreepy||Dreepy||Drakloak||Drakloak||Drakloak||Drakloak||Dragapult ex||Dragapult ex||Dragapult ex||Munkidori||Munkidori||Fezandipiti ex||Lillie's Clefairy ex||Budew||Meowth ex||Lillie's Determination||Lillie's Determination||Lillie's Determination||Boss's Orders||Boss's Orders||Boss's Orders||Crispin||Crispin||Crispin||Xerosic's Machinations||Xerosic's Machinations||Team Rocket's Petrel||Dawn||Night Stretcher||Night Stretcher||Night Stretcher||Night Stretcher||Rare Candy||Rare Candy||Rare Candy||Poké Pad||Poké Pad||Poké Pad||Ultra Ball||Ultra Ball||Ultra Ball||Buddy-Buddy Poffin||Buddy-Buddy Poffin||Crushing Hammer||Crushing Hammer||Hero's Cape||Risky Ruins||Risky Ruins||Risky Ruins||Psychic Energy||Psychic Energy||Psychic Energy||Psychic Energy||Fire Energy||Fire Energy||Fire Energy||Darkness Energy||Darkness Energy
+---
+tournament_id:- 6a31f1d32d97f3b0c2618251
+player:- Kzbb
+placing:- 9
+wins:- 1
+losses:- 3
+draws:- 0
+archetype:- Rocket's Mewtwo
+decklist:- Team Rocket's Tarountula||Team Rocket's Tarountula||Team Rocket's Tarountula||Team Rocket's Tarountula||Team Rocket's Spidops||Team Rocket's Spidops||Team Rocket's Spidops||Team Rocket's Spidops||Team Rocket's Mewtwo ex||Team Rocket's Mewtwo ex||Team Rocket's Articuno||Team Rocket's Articuno||Team Rocket's Mimikyu||Team Rocket's Mimikyu||Lillie's Clefairy ex||Team Rocket's Sneasel||Lillie's Determination||Lillie's Determination||Lillie's Determination||Team Rocket's Giovanni||Team Rocket's Giovanni||Team Rocket's Giovanni||Team Rocket's Ariana||Team Rocket's Ariana||Team Rocket's Ariana||Team Rocket's Proton||Team Rocket's Proton||Team Rocket's Archer||Team Rocket's Archer||Colress's Tenacity||Team Rocket's Petrel||Ultra Ball||Ultra Ball||Ultra Ball||Bug Catching Set||Bug Catching Set||Bug Catching Set||Team Rocket's Transceiver||Team Rocket's Transceiver||Team Rocket's Transceiver||Night Stretcher||Night Stretcher||Energy Switch||Brave Bangle||Brave Bangle||Maximum Belt||Team Rocket's Factory||Team Rocket's Factory||Team Rocket's Factory||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Grass Energy||Team Rocket's Energy||Team Rocket's Energy||Team Rocket's Energy||Team Rocket's Energy||Psychic Energy||Psychic Energy

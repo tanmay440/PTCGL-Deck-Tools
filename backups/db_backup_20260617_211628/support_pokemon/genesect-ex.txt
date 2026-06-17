@@ -1,0 +1,8 @@
+name:- Genesect ex
+type:- Metal
+modifiers:- ex, rule_box
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.02, Metal Energy|0.36, Ultra Ball|0.02, Energy Recycler|0.40, Beldum|0.65, Metang|0.65, Team Rocket's Petrel|0.07, Metagross|0.22, Precious Trolley|0.43, Team Rocket's Transceiver|0.21
+bow_drivers:- high_damage, search, deck, put
+anti_meta:- Dragapult Blaziken|1.00, Hop's Trevenant|1.00, Beedrill|1.00, Manectric Eelektrik|1.00, Other|1.00, Ogerpon Meganium Arboliva|1.00, Raging Bolt Ogerpon|1.00, Okidogi Barbaracle|1.00, N's Zoroark|1.00

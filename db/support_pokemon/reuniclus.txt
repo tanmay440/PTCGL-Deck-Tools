@@ -1,0 +1,8 @@
+name:- Reuniclus
+type:- Psychic
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Colress's Tenacity|0.00, Lillie's Determination|0.00, Psychic Energy|0.00, Team Rocket's Petrel|0.00, Ultra Ball|0.00, Academy at Night|0.00, Blaziken ex|0.00, Cinderace|0.00, Ciphermaniac's Codebreaking|0.00
+bow_drivers:- search, deck, cost_colorless, put
+anti_meta:- N/A

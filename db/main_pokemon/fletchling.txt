@@ -1,0 +1,8 @@
+name:- Fletchling
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.01, Boss's Orders|0.00, Bubbly Water Energy|0.28, Buddy-Buddy Poffin|0.00, Budew|0.01, Dawn|0.01, Drakloak|0.01, Dreepy|0.01, Drilbur|0.18, Fan Rotom|0.04
+bow_drivers:- opponent, switch, bench, cost_colorless
+anti_meta:- N/A

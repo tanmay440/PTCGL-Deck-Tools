@@ -1,0 +1,10 @@
+label:- UNLABELED
+members:- Teal Mask Ogerpon ex, Night Stretcher, Ultra Ball, Boss's Orders, Grass Energy
+roles:- support_pokemon, trainer, trainer, trainer, energy
+avg_score:- 86.8
+bow_drivers:- attach, deck, discard
+appears_in:- Basic Box|1.00, Ogerpon Meganium|1.00, Mega Venusaur|1.00, Ogerpon Meganium Arboliva|1.00
+anti_meta:- Mega Lucario|1.00, Slowking|1.00, Hop's Zacian|1.00
+decklist_appearances:- 374
+properties:- N/A
+notes:- N/A

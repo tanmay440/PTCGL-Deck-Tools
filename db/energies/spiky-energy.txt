@@ -1,0 +1,8 @@
+name:- Spiky Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.03, Pokégear 3.0|0.13, Buddy-Buddy Poffin|0.04, Boss's Orders|0.03, Hilda|0.10, Mist Energy|0.28, Hero's Cape|0.23, Jumbo Ice Cream|0.47, Team Rocket's Petrel|0.08, Xerosic's Machinations|0.26
+bow_drivers:- energy, attack, opponent, put
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Lillie's Clefairy|1.00, Cynthia's Garchomp|1.00, Lopunny Dudunsparce|1.00, Metagross|1.00, Ogerpon Meganium Hydrapple|1.00

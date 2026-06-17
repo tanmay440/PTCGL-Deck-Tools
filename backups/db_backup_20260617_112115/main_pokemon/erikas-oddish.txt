@@ -1,0 +1,8 @@
+name:- Erika's Oddish
+type:- Grass
+modifiers:- Erika's
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.00, Ultra Ball|0.00, Boss's Orders|0.00, Fezandipiti ex|0.00, Secret Box|0.02, Special Red Card|0.00, Erika's Gloom|0.81, Erika's Vileplume ex|0.81, Forest of Vitality|0.02, Dawn|0.01
+bow_drivers:- damage, cost_grass
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Zacian
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Hilda|0.00, Judge|0.01, Lillie's Determination|0.00, Munkidori|0.00, Mystery Garden|0.10, Night Stretcher|0.00, Poké Pad|0.00, Psychic Energy|0.00, Rare Candy|0.00
+bow_drivers:- opponent, prize, attack, damage
+anti_meta:- N/A

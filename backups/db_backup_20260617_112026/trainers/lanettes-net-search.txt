@@ -1,0 +1,8 @@
+name:- Lanette's Net Search
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Gardevoir|0.37, Gardevoir ex|0.32, Giant Stump|0.95, Holon Adventurer|0.49, Holon Mentor|0.49, Holon Researcher|0.91, Holon Scientist|0.49, Holon Transceiver|0.49, Holon's Castform|0.87, Jirachi|0.53
+bow_drivers:- discard, search, put, deck
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

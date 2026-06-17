@@ -1,0 +1,8 @@
+name:- Earthen Vessel
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.28, Buddy-Buddy Poffin|0.03, Ultra Ball|0.02, Iono|0.28, Counter Catcher|0.66, Psychic Energy|0.03, Super Rod|0.42, Budew|0.03, Nest Ball|0.20, Night Stretcher|0.01
+bow_drivers:- discard, search, hand, deck
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Poké Vital A
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Cinderace|0.01, Crispin|0.00, Dragonair|0.02, Dratini|0.02, Energy Search|0.00, Enhanced Hammer|0.00, Judge|0.00, Levincia|0.02, Lightning Energy|0.00
+bow_drivers:- discard, deck, heal, damage
+anti_meta:- N/A

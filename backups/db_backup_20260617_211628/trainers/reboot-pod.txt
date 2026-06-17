@@ -1,0 +1,8 @@
+name:- Reboot Pod
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Crispin|0.01, Iron Crown ex|0.21, Lillie's Determination|0.00, Miraidon|0.29, Pokégear 3.0|0.02, Psychic Energy|0.01, Ultra Ball|0.00, Air Balloon|0.01, Lightning Energy|0.04, Boss's Orders|0.00
+bow_drivers:- energy_acceleration, discard, attach, energy
+anti_meta:- Future Thorns|1.00

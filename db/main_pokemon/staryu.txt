@@ -1,0 +1,8 @@
+name:- Staryu
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Water Energy|0.24, Boss's Orders|0.05, Mega Starmie ex|0.99, Lillie's Determination|0.05, Hilda|0.17, Poké Pad|0.04, Buddy-Buddy Poffin|0.06, Ultra Ball|0.04, Night Stretcher|0.04, Meowth ex|0.06
+bow_drivers:- opponent, cost_water
+anti_meta:- Doublade|1.00, Mega Starmie|1.00, Dragapult|1.00, Festival Lead|1.00, Lillie's Clefairy|1.00, N's Zoroark|1.00, Rocket's Mewtwo|1.00, Archaludon|1.00, Mega Greninja|1.00, Cynthia's Garchomp|1.00, Alakazam Dudunsparce|1.00, Blaziken|1.00, Okidogi Barbaracle|1.00, Dragapult Dusknoir|1.00

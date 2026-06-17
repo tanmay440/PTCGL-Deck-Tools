@@ -1,0 +1,8 @@
+name:- Enriching Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.07, Buddy-Buddy Poffin|0.09, Hilda|0.25, Poké Pad|0.07, Dudunsparce|0.30, Dunsparce|0.30, Abra|0.89, Dawn|0.16, Sacred Ash|0.50, Rare Candy|0.16
+bow_drivers:- energy_acceleration, draw, energy, attach
+anti_meta:- Metagross|1.00, Starmie Dusknoir|1.00, Joltik Box|1.00, Toxtricity|1.00, Beedrill|1.00, Cynthia's Garchomp|1.00, Hop's Trevenant|1.00, Dragapult|1.00

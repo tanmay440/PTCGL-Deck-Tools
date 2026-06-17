@@ -1,0 +1,8 @@
+name:- Buddy-Buddy Poffin
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.69, Poké Pad|0.69, Night Stretcher|0.63, Lillie's Determination|0.65, Ultra Ball|0.60, Fezandipiti ex|0.61, Special Red Card|0.60, Budew|0.54, Meowth ex|0.53, Darkness Energy|0.49
+bow_drivers:- search, deck, hp, put
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00, Mega Venusaur|1.00, Ceruledge|1.00, Dragapult|1.00, Archaludon|1.00, Mega Lucario|1.00, Slowking|1.00, Ogerpon Meganium|1.00, Raging Bolt Ogerpon|1.00, Other|1.00, Alakazam Dudunsparce|1.00, Dragapult Dusknoir|1.00, Mega Greninja|1.00, Steven's Metagross|1.00, Metagross|1.00, Beedrill|1.00, Ursaluna Lunatone|1.00, Froslass Dudunsparce|1.00, Ethan's Typhlosion|1.00, Rocket's Spidops|1.00, Ogerpon Meganium Hydrapple|1.00, Dragapult Dudunsparce|1.00, Lopunny Dusknoir|1.00, Mega Manectric|1.00, Hop's Trevenant|1.00, Starmie Dusknoir|1.00, Manectric Eelektrik|1.00, Doublade|1.00, Mega Starmie|1.00, Lillie's Clefairy|1.00, Rocket's Mewtwo|1.00, Joltik Box|1.00, Toxtricity|1.00, Cynthia's Garchomp|1.00, Rocket's Honchkrow|1.00, Dragapult Blaziken|1.00, Ogerpon Meganium Arboliva|1.00, Blaziken|1.00, Okidogi Barbaracle|1.00, Kangaskhan Bouffalant|1.00, Miraidon ex / Sandy Shocks|0.88, Charizard ex / Pidgeot ex|0.72, Gardevoir ex / Drifloon|0.68

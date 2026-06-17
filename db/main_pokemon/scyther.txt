@@ -1,0 +1,8 @@
+name:- Scyther
+type:- Grass
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Metal Energy|0.01, Scizor ex|1.00, Boost Energy|0.26, Copycat|0.58, Cursed Stone|0.16, Cyclone Energy|0.06, Dark Metal Energy|0.28, Energy Removal 2|0.17, Pokémon Reversal|0.58, Rocket's Admin.|0.03
+bow_drivers:- cost_colorless
+anti_meta:- N/A

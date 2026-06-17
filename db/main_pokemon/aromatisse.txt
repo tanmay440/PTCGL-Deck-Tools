@@ -1,0 +1,8 @@
+name:- Aromatisse
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Hilda|0.00, Lillie's Determination|0.00, Mystery Garden|0.01, Poké Pad|0.00, Psychic Energy|0.00, Spritzee|1.00, Telepathic Psychic Energy|0.00, Clefable|0.65, Clefairy|0.09
+bow_drivers:- opponent, cost_psychic, cost_colorless
+anti_meta:- N/A

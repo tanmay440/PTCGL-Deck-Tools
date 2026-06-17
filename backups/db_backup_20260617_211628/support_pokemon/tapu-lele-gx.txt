@@ -1,0 +1,8 @@
+name:- Tapu Lele-GX
+type:- Psychic
+modifiers:- gx, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Battle Compressor|0.36, Guzma|0.07, VS Seeker|0.07, Field Blower|0.08, Iono|0.06, Professor Juniper|0.86, Rescue Stretcher|0.09, Float Stone|0.07, Mysterious Treasure|0.35, N|0.13
+bow_drivers:- search, hand, deck, bench
+anti_meta:- N/A

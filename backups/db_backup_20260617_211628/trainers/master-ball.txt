@@ -1,0 +1,8 @@
+name:- Master Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Grass Energy|0.01, Lightning Energy|0.03, Boost Energy|0.51, Cyclone Energy|0.33, Delcatty|0.39, Delcatty ex|0.51, Electrode ex|0.32, Girafarig|0.40, Great Ball|0.51, Holon Energy GL|0.51
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Magnetic Storm
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Psychic Energy|0.00, Rocket's Admin.|0.01, Windstorm|0.01, Castaway|0.02, Cessation Crystal|0.02, Cyclone Energy|0.01, Double Rainbow Energy|0.06, Electrode ex|0.01, Exeggcute|0.10, Exeggutor|0.10
+bow_drivers:- discard, resistance, zero_damage, zero_retreat
+anti_meta:- N/A

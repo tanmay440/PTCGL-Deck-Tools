@@ -1,0 +1,8 @@
+name:- Wally
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Field Blower|0.13, Guzma|0.10, Iono|0.09, Legacy Energy|0.09, VS Seeker|0.09, Buddy-Buddy Poffin|0.01, Budew|0.01, Capacious Bucket|0.50, Dive Ball|0.60, Drizzile|0.60
+bow_drivers:- damage, heal, put, energy
+anti_meta:- N/A

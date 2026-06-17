@@ -1,0 +1,8 @@
+name:- Archaludon ex
+type:- Metal
+modifiers:- ex, rule_box
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.02, Duraludon|0.95, Lillie's Determination|0.02, Metal Energy|0.25, Night Stretcher|0.02, Poké Pad|0.02, Ultra Ball|0.02, Relicanth|0.67, Mega Mawile ex|0.89, Special Red Card|0.03
+bow_drivers:- energy_acceleration, high_damage, discard, hand
+anti_meta:- Dragapult Blaziken|1.00, Ethan's Typhlosion|1.00

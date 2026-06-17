@@ -1,0 +1,8 @@
+name:- U-Turn Board
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.51, VS Seeker|0.50, Field Blower|0.62, Evolution Incense|0.73, Iono|0.45, Night Stretcher|0.03, Hisuian Heavy Ball|0.55, Buddy-Buddy Poffin|0.03, Ultra Ball|0.03, Rescue Stretcher|0.57
+bow_drivers:- energy_acceleration, discard, attach, put
+anti_meta:- N/A

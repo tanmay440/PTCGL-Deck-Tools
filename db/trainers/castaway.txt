@@ -1,0 +1,8 @@
+name:- Castaway
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Stantler|0.42, Lightning Energy|0.03, Balloon Berry|0.92, Rayquaza ex|0.36, Lanette's Net Search|0.26, Scott|0.73, Mr. Briney's Compassion|0.68, Psychic Energy|0.00, Groudon ex|0.66, Pokémon Retriever|0.13
+bow_drivers:- discard, search, put, deck
+anti_meta:- N/A

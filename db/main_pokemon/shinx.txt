@@ -1,0 +1,8 @@
+name:- Shinx
+type:- Lightning
+modifiers:- N/A
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Battle Cage|0.04, Boss's Orders|0.00, Buddy-Buddy Poffin|0.01, Lightning Energy|0.05, Lillie's Determination|0.00, Luxio|1.00, Ultra Ball|0.00, Canari|0.46, Eelektrik|0.47, Poké Pad|0.00
+bow_drivers:- cost_lightning, opponent, hand, cost_colorless
+anti_meta:- N/A

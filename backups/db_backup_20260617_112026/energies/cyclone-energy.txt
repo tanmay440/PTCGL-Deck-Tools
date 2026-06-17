@@ -1,0 +1,8 @@
+name:- Cyclone Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.30, Warp Energy|0.17, TV Reporter|0.59, Pow! Hand Extension|0.25, Windstorm|0.24, Warp Point|0.12, Holon Adventurer|0.20, Holon Mentor|0.20, Holon Scientist|0.20, Holon Transceiver|0.20
+bow_drivers:- energy_acceleration, energy, switch, opponent
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

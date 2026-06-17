@@ -1,0 +1,8 @@
+name:- Jacinthe
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Psychic Energy|0.01, Poké Pad|0.01, Night Stretcher|0.01, Lillie's Determination|0.01, Jumbo Ice Cream|0.10, Hero's Cape|0.05, Buddy-Buddy Poffin|0.01, Hilda|0.02, Handheld Fan|0.05
+bow_drivers:- heal, damage, zero_damage, zero_retreat
+anti_meta:- N/A

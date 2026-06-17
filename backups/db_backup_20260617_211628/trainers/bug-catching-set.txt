@@ -1,0 +1,8 @@
+name:- Bug Catching Set
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Grass Energy|0.59, Lillie's Determination|0.15, Night Stretcher|0.14, Boss's Orders|0.14, Ultra Ball|0.11, Poké Pad|0.10, Forest of Vitality|0.65, Lana's Aid|0.43, Dawn|0.27, Meowth ex|0.14
+bow_drivers:- deck, look, energy, put
+anti_meta:- Mega Lucario|1.00, Slowking|1.00, Hop's Zacian|1.00, Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Greninja|1.00, Decidueye|1.00, Ethan's Typhlosion|1.00, Raging Bolt Ogerpon|1.00, N's Zoroark|1.00, Alakazam Dudunsparce|1.00, Ursaluna Lunatone|1.00, Starmie Dusknoir|1.00, Ogerpon Meganium|1.00, Manectric Eelektrik|1.00, Lillie's Clefairy|1.00, Starmie Froslass|1.00, Hop's Trevenant|1.00, Other|1.00, Rocket's Honchkrow|1.00

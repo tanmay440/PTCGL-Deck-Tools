@@ -1,0 +1,8 @@
+name:- Cofagrigus
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Fezandipiti ex|0.01, Latias ex|0.02, Lillie's Determination|0.00, Mega Kangaskhan ex|0.02, Night Stretcher|0.00, Poké Pad|0.00, Psychic Energy|0.01, Telepathic Psychic Energy|0.02, Ultra Ball|0.00, Wondrous Patch|0.03
+bow_drivers:- cost_colorless, opponent, cost_psychic, damage
+anti_meta:- N/A

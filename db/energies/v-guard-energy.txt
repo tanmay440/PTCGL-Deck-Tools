@@ -1,0 +1,8 @@
+name:- V Guard Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.01, Battle Compressor|0.09, Blissey V|1.00, Bouffalant|0.19, Bravery Charm|0.20, Double Colorless Energy|0.07, Faba|0.14, Fan Rotom|0.01, Field Blower|0.02, Float Stone|0.02
+bow_drivers:- energy, damage, opponent, weakness
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Regigigas LV.X
+type:- Colorless
+modifiers:- N/A
+type_requirement:- Fighting, Metal, Water
+properties:- N/A
+commonly_found_with:- Azelf|0.08, Bebe's Search|0.08, Call Energy|0.10, Crobat G|0.16, Dialga G|0.37, Dialga G LV.X|0.37, Expert Belt|0.08, Felicity's Drawing|0.33, Fighting Energy|0.01, Giratina|0.39
+bow_drivers:- discard, energy_acceleration, high_damage, search
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Lucario GL
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Aaron's Collection|0.73, Bebe's Search|0.22, Bronzong G|0.73, Crobat G|0.45, Cyrus's Conspiracy|0.63, Lightning Energy|0.03, Luxray GL|0.77, Luxray GL LV.X|0.77, Premier Ball|0.69, Psychic Energy|0.00
+bow_drivers:- weakness, opponent, damage, cost_colorless
+anti_meta:- Gyarados|1.00

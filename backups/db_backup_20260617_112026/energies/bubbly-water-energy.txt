@@ -1,0 +1,8 @@
+name:- Bubbly Water Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Buddy-Buddy Poffin|0.01, Water Energy|0.05, Night Stretcher|0.01, Lillie's Determination|0.01, Hilda|0.03, Poké Pad|0.01, Air Balloon|0.02, Pokégear 3.0|0.03, Ultra Ball|0.01
+bow_drivers:- energy, zero_damage, zero_retreat
+anti_meta:- Alakazam Dudunsparce|1.00, Blaziken|1.00, Dragapult Dudunsparce|1.00, Kangaskhan Bouffalant|1.00

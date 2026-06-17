@@ -1,0 +1,8 @@
+name:- Call Bell
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Pokégear 3.0|0.00, Wally's Compassion|0.00, Energy Search|0.01, Hilda|0.00, Ignition Energy|0.01, Larry's Skill|0.02, Mega Froslass ex|0.01
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

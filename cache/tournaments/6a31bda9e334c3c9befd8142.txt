@@ -1,0 +1,7 @@
+game:- PTCG
+name:- Torneo Sidedeck Online Gratuito 16 Junio
+date:- 2026-06-17T00:00:00.000Z
+format:- STANDARD
+id:- 6a31bda9e334c3c9befd8142
+players:- 50
+organizerId:- 2306

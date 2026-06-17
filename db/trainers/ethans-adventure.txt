@@ -1,0 +1,8 @@
+name:- Ethan's Adventure
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Ethan's Cyndaquil|1.00, Ethan's Quilava|1.00, Ethan's Typhlosion|1.00, Fire Energy|0.04, Lillie's Determination|0.01, Poké Pad|0.01, Ultra Ball|0.01, Buddy-Buddy Poffin|0.02, Rare Candy|0.04
+bow_drivers:- search, deck, energy, put
+anti_meta:- Rocket's Honchkrow|1.00, Rocket's Mewtwo|1.00, Dragapult Blaziken|1.00

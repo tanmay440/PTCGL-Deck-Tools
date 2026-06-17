@@ -1,0 +1,8 @@
+name:- Karen
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Acro Bike|0.47, Boost Shake|0.91, Chaotic Swell|0.71, Double Colorless Energy|0.28, Fog Crystal|0.23, Frillish|0.27, Grabber|1.00, Guzma|0.06, Jellicent ex|0.42, Lillie's Determination|0.00
+bow_drivers:- opponent, damage, prize, weakness
+anti_meta:- N/A

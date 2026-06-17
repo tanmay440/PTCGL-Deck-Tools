@@ -1,0 +1,8 @@
+name:- Team Rocket's Honchkrow
+type:- Darkness
+modifiers:- Team Rocket's
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Ignition Energy|0.33, Poké Pad|0.04, Roto-Stick|0.99, Team Rocket's Archer|0.77, Team Rocket's Ariana|0.72, Team Rocket's Energy|0.67, Team Rocket's Factory|0.46, Team Rocket's Giovanni|0.72, Team Rocket's Murkrow|0.98, Team Rocket's Petrel|0.15
+bow_drivers:- high_damage, discard, cost_colorless, hand
+anti_meta:- Kangaskhan Bouffalant|1.00, Dragapult Blaziken|1.00, Crustle|1.00, Grimmsnarl Froslass|1.00, Dragapult|0.67

@@ -1,0 +1,8 @@
+name:- Greninja
+type:- Water
+modifiers:- ex, mega, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Antique Cover Fossil|0.99, Arven|0.02, Ball Guy|0.08, Battle Compressor|0.13, Buddy-Buddy Poffin|0.00, Capacious Bucket|0.17, Chaotic Swell|0.24, Dive Ball|0.20, Drizzile|0.20, Earthen Vessel|0.08
+bow_drivers:- high_damage, discard, energy, hand
+anti_meta:- N/A

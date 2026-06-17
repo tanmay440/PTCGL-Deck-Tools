@@ -1,0 +1,8 @@
+name:- N's Darumaka
+type:- Fire
+modifiers:- N's
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.05, Lillie's Determination|0.04, N's Darmanitan|1.00, Night Stretcher|0.04, Poké Pad|0.04, Ultra Ball|0.04, Boss's Orders|0.04, Cyrano|0.29, Darkness Energy|0.09, N's Castle|0.74
+bow_drivers:- cost_colorless, cost_fire
+anti_meta:- Raging Bolt Ogerpon|1.00, Froslass Dudunsparce|1.00, Ethan's Typhlosion|1.00, Rocket's Spidops|1.00, Slowking|1.00, Mega Greninja|1.00, Alakazam Dudunsparce|0.67, Dragapult Dusknoir|0.67

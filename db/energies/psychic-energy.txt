@@ -1,0 +1,8 @@
+name:- Psychic Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.48, Ultra Ball|0.48, Poké Pad|0.46, Fezandipiti ex|0.62, Lillie's Determination|0.44, Boss's Orders|0.43, Meowth ex|0.57, Buddy-Buddy Poffin|0.48, Crispin|0.63, Darkness Energy|0.53
+bow_drivers:- zero_damage, zero_retreat
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00, Mega Venusaur|1.00, Ceruledge|1.00, Dragapult|1.00, Mega Greninja|1.00, Raging Bolt Ogerpon|1.00, Other|1.00, Dragapult Dusknoir|1.00, Steven's Metagross|1.00, Metagross|1.00, Beedrill|1.00, Ursaluna Lunatone|1.00, Mega Lucario|1.00, Ogerpon Meganium|1.00, Lucario Hariyama|1.00, Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Starmie Froslass|1.00, Ogerpon Meganium Hydrapple|1.00, Alakazam Dudunsparce|1.00, Ethan's Typhlosion|1.00, Dragapult Dudunsparce|1.00, Lopunny Dusknoir|1.00, Mega Froslass|1.00, Rocket's Spidops|1.00, Decidueye|1.00, Hop's Zacian|1.00, Okidogi Barbaracle|1.00, Sylveon|1.00, Greninja|1.00, Basic Box|1.00, Starmie Dusknoir|1.00, Joltik Box|1.00, Toxtricity|1.00, Cynthia's Garchomp|1.00, Hop's Trevenant|1.00, Mega Charizard X|1.00, Slowking|1.00, Gyarados|1.00, Future Thorns|1.00

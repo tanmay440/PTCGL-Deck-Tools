@@ -1,0 +1,8 @@
+name:- Warp Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Warp Point|0.78, Rare Candy|0.04, Gardevoir|0.63, Kirlia|0.37, Ralts|0.37, Psychic Energy|0.02, Rocket's Admin.|0.54, Holon Adventurer|0.58, Holon Mentor|0.58, Holon Transceiver|0.58
+bow_drivers:- energy_acceleration, energy, attach, hand
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

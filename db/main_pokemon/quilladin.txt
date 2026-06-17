@@ -1,0 +1,8 @@
+name:- Quilladin
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Bayleef|0.00, Boss's Orders|0.00, Bug Catching Set|0.00, Celebi|0.00, Chesnaught|1.00, Chespin|1.00, Chikorita|0.00, Dawn|0.00, Energy Switch|0.00
+bow_drivers:- energy_acceleration, search, cost_grass, deck
+anti_meta:- Hydreigon|1.00

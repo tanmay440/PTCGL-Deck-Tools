@@ -1,0 +1,8 @@
+name:- Nidorina
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Nidoqueen|0.94, Nidoran ♀|0.94, Rare Candy|0.00, Warp Energy|0.04, Azelf|0.06, Baltoy|0.06, Bebe's Search|0.05, Call Energy|0.07, Claydol|0.07, Dusknoir|0.01
+bow_drivers:- search, cost_darkness, deck, put
+anti_meta:- Bombtar|1.00

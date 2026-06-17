@@ -1,0 +1,8 @@
+name:- Team Flare Grunt
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.15, Lillie's Determination|0.01, VS Seeker|0.14, Trainers' Mail|0.31, Double Colorless Energy|0.46, Megaton Blower|0.68, Stealthy Hood|0.45, Faba|0.53, Nest Ball|0.09, Lusamine|0.39
+bow_drivers:- discard, energy, opponent, attack
+anti_meta:- N/A

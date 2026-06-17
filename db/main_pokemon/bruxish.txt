@@ -1,0 +1,8 @@
+name:- Bruxish
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Brock's Scouting|0.00, Bubbly Water Energy|0.00, Colress's Tenacity|0.00, Cook|0.04, Deluxe Bomb|0.03, Drayton|0.14, Dusk Ball|0.00, Great Haul Net|0.00, Lillie's Determination|0.00, Lisia's Appeal|0.00
+bow_drivers:- opponent, attack, put, damage
+anti_meta:- N/A

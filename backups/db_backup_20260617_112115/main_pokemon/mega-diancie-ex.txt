@@ -1,0 +1,8 @@
+name:- Mega Diancie ex
+type:- Psychic
+modifiers:- ex, mega, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Lillie's Determination|0.01, Psychic Energy|0.02, Latias ex|0.06, Lillie's Clefairy ex|0.04, Wondrous Patch|0.10, Judge|0.04, Telepathic Psychic Energy|0.05, Night Stretcher|0.01, Ultra Ball|0.01
+bow_drivers:- high_damage, discard, damage, weakness
+anti_meta:- N/A

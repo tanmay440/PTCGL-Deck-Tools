@@ -1,0 +1,8 @@
+name:- Ethan's Quilava
+type:- Fire
+modifiers:- Ethan's
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Buddy-Buddy Poffin|0.02, Ethan's Adventure|1.00, Ethan's Cyndaquil|1.00, Ethan's Typhlosion|1.00, Fire Energy|0.05, Lillie's Determination|0.02, Poké Pad|0.02, Rare Candy|0.04, Shaymin|0.04
+bow_drivers:- search, deck, put, hand
+anti_meta:- Rocket's Honchkrow|1.00, Rocket's Mewtwo|1.00, Dragapult Blaziken|1.00

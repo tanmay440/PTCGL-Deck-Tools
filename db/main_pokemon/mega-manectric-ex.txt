@@ -1,0 +1,8 @@
+name:- Mega Manectric ex
+type:- Lightning
+modifiers:- ex, mega, rule_box
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.01, Electrike|0.99, Lightning Energy|0.05, Lillie's Determination|0.00, Ultra Ball|0.00, Canari|0.53, Eelektrik|0.53, Tynamo|0.53, Air Balloon|0.01
+bow_drivers:- high_damage, discard, cost_lightning, opponent
+anti_meta:- Steven's Metagross|1.00, N's Zoroark|1.00

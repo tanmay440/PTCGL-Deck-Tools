@@ -1,0 +1,8 @@
+name:- Festival Grounds
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.05, Boss's Orders|0.04, Grass Energy|0.17, Buddy-Buddy Poffin|0.06, Applin|0.48, Dipplin|0.48, Bug Catching Set|0.25, Night Stretcher|0.04, Poké Pad|0.04, Grookey|0.79
+bow_drivers:- discard, energy, opponent, put
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Slowking|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Ethan's Typhlosion|1.00, Raging Bolt Ogerpon|1.00, N's Zoroark|1.00, Alakazam Dudunsparce|1.00, Ursaluna Lunatone|1.00

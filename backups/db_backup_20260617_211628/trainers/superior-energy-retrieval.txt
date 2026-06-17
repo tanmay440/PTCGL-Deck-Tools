@@ -1,0 +1,8 @@
+name:- Superior Energy Retrieval
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Chien-Pao ex|0.91, Baxcalibur|0.88, Frigibax|0.76
+bow_drivers:- discard, energy, retrieve
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Glass Trumpet
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Area Zero Underdepths|0.41, Crispin|0.11, Grass Energy|0.17, Lightning Energy|0.51, Ultra Ball|0.04, Fezandipiti ex|0.06, Latias ex|0.21, Night Stretcher|0.04, Fighting Energy|0.20, Boss's Orders|0.04
+bow_drivers:- energy_acceleration, discard, attach, energy
+anti_meta:- Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Lucario Hariyama|1.00, Metagross|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Mega Greninja|1.00, Alakazam Dudunsparce|1.00, Dragapult Dusknoir|0.83

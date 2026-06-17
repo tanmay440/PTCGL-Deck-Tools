@@ -1,0 +1,8 @@
+name:- Spiritomb
+type:- Darkness
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Luxury Ball|0.58, VS Seeker|0.12, Darkness Energy|0.02, Arven|0.10, Guzma|0.12, Hisuian Heavy Ball|0.14, Iono|0.11, Nest Ball|0.14, Bebe's Search|0.50, Roseanne's Research|0.50
+bow_drivers:- damage, attack, weakness, cost_colorless
+anti_meta:- N/A

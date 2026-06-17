@@ -1,0 +1,8 @@
+name:- Hugh
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.01, Budew|0.01, Capacious Bucket|0.50, Dive Ball|0.60, Drizzile|0.60, Evolution Incense|0.12, Field Blower|0.10, Forest Seal Stone|0.22, Guzma|0.07, Inteleon|0.60
+bow_drivers:- discard, hand, opponent, attack
+anti_meta:- N/A

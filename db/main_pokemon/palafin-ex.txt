@@ -1,0 +1,8 @@
+name:- Palafin ex
+type:- Water
+modifiers:- ex, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Finizen|0.59, Lillie's Determination|0.00, Palafin|0.59, Poké Pad|0.00, Ultra Ball|0.00, Water Energy|0.01, Air Balloon|0.01, Surfing Beach|0.04
+bow_drivers:- high_damage, put, attack, opponent
+anti_meta:- N/A

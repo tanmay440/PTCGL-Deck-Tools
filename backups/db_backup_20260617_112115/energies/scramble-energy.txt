@@ -1,0 +1,8 @@
+name:- Scramble Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.40, Pow! Hand Extension|0.43, Windstorm|0.41, Electrode ex|0.83, Voltorb|0.83, Holon Adventurer|0.31, Holon Mentor|0.31, Holon Scientist|0.31, Holon Transceiver|0.31, Steven's Advice|0.61
+bow_drivers:- energy, discard, prize, opponent
+anti_meta:- N/A

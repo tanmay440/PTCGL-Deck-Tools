@@ -1,0 +1,8 @@
+name:- Pidgeot ex
+type:- Colorless
+modifiers:- ex, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.06, Buddy-Buddy Poffin|0.01, Pidgey|0.22, Rare Candy|0.01, Battle Compressor|0.19, Blend Energy GRPD|0.50, Canceling Cologne|0.50, Colress's Tenacity|0.03, Counter Energy|0.17, Counter Gain|0.19
+bow_drivers:- search, high_damage, deck, discard
+anti_meta:- Gardevoir ex / Drifloon|0.68

@@ -1,0 +1,8 @@
+name:- Korrina
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.08, Brooklet Hill|0.73, Evolution Incense|0.16, Float Stone|0.15, Guzma|0.10, Iono|0.09, Rare Candy|0.02, Ultra Ball|0.01, VS Seeker|0.09, Aurora Energy|0.75
+bow_drivers:- draw, hand, zero_damage, zero_retreat
+anti_meta:- N/A

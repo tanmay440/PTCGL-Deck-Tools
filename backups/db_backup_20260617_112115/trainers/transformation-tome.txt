@@ -1,0 +1,8 @@
+name:- Transformation Tome
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.03, Darkness Energy|0.07, Lillie's Determination|0.03, Munkidori|0.08, Night Stretcher|0.03, Ultra Ball|0.03, Special Red Card|0.05, Poké Pad|0.03, Fezandipiti ex|0.04, Cyrano|0.23
+bow_drivers:- discard, switch, damage, zero_damage
+anti_meta:- Raging Bolt Ogerpon|1.00, Froslass Dudunsparce|1.00, Ethan's Typhlosion|1.00, Rocket's Spidops|1.00, Slowking|1.00, Mega Greninja|1.00, Alakazam Dudunsparce|0.67, Dragapult Dusknoir|0.67, Dragapult|0.58

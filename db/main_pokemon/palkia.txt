@@ -1,0 +1,8 @@
+name:- Palkia
+type:- Dragon
+modifiers:- N/A
+type_requirement:- Grass, Water
+properties:- N/A
+commonly_found_with:- Water Energy|0.01, Azelf|0.09, Bebe's Search|0.08, Call Energy|0.11, Fighting Energy|0.00, Luxury Ball|0.05, Night Maintenance|0.11, Palkia LV.X|0.67, Premier Ball|0.27, Roseanne's Research|0.08
+bow_drivers:- attack, damage, energy, cost_grass
+anti_meta:- N/A

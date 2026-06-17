@@ -1,0 +1,8 @@
+name:- Team Rocket's Meowth
+type:- Colorless
+modifiers:- Team Rocket's
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Team Rocket's Energy|0.00, Team Rocket's Persian ex|1.00, Hilda|0.00, Lillie's Determination|0.00, Night Stretcher|0.00, Team Rocket's Archer|0.00, Team Rocket's Ariana|0.00, Team Rocket's Factory|0.00, Team Rocket's Giovanni|0.00, Team Rocket's Petrel|0.00
+bow_drivers:- cost_colorless, opponent, hand, deck
+anti_meta:- N/A

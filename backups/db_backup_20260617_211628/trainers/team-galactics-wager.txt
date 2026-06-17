@@ -1,0 +1,8 @@
+name:- Team Galactic's Wager
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Azelf|0.54, Bebe's Search|0.50, Psychic Energy|0.01, Roseanne's Research|0.50, Uxie|0.48, Call Energy|0.65, Baltoy|0.51, Claydol|0.58, Dusknoir|0.07, Duskull|0.07
+bow_drivers:- discard, draw, put, hand
+anti_meta:- N/A

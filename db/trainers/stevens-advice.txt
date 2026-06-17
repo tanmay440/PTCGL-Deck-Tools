@@ -1,0 +1,8 @@
+name:- Steven's Advice
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.36, Holon Mentor|0.32, Holon Adventurer|0.32, Holon Scientist|0.33, Holon Transceiver|0.32, Warp Point|0.23, Pokémon Retriever|0.29, Pow! Hand Extension|0.25, Windstorm|0.25, Jirachi|0.28
+bow_drivers:- discard, draw, put, opponent
+anti_meta:- Flygon δ|1.00, Bombtar|1.00, Scizor|1.00

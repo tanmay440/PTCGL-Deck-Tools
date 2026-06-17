@@ -1,0 +1,8 @@
+name:- Great Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.08, Windstorm|0.09, Cyclone Energy|0.18, Electrode ex|0.24, Lightning Energy|0.02, Pow! Hand Extension|0.09, Scramble Energy|0.23, Voltorb|0.24, Grass Energy|0.01, Master Ball|0.55
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Holon's Magneton
+type:- Metal
+modifiers:- Holon's
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Arven|0.03, Battle Compressor|0.19, Blend Energy GRPD|1.00, Buddy-Buddy Poffin|0.00, Canceling Cologne|0.76, Colress's Tenacity|0.03, Counter Energy|0.17, Counter Gain|0.19, Dark Patch|0.37, Darkness Energy|0.01
+bow_drivers:- energy_acceleration, energy, damage, attach
+anti_meta:- N/A

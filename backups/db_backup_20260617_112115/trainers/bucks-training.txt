@@ -1,0 +1,8 @@
+name:- Buck's Training
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Azelf|0.01, Bebe's Search|0.01, Broken Time-Space|0.10, Combee|0.53, Crobat G|0.02, Cyclone Energy|0.04, Cynthia's Feelings|0.06, Darkness Energy|0.00, Expert Belt|0.01, Felicity's Drawing|0.05
+bow_drivers:- discard, draw, put, damage
+anti_meta:- N/A

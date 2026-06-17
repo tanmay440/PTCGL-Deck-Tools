@@ -1,0 +1,8 @@
+name:- Haxorus
+type:- Dragon
+modifiers:- N/A
+type_requirement:- Fighting, Metal
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.01, Poké Pad|0.01, Night Stretcher|0.01, Academy at Night|0.09, Ciphermaniac's Codebreaking|0.04, Kyurem|0.10, Latias ex|0.03, Psychic Energy|0.01, Slowking|0.10, Slowpoke|0.10
+bow_drivers:- cost_colorless, opponent, attack, damage
+anti_meta:- Sylveon|1.00, Greninja|1.00, Steven's Metagross|1.00, Starmie Froslass|1.00, Basic Box|1.00, Beedrill|1.00, Rocket's Mewtwo|1.00, Mega Greninja|1.00, Dragapult|0.75, Raging Bolt Ogerpon|0.67

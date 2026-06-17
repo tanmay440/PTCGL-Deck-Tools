@@ -1,0 +1,8 @@
+name:- Heatran
+type:- Metal
+modifiers:- N/A
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Beldum|0.41, Boss's Orders|0.01, Energy Recycler|0.24, Genesect ex|0.57, Metal Energy|0.20, Metang|0.41, Precious Trolley|0.29, Ultra Ball|0.01, Buddy-Buddy Poffin|0.02, Team Rocket's Petrel|0.04
+bow_drivers:- high_damage, cost_metal, cost_colorless, attack
+anti_meta:- Hop's Trevenant|1.00, Beedrill|1.00, Manectric Eelektrik|1.00, Other|1.00

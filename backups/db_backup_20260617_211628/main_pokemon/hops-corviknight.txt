@@ -1,0 +1,8 @@
+name:- Hop's Corviknight
+type:- Metal
+modifiers:- Hop's
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Air Balloon|0.02, Boss's Orders|0.01, Hop's Choice Band|0.20, Hop's Corvisquire|1.00, Hop's Rookidee|1.00, Lillie's Determination|0.01, Metal Energy|0.13, Postwick|0.20, Rare Candy|0.02, Beldum|0.26
+bow_drivers:- high_damage, damage, opponent, weakness
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Machamp
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Fighting Energy|0.02, Machoke|1.00, Machop|1.00, Rare Candy|0.01, Arven|0.06, Aurora Energy|0.75, Ball Guy|0.23, Battle VIP Pass|0.48, Brooklet Hill|0.55, Cape of Toughness|0.87
+bow_drivers:- high_damage, discard, damage, attack
+anti_meta:- N/A

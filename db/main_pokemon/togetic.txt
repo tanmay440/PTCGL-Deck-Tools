@@ -1,0 +1,8 @@
+name:- Togetic
+type:- Psychic
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Lillie's Determination|0.00, Night Stretcher|0.00, Poké Pad|0.00, Rare Candy|0.00, Togekiss|0.64, Togepi|0.64, Hilda|0.00, Judge|0.01, Special Red Card|0.00
+bow_drivers:- cost_colorless, heal, damage
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Dusknoir LV.X
+type:- Psychic
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Azelf|0.00, Baltoy|0.00, Bebe's Search|0.00, Bronzong E4|1.00, Call Energy|0.00, Claydol|0.00, Cynthia's Feelings|0.02, Darkness Energy|0.00, Dusclops|0.00, Dusknoir|0.00
+bow_drivers:- opponent, discard, put, damage
+anti_meta:- N/A

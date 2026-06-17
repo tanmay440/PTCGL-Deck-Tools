@@ -1,0 +1,8 @@
+name:- Martial Arts Dojo
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.05, Aurora Energy|0.63, Ball Guy|0.22, Battle VIP Pass|0.32, Brooklet Hill|0.55, Cape of Toughness|1.00, Colress's Tenacity|0.05, Cynthia|0.75, Escape Rope|0.19, Evolution Incense|0.09
+bow_drivers:- discard, opponent, damage, energy
+anti_meta:- N/A

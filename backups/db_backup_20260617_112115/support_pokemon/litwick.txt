@@ -1,0 +1,8 @@
+name:- Litwick
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Battle Cage|0.00, Boss's Orders|0.00, Brave Bangle|0.00, Buddy-Buddy Poffin|0.00, Budew|0.00, Chandelure|1.00, Dudunsparce|0.00, Dunsparce|0.00, Fire Energy|0.00, Hilda|0.00
+bow_drivers:- discard, look, deck, cost_fire
+anti_meta:- Dragapult Dudunsparce|1.00, Kangaskhan Bouffalant|1.00

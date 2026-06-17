@@ -1,0 +1,8 @@
+name:- Boost Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Cyclone Energy|0.24, Rocket's Admin.|0.10, Master Ball|0.54, Delcatty|0.28, Delcatty ex|0.74, Electrode ex|0.23, Grass Energy|0.01, Great Ball|0.74, Holon Energy GL|0.74, Lightning Energy|0.02
+bow_drivers:- discard, energy, deck, put
+anti_meta:- N/A

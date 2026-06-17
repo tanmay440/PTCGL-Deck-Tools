@@ -1,0 +1,8 @@
+name:- Mega Latias ex
+type:- Dragon
+modifiers:- ex, mega, rule_box
+type_requirement:- Fire, Psychic
+properties:- N/A
+commonly_found_with:- Crispin|0.00, Fire Energy|0.00, Latias ex|0.00, Battle Compressor|0.04, Budew|0.00, Crobat V|0.07, Dedenne-GX|0.21, Dialga-GX|0.74, Double Dragon Energy|0.23, Dragapult ex|0.00
+bow_drivers:- high_damage, discard, cost_colorless, switch
+anti_meta:- N/A

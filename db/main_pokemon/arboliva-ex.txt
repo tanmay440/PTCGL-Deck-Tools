@@ -1,0 +1,8 @@
+name:- Arboliva ex
+type:- Grass
+modifiers:- ex, rule_box
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Dawn|0.03, Dolliv|1.00, Forest of Vitality|0.09, Grass Energy|0.04, Night Stretcher|0.01, Smoliv|1.00, Boss's Orders|0.01, Bug Catching Set|0.06, Lillie's Determination|0.01, Poké Pad|0.01
+bow_drivers:- high_damage, cost_colorless, opponent, damage
+anti_meta:- N's Zoroark|1.00, Other|1.00, Starmie Dusknoir|1.00, Rocket's Honchkrow|1.00

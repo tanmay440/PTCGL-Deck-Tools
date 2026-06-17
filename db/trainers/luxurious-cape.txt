@@ -1,0 +1,8 @@
+name:- Luxurious Cape
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Counter Catcher|0.19, Explorer's Guidance|0.18, Field Blower|0.09, Gladion|0.41, Guzma|0.07, Hisuian Heavy Ball|0.09, Level Ball|0.14, Lt. Surge's Strategy|1.00, Night Stretcher|0.00, Peonia|0.65
+bow_drivers:- energy_acceleration, attach, hp, damage
+anti_meta:- N/A

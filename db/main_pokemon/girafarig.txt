@@ -1,0 +1,8 @@
+name:- Girafarig
+type:- Psychic
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Pow! Hand Extension|0.14, Rocket's Admin.|0.12, Electrode ex|0.39, Scramble Energy|0.38, Voltorb|0.38, Lillie's Determination|0.00, Articuno-GX|0.42, Arven|0.03, Bunnelby|0.29, Capture Energy|0.16
+bow_drivers:- attack, damage, weakness, resistance
+anti_meta:- N/A

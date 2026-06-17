@@ -1,0 +1,8 @@
+name:- Rillaboom
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Applin|0.15, Boss's Orders|0.01, Bug Catching Set|0.08, Dipplin|0.15, Festival Grounds|0.26, Grass Energy|0.05, Grookey|0.29, Lillie's Determination|0.01, Poké Pad|0.01, Thwackey|0.29
+bow_drivers:- high_damage, cost_grass, opponent, defending
+anti_meta:- Ethan's Typhlosion|1.00, Raging Bolt Ogerpon|1.00, N's Zoroark|1.00, Alakazam Dudunsparce|1.00, Ursaluna Lunatone|1.00

@@ -1,0 +1,8 @@
+name:- Professor Oak's Research
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boost Energy|0.24, Copycat|0.53, Cursed Stone|0.15, Cyclone Energy|0.06, Dark Metal Energy|0.26, Energy Removal 2|0.16, Metal Energy|0.01, Pokémon Reversal|0.53, Rocket's Admin.|0.02, Scizor ex|0.86
+bow_drivers:- discard, draw, put, shuffle
+anti_meta:- N/A

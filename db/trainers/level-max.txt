@@ -1,0 +1,8 @@
+name:- Level Max
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Azelf|0.00, Bebe's Search|0.00, Call Energy|0.01, Cyrus's Initiative|0.02, Eevee|0.00, Expert Belt|0.00, Felicity's Drawing|0.02, Giratina|0.01, Giratina LV.X|1.00, Glaceon|1.00
+bow_drivers:- search, deck, put, shuffle
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Furfrou
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Accompanying Flute|0.08, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Cornerstone Mask Ogerpon ex|0.01, Cubchoo|0.10, Drakloak|0.00, Dreepy|0.00, Drilbur|0.01, Elgyem|0.01, Enhanced Hammer|0.00
+bow_drivers:- damage, weakness, resistance, cost_colorless
+anti_meta:- N/A

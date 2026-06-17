@@ -1,0 +1,8 @@
+name:- Pidgeotto
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Pidgey|0.65, Rare Candy|0.03, VS Seeker|0.16, Buddy-Buddy Poffin|0.01, Evolution Incense|0.23, Guzma|0.15, Poké Pad|0.01, Rescue Stretcher|0.21, Pidgeot|0.52, Arven|0.11
+bow_drivers:- cost_colorless, zero_retreat
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

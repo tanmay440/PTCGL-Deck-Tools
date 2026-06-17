@@ -1,0 +1,8 @@
+name:- Briar
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Fezandipiti ex|0.08, Boss's Orders|0.06, Ultra Ball|0.06, Lillie's Determination|0.06, Night Stretcher|0.05, Grass Energy|0.22, Meowth ex|0.08, Teal Mask Ogerpon ex|0.37, Dawn|0.14, Bug Catching Set|0.33
+bow_drivers:- opponent, prize, damage, attack
+anti_meta:- Mega Lucario|1.00, Hop's Zacian|1.00, Hop's Trevenant|1.00, Rocket's Mewtwo|1.00, Hydreigon|1.00, Lillie's Clefairy|1.00, Slowking|1.00, Starmie Froslass|1.00, N's Zoroark|1.00, Other|1.00, Starmie Dusknoir|1.00, Rocket's Honchkrow|1.00, Dragapult Dusknoir|1.00, Dragapult Dudunsparce|1.00, Mega Lopunny|1.00, Mega Venusaur|1.00

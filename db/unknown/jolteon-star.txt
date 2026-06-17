@@ -1,0 +1,8 @@
+name:- Jolteon Star
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Crystal Beach|0.40, Cyclone Energy|0.11, Holon Mentor|0.05, Holon's Voltorb|0.15, Pokémon Retriever|0.06, Professor Elm's Training Method|0.44, Rocket's Admin.|0.05, Scott|0.27, Steven's Advice|0.13, TV Reporter|0.27
+bow_drivers:- unknown
+anti_meta:- N/A

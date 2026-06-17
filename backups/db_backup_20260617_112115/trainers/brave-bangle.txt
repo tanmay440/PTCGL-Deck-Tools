@@ -1,0 +1,8 @@
+name:- Brave Bangle
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.11, Lillie's Determination|0.11, Poké Pad|0.11, Ultra Ball|0.09, Secret Box|0.47, Switch|0.29, Lana's Aid|0.33, Fezandipiti ex|0.10, Boss's Orders|0.07, Psychic Energy|0.11
+bow_drivers:- energy_acceleration, attach, damage, opponent
+anti_meta:- Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Lucario|1.00, Mega Greninja|1.00, Decidueye|1.00, Dragapult Blaziken|1.00, Ethan's Typhlosion|1.00, Raging Bolt Ogerpon|1.00, N's Zoroark|1.00, Alakazam Dudunsparce|1.00, Ursaluna Lunatone|1.00, Sylveon|1.00, Greninja|1.00, Steven's Metagross|1.00, Starmie Froslass|1.00, Basic Box|1.00, Beedrill|1.00, Rocket's Mewtwo|1.00, Hop's Trevenant|1.00, Manectric Eelektrik|1.00, Other|1.00, Rocket's Honchkrow|1.00, Future Thorns|1.00, Dragapult|0.67

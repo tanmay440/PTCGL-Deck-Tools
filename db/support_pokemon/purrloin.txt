@@ -1,0 +1,8 @@
+name:- Purrloin
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.02, Darkness Energy|0.03, Lillie's Determination|0.01, Night Stretcher|0.01, Poké Pad|0.01, Ultra Ball|0.01, Boss's Orders|0.01, Yveltal|0.12, Fezandipiti ex|0.01, Munkidori|0.02
+bow_drivers:- search, deck, put, hand
+anti_meta:- Mega Greninja|1.00

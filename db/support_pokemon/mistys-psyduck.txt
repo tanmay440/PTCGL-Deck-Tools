@@ -1,0 +1,8 @@
+name:- Misty's Psyduck
+type:- Water
+modifiers:- Misty's
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Lana's Aid|0.01, Lillie's Determination|0.00, Misty's Gyarados|0.99, Misty's Lapras|1.00, Misty's Magikarp|1.00, Misty's Starmie|0.46, Misty's Staryu|0.46, Night Stretcher|0.00
+bow_drivers:- discard, deck, bench, put
+anti_meta:- N/A

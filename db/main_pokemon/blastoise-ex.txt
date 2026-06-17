@@ -1,0 +1,8 @@
+name:- Blastoise ex
+type:- Water
+modifiers:- ex, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Celebi ex|1.00, Giant Stump|0.00, Holon Mentor|0.00, Holon Scientist|0.00, Holon Transceiver|0.00, Holon's Castform|0.00, Holon's Electrode|0.05, Jirachi|0.00, Latias|1.00, Latias Star|1.00
+bow_drivers:- high_damage, discard, damage, weakness
+anti_meta:- N/A

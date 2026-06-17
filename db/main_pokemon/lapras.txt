@@ -1,0 +1,8 @@
+name:- Lapras
+type:- Water
+modifiers:- ex, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Holon Mentor|0.23, Holon Adventurer|0.23, Holon Scientist|0.23, Holon Transceiver|0.23, Water Energy|0.02, Rocket's Admin.|0.12, Windstorm|0.13, Pow! Hand Extension|0.13, Dark Pupitar|0.40, Dark Tyranitar|0.40
+bow_drivers:- high_damage, cost_water, attack, damage
+anti_meta:- Flygon δ|1.00, Bombtar|1.00

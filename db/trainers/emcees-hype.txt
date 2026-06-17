@@ -1,0 +1,8 @@
+name:- Emcee's Hype
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Barbaracle|0.00, Binacle|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Cynthia's Gabite|0.00, Cynthia's Garchomp ex|0.00, Cynthia's Gible|0.00, Cynthia's Power Weight|0.00, Dawn|0.00, Energy Recycler|0.00
+bow_drivers:- draw, opponent, prize, zero_damage
+anti_meta:- N/A

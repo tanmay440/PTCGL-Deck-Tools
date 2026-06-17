@@ -1,0 +1,8 @@
+name:- Tyranitar
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.01, Night Stretcher|0.01, Poké Pad|0.01, Buddy-Buddy Poffin|0.01, Darkness Energy|0.01, Ultra Ball|0.01, Boss's Orders|0.00, Budew|0.01, Drakloak|0.02, Dreepy|0.02
+bow_drivers:- high_damage, discard, opponent, put
+anti_meta:- N/A

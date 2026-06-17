@@ -1,0 +1,8 @@
+name:- Neutralization Zone
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Poké Pad|0.00, Team Rocket's Petrel|0.01, Night Stretcher|0.00, Team Rocket's Transceiver|0.01, Team Rocket's Archer|0.02, Team Rocket's Ariana|0.02, Team Rocket's Articuno|0.01, Team Rocket's Energy|0.02, Team Rocket's Factory|0.01, Team Rocket's Giovanni|0.02
+bow_drivers:- discard, deck, opponent, put
+anti_meta:- N/A

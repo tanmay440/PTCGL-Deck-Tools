@@ -1,0 +1,8 @@
+name:- Swoop! Teleporter
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.08, Holon Mentor|0.09, Holon Adventurer|0.08, Holon Scientist|0.09, Holon Transceiver|0.08, Pow! Hand Extension|0.08, Electrode ex|0.20, Lapras|0.23, Scramble Energy|0.20, Voltorb|0.20
+bow_drivers:- search, discard, deck, switch
+anti_meta:- Bombtar|1.00, Bombchamp|1.00, Flygon δ|1.00

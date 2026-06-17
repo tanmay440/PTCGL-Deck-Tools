@@ -1,0 +1,8 @@
+name:- Goldeen
+type:- Water
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.04, Buddy-Buddy Poffin|0.05, Grookey|0.95, Lillie's Determination|0.04, Poké Pad|0.04, Thwackey|0.95, Night Stretcher|0.04, Seaking|0.97, Air Balloon|0.10, Shaymin|0.10
+bow_drivers:- attack, opponent, discard, cost_colorless
+anti_meta:- Ethan's Typhlosion|1.00, N's Zoroark|1.00, Alakazam Dudunsparce|1.00, Ursaluna Lunatone|1.00, Other|1.00, Ogerpon Meganium|1.00, Beedrill|0.67, Crustle|0.62

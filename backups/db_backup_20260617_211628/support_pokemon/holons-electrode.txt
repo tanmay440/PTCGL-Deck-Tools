@@ -1,0 +1,8 @@
+name:- Holon's Electrode
+type:- Lightning
+modifiers:- Holon's
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Celio's Network|1.00, Desert Ruins|0.22, Double Rainbow Energy|0.47, Grass Energy|0.00, Grovyle|0.38, Holon Adventurer|0.04, Holon Mentor|0.04, Holon Scientist|0.04, Holon Transceiver|0.04, Holon's Voltorb|0.07
+bow_drivers:- energy_acceleration, energy, attach, hand
+anti_meta:- N/A

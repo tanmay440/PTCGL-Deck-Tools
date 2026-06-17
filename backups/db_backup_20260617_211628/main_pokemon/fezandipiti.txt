@@ -1,0 +1,8 @@
+name:- Fezandipiti
+type:- Darkness
+modifiers:- ex, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Team Rocket's Petrel|0.01, Buddy-Buddy Poffin|0.01, Jumbo Ice Cream|0.08, Poké Pad|0.00, Darkness Energy|0.01, Boss's Orders|0.00, Lillie's Determination|0.00, Jacinthe|0.63, Pokégear 3.0|0.02, Psychic Energy|0.01
+bow_drivers:- draw, opponent, cost_colorless, attack
+anti_meta:- N/A

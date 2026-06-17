@@ -1,0 +1,8 @@
+name:- Master Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lightning Energy|0.03, Grass Energy|0.01, Cyclone Energy|0.18, Rocket's Admin.|0.07, Boost Energy|0.54, Electrode ex|0.23, Great Ball|0.55, Pow! Hand Extension|0.09, Scramble Energy|0.23, TV Reporter|0.43
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

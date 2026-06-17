@@ -1,0 +1,8 @@
+name:- React Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Electrode ex|0.13, Fighting Energy|0.00, Heal Energy|0.69, Holon Adventurer|0.06, Holon Energy FF|1.00, Holon Mentor|0.06, Holon Scientist|0.06, Holon Transceiver|0.06, Jirachi|0.06, Machamp|0.12
+bow_drivers:- energy, zero_damage, zero_retreat
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Kyogre ex
+type:- Water
+modifiers:- ex, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Ciphermaniac's Codebreaking|0.00, Cyrano|0.00, Jumbo Ice Cream|0.00, Kyogre|0.03, Lillie's Determination|0.00, Maximum Belt|0.00, Mega Abomasnow ex|0.23, Poké Pad|0.00, Snover|0.23
+bow_drivers:- high_damage, discard, cost_colorless, opponent
+anti_meta:- N/A

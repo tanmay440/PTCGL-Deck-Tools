@@ -1,0 +1,8 @@
+name:- Whiscash
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.01, Ball Guy|0.04, Barboach|1.00, Battle Compressor|0.06, Brooklet Hill|0.09, Counter Catcher|0.03, Cynthia & Caitlin|0.06, Devolution Spray|1.00, Donphan|1.00, Double Turbo Energy|0.08
+bow_drivers:- unknown
+anti_meta:- N/A

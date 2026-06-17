@@ -1,0 +1,8 @@
+name:- Lunatone
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Solrock|1.00, Fighting Energy|0.47, Fighting Gong|0.77, Poké Pad|0.09, Boss's Orders|0.09, Lillie's Determination|0.08, Ultra Ball|0.08, Air Balloon|0.21, Night Stretcher|0.06, Judge|0.23
+bow_drivers:- discard, draw, energy, hand
+anti_meta:- Mega Venusaur|1.00, Dragapult Blaziken|1.00, Festival Lead|1.00, Sylveon|1.00, Mega Gengar|1.00, Alakazam Dudunsparce|1.00, Beedrill|1.00, Mega Greninja|1.00, Doublade|1.00, Dragapult Dusknoir|1.00, Dragapult Dudunsparce|1.00, Mega Lopunny|1.00, Starmie Froslass|1.00, Slowking|0.75

@@ -1,0 +1,8 @@
+name:- Rough Seas
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Aqua Patch|1.00, Ball Guy|0.02, Battle Compressor|0.04, Bicycle|1.00, Buddy-Buddy Poffin|0.00, Colress's Experiment|0.10, Cramorant|0.10, Dive Ball|0.06, Drizzile|0.06, Earthen Vessel|0.03
+bow_drivers:- discard, heal, damage, zero_damage
+anti_meta:- N/A

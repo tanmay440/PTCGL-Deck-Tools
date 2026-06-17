@@ -1,0 +1,7 @@
+game:- PTCG
+name:- Torneo Relámpago ⚡ #51 PTCG Live
+date:- 2026-06-17T02:00:00.000Z
+format:- STANDARD
+id:- 6a0b3d0213f957d6d4b4acd1
+players:- 28
+organizerId:- 2512

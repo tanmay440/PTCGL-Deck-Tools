@@ -1,0 +1,8 @@
+name:- Marill
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Lillie's Determination|0.00, Night Stretcher|0.00, Psychic Energy|0.00, Ultra Ball|0.00, Fezandipiti ex|0.00, Lillie's Clefairy ex|0.00, Special Red Card|0.00, Team Rocket's Petrel|0.00, Telepathic Psychic Energy|0.00
+bow_drivers:- cost_psychic
+anti_meta:- N's Zoroark|1.00, Dragapult Dusknoir|1.00

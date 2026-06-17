@@ -1,0 +1,8 @@
+name:- Duraludon
+type:- Metal
+modifiers:- N/A
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Metal Energy|0.26, Night Stretcher|0.02, Ultra Ball|0.02, Boss's Orders|0.02, Lillie's Determination|0.02, Poké Pad|0.02, Archaludon ex|0.95, Relicanth|0.67, Mega Mawile ex|0.89, Special Red Card|0.03
+bow_drivers:- discard, cost_metal, energy, opponent
+anti_meta:- Dragapult Blaziken|1.00, Ethan's Typhlosion|1.00

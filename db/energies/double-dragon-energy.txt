@@ -1,0 +1,8 @@
+name:- Double Dragon Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Float Stone|0.05, Guzma|0.03, Gladion|0.13, Guzma & Hala|0.05, Teammates|0.05, Crispin|0.00, Fire Energy|0.00, Hisuian Heavy Ball|0.03, Marnie|0.04, Muscle Band|0.05
+bow_drivers:- discard, energy, zero_damage, zero_retreat
+anti_meta:- N/A

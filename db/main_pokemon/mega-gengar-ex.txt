@@ -1,0 +1,8 @@
+name:- Mega Gengar ex
+type:- Darkness
+modifiers:- ex, mega, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Darkness Energy|0.01, Lillie's Determination|0.00, Buddy-Buddy Poffin|0.00, Night Stretcher|0.00, Fezandipiti ex|0.00, Ultra Ball|0.00, Poké Pad|0.00, Gastly|0.50, Haunter|0.49
+bow_drivers:- high_damage, opponent, prize, damage
+anti_meta:- Mega Greninja|1.00

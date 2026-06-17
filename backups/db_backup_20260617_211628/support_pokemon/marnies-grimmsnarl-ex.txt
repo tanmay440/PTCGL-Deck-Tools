@@ -1,0 +1,8 @@
+name:- Marnie's Grimmsnarl ex
+type:- Darkness
+modifiers:- Marnie's, ex, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Buddy-Buddy Poffin|0.01, Darkness Energy|0.02, Lillie's Determination|0.01, Marnie's Impidimp|1.00, Marnie's Morgrem|1.00, Munkidori|0.02, Night Stretcher|0.01, Poké Pad|0.01, Rare Candy|0.02
+bow_drivers:- energy_acceleration, high_damage, search, deck
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Energy Recycler
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ultra Ball|0.05, Boss's Orders|0.04, Lillie's Determination|0.04, Night Stretcher|0.04, Team Rocket's Petrel|0.13, Buddy-Buddy Poffin|0.04, Special Red Card|0.05, Fezandipiti ex|0.04, Poké Pad|0.03, Metal Energy|0.37
+bow_drivers:- discard, shuffle, energy, deck
+anti_meta:- Dragapult Blaziken|1.00, Okidogi Barbaracle|1.00, Ogerpon Meganium Hydrapple|1.00, Luxray|1.00, Steven's Metagross|1.00, Iron Thorns|1.00, Miraidon|1.00, Hop's Trevenant|1.00, Beedrill|1.00, Manectric Eelektrik|1.00, Other|1.00, Lillie's Clefairy|1.00, Slowking|1.00, Starmie Froslass|1.00, Ogerpon Meganium Arboliva|1.00, Raging Bolt Ogerpon|1.00, N's Zoroark|1.00, Mega Greninja|1.00, Future Thorns|1.00

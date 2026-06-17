@@ -1,0 +1,8 @@
+name:- Mary's Request
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.04, Castaway|0.28, Cessation Crystal|0.33, Cursed Stone|0.28, Lightning Energy|0.01, Minun|0.71, Pokémon Fan Club|0.88, Pow! Hand Extension|0.05, Rayquaza ex|0.11, Stantler|0.12
+bow_drivers:- draw, discard, put, zero_damage
+anti_meta:- N/A

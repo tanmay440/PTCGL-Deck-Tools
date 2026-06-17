@@ -1,0 +1,8 @@
+name:- Team Rocket's Mimikyu
+type:- Psychic
+modifiers:- Team Rocket's
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.03, Team Rocket's Energy|0.41, Team Rocket's Articuno|0.28, Ultra Ball|0.02, Team Rocket's Petrel|0.08, Team Rocket's Transceiver|0.23, Team Rocket's Ariana|0.37, Team Rocket's Factory|0.24, Team Rocket's Giovanni|0.37, Team Rocket's Proton|0.37
+bow_drivers:- opponent, attack, cost_psychic, cost_colorless
+anti_meta:- Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Lucario|1.00, Mega Greninja|1.00, Decidueye|1.00, Ogerpon Meganium Arboliva|1.00, Raging Bolt Ogerpon|1.00, Cynthia's Garchomp|1.00

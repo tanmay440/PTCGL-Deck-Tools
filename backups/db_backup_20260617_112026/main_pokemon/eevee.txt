@@ -1,0 +1,8 @@
+name:- Eevee
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Buddy-Buddy Poffin|0.01, Psychic Energy|0.01, Crispin|0.02, Poké Pad|0.01, Water Energy|0.03, Night Stretcher|0.01, Lillie's Determination|0.01, Dedenne|0.09, Team Rocket's Petrel|0.01
+bow_drivers:- evolve, cost_colorless, damage
+anti_meta:- N/A

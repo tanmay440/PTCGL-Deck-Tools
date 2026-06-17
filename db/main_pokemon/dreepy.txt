@@ -1,0 +1,8 @@
+name:- Dreepy
+type:- Dragon
+modifiers:- N/A
+type_requirement:- Fire, Psychic
+properties:- N/A
+commonly_found_with:- Drakloak|1.00, Boss's Orders|0.29, Buddy-Buddy Poffin|0.39, Lillie's Determination|0.29, Poké Pad|0.29, Night Stretcher|0.27, Ultra Ball|0.29, Fezandipiti ex|0.38, Budew|0.67, Dragapult ex|0.94
+bow_drivers:- cost_psychic, cost_fire
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00, Mega Venusaur|1.00, Ceruledge|1.00, Dragapult|1.00, Mega Greninja|1.00, Raging Bolt Ogerpon|1.00, Other|1.00, Dragapult Dusknoir|1.00, Steven's Metagross|1.00, Metagross|1.00, Beedrill|1.00, Ursaluna Lunatone|1.00, Mega Lucario|1.00, Ogerpon Meganium|1.00, Lucario Hariyama|1.00, Ogerpon Meganium Hydrapple|1.00, Ethan's Typhlosion|1.00, Dragapult Dudunsparce|1.00, Lopunny Dusknoir|1.00, Mega Froslass|1.00, Rocket's Honchkrow|1.00, Rocket's Mewtwo|1.00, Dragapult Blaziken|1.00, Mega Charizard X|1.00, Slowking|1.00, Alakazam Dudunsparce|0.83

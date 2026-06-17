@@ -1,0 +1,8 @@
+name:- Dusk Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Ultra Ball|0.01, Crispin|0.03, Wellspring Mask Ogerpon ex|0.16, Psychic Energy|0.02, Fezandipiti ex|0.01, Ciphermaniac's Codebreaking|0.06, Lillie's Clefairy ex|0.04, Area Zero Underdepths|0.09, Chien-Pao|0.16
+bow_drivers:- deck, look, put, hand
+anti_meta:- Dragapult Dusknoir|1.00, Steven's Metagross|1.00, Mega Greninja|1.00, N's Zoroark|1.00

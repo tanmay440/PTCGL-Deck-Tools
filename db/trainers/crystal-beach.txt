@@ -1,0 +1,8 @@
+name:- Crystal Beach
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.12, Energy Removal 2|0.75, Steven's Advice|0.21, Warp Point|0.06, Scott|0.38, Holon Adventurer|0.05, Holon Mentor|0.06, Holon Scientist|0.06, Holon Transceiver|0.05, Pokémon Retriever|0.07
+bow_drivers:- discard, energy, opponent, zero_damage
+anti_meta:- Scizor|1.00

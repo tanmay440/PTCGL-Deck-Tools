@@ -1,0 +1,8 @@
+name:- Ambipom G
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Aaron's Collection|0.32, Azelf|0.10, Bebe's Search|0.10, Bronzong G|0.32, Call Energy|0.12, Crobat G|0.20, Cyrus's Conspiracy|0.28, Dialga G|0.45, Dialga G LV.X|0.45, Garchomp C|0.71
+bow_drivers:- cost_colorless, energy, defending, opponent
+anti_meta:- N/A

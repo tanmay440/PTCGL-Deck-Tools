@@ -1,0 +1,8 @@
+name:- Okidogi
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Fighting Energy|0.07, Fighting Gong|0.12, Lunatone|0.15, Solrock|0.15, Lillie's Determination|0.01, Night Stretcher|0.01, Poké Pad|0.01, Air Balloon|0.03, Boss's Orders|0.01, Tarragon|0.46
+bow_drivers:- cost_fighting, attack, damage, prize
+anti_meta:- Starmie Froslass|1.00, Dragapult Dudunsparce|1.00, Beedrill|1.00, Slowking|0.75

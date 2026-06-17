@@ -1,0 +1,8 @@
+name:- Grimmsnarl
+type:- Darkness
+modifiers:- ex, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Artazon|0.07, Arven|0.02, Battle Compressor|0.10, Buddy-Buddy Poffin|0.00, Counter Catcher|0.04, Counter Energy|0.09, Crobat|0.31, Cynthia & Caitlin|0.10, Dark Patch|0.19
+bow_drivers:- energy_acceleration, high_damage, search, deck
+anti_meta:- N/A

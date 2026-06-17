@@ -1,0 +1,8 @@
+name:- Team Rocket's Nidoqueen
+type:- Darkness
+modifiers:- Team Rocket's
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Binding Mochi|0.01, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Darkness Energy|0.00, Fezandipiti ex|0.00, Gastly|0.12, Haunter|0.12, Janine's Secret Art|0.02, Jumbo Ice Cream|0.01
+bow_drivers:- high_damage, cost_darkness, bench, attack
+anti_meta:- N/A

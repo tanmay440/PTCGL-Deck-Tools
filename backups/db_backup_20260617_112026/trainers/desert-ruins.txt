@@ -1,0 +1,8 @@
+name:- Desert Ruins
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.19, Holon Mentor|0.19, Holon Scientist|0.19, Holon Transceiver|0.19, Rocket's Admin.|0.17, Steven's Advice|0.38, Warp Energy|0.10, Holon's Voltorb|0.26, Pokémon Retriever|0.16, Rainbow Energy|0.19
+bow_drivers:- discard, damage, hp, zero_damage
+anti_meta:- N/A

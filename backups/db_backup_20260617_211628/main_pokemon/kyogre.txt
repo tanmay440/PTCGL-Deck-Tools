@@ -1,0 +1,8 @@
+name:- Kyogre
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Water Energy|0.03, Poké Pad|0.01, Surfing Beach|0.08, Boss's Orders|0.00, Avalugg|0.68, Bergmite|0.68, Great Haul Net|0.48, Dawn|0.01, Larry's Skill|0.17, Ultra Ball|0.00
+bow_drivers:- high_damage, discard, cost_water, energy
+anti_meta:- N/A

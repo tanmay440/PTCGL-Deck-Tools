@@ -1,0 +1,8 @@
+name:- Mudkip
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.02, Holon Mentor|0.02, Holon Transceiver|0.02, Jirachi|0.02, Marshtomp|1.00, Pow! Hand Extension|0.02, Rainbow Energy|0.03, Rare Candy|0.00, Rocket's Admin.|0.02, Swampert ex|1.00
+bow_drivers:- cost_colorless, cost_water
+anti_meta:- N/A

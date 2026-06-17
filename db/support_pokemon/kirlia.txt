@@ -1,0 +1,8 @@
+name:- Kirlia
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Ralts|1.00, Psychic Energy|0.05, Rare Candy|0.07, Buddy-Buddy Poffin|0.03, Gardevoir|0.58, Arven|0.29, Ultra Ball|0.02, Iono|0.30, Gardevoir ex|0.52, Night Stretcher|0.01
+bow_drivers:- search, deck, cost_psychic, put
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

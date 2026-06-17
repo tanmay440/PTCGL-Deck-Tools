@@ -1,0 +1,8 @@
+name:- Dedenne-GX
+type:- Lightning
+modifiers:- gx, rule_box
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Crobat V|0.35, Guzma|0.03, Quick Ball|0.06, VS Seeker|0.03, Battle Compressor|0.16, Hisuian Heavy Ball|0.03, Tapu Lele-GX|0.47, Thorton|0.31, Field Blower|0.03, Roaring Moon ex|0.79
+bow_drivers:- hand, discard, draw, bench
+anti_meta:- N/A

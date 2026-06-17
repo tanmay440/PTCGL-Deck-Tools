@@ -1,0 +1,8 @@
+name:- Iono's Voltorb
+type:- Lightning
+modifiers:- Iono's
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Crispin|0.00, Cyrano|0.00, Energy Recycler|0.00, Energy Switch|0.00, Fezandipiti ex|0.00, Fighting Energy|0.00, Grass Energy|0.00, Iono's Bellibolt ex|0.06, Iono's Tadbulb|0.06
+bow_drivers:- cost_colorless, attack, damage, energy
+anti_meta:- N/A

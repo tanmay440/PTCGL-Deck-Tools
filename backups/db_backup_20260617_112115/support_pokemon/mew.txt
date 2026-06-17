@@ -1,0 +1,8 @@
+name:- Mew
+type:- Psychic
+modifiers:- ex, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Psychic Energy|0.01, Smoochum|0.09, Arven|0.06, Avery|0.67, Battle VIP Pass|0.48, Blacephalon|0.80, Buddy-Buddy Poffin|0.01, Counter Energy|0.35, Cresselia|0.29, Deoxys|0.59
+bow_drivers:- draw, hand, cost_colorless, opponent
+anti_meta:- N/A

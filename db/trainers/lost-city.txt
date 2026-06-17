@@ -1,0 +1,8 @@
+name:- Lost City
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.01, Ultra Ball|0.01, Iono|0.13, Counter Catcher|0.32, Arven|0.09, Fire Energy|0.02, Nest Ball|0.09, Field Blower|0.10, Guzma|0.08, Hex Maniac|0.20
+bow_drivers:- discard, opponent, put, zero_damage
+anti_meta:- N/A

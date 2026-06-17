@@ -1,0 +1,8 @@
+name:- Solid Rage
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ancient Technical Machine [Rock]|0.89, Dark Pupitar|1.00, Dark Tyranitar|1.00, Darkness Energy|0.01, Electrode ex|0.55, Holon Adventurer|0.23, Holon Mentor|0.23, Holon Scientist|0.23, Holon Transceiver|0.23, Jirachi|0.26
+bow_drivers:- energy_acceleration, discard, attach, prize
+anti_meta:- N/A

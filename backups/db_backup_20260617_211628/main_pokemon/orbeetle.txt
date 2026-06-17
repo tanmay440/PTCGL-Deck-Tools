@@ -1,0 +1,8 @@
+name:- Orbeetle
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Alolan Muk|1.00, Cynthia & Caitlin|0.05, Double Dragon Energy|0.54, Dusknoir|0.01, Faba|0.07, Float Stone|0.02, Gallade|0.09, Gladion|0.06, Gloom|1.00, Guzma|0.01
+bow_drivers:- damage, cost_colorless, attack, energy
+anti_meta:- N/A

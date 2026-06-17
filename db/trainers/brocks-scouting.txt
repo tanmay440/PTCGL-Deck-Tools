@@ -1,0 +1,8 @@
+name:- Brock's Scouting
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.07, Night Stretcher|0.06, Ultra Ball|0.06, Meowth ex|0.07, Lillie's Determination|0.04, Fezandipiti ex|0.06, Special Red Card|0.07, Poké Pad|0.04, Crispin|0.10, Buddy-Buddy Poffin|0.05
+bow_drivers:- search, deck, put, hand
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Lillie's Clefairy|1.00, Cynthia's Garchomp|1.00, Lopunny Dudunsparce|1.00, Metagross|1.00, Ogerpon Meganium Hydrapple|1.00, Dragapult Dusknoir|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Rocket's Mewtwo|1.00, Alakazam Dudunsparce|1.00, Hop's Trevenant|1.00, Beedrill|1.00, Manectric Eelektrik|1.00, Other|1.00, N's Zoroark|1.00, Ogerpon Meganium Arboliva|1.00, Raging Bolt Ogerpon|1.00, Okidogi Barbaracle|1.00, Future Thorns|1.00

@@ -1,0 +1,8 @@
+name:- Grovyle
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.27, Holon Mentor|0.26, Holon Scientist|0.27, Holon Transceiver|0.27, Pidgeot|0.34, Pidgeotto|0.32, Pidgey|0.21, Pokémon Retriever|0.31, Rare Candy|0.01, Rocket's Admin.|0.24
+bow_drivers:- search, deck, attack, put
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

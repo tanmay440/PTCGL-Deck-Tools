@@ -1,0 +1,8 @@
+name:- Tyrunt
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Antique Jaw Fossil|1.00, Battle Cage|0.01, Boss's Orders|0.00, Fighting Energy|0.01, Lillie's Determination|0.00, Poké Pad|0.00, Rare Candy|0.00, Relicanth|0.07, Rocky Fighting Energy|0.03
+bow_drivers:- damage, attack, cost_fighting, cost_colorless
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Chaotic Swell
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.09, Trainers' Mail|0.22, VS Seeker|0.08, Rescue Stretcher|0.11, Double Colorless Energy|0.30, Lillie's Determination|0.00, Megaton Blower|0.49, Team Flare Grunt|0.44, Acro Bike|0.47, Boost Shake|0.71
+bow_drivers:- discard, hand, zero_damage, zero_retreat
+anti_meta:- N/A

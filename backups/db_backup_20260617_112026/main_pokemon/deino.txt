@@ -1,0 +1,8 @@
+name:- Deino
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.01, Darkness Energy|0.02, Hydreigon ex|0.77, Rare Candy|0.03, Zweilous|1.00, Poké Pad|0.01, Counter Gain|0.76, Boss's Orders|0.01, Crispin|0.02, Lillie's Determination|0.01
+bow_drivers:- cost_colorless, opponent, cost_darkness
+anti_meta:- N/A

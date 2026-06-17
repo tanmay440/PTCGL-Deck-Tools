@@ -1,0 +1,8 @@
+name:- Heal Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Electrode ex|0.33, Pow! Hand Extension|0.12, Rocket's Admin.|0.10, Voltorb|0.32, Holon Adventurer|0.11, Holon Mentor|0.11, Holon Scientist|0.11, Holon Transceiver|0.11, Rainbow Energy|0.18, Scramble Energy|0.24
+bow_drivers:- energy_acceleration, energy, heal, attach
+anti_meta:- Flygon δ|1.00

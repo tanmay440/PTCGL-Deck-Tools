@@ -1,0 +1,8 @@
+name:- Feebas
+type:- Water
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Lillie's Determination|0.00, Milotic ex|1.00, Team Rocket's Petrel|0.00, Mega Kangaskhan ex|0.00, Ultra Ball|0.00, Buddy-Buddy Poffin|0.00, Eri|0.03, Switch|0.00, Water Energy|0.00
+bow_drivers:- opponent, damage, cost_colorless
+anti_meta:- N/A

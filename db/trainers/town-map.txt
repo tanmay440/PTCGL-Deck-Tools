@@ -1,0 +1,8 @@
+name:- Town Map
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.01, Guzma|0.06, Hisuian Heavy Ball|0.08, Level Ball|0.13, Nest Ball|0.07, Night Stretcher|0.00, Poké Pad|0.00, Ultra Ball|0.00, VS Seeker|0.06, Arven|0.05
+bow_drivers:- prize, attack, zero_damage, mod_rule_box
+anti_meta:- N/A

@@ -1,0 +1,7 @@
+game:- PTCG
+name:- 💰 Control Players Unite's Pauper Tournament! #35
+date:- 2026-06-15T23:00:00.000Z
+format:- CUSTOM
+id:- 6a2f7a8fe334c3c9befd7302
+players:- 4
+organizerId:- 2102

@@ -1,0 +1,8 @@
+name:- Poké Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Crispin|0.00, Cyrano|0.00, Energy Retrieval|0.00, Energy Search|0.00, Energy Switch|0.00, Iron Boulder|0.01, Iron Crown ex|0.00, Iron Thorns ex|0.02, Iron Valiant|0.03
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

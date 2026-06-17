@@ -1,0 +1,8 @@
+name:- Giant Hearth
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.01, Arven|0.03, Ball Guy|0.12, Blacksmith|0.50, Centiskorch|1.00, Charizard|1.00, Charmander|0.34, Charmeleon|0.34, Chi-Yu|0.04, Cynthia & Caitlin|0.20
+bow_drivers:- discard, hand, deck, energy
+anti_meta:- N/A

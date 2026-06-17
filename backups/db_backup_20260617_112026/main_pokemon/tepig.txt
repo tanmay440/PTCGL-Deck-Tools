@@ -1,0 +1,8 @@
+name:- Tepig
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Emboar|1.00, Fire Energy|0.01, Lillie's Determination|0.00, Pignite|1.00, Poké Pad|0.00, Rare Candy|0.01, Energy Recycler|0.07, Ultra Ball|0.00, Air Balloon|0.01, Heatmor|0.95
+bow_drivers:- cost_fire
+anti_meta:- N/A

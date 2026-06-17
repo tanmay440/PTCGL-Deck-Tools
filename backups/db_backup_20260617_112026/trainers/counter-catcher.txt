@@ -1,0 +1,8 @@
+name:- Counter Catcher
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.33, Buddy-Buddy Poffin|0.03, Iono|0.32, Ultra Ball|0.02, Psychic Energy|0.03, Earthen Vessel|0.66, Super Rod|0.46, Night Stretcher|0.01, Nest Ball|0.22, Temple of Sinnoh|0.44
+bow_drivers:- opponent, prize, switch, zero_damage
+anti_meta:- N/A

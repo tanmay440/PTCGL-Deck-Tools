@@ -1,0 +1,8 @@
+name:- Battle Compressor
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.16, VS Seeker|0.15, Arven|0.11, Rescue Stretcher|0.15, Buddy-Buddy Poffin|0.01, Field Blower|0.13, Iono|0.10, Float Stone|0.14, Poké Pad|0.01, Ultra Ball|0.01
+bow_drivers:- search, discard, deck, shuffle
+anti_meta:- N/A

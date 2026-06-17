@@ -1,0 +1,8 @@
+name:- Poké Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Copycat|0.94, Energy Removal 2|0.28, Pokémon Reversal|0.94, Rocket's Admin.|0.04, Steven's Advice|0.11, Boost Energy|0.24, Cursed Stone|0.15, Cyclone Energy|0.06, Dark Metal Energy|0.25, Metal Energy|0.01
+bow_drivers:- search, deck, put, hand
+anti_meta:- Scizor|1.00

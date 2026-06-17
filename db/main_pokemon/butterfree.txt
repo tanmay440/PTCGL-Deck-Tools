@@ -1,0 +1,8 @@
+name:- Butterfree
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Caterpie|1.00, Dudunsparce|0.00, Dunsparce|0.00, Dusk Ball|0.01, Fan Rotom|0.00, Forest of Vitality|0.00, Grass Energy|0.00, Growing Grass Energy|0.00
+bow_drivers:- attack, damage, opponent, cost_grass
+anti_meta:- N/A

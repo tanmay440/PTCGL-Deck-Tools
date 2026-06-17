@@ -1,0 +1,8 @@
+name:- Magnemite
+type:- Lightning
+modifiers:- N/A
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Lightning Energy|0.00, Magneton|1.00, Boss's Orders|0.00, Lillie's Determination|0.00, Meowth ex|0.00, Team Rocket's Petrel|0.00, Ultra Ball|0.00, Fezandipiti ex|0.00, Grass Energy|0.00, Night Stretcher|0.00
+bow_drivers:- cost_lightning
+anti_meta:- Steven's Metagross|1.00, N's Zoroark|1.00

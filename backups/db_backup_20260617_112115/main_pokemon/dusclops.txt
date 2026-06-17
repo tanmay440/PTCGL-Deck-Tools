@@ -1,0 +1,8 @@
+name:- Dusclops
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Duskull|0.98, Dusknoir|0.97, Boss's Orders|0.09, Ultra Ball|0.09, Night Stretcher|0.08, Lillie's Determination|0.08, Poké Pad|0.09, Meowth ex|0.12, Buddy-Buddy Poffin|0.11, Psychic Energy|0.14
+bow_drivers:- put, damage, opponent, cost_psychic
+anti_meta:- Ogerpon Meganium Hydrapple|1.00, Ogerpon Meganium|1.00, Alakazam Dudunsparce|1.00, Festival Lead|1.00, Ethan's Typhlosion|1.00, Dragapult Dudunsparce|1.00, Lopunny Dusknoir|1.00, Dragapult|1.00, Lillie's Clefairy|1.00, N's Zoroark|1.00, Rocket's Mewtwo|1.00, Cynthia's Garchomp|1.00, Okidogi Barbaracle|1.00, Dragapult Dusknoir|1.00, Other|0.67

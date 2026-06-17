@@ -1,0 +1,8 @@
+name:- Cynthia's Gible
+type:- Fighting
+modifiers:- Cynthia's
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Buddy-Buddy Poffin|0.02, Cynthia's Gabite|1.00, Cynthia's Garchomp ex|1.00, Fighting Energy|0.07, Fighting Gong|0.11, Poké Pad|0.01, Lillie's Determination|0.01, Cynthia's Power Weight|1.00, Cynthia's Roselia|0.99
+bow_drivers:- attack, damage, resistance, cost_fighting
+anti_meta:- Metagross|1.00

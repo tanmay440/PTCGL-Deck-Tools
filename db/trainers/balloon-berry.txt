@@ -1,0 +1,8 @@
+name:- Balloon Berry
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Castaway|0.92, Stantler|0.39, Lanette's Net Search|0.26, Lightning Energy|0.03, Rayquaza ex|0.34, Scott|0.67, Mr. Briney's Compassion|0.68, Groudon ex|0.71, Pokémon Retriever|0.13, Psychic Energy|0.00
+bow_drivers:- energy_acceleration, discard, attach, zero_damage
+anti_meta:- N/A

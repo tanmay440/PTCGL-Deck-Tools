@@ -1,0 +1,8 @@
+name:- Deduction Kit
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Battle Cage|0.01, Beldum|0.05, Boss's Orders|0.00, Brock's Scouting|0.02, Buddy-Buddy Poffin|0.00, Dawn|0.00, Dialga|0.19, Dudunsparce|0.01, Dunsparce|0.01
+bow_drivers:- deck, put, look, shuffle
+anti_meta:- N/A

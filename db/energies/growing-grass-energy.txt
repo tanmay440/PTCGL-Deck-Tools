@@ -1,0 +1,8 @@
+name:- Growing Grass Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.04, Boss's Orders|0.04, Buddy-Buddy Poffin|0.06, Grass Energy|0.16, Switch|0.11, Poké Pad|0.03, Night Stretcher|0.02, Ultra Ball|0.02, Hero's Cape|0.24, Pokégear 3.0|0.10
+bow_drivers:- energy, hp, zero_damage, zero_retreat
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Lillie's Clefairy|1.00, Cynthia's Garchomp|1.00, Lopunny Dudunsparce|1.00, Metagross|1.00, Ogerpon Meganium Hydrapple|1.00, Ethan's Typhlosion|1.00, N's Zoroark|1.00, Alakazam Dudunsparce|1.00, Ursaluna Lunatone|1.00, Other|1.00, Starmie Dusknoir|1.00, Mega Greninja|1.00, Manectric Eelektrik|1.00, Slowking|1.00, Starmie Froslass|1.00, Hop's Trevenant|1.00, Beedrill|0.67, Crustle|0.62

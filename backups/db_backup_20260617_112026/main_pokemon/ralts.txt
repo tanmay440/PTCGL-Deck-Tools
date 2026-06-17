@@ -1,0 +1,8 @@
+name:- Ralts
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Kirlia|1.00, Psychic Energy|0.04, Rare Candy|0.06, Buddy-Buddy Poffin|0.03, Arven|0.24, Ultra Ball|0.02, Gardevoir ex|0.54, Iono|0.25, Gardevoir|0.47, Cresselia|0.44
+bow_drivers:- draw, cost_colorless, cost_psychic, zero_damage
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

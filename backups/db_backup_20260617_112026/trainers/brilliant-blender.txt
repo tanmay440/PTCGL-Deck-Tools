@@ -1,0 +1,8 @@
+name:- Brilliant Blender
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.00, Poké Pad|0.00, Ultra Ball|0.00, Boss's Orders|0.00, Fire Energy|0.01, Ceruledge ex|0.15, Charcadet|0.15, Fighting Energy|0.01, Fighting Gong|0.02, Lunatone|0.03
+bow_drivers:- search, discard, deck, shuffle
+anti_meta:- Dragapult Dusknoir|1.00, Dragapult Dudunsparce|1.00, Mega Lopunny|1.00, Mega Venusaur|1.00

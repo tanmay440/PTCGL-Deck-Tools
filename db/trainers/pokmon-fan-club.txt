@@ -1,0 +1,8 @@
+name:- Pokémon Fan Club
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Castaway|0.32, Cessation Crystal|0.37, Cursed Stone|0.32, Lightning Energy|0.01, Minun|0.80, Pow! Hand Extension|0.06, Rayquaza ex|0.13, Rocket's Admin.|0.05, Stantler|0.14, Crystal Beach|0.40
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

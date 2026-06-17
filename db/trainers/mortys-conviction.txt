@@ -1,0 +1,8 @@
+name:- Morty's Conviction
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.03, Boss's Orders|0.03, Poké Pad|0.02, Night Stretcher|0.02, Pokégear 3.0|0.08, Air Balloon|0.04, Buddy-Buddy Poffin|0.02, Prism Energy|0.29, Switch|0.05, Judge|0.05
+bow_drivers:- discard, draw, hand, opponent
+anti_meta:- Dragapult Blaziken|1.00, N's Zoroark|1.00, Other|1.00, Starmie Dusknoir|1.00, Rocket's Honchkrow|1.00, Dragapult Dusknoir|1.00, Starmie Froslass|1.00, Dragapult Dudunsparce|1.00, Beedrill|1.00, Slowking|0.75

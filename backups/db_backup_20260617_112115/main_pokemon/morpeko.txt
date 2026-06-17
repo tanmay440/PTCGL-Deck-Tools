@@ -1,0 +1,8 @@
+name:- Morpeko
+type:- Darkness
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- AZ's Tranquility|0.00, Adversity Policy|0.02, Battle Cage|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Canari|0.00, Clemont's Quick Wit|0.08, Colress's Tenacity|0.00, Crushing Hammer|0.00, Dawn|0.00
+bow_drivers:- cost_colorless, attack, damage, energy
+anti_meta:- N/A

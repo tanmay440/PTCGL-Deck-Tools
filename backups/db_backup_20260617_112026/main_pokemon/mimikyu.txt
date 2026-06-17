@@ -1,0 +1,8 @@
+name:- Mimikyu
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.01, Float Stone|0.21, Guzma|0.14, Hisuian Heavy Ball|0.18, Nest Ball|0.16, Teammates|0.33, VS Seeker|0.13, Lillie's Determination|0.01, Arven|0.11, Buddy-Buddy Poffin|0.01
+bow_drivers:- opponent, attack, cost_psychic, cost_colorless
+anti_meta:- N/A

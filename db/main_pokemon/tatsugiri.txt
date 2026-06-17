@@ -1,0 +1,8 @@
+name:- Tatsugiri
+type:- Dragon
+modifiers:- ex, rule_box
+type_requirement:- Darkness, Fire, Water
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.03, Boss's Orders|0.03, Poké Pad|0.03, Night Stretcher|0.03, Buddy-Buddy Poffin|0.04, Special Red Card|0.04, Darkness Energy|0.06, Munkidori|0.06, Ultra Ball|0.02, Yveltal|0.25
+bow_drivers:- opponent, damage, deck, bench
+anti_meta:- Raging Bolt Ogerpon|1.00, Froslass Dudunsparce|1.00, Ethan's Typhlosion|1.00, Rocket's Spidops|1.00, Slowking|1.00, Mega Greninja|1.00, Other|1.00, Alakazam Dudunsparce|0.67, Dragapult Dusknoir|0.67

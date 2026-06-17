@@ -1,0 +1,8 @@
+name:- Nidoqueen
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Nidoran ♀|1.00, Rare Candy|0.00, Nidorina|0.94, Azelf|0.07, Baltoy|0.07, Bebe's Search|0.06, Claydol|0.08, Dusknoir|0.01, Duskull|0.01, Expert Belt|0.07
+bow_drivers:- high_damage, cost_darkness, bench, attack
+anti_meta:- Bombtar|1.00

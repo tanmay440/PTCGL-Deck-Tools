@@ -1,0 +1,8 @@
+name:- Mega Heracross ex
+type:- Grass
+modifiers:- ex, mega, rule_box
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Grass Energy|0.00, Lillie's Determination|0.00, Teal Mask Ogerpon ex|0.00, Bug Catching Set|0.00, Forest of Vitality|0.00, Meowth ex|0.00, Night Stretcher|0.00, Ultra Ball|0.00, Wally's Compassion|0.00
+bow_drivers:- high_damage, discard, cost_grass, opponent
+anti_meta:- N/A

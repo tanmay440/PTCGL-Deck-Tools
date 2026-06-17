@@ -1,0 +1,8 @@
+name:- Seviper
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Darkness Energy|0.00, Fezandipiti ex|0.00, Team Rocket's Petrel|0.00, Toxel|0.09, Toxtricity|0.09, Carvanha|0.40, Mega Sharpedo ex|0.40, Pecharunt ex|0.01, Poké Pad|0.00
+bow_drivers:- high_damage, damage, opponent, weakness
+anti_meta:- Mega Greninja|1.00

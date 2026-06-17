@@ -1,0 +1,8 @@
+name:- Thwackey
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.04, Grookey|1.00, Lillie's Determination|0.04, Poké Pad|0.04, Buddy-Buddy Poffin|0.05, Night Stretcher|0.04, Goldeen|0.95, Air Balloon|0.11, Seaking|0.92, Shaymin|0.10
+bow_drivers:- search, deck, put, hand
+anti_meta:- Ethan's Typhlosion|1.00, N's Zoroark|1.00, Alakazam Dudunsparce|1.00, Ursaluna Lunatone|1.00, Other|1.00, Ogerpon Meganium|1.00, Beedrill|0.67, Crustle|0.62

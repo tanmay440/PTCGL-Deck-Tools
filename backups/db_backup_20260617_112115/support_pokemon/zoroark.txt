@@ -1,0 +1,8 @@
+name:- Zoroark
+type:- Darkness
+modifiers:- ex, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Academy at Night|0.06, Kyurem|0.06, Latias ex|0.02, Lillie's Clefairy ex|0.01, Lillie's Determination|0.00, Metagross|0.04, Night Stretcher|0.00, Poké Pad|0.00, Psychic Energy|0.01, Slowking|0.06
+bow_drivers:- discard, draw, hand, cost_darkness
+anti_meta:- Sylveon|1.00, Greninja|1.00, Steven's Metagross|1.00, Starmie Froslass|1.00, Basic Box|1.00, Beedrill|1.00, Rocket's Mewtwo|1.00, Raging Bolt Ogerpon|0.67, Dragapult|0.67, Alakazam Dudunsparce|0.60

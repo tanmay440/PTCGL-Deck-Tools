@@ -1,0 +1,8 @@
+name:- Flygon ex
+type:- Fighting
+modifiers:- ex, rule_box
+type_requirement:- Fighting, Metal, Water
+properties:- N/A
+commonly_found_with:- Flygon|0.26, Holon Adventurer|0.01, Holon Mentor|0.01, Holon Scientist|0.01, Holon Transceiver|0.01, Holon's Castform|0.02, Pidgeot|0.02, Pidgey|0.01, Pokémon Retriever|0.01, Psychic Energy|0.00
+bow_drivers:- high_damage, damage, opponent, attack
+anti_meta:- N/A

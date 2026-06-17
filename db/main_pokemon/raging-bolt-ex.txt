@@ -1,0 +1,8 @@
+name:- Raging Bolt ex
+type:- Dragon
+modifiers:- ex, ancient, rule_box
+type_requirement:- Fighting, Lightning
+properties:- N/A
+commonly_found_with:- Crispin|0.11, Fighting Energy|0.23, Lightning Energy|0.51, Ultra Ball|0.05, Grass Energy|0.18, Night Stretcher|0.04, Teal Mask Ogerpon ex|0.33, Fezandipiti ex|0.06, Latias ex|0.21, Boss's Orders|0.04
+bow_drivers:- discard, draw, hand, energy
+anti_meta:- Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Lucario Hariyama|1.00, Metagross|1.00, Starmie Froslass|1.00, Beedrill|1.00, Mega Lucario|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Alakazam Dudunsparce|1.00, Dragapult Dusknoir|0.83

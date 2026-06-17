@@ -1,0 +1,8 @@
+name:- Wishiwashi
+type:- Water
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arctibax|1.00, Arven|0.02, Ball Guy|0.08, Baxcalibur|0.25, Brooklet Hill|0.18, Buddy-Buddy Poffin|0.00, Capacious Bucket|0.17, Dive Ball|0.20, Drizzile|0.20, Earthen Vessel|0.08
+bow_drivers:- energy, hp, cost_colorless, attack
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Grimsley's Move
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Darkness Energy|0.01, Lillie's Determination|0.00, Buddy-Buddy Poffin|0.01, Ultra Ball|0.00, Boss's Orders|0.00, Cinderace|0.40, Academy at Night|0.04, Mega Signal|0.11, Switch|0.01, Ciphermaniac's Codebreaking|0.02
+bow_drivers:- deck, put, look, bench
+anti_meta:- Mega Greninja|1.00

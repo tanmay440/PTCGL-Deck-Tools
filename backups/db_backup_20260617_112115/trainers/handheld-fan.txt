@@ -1,0 +1,8 @@
+name:- Handheld Fan
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.09, Buddy-Buddy Poffin|0.10, Poké Pad|0.08, Night Stretcher|0.07, Hilda|0.23, Psychic Energy|0.11, Dawn|0.16, Fezandipiti ex|0.07, Lillie's Determination|0.05, Rare Candy|0.13
+bow_drivers:- energy_acceleration, attach, opponent, attack
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Slowking|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Metagross|1.00, Starmie Dusknoir|1.00, Joltik Box|1.00, Toxtricity|1.00, Beedrill|1.00, Cynthia's Garchomp|1.00, Hop's Trevenant|1.00, Other|1.00, Starmie Froslass|1.00, Dragapult Dudunsparce|1.00

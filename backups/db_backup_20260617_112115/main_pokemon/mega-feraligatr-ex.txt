@@ -1,0 +1,8 @@
+name:- Mega Feraligatr ex
+type:- Water
+modifiers:- ex, mega, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Cook|0.05, Crispin|0.00, Darkness Energy|0.00, Handheld Fan|0.00, Jumbo Ice Cream|0.00, Lillie's Determination|0.00, Mega Signal|0.00, Meowth ex|0.00
+bow_drivers:- high_damage, opponent, damage, prize
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Dual Ball
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Balloon Berry|0.01, Battle Frontier|0.46, Castaway|0.01, Crystal Beach|0.01, Cyclone Energy|0.00, Electrike|0.01, Giant Stump|0.00, Holon Mentor|0.00, Holon's Electrode|0.04, Holon's Voltorb|0.00
+bow_drivers:- search, deck, opponent, put
+anti_meta:- N/A

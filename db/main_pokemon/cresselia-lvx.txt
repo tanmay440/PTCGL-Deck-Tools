@@ -1,0 +1,8 @@
+name:- Cresselia LV.X
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Azelf|0.13, Baltoy|0.14, Bebe's Search|0.12, Claydol|0.15, Cresselia|0.09, Dusclops|0.01, Dusknoir|0.01, Duskull|0.01, Expert Belt|0.13, Gastly|0.34
+bow_drivers:- attack, damage, opponent, cost_psychic
+anti_meta:- N/A

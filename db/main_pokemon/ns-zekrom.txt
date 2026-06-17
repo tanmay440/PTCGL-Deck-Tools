@@ -1,0 +1,8 @@
+name:- N's Zekrom
+type:- Dragon
+modifiers:- N's
+type_requirement:- Fire, Lightning
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.05, Buddy-Buddy Poffin|0.07, Cyrano|0.39, Darkness Energy|0.12, Lillie's Determination|0.05, N's Castle|0.99, N's Zoroark ex|0.99, N's Zorua|0.99, Night Stretcher|0.05, Poké Pad|0.05
+bow_drivers:- high_damage, cost_colorless, cost_lightning, attack
+anti_meta:- Raging Bolt Ogerpon|1.00, Froslass Dudunsparce|1.00, Ethan's Typhlosion|1.00, Rocket's Spidops|1.00, Slowking|1.00, Mega Greninja|1.00, Alakazam Dudunsparce|0.67, Dragapult Dusknoir|0.67

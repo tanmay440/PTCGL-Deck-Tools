@@ -1,0 +1,8 @@
+name:- Team Magma's Numel
+type:- Fire
+modifiers:- Team Magma's
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.05, Holon Mentor|0.05, Holon Scientist|0.06, Holon Transceiver|0.05, Holon's Castform|0.08, Holon's Magnemite|0.12, Jirachi|0.07, Pidgeot|0.07, Pidgeotto|0.06, Pidgey|0.04
+bow_drivers:- discard, energy, cost_fire, cost_colorless
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

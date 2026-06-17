@@ -1,0 +1,8 @@
+name:- Celio's Network
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Double Rainbow Energy|0.50, Grass Energy|0.00, Grovyle|0.10, Holon Adventurer|0.03, Holon Mentor|0.03, Holon Scientist|0.03, Holon Transceiver|0.03, Holon's Electrode|0.87, Holon's Voltorb|0.08, Mr. Briney's Compassion|0.16
+bow_drivers:- discard, search, put, deck
+anti_meta:- Bombtar|1.00

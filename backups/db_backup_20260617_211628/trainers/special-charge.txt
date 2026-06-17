@@ -1,0 +1,8 @@
+name:- Special Charge
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.07, Iono|0.07, Ultra Ball|0.00, VS Seeker|0.07, Arven|0.04, Buddy-Buddy Poffin|0.00, Double Colorless Energy|0.19, Evolution Incense|0.08, Float Stone|0.08, Field Blower|0.06
+bow_drivers:- discard, shuffle, energy, deck
+anti_meta:- N/A

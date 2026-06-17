@@ -1,0 +1,8 @@
+name:- Avery
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.09, Buddy-Buddy Poffin|0.01, Counter Energy|0.52, Evolution Incense|0.18, Field Blower|0.15, Float Stone|0.17, Guzma|0.11, Guzma & Hala|0.23, Hex Maniac|0.38, Hisuian Heavy Ball|0.14
+bow_drivers:- draw, opponent, bench, zero_damage
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Sylveon
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.01, Eevee|0.56, Lillie's Determination|0.00, Psychic Energy|0.01, Team Rocket's Petrel|0.01, Pokégear 3.0|0.02, Hero's Cape|0.04, Xerosic's Machinations|0.05, Crispin|0.01
+bow_drivers:- unknown
+anti_meta:- N/A

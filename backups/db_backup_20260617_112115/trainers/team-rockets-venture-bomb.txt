@@ -1,0 +1,8 @@
+name:- Team Rocket's Venture Bomb
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.01, Boss's Orders|0.00, Crispin|0.01, Darkness Energy|0.01, Energy Switch|0.02, Fighting Energy|0.01, Munkidori|0.01, Night Stretcher|0.00, Poké Pad|0.00, Team Rocket's Petrel|0.01
+bow_drivers:- put, damage, opponent, zero_damage
+anti_meta:- N/A

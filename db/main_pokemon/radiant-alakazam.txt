@@ -1,0 +1,8 @@
+name:- Radiant Alakazam
+type:- Psychic
+modifiers:- radiant
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Arven|0.08, Boss's Orders|0.01, Buddy-Buddy Poffin|0.01, Budew|0.01, Counter Catcher|0.24, Dragapult ex|0.02, Drakloak|0.02, Dreepy|0.02, Earthen Vessel|0.33, Fezandipiti ex|0.01
+bow_drivers:- damage, opponent, attack, hand
+anti_meta:- N/A

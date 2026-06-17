@@ -1,0 +1,8 @@
+name:- Gengar
+type:- Darkness
+modifiers:- ex, mega, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Rare Candy|0.01, Luxury Ball|0.21, Gastly|0.57, Haunter|0.57, Buddy-Buddy Poffin|0.00, Darkness Energy|0.01, Poké Pad|0.00, Azelf|0.19, Baltoy|0.20, Bebe's Search|0.17
+bow_drivers:- high_damage, opponent, prize, damage
+anti_meta:- N/A

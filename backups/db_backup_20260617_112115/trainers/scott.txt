@@ -1,0 +1,8 @@
+name:- Scott
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Banette|0.55, Banette ex|1.00, Crystal Beach|1.00, Cyclone Energy|0.25, Desert Ruins|0.54, Energy Removal 2|1.00, Hitmontop|1.00, Holon Adventurer|0.10, Holon Mentor|0.10, Holon Scientist|0.10
+bow_drivers:- discard, search, put, deck
+anti_meta:- N/A

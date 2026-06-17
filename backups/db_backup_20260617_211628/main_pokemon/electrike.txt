@@ -1,0 +1,8 @@
+name:- Electrike
+type:- Lightning
+modifiers:- N/A
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Buddy-Buddy Poffin|0.01, Canari|0.53, Lightning Energy|0.07, Lillie's Determination|0.01, Mega Manectric ex|1.00, Ultra Ball|0.01, Air Balloon|0.02, Eelektrik|0.53, Tynamo|0.53
+bow_drivers:- damage, cost_lightning
+anti_meta:- Steven's Metagross|1.00, N's Zoroark|1.00

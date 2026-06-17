@@ -1,0 +1,8 @@
+name:- R Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Dark Dragonair|1.00, Dark Dragonite|1.00, Dark Electrode|1.00, Dark Metal Energy|0.05, Darkness Energy|0.00, Dratini|0.02, Holon Adventurer|0.00, Holon Mentor|0.00, Holon Scientist|0.00, Holon Transceiver|0.00
+bow_drivers:- energy, discard, attack, damage
+anti_meta:- N/A

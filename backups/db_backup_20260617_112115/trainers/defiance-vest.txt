@@ -1,0 +1,8 @@
+name:- Defiance Vest
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.06, Bloodmoon Ursaluna ex|0.13, Boss's Orders|0.00, Buddy-Buddy Poffin|0.01, Budew|0.01, Counter Catcher|0.18, Crispin|0.01, Darkness Energy|0.01, Dragapult ex|0.02, Drakloak|0.02
+bow_drivers:- energy_acceleration, opponent, attach, prize
+anti_meta:- N/A

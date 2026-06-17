@@ -1,0 +1,8 @@
+name:- Firebreather
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Dawn|0.01, Fire Energy|0.01, Lillie's Determination|0.00, Poké Pad|0.00, Rare Candy|0.01, Ultra Ball|0.00, Energy Recycler|0.05, Air Balloon|0.01, Charmander|0.39, Charmeleon|0.39
+bow_drivers:- search, deck, energy, put
+anti_meta:- N/A

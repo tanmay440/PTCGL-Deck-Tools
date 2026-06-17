@@ -1,0 +1,8 @@
+name:- Lumiose Galette
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Boss's Orders|0.00, Bubbly Water Energy|0.04, Buddy-Buddy Poffin|0.00, Carmine|0.01, Energy Recycler|0.01, Great Haul Net|0.07, Kofu|0.04, Lana's Aid|0.00, Lillie's Determination|0.00
+bow_drivers:- heal, damage, zero_damage, zero_retreat
+anti_meta:- N/A

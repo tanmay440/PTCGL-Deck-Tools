@@ -1,0 +1,8 @@
+name:- Voltorb
+type:- Lightning
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Electrode ex|1.00, Pow! Hand Extension|0.46, Rocket's Admin.|0.38, Windstorm|0.44, Scramble Energy|0.83, Holon Adventurer|0.29, Holon Mentor|0.29, Holon Scientist|0.29, Holon Transceiver|0.29, Jirachi|0.32
+bow_drivers:- cost_colorless, attack, damage, energy
+anti_meta:- N/A

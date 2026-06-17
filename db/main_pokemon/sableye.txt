@@ -1,0 +1,8 @@
+name:- Sableye
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Psychic Energy|0.01, Jet Energy|0.31, Nest Ball|0.09, Super Rod|0.17, Darkness Energy|0.01, Basic Water Energy|0.40, Colress's Experiment|0.40, Comfey|0.40, Cramorant|0.40, Escape Rope|0.19
+bow_drivers:- bench, attack, damage, cost_darkness
+anti_meta:- Gyarados|1.00

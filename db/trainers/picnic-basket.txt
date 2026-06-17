@@ -1,0 +1,8 @@
+name:- Picnic Basket
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.04, Buddy-Buddy Poffin|0.00, Counter Catcher|0.12, Psychic Energy|0.00, Technical Machine: Evolution|0.26, Battle Compressor|0.18, Chimecho|0.67, Field Blower|0.04, Float Stone|0.05, Fog Crystal|0.11
+bow_drivers:- heal, damage, opponent, zero_damage
+anti_meta:- N/A

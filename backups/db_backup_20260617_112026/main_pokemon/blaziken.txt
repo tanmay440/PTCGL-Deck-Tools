@@ -1,0 +1,8 @@
+name:- Blaziken
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.02, Combusken|0.23, Fire Energy|0.05, Lillie's Determination|0.01, Night Stretcher|0.01, Poké Pad|0.02, Rare Candy|0.04, Torchic|0.23, Ultra Ball|0.02, Blaziken ex|0.21
+bow_drivers:- high_damage, discard, cost_colorless, cost_fire
+anti_meta:- N/A

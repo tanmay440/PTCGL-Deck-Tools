@@ -1,0 +1,8 @@
+name:- Lusamine
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.19, VS Seeker|0.18, Trainers' Mail|0.41, Hisuian Heavy Ball|0.19, Arven|0.13, Nest Ball|0.17, Float Stone|0.21, Field Blower|0.16, U-Turn Board|0.25, Rescue Stretcher|0.16
+bow_drivers:- discard, opponent, prize, damage
+anti_meta:- N/A

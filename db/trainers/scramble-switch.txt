@@ -1,0 +1,8 @@
+name:- Scramble Switch
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.00, Switch|0.02, Psychic Energy|0.01, Grass Energy|0.02, Ultra Ball|0.00, Team Rocket's Petrel|0.01, Team Rocket's Articuno|0.04, Team Rocket's Archer|0.07, Team Rocket's Ariana|0.07, Team Rocket's Energy|0.06
+bow_drivers:- switch, energy, bench, deck
+anti_meta:- N/A

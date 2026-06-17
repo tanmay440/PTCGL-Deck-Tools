@@ -1,0 +1,8 @@
+name:- Chatot
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Aaron's Collection|0.31, Ambipom G|0.96, Azelf|0.10, Bebe's Search|0.09, Bronzong G|0.31, Call Energy|0.12, Crobat G|0.19, Cyrus's Conspiracy|0.27, Dialga G|0.44, Dialga G LV.X|0.44
+bow_drivers:- search, deck, cost_colorless, put
+anti_meta:- N/A

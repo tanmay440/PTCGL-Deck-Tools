@@ -1,0 +1,8 @@
+name:- Captivating Poké Puff
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Bellelba & Brycen-Man|0.05, Camping Gear|0.33, Chaotic Swell|0.05, Crushing Hammer|0.00, Cynthia & Caitlin|0.02, Double Colorless Energy|0.02, Echoing Horn|1.00, Energy Loto|1.00, Energy Swatter|0.75, Enhanced Hammer|0.00
+bow_drivers:- opponent, hand, put, bench
+anti_meta:- N/A

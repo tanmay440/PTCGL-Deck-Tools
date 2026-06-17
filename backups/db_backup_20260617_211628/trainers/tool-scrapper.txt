@@ -1,0 +1,8 @@
+name:- Tool Scrapper
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.04, Boss's Orders|0.04, Lillie's Determination|0.03, Grass Energy|0.12, Buddy-Buddy Poffin|0.04, Poké Pad|0.03, Shaymin|0.08, Lana's Aid|0.11, Bug Catching Set|0.16, Applin|0.31
+bow_drivers:- discard, opponent, zero_damage, zero_retreat
+anti_meta:- Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Rocket's Mewtwo|1.00, Mega Greninja|1.00, Alakazam Dudunsparce|1.00, Raging Bolt Ogerpon|1.00, N's Zoroark|1.00, Ursaluna Lunatone|1.00, Rocket's Honchkrow|1.00, Dragapult Blaziken|1.00, Dragapult Dusknoir|0.83

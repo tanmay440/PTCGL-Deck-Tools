@@ -1,0 +1,8 @@
+name:- δ Rainbow Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.46, Holon Mentor|0.46, Holon Transceiver|0.46, Holon's Castform|0.70, Pokémon Retriever|0.54, Rare Candy|0.02, Rocket's Admin.|0.42, Pidgeot|0.58, Pidgey|0.36, Warp Point|0.39
+bow_drivers:- energy_acceleration, energy, attach, hand
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

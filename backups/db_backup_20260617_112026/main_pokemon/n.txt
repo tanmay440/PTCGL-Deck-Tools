@@ -1,0 +1,8 @@
+name:- N
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Guzma|0.35, VS Seeker|0.33, Float Stone|0.51, Field Blower|0.41, Arven|0.26, Nest Ball|0.33, Iono|0.27, Hisuian Heavy Ball|0.36, Marnie|0.54, Rescue Stretcher|0.38
+bow_drivers:- cost_colorless, cost_fire
+anti_meta:- N/A

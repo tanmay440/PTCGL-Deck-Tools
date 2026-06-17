@@ -1,0 +1,8 @@
+name:- Forest Seal Stone
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Iono|0.27, Lumineon V|0.81, Arven|0.22, Nest Ball|0.28, Guzma|0.21, VS Seeker|0.20, Budew|0.03, Fezandipiti ex|0.02, Buddy-Buddy Poffin|0.01, Field Blower|0.23
+bow_drivers:- energy_acceleration, search, deck, put
+anti_meta:- N/A

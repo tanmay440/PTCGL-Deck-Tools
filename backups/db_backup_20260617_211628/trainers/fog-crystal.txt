@@ -1,0 +1,8 @@
+name:- Fog Crystal
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.21, Psychic Energy|0.02, VS Seeker|0.21, Lillie's Determination|0.01, Rescue Stretcher|0.28, Telepathic Psychic Energy|0.05, Buddy-Buddy Poffin|0.01, Field Blower|0.18, Float Stone|0.21, Kirlia|0.28
+bow_drivers:- search, deck, energy, put
+anti_meta:- N/A

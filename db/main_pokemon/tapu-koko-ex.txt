@@ -1,0 +1,8 @@
+name:- Tapu Koko ex
+type:- Lightning
+modifiers:- ex, rule_box
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Area Zero Underdepths|0.11, Boss's Orders|0.01, Fezandipiti ex|0.02, Latias ex|0.06, Lillie's Clefairy ex|0.05, Mega Kangaskhan ex|0.08, Meowth ex|0.02, Ultra Ball|0.01, Energy Switch|0.11, Grass Energy|0.05
+bow_drivers:- attack, damage, opponent, prize
+anti_meta:- Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Rocket's Mewtwo|1.00, Alakazam Dudunsparce|1.00, Dragapult Dusknoir|0.83

@@ -1,0 +1,8 @@
+name:- Double Colorless Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.26, VS Seeker|0.25, Rescue Stretcher|0.24, Stealthy Hood|0.55, Lillie's Determination|0.01, Trainers' Mail|0.35, Iono|0.13, Nest Ball|0.15, Megaton Blower|0.46, Team Flare Grunt|0.46
+bow_drivers:- energy, zero_damage, zero_retreat
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Lucian's Assignment
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Azelf|0.34, Azelf LV.X|0.99, Baltoy|0.35, Bebe's Search|0.31, Call Energy|0.41, Claydol|0.40, Darkness Energy|0.01, Dusclops|0.04, Dusknoir|0.04, Duskull|0.04
+bow_drivers:- discard, put, energy, zero_damage
+anti_meta:- N/A

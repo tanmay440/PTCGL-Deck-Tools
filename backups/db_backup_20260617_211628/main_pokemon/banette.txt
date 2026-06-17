@@ -1,0 +1,8 @@
+name:- Banette
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Psychic Energy|0.00, Shuppet|1.00, Banette ex|0.55, Crystal Beach|0.55, Cyclone Energy|0.25, Desert Ruins|0.54, Energy Removal 2|0.55, Hitmontop|0.55, Holon Adventurer|0.10, Holon Mentor|0.10
+bow_drivers:- cost_psychic, opponent, hand, deck
+anti_meta:- N/A

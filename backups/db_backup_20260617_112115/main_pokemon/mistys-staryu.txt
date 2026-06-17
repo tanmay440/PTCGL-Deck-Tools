@@ -1,0 +1,8 @@
+name:- Misty's Staryu
+type:- Water
+modifiers:- Misty's
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Misty's Starmie|1.00, Night Stretcher|0.00, Poké Pad|0.00, Water Energy|0.02, Ultra Ball|0.00, Pokégear 3.0|0.01, Boss's Orders|0.00, Great Haul Net|0.17, Lana's Aid|0.01
+bow_drivers:- opponent, cost_water
+anti_meta:- N/A

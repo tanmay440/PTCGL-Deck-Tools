@@ -1,0 +1,8 @@
+name:- Pokémon Rescue
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Azelf|0.19, Bebe's Search|0.18, Crobat G|0.37, Felicity's Drawing|0.76, Luxury Ball|0.12, Roseanne's Research|0.18, Unown [Q]|0.38, Uxie|0.17, Expert Belt|0.18, Regice|0.87
+bow_drivers:- search, discard, opponent, put
+anti_meta:- N/A

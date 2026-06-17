@@ -1,0 +1,8 @@
+name:- Basic Water Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Radiant Greninja|0.77, Arven|0.05, Baxcalibur|0.50, Bibarel|0.50, Bidoof|0.50, Buddy-Buddy Poffin|0.00, Chien-Pao ex|0.50, Frigibax|0.50, Irida|0.23, Rare Candy|0.01
+bow_drivers:- zero_damage, zero_retreat
+anti_meta:- Miraidon ex / Sandy Shocks|0.88, Charizard ex / Pidgeot ex|0.72, Gardevoir ex / Drifloon|0.56

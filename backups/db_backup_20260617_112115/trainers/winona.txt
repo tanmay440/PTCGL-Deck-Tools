@@ -1,0 +1,8 @@
+name:- Winona
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Field Blower|0.13, Guzma|0.10, Hisuian Heavy Ball|0.12, Iono|0.09, Quick Ball|0.18, Recycle Energy|0.70, Rescue Stretcher|0.14, Ultra Ball|0.01, VS Seeker|0.09, Artazon|0.28
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

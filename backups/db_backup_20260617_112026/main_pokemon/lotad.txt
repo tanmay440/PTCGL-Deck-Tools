@@ -1,0 +1,8 @@
+name:- Lotad
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Bubbly Water Energy|0.00, Buddy-Buddy Poffin|0.00, Crushing Hammer|0.00, Enhanced Hammer|0.00, Explorer's Guidance|0.00, Froakie|0.00, Froslass|0.00, Greninja ex|0.00, Hilda|0.00
+bow_drivers:- cost_grass, cost_colorless
+anti_meta:- N/A

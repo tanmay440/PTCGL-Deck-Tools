@@ -1,0 +1,8 @@
+name:- Yamask
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Ange Floette|0.98, Boss's Orders|0.00, Cofagrigus|0.32, Colress's Tenacity|0.02, Deoxys|0.20, Fezandipiti ex|0.00, Hero's Cape|0.01, Jacinthe|0.25, Jumbo Ice Cream|0.03, Latias ex|0.01
+bow_drivers:- attack, damage, cost_psychic, cost_colorless
+anti_meta:- N/A

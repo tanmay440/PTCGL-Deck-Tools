@@ -1,0 +1,8 @@
+name:- Irida
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Chien-Pao ex|0.87, Buddy-Buddy Poffin|0.02, Iono|0.21, Arven|0.19, Ultra Ball|0.01, Night Stretcher|0.01, Budew|0.03, Manaphy|0.55, Guzma|0.16, VS Seeker|0.16
+bow_drivers:- search, deck, put, hand
+anti_meta:- Miraidon ex / Sandy Shocks|0.88, Charizard ex / Pidgeot ex|0.72, Gardevoir ex / Drifloon|0.56

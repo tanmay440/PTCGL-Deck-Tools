@@ -1,0 +1,8 @@
+name:- Surfer
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.07, Poké Pad|0.06, Night Stretcher|0.06, Ultra Ball|0.06, Meowth ex|0.07, Fezandipiti ex|0.06, Lana's Aid|0.18, Switch|0.15, Dawn|0.11, Psychic Energy|0.07
+bow_drivers:- draw, switch, hand, zero_damage
+anti_meta:- Sylveon|1.00, Greninja|1.00, Dragapult|1.00, Steven's Metagross|1.00, Starmie Froslass|1.00, Basic Box|1.00, Beedrill|1.00, Rocket's Mewtwo|1.00, Mega Greninja|1.00, Festival Lead|1.00, Lillie's Clefairy|1.00, N's Zoroark|1.00, Archaludon|1.00, Metagross|1.00, Future Thorns|1.00, Raging Bolt Ogerpon|0.67

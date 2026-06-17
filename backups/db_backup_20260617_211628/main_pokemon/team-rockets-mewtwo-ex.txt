@@ -1,0 +1,8 @@
+name:- Team Rocket's Mewtwo ex
+type:- Psychic
+modifiers:- Team Rocket's, ex, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Grass Energy|0.07, Night Stretcher|0.02, Team Rocket's Ariana|0.32, Team Rocket's Articuno|0.20, Team Rocket's Energy|0.29, Team Rocket's Factory|0.21, Team Rocket's Giovanni|0.32, Team Rocket's Mimikyu|0.67, Team Rocket's Petrel|0.06, Team Rocket's Spidops|1.00
+bow_drivers:- high_damage, discard, attack, cost_psychic
+anti_meta:- Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Lucario|1.00, Mega Greninja|1.00, Decidueye|1.00

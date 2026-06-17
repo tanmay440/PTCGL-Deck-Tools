@@ -1,0 +1,8 @@
+name:- Brooklet Hill
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.12, Float Stone|0.21, Guzma|0.13, Ultra Ball|0.01, VS Seeker|0.13, Iono|0.11, Rare Candy|0.02, Ball Guy|0.35, Field Blower|0.14, Hisuian Heavy Ball|0.14
+bow_drivers:- search, discard, deck, put
+anti_meta:- N/A

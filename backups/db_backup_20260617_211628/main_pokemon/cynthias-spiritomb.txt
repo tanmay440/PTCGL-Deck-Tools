@@ -1,0 +1,8 @@
+name:- Cynthia's Spiritomb
+type:- Darkness
+modifiers:- Cynthia's
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Buddy-Buddy Poffin|0.02, Cynthia's Gabite|0.98, Cynthia's Garchomp ex|0.98, Cynthia's Gible|0.98, Cynthia's Power Weight|0.98, Cynthia's Roselia|0.99, Cynthia's Roserade|0.98, Fighting Energy|0.07, Fighting Gong|0.11
+bow_drivers:- damage, attack, weakness, cost_colorless
+anti_meta:- Metagross|1.00

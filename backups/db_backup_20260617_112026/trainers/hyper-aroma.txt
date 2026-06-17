@@ -1,0 +1,8 @@
+name:- Hyper Aroma
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Lillie's Determination|0.00, Boss's Orders|0.00, Poké Pad|0.00, Fezandipiti ex|0.00, Night Stretcher|0.00, Darkness Energy|0.00, Yveltal|0.01, Judge|0.00, Munkidori|0.00
+bow_drivers:- search, deck, put, hand
+anti_meta:- Steven's Metagross|1.00, N's Zoroark|1.00

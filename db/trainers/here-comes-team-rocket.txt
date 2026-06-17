@@ -1,0 +1,8 @@
+name:- Here Comes Team Rocket!
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Blastoise|0.79, Gardevoir|0.01, Gardevoir ex|0.01, Giant Stump|0.02, Holon Adventurer|0.01, Holon Mentor|0.01, Holon Researcher|0.02, Holon Transceiver|0.01, Holon's Castform|0.02, Holon's Magnemite|0.02
+bow_drivers:- prize, zero_damage, mod_rule_box, zero_retreat
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

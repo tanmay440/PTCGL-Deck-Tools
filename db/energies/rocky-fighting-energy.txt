@@ -1,0 +1,8 @@
+name:- Rocky Fighting Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.05, Boss's Orders|0.05, Fighting Energy|0.26, Fighting Gong|0.43, Premium Power Pro|0.62, Poké Pad|0.05, Ultra Ball|0.04, Night Stretcher|0.03, Mega Lucario ex|0.61, Riolu|0.61
+bow_drivers:- energy, opponent, damage, zero_damage
+anti_meta:- Mega Venusaur|1.00, Dragapult Blaziken|1.00, Festival Lead|1.00, Sylveon|1.00, Mega Gengar|1.00, Alakazam Dudunsparce|1.00, Mega Greninja|1.00, Doublade|1.00, Ethan's Magcargo|1.00, Metagross|1.00

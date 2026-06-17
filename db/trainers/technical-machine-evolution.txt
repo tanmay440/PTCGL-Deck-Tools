@@ -1,0 +1,8 @@
+name:- Technical Machine: Evolution
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.16, Night Stretcher|0.01, Ultra Ball|0.01, Buddy-Buddy Poffin|0.01, Counter Catcher|0.35, Hisuian Heavy Ball|0.16, Iono|0.12, Psychic Energy|0.01, Guzma|0.10, Darkness Energy|0.01
+bow_drivers:- energy_acceleration, search, discard, deck
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Jellicent ex
+type:- Psychic
+modifiers:- ex, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Frillish|0.64, Lillie's Determination|0.01, Psychic Energy|0.02, Telepathic Psychic Energy|0.04, Boss's Orders|0.01, Ultra Ball|0.01, Latias ex|0.02, Lillie's Clefairy ex|0.02, Judge|0.02, Meowth ex|0.01
+bow_drivers:- opponent, hand, attack, energy
+anti_meta:- Ogerpon Meganium Arboliva|1.00, Raging Bolt Ogerpon|1.00

@@ -1,0 +1,8 @@
+name:- Poltchageist
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Bug Catching Set|0.06, Grass Energy|0.03, Lillie's Determination|0.01, Sinistcha|1.00, Sinistcha ex|1.00, Teal Mask Ogerpon ex|0.06, Night Stretcher|0.01, Poké Pad|0.01, Iris's Fighting Spirit|0.69
+bow_drivers:- bench, damage, opponent, cost_grass
+anti_meta:- N/A

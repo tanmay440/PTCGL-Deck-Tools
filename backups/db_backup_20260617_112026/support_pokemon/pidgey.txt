@@ -1,0 +1,8 @@
+name:- Pidgey
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rare Candy|0.04, Buddy-Buddy Poffin|0.01, Pidgeot|0.55, Pidgeotto|0.51, VS Seeker|0.15, Arven|0.13, Evolution Incense|0.24, Guzma|0.15, Guzma & Hala|0.31, Poké Pad|0.01
+bow_drivers:- search, cost_colorless, deck, put
+anti_meta:- Bombtar|1.00, Bombchamp|1.00, Gardevoir ex / Drifloon|0.68

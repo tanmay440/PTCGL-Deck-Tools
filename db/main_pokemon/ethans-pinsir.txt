@@ -1,0 +1,8 @@
+name:- Ethan's Pinsir
+type:- Grass
+modifiers:- Ethan's
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Brave Bangle|0.00, Energy Retrieval|0.00, Energy Swatter|0.16, Ethan's Adventure|0.00, Ethan's Cyndaquil|0.00, Ethan's Ho-Oh ex|0.64, Ethan's Magcargo|1.00, Ethan's Quilava|0.00, Ethan's Slugma|1.00
+bow_drivers:- cost_colorless, damage, attack, opponent
+anti_meta:- N/A

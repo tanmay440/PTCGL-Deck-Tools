@@ -1,0 +1,8 @@
+name:- Tapu Koko
+type:- Lightning
+modifiers:- N/A
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Canari|0.15, Eelektrik|0.16, Electrike|0.29, Lightning Energy|0.02, Lillie's Determination|0.00, Mega Manectric ex|0.29, Tynamo|0.16, Air Balloon|0.00
+bow_drivers:- high_damage, discard, draw, cost_lightning
+anti_meta:- N/A

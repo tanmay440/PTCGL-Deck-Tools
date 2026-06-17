@@ -1,0 +1,8 @@
+name:- Protection Cube
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Adventure Bag|1.00, Battle VIP Pass|0.03, Boost Shake|0.09, Crobat V|0.06, Dark Patch|0.07, Darkness Energy|0.00, Dedenne-GX|0.18, Field Blower|0.01, Float Stone|0.01, Forest Seal Stone|0.02
+bow_drivers:- energy_acceleration, attach, damage, attack
+anti_meta:- N/A

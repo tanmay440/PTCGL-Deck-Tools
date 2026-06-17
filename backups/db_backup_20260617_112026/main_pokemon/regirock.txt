@@ -1,0 +1,8 @@
+name:- Regirock
+type:- Fighting
+modifiers:- ex, rule_box
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Articuno-GX|0.97, Arven|0.03, Bunnelby|0.40, Capture Energy|0.19, Counter Catcher|0.09, Enhanced Hammer|0.03, Eri|0.09, Faba|0.28, Float Stone|0.06, Forest Seal Stone|0.11
+bow_drivers:- energy_acceleration, high_damage, discard, cost_colorless
+anti_meta:- N/A

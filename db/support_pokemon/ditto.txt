@@ -1,0 +1,8 @@
+name:- Ditto
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Holon's Magneton|0.97, Pidgeot|0.19, Pidgeotto|0.18, Pidgey|0.12, Rare Candy|0.01, Arven|0.03, Battle Compressor|0.18, Blend Energy GRPD|0.65, Buddy-Buddy Poffin|0.00, Canceling Cologne|0.65
+bow_drivers:- search, discard, deck, put
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

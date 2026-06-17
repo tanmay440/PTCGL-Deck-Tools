@@ -1,0 +1,8 @@
+name:- Mega Gallade ex
+type:- Fighting
+modifiers:- ex, mega, rule_box
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Bloodmoon Ursaluna|0.01, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Dudunsparce|0.00, Dunsparce|0.00, Fighting Energy|0.00, Fighting Gong|0.00, Kirlia|0.00, Lillie's Determination|0.00, Lunatone|0.00
+bow_drivers:- high_damage, cost_fighting, damage, attack
+anti_meta:- N/A

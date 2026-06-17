@@ -1,0 +1,8 @@
+name:- Clemont's Quick Wit
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Canari|0.01, Crushing Hammer|0.00, Lightning Energy|0.00, Lillie's Determination|0.00, Poké Pad|0.00, Special Red Card|0.00, Switch|0.00, Hero's Cape|0.00, Iron Crown ex|0.01, Iron Thorns|0.05
+bow_drivers:- heal, damage, zero_damage, zero_retreat
+anti_meta:- N/A

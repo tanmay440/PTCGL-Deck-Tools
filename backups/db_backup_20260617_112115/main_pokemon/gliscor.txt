@@ -1,0 +1,8 @@
+name:- Gliscor
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Azelf|0.00, Baltoy|0.00, Bebe's Search|0.00, Call Energy|0.00, Claydol|0.00, Crobat G|0.01, Cynthia's Feelings|0.02, Expert Belt|0.00, Fighting Energy|0.00, Gligar|1.00
+bow_drivers:- opponent, cost_fighting
+anti_meta:- N/A

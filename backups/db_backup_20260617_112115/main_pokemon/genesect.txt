@@ -1,0 +1,8 @@
+name:- Genesect
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Poké Pad|0.07, Boss's Orders|0.07, Night Stretcher|0.06, Buddy-Buddy Poffin|0.07, Hilda|0.20, Dudunsparce|0.24, Dunsparce|0.24, Psychic Energy|0.09, Telepathic Psychic Energy|0.26, Lana's Aid|0.21
+bow_drivers:- cost_grass, attack, damage, opponent
+anti_meta:- Metagross|1.00, Starmie Dusknoir|1.00, Joltik Box|1.00, Toxtricity|1.00, Beedrill|1.00, Cynthia's Garchomp|1.00, Hop's Trevenant|1.00, Starmie Froslass|1.00, Dragapult Dudunsparce|1.00, Slowking|0.75

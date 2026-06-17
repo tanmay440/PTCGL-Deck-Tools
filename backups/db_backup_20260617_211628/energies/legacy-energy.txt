@@ -1,0 +1,8 @@
+name:- Legacy Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.06, Night Stretcher|0.06, Poké Pad|0.06, Lillie's Determination|0.06, Ultra Ball|0.05, Water Energy|0.19, Buddy-Buddy Poffin|0.05, Hilda|0.13, Budew|0.08, Meowth ex|0.05
+bow_drivers:- energy, deck, damage, attack
+anti_meta:- Doublade|1.00, Mega Starmie|1.00, Dragapult|1.00, Festival Lead|1.00, Lillie's Clefairy|1.00, N's Zoroark|1.00, Rocket's Mewtwo|1.00, Cynthia's Garchomp|1.00, Dragapult Dusknoir|1.00, Dragapult Dudunsparce|1.00, Mega Lopunny|1.00, Mega Venusaur|1.00, Alakazam Dudunsparce|1.00, Blaziken|1.00, Starmie Froslass|1.00, Mega Greninja|1.00, Slowking|0.75

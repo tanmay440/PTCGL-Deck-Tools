@@ -1,0 +1,8 @@
+name:- Cleffa
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Free
+properties:- N/A
+commonly_found_with:- Acro Bike|0.06, Buddy-Buddy Poffin|0.00, Camping Gear|0.67, Counter Energy|0.03, Energy Switch|0.00, Evolution Incense|0.01, Faba|0.07, Field Blower|0.01, Float Stone|0.01, Fog Crystal|0.03
+bow_drivers:- draw, hand, cost_free, zero_damage
+anti_meta:- N/A

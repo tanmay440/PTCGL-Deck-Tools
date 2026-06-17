@@ -1,0 +1,8 @@
+name:- Holon's Castform
+type:- Colorless
+modifiers:- Holon's
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.65, Holon Mentor|0.65, Holon Transceiver|0.65, Holon Scientist|0.65, Windstorm|0.68, Pokémon Retriever|0.72, Regirock ex|0.90, Giant Stump|0.86, Rocket's Admin.|0.50, Warp Energy|0.53
+bow_drivers:- energy_acceleration, energy, draw, attach
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

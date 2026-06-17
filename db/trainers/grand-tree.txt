@@ -1,0 +1,8 @@
+name:- Grand Tree
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.01, Poké Pad|0.01, Colress's Tenacity|0.13, Rare Candy|0.03, Boss's Orders|0.01, Lillie's Determination|0.01, Ultra Ball|0.01, Meowth ex|0.01, Fezandipiti ex|0.01, Special Red Card|0.01
+bow_drivers:- search, discard, deck, put
+anti_meta:- Okidogi Barbaracle|1.00

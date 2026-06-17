@@ -1,0 +1,8 @@
+name:- Drayton
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.00, Night Stretcher|0.00, Xerosic's Machinations|0.00, Buddy-Buddy Poffin|0.00, Energy Switch|0.00, Rare Candy|0.00, Rosa's Encouragement|0.00, Bug Catching Set|0.00, Dawn|0.00, Energy Search|0.00
+bow_drivers:- deck, look, put, hand
+anti_meta:- N/A

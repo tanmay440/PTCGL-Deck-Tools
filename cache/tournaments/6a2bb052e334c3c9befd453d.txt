@@ -1,0 +1,7 @@
+game:- PTCG
+name:- SEASAC League Challenge #22 [50 CODES]
+date:- 2026-06-16T11:15:00.000Z
+format:- STANDARD
+id:- 6a2bb052e334c3c9befd453d
+players:- 63
+organizerId:- 2623

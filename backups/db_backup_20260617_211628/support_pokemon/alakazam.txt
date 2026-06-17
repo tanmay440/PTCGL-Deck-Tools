@@ -1,0 +1,8 @@
+name:- Alakazam
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Abra|0.85, Buddy-Buddy Poffin|0.07, Kadabra|0.97, Poké Pad|0.06, Hilda|0.20, Psychic Energy|0.10, Boss's Orders|0.05, Dawn|0.16, Telepathic Psychic Energy|0.29, Dudunsparce|0.24
+bow_drivers:- draw, hand, evolve, damage
+anti_meta:- Metagross|1.00, Starmie Dusknoir|1.00, Joltik Box|1.00, Toxtricity|1.00, Beedrill|1.00, Cynthia's Garchomp|1.00, Hop's Trevenant|1.00

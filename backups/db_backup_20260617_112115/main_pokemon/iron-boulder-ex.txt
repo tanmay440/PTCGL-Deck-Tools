@@ -1,0 +1,8 @@
+name:- Iron Boulder ex
+type:- Fighting
+modifiers:- ex, future, rule_box
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Fighting Energy|0.04, Lillie's Determination|0.01, Ultra Ball|0.01, Fighting Gong|0.06, Pokégear 3.0|0.03, Premium Power Pro|0.09, Hero's Cape|0.06, Team Rocket's Petrel|0.02, Air Balloon|0.02, Crispin|0.01
+bow_drivers:- high_damage, discard, cost_fighting, opponent
+anti_meta:- Future Thorns|1.00

@@ -1,0 +1,7 @@
+game:- PTCG
+name:- 🏆 productos sellados 🎁 Play TCG (CHILE)
+date:- 2026-06-17T02:10:00.000Z
+format:- STANDARD
+id:- 6a31f1d32d97f3b0c2618251
+players:- 11
+organizerId:- 2142

@@ -1,0 +1,8 @@
+name:- Rhyhorn
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Crushing Hammer|0.00, Fezandipiti ex|0.00, Fighting Energy|0.00, Fighting Gong|0.00, Legacy Energy|0.00, Lillie's Determination|0.00, Lunatone|0.00, Night Stretcher|0.00, Nighttime Mine|0.00
+bow_drivers:- cost_fighting, cost_colorless, high_retreat
+anti_meta:- N/A

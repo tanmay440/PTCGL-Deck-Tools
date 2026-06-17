@@ -1,0 +1,8 @@
+name:- Rotom V
+type:- Lightning
+modifiers:- v, rule_box
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Arven|0.06, Counter Catcher|0.18, Forest Seal Stone|0.22, Nest Ball|0.08, Night Stretcher|0.00, Temple of Sinnoh|0.38, Articuno-GX|0.50, Bunnelby|0.40, Capture Energy|0.19, Enhanced Hammer|0.03
+bow_drivers:- draw, discard, put, cost_lightning
+anti_meta:- N/A

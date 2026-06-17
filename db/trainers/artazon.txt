@@ -1,0 +1,8 @@
+name:- Artazon
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.21, Buddy-Buddy Poffin|0.02, Hisuian Heavy Ball|0.28, Iono|0.22, Night Stretcher|0.01, Ultra Ball|0.01, Evolution Incense|0.25, Guzma|0.17, Guzma & Hala|0.33, Level Ball|0.34
+bow_drivers:- search, discard, deck, put
+anti_meta:- N/A

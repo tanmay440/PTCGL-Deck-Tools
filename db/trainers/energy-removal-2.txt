@@ -1,0 +1,8 @@
+name:- Energy Removal 2
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.15, Crystal Beach|0.75, Steven's Advice|0.30, Cursed Stone|0.54, Scott|0.44, Cyclone Energy|0.17, Warp Point|0.06, Desert Ruins|0.39, Pokémon Retriever|0.07, Psychic Energy|0.00
+bow_drivers:- discard, energy, opponent, zero_damage
+anti_meta:- Scizor|1.00

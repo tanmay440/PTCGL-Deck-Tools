@@ -1,0 +1,8 @@
+name:- Passimian
+type:- Fighting
+modifiers:- N/A
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Area Zero Underdepths|0.26, Boss's Orders|0.03, Fezandipiti ex|0.04, Latias ex|0.13, Lillie's Clefairy ex|0.10, Meowth ex|0.04, Ultra Ball|0.03, Mega Kangaskhan ex|0.16, Grass Energy|0.10, Night Stretcher|0.03
+bow_drivers:- attack, damage, cost_fighting, cost_colorless
+anti_meta:- Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Lucario Hariyama|1.00, Metagross|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Mega Greninja|1.00, Alakazam Dudunsparce|1.00, Dragapult Dusknoir|0.83

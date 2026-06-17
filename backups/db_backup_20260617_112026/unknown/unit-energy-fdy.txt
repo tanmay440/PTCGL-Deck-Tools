@@ -1,0 +1,8 @@
+name:- Unit Energy FDY
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.06, Aurora Energy|0.75, Ball Guy|0.23, Battle VIP Pass|0.48, Brooklet Hill|0.55, Cape of Toughness|1.00, Colress's Tenacity|0.06, Cynthia|0.75, Escape Rope|0.21, Evolution Incense|0.12
+bow_drivers:- unknown
+anti_meta:- N/A

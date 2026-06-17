@@ -1,0 +1,8 @@
+name:- Acro Bike
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.12, Trainers' Mail|0.29, VS Seeker|0.12, Rescue Stretcher|0.15, Fog Crystal|0.39, Psychic Energy|0.01, Boost Shake|0.61, Chaotic Swell|0.61, Double Colorless Energy|0.28, Frillish|0.31
+bow_drivers:- discard, look, deck, put
+anti_meta:- N/A

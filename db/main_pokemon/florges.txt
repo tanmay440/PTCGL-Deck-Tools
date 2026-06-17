@@ -1,0 +1,8 @@
+name:- Florges
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Budew|0.00, Darkness Energy|0.00, Drakloak|0.00, Dreepy|0.00, Energy Recycler|0.00, Flabébé|1.00, Floette|1.00, Larvitar|0.03
+bow_drivers:- high_damage, switch, opponent, cost_psychic
+anti_meta:- N/A

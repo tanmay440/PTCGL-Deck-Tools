@@ -1,0 +1,8 @@
+name:- Murkrow
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Azelf|0.34, Baltoy|0.36, Bebe's Search|0.32, Call Energy|0.41, Claydol|0.41, Darkness Energy|0.01, Dusclops|0.05, Dusknoir|0.05, Duskull|0.05, Expert Belt|0.34
+bow_drivers:- search, deck, opponent, cost_colorless
+anti_meta:- N/A

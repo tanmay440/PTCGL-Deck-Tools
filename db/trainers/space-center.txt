@@ -1,0 +1,8 @@
+name:- Space Center
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Jirachi|0.00, Pow! Hand Extension|0.00, Professor Elm's Training Method|0.03, Rocket's Admin.|0.00, Windstorm|0.00, Boost Energy|0.02, Cyclone Energy|0.00, Delcatty|0.01, Delcatty ex|0.02, Dunsparce|0.00
+bow_drivers:- discard, opponent, zero_damage, zero_retreat
+anti_meta:- N/A

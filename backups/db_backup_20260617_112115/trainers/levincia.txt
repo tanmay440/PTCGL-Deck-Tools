@@ -1,0 +1,8 @@
+name:- Levincia
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lightning Energy|0.04, Boss's Orders|0.00, Lillie's Determination|0.00, Ultra Ball|0.00, Buddy-Buddy Poffin|0.00, Night Stretcher|0.00, Switch|0.01, Air Balloon|0.01, Canari|0.19, Battle Cage|0.02
+bow_drivers:- discard, put, energy, hand
+anti_meta:- N/A

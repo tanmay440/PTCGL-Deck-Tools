@@ -1,0 +1,8 @@
+name:- Mist Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.09, Lillie's Determination|0.08, Ultra Ball|0.09, Pokégear 3.0|0.32, Night Stretcher|0.06, Poké Pad|0.06, Team Rocket's Petrel|0.21, Switch|0.21, Air Balloon|0.16, Hilda|0.18
+bow_drivers:- energy, opponent, damage, zero_damage
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Lillie's Clefairy|1.00, Cynthia's Garchomp|1.00, Lopunny Dudunsparce|1.00, Metagross|1.00, Ogerpon Meganium Hydrapple|1.00, N's Zoroark|1.00, Beedrill|1.00, Basic Box|1.00, Ceruledge|1.00, Starmie Froslass|1.00, Slowking|1.00, Dragapult Dusknoir|1.00, Crustle|1.00, Dragapult Dudunsparce|1.00, Mega Lopunny|1.00, Mega Venusaur|1.00, Other|1.00

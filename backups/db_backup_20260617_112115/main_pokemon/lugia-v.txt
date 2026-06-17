@@ -1,0 +1,8 @@
+name:- Lugia V
+type:- Colorless
+modifiers:- v, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Archeops|1.00, Iono|0.05, Iron Hands ex|0.67, Legacy Energy|0.04, Lugia VSTAR|1.00, Ultra Ball|0.00, Aurora Energy|0.25, Battle Compressor|0.13, Crobat V|0.22, Dedenne-GX|0.50
+bow_drivers:- high_damage, discard, draw, cost_colorless
+anti_meta:- N/A

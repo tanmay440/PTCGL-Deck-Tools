@@ -1,0 +1,8 @@
+name:- Electrode ex
+type:- Lightning
+modifiers:- ex, rule_box
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Pow! Hand Extension|0.46, Rocket's Admin.|0.38, Voltorb|1.00, Windstorm|0.44, Scramble Energy|0.83, Holon Adventurer|0.29, Holon Mentor|0.29, Holon Scientist|0.29, Holon Transceiver|0.29, Jirachi|0.32
+bow_drivers:- discard, energy_acceleration, search, energy
+anti_meta:- N/A

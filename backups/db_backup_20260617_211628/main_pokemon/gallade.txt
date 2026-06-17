@@ -1,0 +1,8 @@
+name:- Gallade
+type:- Fighting
+modifiers:- ex, mega, rule_box
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Kirlia|0.21, Psychic Energy|0.01, Ralts|0.21, Rare Candy|0.02, Dusknoir|0.05, Azelf|0.34, Azelf LV.X|0.66, Baltoy|0.36, Bebe's Search|0.32, Call Energy|0.41
+bow_drivers:- high_damage, cost_fighting, damage, attack
+anti_meta:- N/A

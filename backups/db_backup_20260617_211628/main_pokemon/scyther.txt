@@ -1,0 +1,8 @@
+name:- Scyther
+type:- Grass
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Beldum|0.00, Boss's Orders|0.00, Brave Bangle|0.00, Buddy-Buddy Poffin|0.00, Energy Recycler|0.00, Fezandipiti ex|0.00, Genesect ex|0.00, Gravity Mountain|0.00, Heatran|0.00, Meowth ex|0.00
+bow_drivers:- cost_colorless
+anti_meta:- N/A

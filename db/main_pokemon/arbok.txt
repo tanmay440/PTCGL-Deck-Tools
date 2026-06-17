@@ -1,0 +1,8 @@
+name:- Arbok
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Crispin|0.00, Darkness Energy|0.00, Ekans|1.00, Fezandipiti ex|0.00, Fire Energy|0.00, Legacy Energy|0.00, Lillie's Determination|0.00, Mega Dragalge ex|0.01, Meowth ex|0.00
+bow_drivers:- opponent, hand, cost_darkness, attack
+anti_meta:- N/A

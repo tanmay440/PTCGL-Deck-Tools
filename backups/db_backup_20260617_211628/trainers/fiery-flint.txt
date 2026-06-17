@@ -1,0 +1,8 @@
+name:- Fiery Flint
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Battle Compressor|0.06, Blitzle|1.00, Carmine|0.02, Fire Energy|0.00, PokéStop|0.14, Precious Trolley|0.02, Professor's Research|0.05, Quick Ball|0.02, Ultra Ball|0.00, Volcarona V|1.00
+bow_drivers:- discard, search, hand, deck
+anti_meta:- N/A

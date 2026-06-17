@@ -1,0 +1,8 @@
+name:- Team Rocket's Transceiver
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Team Rocket's Petrel|0.31, Night Stretcher|0.08, Ultra Ball|0.07, Team Rocket's Factory|0.76, Team Rocket's Articuno|0.69, Team Rocket's Energy|0.62, Team Rocket's Ariana|0.62, Team Rocket's Giovanni|0.62, Team Rocket's Proton|0.62, Poké Pad|0.05
+bow_drivers:- search, deck, put, hand
+anti_meta:- Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Lucario|1.00, Mega Greninja|1.00, Decidueye|1.00, Kangaskhan Bouffalant|1.00, Dragapult Blaziken|1.00, Crustle|1.00, Grimmsnarl Froslass|1.00, Hop's Trevenant|1.00, Beedrill|1.00, Manectric Eelektrik|1.00, Other|1.00, Metagross|1.00, Okidogi Barbaracle|1.00, N's Zoroark|1.00, Dragapult|0.67

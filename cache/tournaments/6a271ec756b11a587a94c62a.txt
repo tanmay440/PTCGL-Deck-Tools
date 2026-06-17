@@ -1,0 +1,7 @@
+game:- PTCG
+name:- Sunny's Weekly #261 Sunny's Twitch Anniversary
+date:- 2026-06-15T22:05:00.000Z
+format:- STANDARD
+id:- 6a271ec756b11a587a94c62a
+players:- 136
+organizerId:- 145

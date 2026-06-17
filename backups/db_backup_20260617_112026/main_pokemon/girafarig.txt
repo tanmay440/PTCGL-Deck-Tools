@@ -1,0 +1,8 @@
+name:- Girafarig
+type:- Psychic
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.00, Articuno-GX|0.60, Arven|0.03, Bunnelby|0.40, Capture Energy|0.19, Counter Catcher|0.09, Enhanced Hammer|0.03, Eri|0.09, Faba|0.28, Float Stone|0.06
+bow_drivers:- attack, damage, weakness, resistance
+anti_meta:- N/A

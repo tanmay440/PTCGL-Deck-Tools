@@ -1,0 +1,8 @@
+name:- Iron Crown
+type:- Psychic
+modifiers:- ex, future, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Black Belt's Training|0.01, Crispin|0.00, Fire Energy|0.00, Iron Moth|1.00, Lightning Energy|0.01, Lillie's Determination|0.00, Miraidon|0.07, Night Stretcher|0.00, Poké Pad|0.00
+bow_drivers:- damage, opponent, weakness, resistance
+anti_meta:- Future Thorns|1.00

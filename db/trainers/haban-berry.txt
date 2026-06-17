@@ -1,0 +1,8 @@
+name:- Haban Berry
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Barbaracle|0.06, Battle Cage|0.01, Binacle|0.06, Bloodmoon Ursaluna|0.07, Boss's Orders|0.00, Fighting Energy|0.00, Fighting Gong|0.01, Genesect|0.01, Judge|0.00
+bow_drivers:- energy_acceleration, discard, attach, attack
+anti_meta:- N/A

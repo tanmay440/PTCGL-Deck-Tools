@@ -1,0 +1,8 @@
+name:- Payapa Berry
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Fezandipiti ex|0.00, Lillie's Determination|0.00, Night Stretcher|0.00, Poké Pad|0.00, Psychic Energy|0.00, Rare Candy|0.00, Team Rocket's Petrel|0.00, Air Balloon|0.00, Brave Bangle|0.00
+bow_drivers:- energy_acceleration, discard, attach, attack
+anti_meta:- N/A

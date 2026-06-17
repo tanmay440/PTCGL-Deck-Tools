@@ -1,0 +1,8 @@
+name:- Eri
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.03, Boss's Orders|0.02, Hilda|0.07, Lillie's Determination|0.02, Ultra Ball|0.02, Pokégear 3.0|0.07, Night Stretcher|0.01, Switch|0.05, Spiky Energy|0.41, Xerosic's Machinations|0.15
+bow_drivers:- discard, opponent, hand, zero_damage
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Lillie's Clefairy|1.00, Cynthia's Garchomp|1.00, Lopunny Dudunsparce|1.00, Metagross|1.00, Ogerpon Meganium Hydrapple|1.00, Starmie Dusknoir|1.00, Joltik Box|1.00, Toxtricity|1.00, Beedrill|1.00, Hop's Trevenant|1.00, Raging Bolt Ogerpon|1.00, Starmie Froslass|0.67

@@ -1,0 +1,8 @@
+name:- Memory Berry
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Azelf|0.01, Baltoy|0.01, Bebe's Search|0.01, Call Energy|0.01, Claydol|0.01, Cynthia's Feelings|0.04, Darkness Energy|0.00, Fighting Energy|0.00, Flygon|0.10, Flygon LV.X|1.00
+bow_drivers:- energy_acceleration, discard, attack, attach
+anti_meta:- N/A

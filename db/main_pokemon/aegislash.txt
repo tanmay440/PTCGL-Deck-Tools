@@ -1,0 +1,8 @@
+name:- Aegislash
+type:- Metal
+modifiers:- N/A
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Doublade|1.00, Genesect ex|0.04, Honedge|1.00, Metal Energy|0.02, Night Stretcher|0.00, Poké Pad|0.00, Hilda|0.00, Lana's Aid|0.00
+bow_drivers:- high_damage, damage, opponent, attack
+anti_meta:- Okidogi Barbaracle|1.00, N's Zoroark|1.00

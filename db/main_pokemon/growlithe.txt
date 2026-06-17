@@ -1,0 +1,8 @@
+name:- Growlithe
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Arcanine ex|1.00, Copycat|0.42, Crystal Beach|0.16, Energy Removal 2|0.12, Fire Energy|0.00, Poké Ball|0.41, Pokémon Reversal|0.42, Prof. Oak's Research|0.56, React Energy|0.43, Rocket's Admin.|0.02
+bow_drivers:- cost_colorless, cost_fire
+anti_meta:- Scizor|1.00

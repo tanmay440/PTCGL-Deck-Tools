@@ -1,0 +1,8 @@
+name:- Eelektrik
+type:- Lightning
+modifiers:- N/A
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Buddy-Buddy Poffin|0.01, Canari|0.97, Lightning Energy|0.12, Lillie's Determination|0.01, Tynamo|1.00, Ultra Ball|0.01, Battle Cage|0.09, Air Balloon|0.03, Mega Eelektross ex|0.88
+bow_drivers:- energy_acceleration, discard, attach, energy
+anti_meta:- N/A

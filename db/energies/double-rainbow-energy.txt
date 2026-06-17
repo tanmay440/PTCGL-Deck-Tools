@@ -1,0 +1,8 @@
+name:- Double Rainbow Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.05, Holon Adventurer|0.05, Holon Mentor|0.05, Holon Scientist|0.05, Holon Transceiver|0.05, Mr. Briney's Compassion|0.30, Steven's Advice|0.13, Desert Ruins|0.41, Windstorm|0.04, Holon Researcher|0.06
+bow_drivers:- energy, discard, damage, opponent
+anti_meta:- Bombtar|1.00

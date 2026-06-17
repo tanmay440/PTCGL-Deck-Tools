@@ -1,0 +1,8 @@
+name:- Guzma
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- VS Seeker|0.94, Field Blower|0.75, Iono|0.68, Arven|0.62, Rescue Stretcher|0.71, Hisuian Heavy Ball|0.69, Nest Ball|0.67, Float Stone|0.64, Evolution Incense|0.61, Buddy-Buddy Poffin|0.05
+bow_drivers:- search, discard, deck, hand
+anti_meta:- N/A

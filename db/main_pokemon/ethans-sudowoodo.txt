@@ -1,0 +1,8 @@
+name:- Ethan's Sudowoodo
+type:- Fighting
+modifiers:- Ethan's
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Lillie's Determination|0.00, Night Stretcher|0.00, Poké Pad|0.00, Buddy-Buddy Poffin|0.01, Prism Energy|0.11, Elgyem|0.21, Team Rocket's Articuno|0.05, Ultra Ball|0.00, Air Balloon|0.01
+bow_drivers:- opponent, cost_colorless, defending, attack
+anti_meta:- N/A

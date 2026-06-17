@@ -1,0 +1,8 @@
+name:- Team Rocket's Larvitar
+type:- Fighting
+modifiers:- Team Rocket's
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Accompanying Flute|0.51, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Clefairy|0.93, Cornerstone Mask Ogerpon ex|0.04, Cubchoo|0.60, Dedenne|0.03, Dudunsparce|0.00, Dunsparce|0.00, Elgyem|0.05
+bow_drivers:- discard, opponent, deck, cost_colorless
+anti_meta:- N/A

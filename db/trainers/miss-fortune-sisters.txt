@@ -1,0 +1,8 @@
+name:- Miss Fortune Sisters
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Acro Bike|0.23, Bellelba & Brycen-Man|0.36, Buddy-Buddy Poffin|0.00, Bunnelby|0.29, Capture Energy|0.16, Cheryl|0.50, Cinccino|0.25, Clay|0.50, Counter Catcher|0.08, Cynthia & Caitlin|0.17
+bow_drivers:- discard, opponent, deck, look
+anti_meta:- N/A

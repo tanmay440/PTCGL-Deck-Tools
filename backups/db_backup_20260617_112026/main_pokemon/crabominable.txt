@@ -1,0 +1,8 @@
+name:- Crabominable
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Brilliant Blender|0.13, Buddy-Buddy Poffin|0.00, Crabrawler|1.00, Fezandipiti ex|0.00, Judge|0.00, Kofu|0.03, Lillie's Determination|0.00, Mega Froslass ex|0.01, Night Stretcher|0.00
+bow_drivers:- high_damage, discard, cost_colorless, cost_water
+anti_meta:- N/A

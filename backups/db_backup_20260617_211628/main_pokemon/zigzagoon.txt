@@ -1,0 +1,8 @@
+name:- Zigzagoon
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Battle Cage|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Buneary|0.00, Darkness Energy|0.00, Dudunsparce|0.00, Dunsparce|0.00, Energy Search|0.00, Enriching Energy|0.00, Fan Rotom|0.00
+bow_drivers:- cost_darkness
+anti_meta:- N/A

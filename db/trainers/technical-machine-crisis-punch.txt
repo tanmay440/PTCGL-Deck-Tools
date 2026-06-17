@@ -1,0 +1,8 @@
+name:- Technical Machine: Crisis Punch
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Artazon|0.13, Arven|0.03, Avery|0.20, Blacksmith|0.50, Blaziken|0.15, Buddy-Buddy Poffin|0.00, Chi-Yu|0.03, Colress's Tenacity|0.03, Combusken|0.03, Counter Energy|0.11
+bow_drivers:- energy_acceleration, high_damage, discard, attack
+anti_meta:- N/A

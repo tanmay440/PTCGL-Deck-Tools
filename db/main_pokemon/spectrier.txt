@@ -1,0 +1,8 @@
+name:- Spectrier
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Latias ex|0.14, Lillie's Determination|0.03, Telepathic Psychic Energy|0.16, Night Stretcher|0.03, Poké Pad|0.03, Ultra Ball|0.03, Academy at Night|0.42, Kyurem|0.44, Slowking|0.44, Slowpoke|0.44
+bow_drivers:- discard, cost_psychic, energy, damage
+anti_meta:- Sylveon|1.00, Greninja|1.00, Steven's Metagross|1.00, Starmie Froslass|1.00, Basic Box|1.00, Beedrill|1.00, Rocket's Mewtwo|1.00, Mega Greninja|1.00, Dragapult|0.75, Raging Bolt Ogerpon|0.67

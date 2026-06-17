@@ -1,0 +1,7 @@
+game:- PTCG
+name:- Amyverse Webcam Wonders #10 💙 Monday
+date:- 2026-06-15T23:00:00.000Z
+format:- STANDARD
+id:- 6a27835947f3797bf6bafbd1
+players:- 8
+organizerId:- 2679

@@ -1,0 +1,8 @@
+name:- Carbink
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Abra|0.02, Azelf|0.11, Baltoy|0.12, Barbaracle|0.10, Beldum|0.05, Binacle|0.10, Boss's Orders|0.00, Brave Bangle|0.01, Bronzong|0.17, Bronzor|0.17
+bow_drivers:- bench, damage, opponent, weakness
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Pokémon Catcher
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.02, Boss's Orders|0.01, Grass Energy|0.05, Ultra Ball|0.01, Night Stretcher|0.01, Pokégear 3.0|0.05, Meowth ex|0.01, Fezandipiti ex|0.01, Buddy-Buddy Poffin|0.01, Fighting Energy|0.04
+bow_drivers:- switch, opponent, zero_damage, zero_retreat
+anti_meta:- Dragapult Dusknoir|1.00, Dragapult Dudunsparce|1.00, Mega Lopunny|1.00, Mega Venusaur|1.00, Alakazam Dudunsparce|1.00, Blaziken|1.00

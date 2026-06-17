@@ -1,0 +1,8 @@
+name:- Hydrapple ex
+type:- Grass
+modifiers:- ex, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Applin|0.58, Dipplin|0.58, Grass Energy|0.18, Teal Mask Ogerpon ex|0.34, Bug Catching Set|0.32, Forest of Vitality|0.43, Lillie's Determination|0.05, Bayleef|0.76, Boss's Orders|0.05, Chikorita|0.76
+bow_drivers:- energy_acceleration, energy, damage, attach
+anti_meta:- Mega Lucario|1.00, Hop's Zacian|1.00, Hop's Trevenant|1.00, Rocket's Mewtwo|1.00

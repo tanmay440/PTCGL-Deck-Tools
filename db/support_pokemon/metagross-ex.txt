@@ -1,0 +1,8 @@
+name:- Metagross ex
+type:- Metal
+modifiers:- ex, rule_box
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Beldum|0.00, Crystal Beach|0.01, Cyclone Energy|0.00, Diglett|0.02, Dugtrio|0.02, Holon Adventurer|0.00, Holon Mentor|0.00, Holon Scientist|0.00, Holon Transceiver|0.00, Island Cave|0.35
+bow_drivers:- energy_acceleration, high_damage, search, deck
+anti_meta:- N/A

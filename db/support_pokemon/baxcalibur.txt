@@ -1,0 +1,8 @@
+name:- Baxcalibur
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Chien-Pao ex|0.94, Superior Energy Retrieval|0.88, Frigibax|0.76, Arven|0.07, Buddy-Buddy Poffin|0.01, Irida|0.31, Rare Candy|0.01, Ultra Ball|0.00, Basic Water Energy|0.50, Bibarel|0.75
+bow_drivers:- energy_acceleration, high_damage, attach, energy
+anti_meta:- Miraidon ex / Sandy Shocks|0.88, Charizard ex / Pidgeot ex|0.72, Gardevoir ex / Drifloon|0.56

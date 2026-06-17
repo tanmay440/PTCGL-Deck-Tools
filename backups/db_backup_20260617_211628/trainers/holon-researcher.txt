@@ -1,0 +1,8 @@
+name:- Holon Researcher
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.53, Holon Mentor|0.53, Holon Scientist|0.53, Holon Transceiver|0.53, Holon's Castform|0.95, Rocket's Admin.|0.47, Warp Energy|0.34, Gardevoir|0.37, Gardevoir ex|0.32, Giant Stump|0.91
+bow_drivers:- discard, search, hand, put
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

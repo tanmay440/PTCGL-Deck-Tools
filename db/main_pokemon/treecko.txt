@@ -1,0 +1,8 @@
+name:- Treecko
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.48, Holon Mentor|0.48, Holon Transceiver|0.48, Pidgeot|0.60, Pidgey|0.37, Pokémon Retriever|0.56, Rare Candy|0.03, Rocket's Admin.|0.43, Sceptile ex|1.00, Windstorm|0.52
+bow_drivers:- attack, damage, cost_grass
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

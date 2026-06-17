@@ -1,0 +1,7 @@
+game:- PTCG
+name:- ⚡ Surge's TCG Vault Winner Takes All - 50 Codes
+date:- 2026-06-16T11:20:00.000Z
+format:- STANDARD
+id:- 6a25dc3847f3797bf6baea5a
+players:- 27
+organizerId:- 2603

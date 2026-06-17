@@ -1,0 +1,8 @@
+name:- Ethan's Pichu
+type:- Lightning
+modifiers:- Ethan's
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Battle Cage|0.00, Boss's Orders|0.00, Brock's Scouting|0.00, Buddy-Buddy Poffin|0.00, Dudunsparce|0.00, Dunsparce|0.00, Energy Retrieval|0.00, Froakie|0.00, Frogadier|0.00
+bow_drivers:- draw, zero_retreat
+anti_meta:- N/A

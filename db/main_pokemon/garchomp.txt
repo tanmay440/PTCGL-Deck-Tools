@@ -1,0 +1,8 @@
+name:- Garchomp
+type:- Fighting
+modifiers:- ex, rule_box
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Arven|0.01, Aurora Energy|0.16, Axew|1.00, Blend Energy WLFM|1.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Colress's Tenacity|0.01, Crispin|0.00, Double Dragon Energy|0.50
+bow_drivers:- high_damage, draw, discard, cost_fighting
+anti_meta:- N/A

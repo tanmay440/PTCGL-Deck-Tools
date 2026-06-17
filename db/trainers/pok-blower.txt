@@ -1,0 +1,8 @@
+name:- Poké Blower +
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Azelf|0.00, Bebe's Search|0.00, Broken Time-Space|0.04, Combee|0.19, Crobat G|0.01, Expert Belt|0.00, Felicity's Drawing|0.02, Floatzel GL|1.00, Floatzel GL LV.X|1.00, Gyarados|0.04
+bow_drivers:- opponent, put, damage, switch
+anti_meta:- N/A

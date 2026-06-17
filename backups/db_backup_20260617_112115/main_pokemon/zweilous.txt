@@ -1,0 +1,8 @@
+name:- Zweilous
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.01, Darkness Energy|0.02, Deino|1.00, Hydreigon ex|0.77, Rare Candy|0.03, Poké Pad|0.01, Counter Gain|0.76, Boss's Orders|0.01, Crispin|0.02, Lillie's Determination|0.01
+bow_drivers:- high_damage, cost_colorless, cost_darkness, attack
+anti_meta:- N/A

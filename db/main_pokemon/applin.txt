@@ -1,0 +1,8 @@
+name:- Applin
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Dipplin|1.00, Grass Energy|0.32, Lillie's Determination|0.08, Boss's Orders|0.08, Bug Catching Set|0.54, Night Stretcher|0.08, Lana's Aid|0.33, Dawn|0.17, Forest of Vitality|0.50, Poké Pad|0.05
+bow_drivers:- heal, damage, cost_grass
+anti_meta:- Mega Lucario|1.00, Hop's Zacian|1.00, Hop's Trevenant|1.00, Rocket's Mewtwo|1.00, Ethan's Typhlosion|1.00, N's Zoroark|1.00, Alakazam Dudunsparce|1.00, Ursaluna Lunatone|1.00, Other|1.00, Ogerpon Meganium|1.00, Beedrill|0.67, Crustle|0.62

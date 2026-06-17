@@ -1,0 +1,8 @@
+name:- Drifloon
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Psychic Energy|0.01, Arven|0.05, Bravery Charm|0.80, Counter Catcher|0.16, Cresselia|0.23, Earthen Vessel|0.22, Gardevoir ex|0.20, Iono|0.06, Kirlia|0.10
+bow_drivers:- opponent, damage, weakness, resistance
+anti_meta:- N/A

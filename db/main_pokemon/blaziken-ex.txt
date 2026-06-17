@@ -1,0 +1,8 @@
+name:- Blaziken ex
+type:- Fire
+modifiers:- ex, rule_box
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Fire Energy|0.19, Ultra Ball|0.06, Boss's Orders|0.06, Lillie's Determination|0.06, Night Stretcher|0.06, Rare Candy|0.17, Torchic|0.97, Combusken|0.97, Poké Pad|0.06, Buddy-Buddy Poffin|0.08
+bow_drivers:- energy_acceleration, high_damage, discard, attach
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00, Mega Venusaur|1.00, Ceruledge|1.00, Dragapult|1.00, Mega Greninja|1.00

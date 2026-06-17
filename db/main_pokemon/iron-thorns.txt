@@ -1,0 +1,8 @@
+name:- Iron Thorns
+type:- Lightning
+modifiers:- ex, future, rule_box
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Lightning Energy|0.01, Lillie's Determination|0.00, Miraidon|0.13, Poké Pad|0.00, Psychic Energy|0.00, Iron Crown ex|0.08, Ciphermaniac's Codebreaking|0.01, Sacred Ash|0.01, Special Red Card|0.00, Iron Valiant|0.52
+bow_drivers:- high_damage, opponent, cost_colorless, energy
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Scott
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Pokémon Retriever|0.19, Psychic Energy|0.01, Holon Mentor|0.15, Holon Adventurer|0.15, Holon Scientist|0.15, Holon Transceiver|0.15, Castaway|0.73, Stantler|0.34, Balloon Berry|0.67, Lightning Energy|0.03
+bow_drivers:- discard, search, put, deck
+anti_meta:- N/A

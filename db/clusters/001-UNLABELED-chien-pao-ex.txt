@@ -1,0 +1,10 @@
+label:- UNLABELED
+members:- Chien-Pao ex, Baxcalibur, Superior Energy Retrieval
+roles:- main_pokemon, support_pokemon, trainer
+avg_score:- 847.3
+bow_drivers:- discard, energy_acceleration, cost_water
+appears_in:- Chien-Pao ex / Baxcalibur|0.94, Miraidon ex / Sandy Shocks|0.12
+anti_meta:- Charizard ex / Pidgeot ex|0.68
+decklist_appearances:- 312
+properties:- N/A
+notes:- N/A

@@ -1,0 +1,8 @@
+name:- Buneary
+type:- Colorless
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Mega Lopunny ex|1.00, Boss's Orders|0.03, Poké Pad|0.03, Ultra Ball|0.02, Buddy-Buddy Poffin|0.03, Wally's Compassion|0.13, Air Balloon|0.06, Mist Energy|0.20, Hilda|0.07, Night Stretcher|0.02
+bow_drivers:- cost_colorless, switch, zero_damage
+anti_meta:- Dragapult|1.00, Alakazam Dudunsparce|1.00, Blaziken|1.00, Steven's Metagross|1.00, N's Zoroark|1.00

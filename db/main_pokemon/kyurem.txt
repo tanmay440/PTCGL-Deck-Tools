@@ -1,0 +1,8 @@
+name:- Kyurem
+type:- Water
+modifiers:- ex, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Latias ex|0.33, Academy at Night|0.95, Lillie's Determination|0.07, Poké Pad|0.07, Slowking|0.99, Slowpoke|0.99, Telepathic Psychic Energy|0.36, Metagross|0.74, Night Stretcher|0.07, Ultra Ball|0.07
+bow_drivers:- high_damage, opponent, cost_colorless, prize
+anti_meta:- Sylveon|1.00, Greninja|1.00, Steven's Metagross|1.00, Starmie Froslass|1.00, Basic Box|1.00, Beedrill|1.00, Rocket's Mewtwo|1.00, Mega Greninja|1.00, Dragapult|0.75, Raging Bolt Ogerpon|0.67

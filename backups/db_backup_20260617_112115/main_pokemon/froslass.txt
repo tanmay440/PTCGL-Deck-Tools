@@ -1,0 +1,8 @@
+name:- Froslass
+type:- Water
+modifiers:- ex, mega, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.05, Snorunt|0.63, Lillie's Determination|0.04, Poké Pad|0.04, Boss's Orders|0.04, Night Stretcher|0.04, Budew|0.08, Munkidori|0.08, Darkness Energy|0.08, Air Balloon|0.08
+bow_drivers:- high_damage, opponent, prize, cost_water
+anti_meta:- Doublade|1.00, Mega Starmie|1.00, Dragapult|1.00, Festival Lead|1.00, Lillie's Clefairy|1.00, N's Zoroark|1.00, Rocket's Mewtwo|1.00, Dragapult Dudunsparce|1.00, Kangaskhan Bouffalant|1.00

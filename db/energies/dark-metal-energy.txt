@@ -1,0 +1,8 @@
+name:- Dark Metal Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.09, Darkness Energy|0.00, Holon Adventurer|0.07, Holon Mentor|0.07, Holon Scientist|0.07, Holon Transceiver|0.07, Rainbow Energy|0.14, Voltorb|0.21, Dark Pupitar|0.28, Dark Tyranitar|0.28
+bow_drivers:- energy_acceleration, energy, attach, zero_damage
+anti_meta:- N/A

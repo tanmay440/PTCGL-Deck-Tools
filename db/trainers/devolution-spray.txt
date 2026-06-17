@@ -1,0 +1,8 @@
+name:- Devolution Spray
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.02, Field Blower|0.02, Float Stone|0.03, Guzma|0.02, Guzma & Hala|0.03, Hisuian Heavy Ball|0.02, Level Ball|0.04, Lillie's Determination|0.00, Nest Ball|0.02, Night Stretcher|0.00
+bow_drivers:- deck, evolve, attack, zero_damage
+anti_meta:- N/A

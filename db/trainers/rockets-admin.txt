@@ -1,0 +1,8 @@
+name:- Rocket's Admin.
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Pow! Hand Extension|0.84, Holon Mentor|0.82, Holon Adventurer|0.82, Holon Transceiver|0.82, Holon Scientist|0.81, Windstorm|0.75, Warp Point|0.66, Pokémon Retriever|0.69, Jirachi|0.65, Rare Candy|0.04
+bow_drivers:- discard, draw, put, hand
+anti_meta:- Bombtar|1.00, Bombchamp|1.00, Flygon δ|1.00, Scizor|1.00

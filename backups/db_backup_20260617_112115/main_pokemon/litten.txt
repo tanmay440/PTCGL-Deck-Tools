@@ -1,0 +1,8 @@
+name:- Litten
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Accompanying Flute|0.40, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Budew|0.00, Chi-Yu|0.02, Crispin|0.00, Dawn|0.00, Dragapult ex|0.00, Drakloak|0.00, Dreepy|0.00
+bow_drivers:- opponent, cost_fire
+anti_meta:- N/A

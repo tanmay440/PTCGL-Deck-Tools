@@ -1,0 +1,8 @@
+name:- Roselia
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Balloon Berry|0.24, Castaway|0.22, Cessation Crystal|0.26, Crystal Beach|0.30, Cursed Stone|0.22, Energy Removal 2|0.24, Lanette's Net Search|0.07, Lightning Energy|0.01, Minun|0.57, Mr. Stone's Project|0.68
+bow_drivers:- unknown
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Repel
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Lillie's Determination|0.00, Dawn|0.00, Legacy Energy|0.00, Night Stretcher|0.00, Applin|0.00, Bayleef|0.00, Bug Catching Set|0.00, Chikorita|0.00, Dipplin|0.00
+bow_drivers:- opponent, switch, bench, zero_damage
+anti_meta:- N/A

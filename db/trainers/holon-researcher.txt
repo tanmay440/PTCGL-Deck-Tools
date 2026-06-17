@@ -1,0 +1,8 @@
+name:- Holon Researcher
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.48, Holon Mentor|0.48, Holon Transceiver|0.48, Rocket's Admin.|0.44, Holon's Castform|0.73, Holon Scientist|0.48, Warp Energy|0.46, Rare Candy|0.02, Pidgeot|0.58, Pidgey|0.36
+bow_drivers:- discard, search, hand, put
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

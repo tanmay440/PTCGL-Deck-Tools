@@ -1,0 +1,8 @@
+name:- Celio's Network
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Desert Ruins|0.22, Double Rainbow Energy|0.47, Grass Energy|0.00, Grovyle|0.38, Holon Adventurer|0.04, Holon Mentor|0.04, Holon Scientist|0.04, Holon Transceiver|0.04, Holon's Electrode|1.00, Holon's Voltorb|0.07
+bow_drivers:- discard, search, put, deck
+anti_meta:- N/A

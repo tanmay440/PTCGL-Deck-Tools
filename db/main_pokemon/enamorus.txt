@@ -1,0 +1,8 @@
+name:- Enamorus
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Area Zero Underdepths|0.00, Boss's Orders|0.00, Chien-Pao|0.01, Ciphermaniac's Codebreaking|0.00, Crispin|0.00, Cyrano|0.00, Energy Switch|0.00, Fezandipiti ex|0.00, Fighting Energy|0.00, Grass Energy|0.00
+bow_drivers:- high_damage, cost_colorless, opponent, attack
+anti_meta:- N/A

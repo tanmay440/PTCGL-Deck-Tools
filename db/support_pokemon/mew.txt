@@ -1,0 +1,8 @@
+name:- Mew
+type:- Psychic
+modifiers:- ex, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Psychic Energy|0.02, Kirlia|0.26, Ralts|0.26, Arven|0.14, Blacephalon|0.89, Buddy-Buddy Poffin|0.01, Counter Energy|0.55, Energy Retrieval|0.10, Field Blower|0.19, Fog Crystal|0.57
+bow_drivers:- draw, hand, cost_colorless, opponent
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

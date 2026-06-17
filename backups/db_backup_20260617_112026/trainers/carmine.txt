@@ -1,0 +1,8 @@
+name:- Carmine
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ultra Ball|0.04, Boss's Orders|0.04, Night Stretcher|0.04, Poké Pad|0.04, Lillie's Determination|0.03, Fighting Energy|0.14, Fighting Gong|0.24, Lunatone|0.28, Solrock|0.29, Fezandipiti ex|0.04
+bow_drivers:- discard, draw, hand, zero_damage
+anti_meta:- Mega Venusaur|1.00, Dragapult Blaziken|1.00, Festival Lead|1.00, Sylveon|1.00, Mega Gengar|1.00, Alakazam Dudunsparce|1.00, Beedrill|1.00, Mega Greninja|1.00, Doublade|1.00, Dragapult Dusknoir|1.00, Dragapult Dudunsparce|1.00, Mega Lopunny|1.00

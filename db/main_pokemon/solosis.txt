@@ -1,0 +1,8 @@
+name:- Solosis
+type:- Psychic
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Aromatisse|0.16, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Colress's Tenacity|0.00, Duosion|1.00, Energy Switch|0.00, Lana's Aid|0.00, Lillie's Determination|0.00, Mystery Garden|0.00
+bow_drivers:- cost_colorless
+anti_meta:- N/A

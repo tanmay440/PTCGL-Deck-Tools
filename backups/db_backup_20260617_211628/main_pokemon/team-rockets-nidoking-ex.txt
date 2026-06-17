@@ -1,0 +1,8 @@
+name:- Team Rocket's Nidoking ex
+type:- Darkness
+modifiers:- Team Rocket's, ex, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Binding Mochi|0.01, Darkness Energy|0.00, Night Stretcher|0.00, Team Rocket's Energy|0.01, Team Rocket's Nidoran♂|1.00, Team Rocket's Nidorino|1.00, Team Rocket's Factory|0.01, Team Rocket's Petrel|0.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00
+bow_drivers:- high_damage, cost_darkness, opponent, cost_colorless
+anti_meta:- N/A

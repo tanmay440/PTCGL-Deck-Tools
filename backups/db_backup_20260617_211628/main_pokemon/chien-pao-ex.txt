@@ -1,0 +1,8 @@
+name:- Chien-Pao ex
+type:- Water
+modifiers:- ex, ancient, rule_box
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Baxcalibur|0.94, Frigibax|0.89, Irida|0.87, Superior Energy Retrieval|0.91, Arven|0.72
+bow_drivers:- discard, energy_acceleration, high_damage
+anti_meta:- Charizard ex / Pidgeot ex|0.71, Gardevoir ex / Drifloon|0.43

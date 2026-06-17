@@ -1,0 +1,8 @@
+name:- Pokégear 3.0
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.19, Boss's Orders|0.17, Night Stretcher|0.16, Poké Pad|0.17, Ultra Ball|0.16, Buddy-Buddy Poffin|0.17, Team Rocket's Petrel|0.35, Air Balloon|0.26, Switch|0.30, Hilda|0.26
+bow_drivers:- deck, look, put, hand
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Lillie's Clefairy|1.00, Cynthia's Garchomp|1.00, Lopunny Dudunsparce|1.00, Metagross|1.00, Ogerpon Meganium Hydrapple|1.00, Dragapult Blaziken|1.00, N's Zoroark|1.00, Beedrill|1.00, Basic Box|1.00, Ceruledge|1.00, Starmie Froslass|1.00, Slowking|1.00, Dragapult Dusknoir|1.00, Crustle|1.00, Doublade|1.00, Mega Starmie|1.00, Okidogi Barbaracle|1.00, Luxray|1.00, Steven's Metagross|1.00, Iron Thorns|1.00, Miraidon|1.00, Grimmsnarl Froslass|1.00, Festival Lead|1.00, Alakazam Dudunsparce|1.00, Blaziken|1.00, Other|1.00, Dragapult Dudunsparce|1.00, Mega Greninja|1.00, Future Thorns|1.00

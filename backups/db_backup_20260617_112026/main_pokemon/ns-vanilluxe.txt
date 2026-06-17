@@ -1,0 +1,8 @@
+name:- N's Vanilluxe
+type:- Water
+modifiers:- N's
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Lillie's Determination|0.00, N's Vanillite|1.00, Night Stretcher|0.00, Poké Pad|0.00, Rare Candy|0.00, Ultra Ball|0.00, Water Energy|0.00, Air Balloon|0.00
+bow_drivers:- high_damage, cost_colorless, damage, opponent
+anti_meta:- N/A

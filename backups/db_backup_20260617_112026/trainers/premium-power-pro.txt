@@ -1,0 +1,8 @@
+name:- Premium Power Pro
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Fighting Energy|0.39, Fighting Gong|0.64, Lillie's Determination|0.08, Boss's Orders|0.07, Poké Pad|0.08, Ultra Ball|0.07, Judge|0.24, Air Balloon|0.17, Mega Lucario ex|0.71, Riolu|0.71
+bow_drivers:- damage, opponent, weakness, resistance
+anti_meta:- Mega Venusaur|1.00, Dragapult Blaziken|1.00, Festival Lead|1.00, Sylveon|1.00, Mega Gengar|1.00, Alakazam Dudunsparce|1.00, Beedrill|1.00, Mega Greninja|1.00, Doublade|1.00, Metagross|1.00

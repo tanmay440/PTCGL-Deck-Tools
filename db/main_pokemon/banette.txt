@@ -1,0 +1,8 @@
+name:- Banette
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Psychic Energy|0.00, Shuppet|1.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Drakloak|0.00, Dreepy|0.00, Lillie's Determination|0.00, Poké Pad|0.00, Ultra Ball|0.00, Unfair Stamp|0.00
+bow_drivers:- cost_psychic, opponent, hand, deck
+anti_meta:- N/A

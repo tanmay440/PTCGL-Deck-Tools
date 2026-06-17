@@ -1,0 +1,8 @@
+name:- Risky Ruins
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.17, Lillie's Determination|0.18, Poké Pad|0.18, Ultra Ball|0.17, Darkness Energy|0.40, Munkidori|0.43, Night Stretcher|0.16, Buddy-Buddy Poffin|0.22, Budew|0.39, Meowth ex|0.25
+bow_drivers:- discard, bench, damage, put
+anti_meta:- Festival Lead|1.00, N's Zoroark|1.00, Archaludon Zoroark|1.00, Mega Venusaur|1.00, Ceruledge|1.00, Dragapult|1.00, Raging Bolt Ogerpon|1.00, Other|1.00, Alakazam Dudunsparce|1.00, Dragapult Dusknoir|1.00, Mega Greninja|1.00, Steven's Metagross|1.00, Beedrill|1.00, Ursaluna Lunatone|1.00, Ogerpon Meganium Hydrapple|1.00, Ogerpon Meganium|1.00, Ethan's Typhlosion|1.00, Dragapult Dudunsparce|1.00, Lopunny Dusknoir|1.00, Doublade|1.00, Mega Starmie|1.00, Lillie's Clefairy|1.00, Rocket's Mewtwo|1.00, Cynthia's Garchomp|1.00, Kangaskhan Bouffalant|1.00, Metagross|0.75

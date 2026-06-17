@@ -1,0 +1,8 @@
+name:- Dedenne
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.04, Poké Pad|0.04, Buddy-Buddy Poffin|0.05, Psychic Energy|0.07, Hilda|0.15, Night Stretcher|0.04, Genesect|0.55, Lana's Aid|0.16, Telepathic Psychic Energy|0.19, Dudunsparce|0.16
+bow_drivers:- discard, put, hand, cost_colorless
+anti_meta:- Starmie Dusknoir|1.00, Joltik Box|1.00, Toxtricity|1.00, Beedrill|1.00, Cynthia's Garchomp|1.00, Hop's Trevenant|1.00, Raging Bolt Ogerpon|1.00, Metagross|0.67, Starmie Froslass|0.67

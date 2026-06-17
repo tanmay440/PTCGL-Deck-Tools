@@ -1,0 +1,8 @@
+name:- Erika's Gloom
+type:- Grass
+modifiers:- Erika's
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Erika's Oddish|0.81, Erika's Vileplume ex|1.00, Forest of Vitality|0.02, Lillie's Determination|0.00, Dawn|0.01, Lana's Aid|0.01, Ultra Ball|0.00, Boss's Orders|0.00, Bug Catching Set|0.01, Fezandipiti ex|0.00
+bow_drivers:- opponent, cost_grass, cost_colorless
+anti_meta:- N/A

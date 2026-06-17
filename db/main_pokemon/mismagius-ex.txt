@@ -1,0 +1,8 @@
+name:- Mismagius ex
+type:- Psychic
+modifiers:- ex, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Buddy-Buddy Poffin|0.00, Call Bell|0.08, Crispin|0.00, Crushing Hammer|0.00, Darkness Energy|0.00, Enhanced Hammer|0.00, Lillie's Determination|0.00, Mega Scrafty ex|0.04, Misdreavus|0.49
+bow_drivers:- high_damage, draw, opponent, bench
+anti_meta:- N/A

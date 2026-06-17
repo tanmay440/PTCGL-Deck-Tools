@@ -1,0 +1,8 @@
+name:- Sandy Shocks ex
+type:- Fighting
+modifiers:- ex, ancient, rule_box
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Arven|0.02, Boss's Orders|0.00, Electric Generator|1.00, Iron Hands ex|0.33, Jet Energy|0.08, Lightning Energy|0.02, Miraidon ex|0.24, Professor's Research|0.10, Switch|0.01, Ultra Ball|0.00
+bow_drivers:- energy_acceleration, high_damage, discard, opponent
+anti_meta:- N/A

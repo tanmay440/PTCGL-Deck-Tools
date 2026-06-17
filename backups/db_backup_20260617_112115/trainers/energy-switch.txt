@@ -1,0 +1,8 @@
+name:- Energy Switch
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Night Stretcher|0.12, Ultra Ball|0.12, Boss's Orders|0.10, Grass Energy|0.36, Lillie's Determination|0.09, Psychic Energy|0.15, Fezandipiti ex|0.11, Lillie's Clefairy ex|0.30, Meowth ex|0.11, Teal Mask Ogerpon ex|0.53
+bow_drivers:- energy, zero_damage, zero_retreat
+anti_meta:- Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Lucario Hariyama|1.00, Metagross|1.00, Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Lucario|1.00, Mega Greninja|1.00, Decidueye|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Alakazam Dudunsparce|1.00, Sylveon|1.00, Mega Gengar|1.00, Beedrill|1.00, Doublade|1.00, N's Zoroark|1.00, Other|1.00, Starmie Dusknoir|1.00, Rocket's Honchkrow|1.00

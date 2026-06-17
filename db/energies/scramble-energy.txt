@@ -1,0 +1,8 @@
+name:- Scramble Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.32, Pow! Hand Extension|0.35, Electrode ex|0.89, Voltorb|0.89, Holon Adventurer|0.27, Holon Mentor|0.27, Holon Scientist|0.27, Holon Transceiver|0.27, Dark Pupitar|0.66, Dark Tyranitar|0.66
+bow_drivers:- energy, discard, prize, opponent
+anti_meta:- Flygon δ|1.00, Bombtar|1.00

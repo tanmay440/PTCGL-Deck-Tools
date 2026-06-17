@@ -1,0 +1,8 @@
+name:- Celebi ex
+type:- Psychic
+modifiers:- ex, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Blastoise ex|1.00, Giant Stump|0.00, Holon Mentor|0.00, Holon Scientist|0.00, Holon Transceiver|0.00, Holon's Castform|0.00, Holon's Electrode|0.05, Jirachi|0.00, Latias|1.00, Latias Star|1.00
+bow_drivers:- search, discard, put, opponent
+anti_meta:- N/A

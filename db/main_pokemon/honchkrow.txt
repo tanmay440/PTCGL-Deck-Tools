@@ -1,0 +1,8 @@
+name:- Honchkrow
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Azelf|0.34, Baltoy|0.36, Bebe's Search|0.32, Call Energy|0.41, Claydol|0.41, Darkness Energy|0.01, Dusclops|0.04, Dusknoir|0.04, Duskull|0.04, Expert Belt|0.34
+bow_drivers:- high_damage, discard, cost_colorless, hand
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Lightning Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ultra Ball|0.08, Boss's Orders|0.08, Night Stretcher|0.07, Crispin|0.17, Grass Energy|0.25, Psychic Energy|0.11, Latias ex|0.28, Fezandipiti ex|0.08, Lillie's Determination|0.06, Area Zero Underdepths|0.47
+bow_drivers:- zero_damage, zero_retreat
+anti_meta:- Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Rocket's Mewtwo|1.00, Lucario Hariyama|1.00, Metagross|1.00, Starmie Froslass|1.00, Beedrill|1.00, Mega Lucario|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Alakazam Dudunsparce|1.00, Other|1.00, Steven's Metagross|1.00, N's Zoroark|1.00, Gyarados|1.00, Future Thorns|1.00, Dragapult Dusknoir|0.83

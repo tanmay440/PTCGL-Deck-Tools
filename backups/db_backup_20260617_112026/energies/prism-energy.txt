@@ -1,0 +1,8 @@
+name:- Prism Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.05, Lillie's Determination|0.04, Night Stretcher|0.04, Ultra Ball|0.04, Poké Pad|0.03, Latias ex|0.12, Meowth ex|0.04, Fighting Energy|0.11, Unfair Stamp|0.06, Lillie's Clefairy ex|0.09
+bow_drivers:- energy, zero_damage, zero_retreat
+anti_meta:- Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Rocket's Mewtwo|1.00, Mega Greninja|1.00, Alakazam Dudunsparce|1.00, Dragapult|1.00, Starmie Froslass|1.00, Dragapult Dudunsparce|1.00, Dragapult Dusknoir|0.83, Slowking|0.75

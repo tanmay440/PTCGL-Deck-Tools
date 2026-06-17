@@ -1,0 +1,8 @@
+name:- Dipplin
+type:- Grass
+modifiers:- N/A
+type_requirement:- Grass
+properties:- N/A
+commonly_found_with:- Applin|1.00, Grass Energy|0.31, Lillie's Determination|0.08, Boss's Orders|0.08, Bug Catching Set|0.52, Night Stretcher|0.08, Lana's Aid|0.33, Dawn|0.15, Forest of Vitality|0.49, Poké Pad|0.05
+bow_drivers:- put, energy, hand, cost_grass
+anti_meta:- Mega Lucario|1.00, Slowking|1.00, Hop's Zacian|1.00, Ethan's Typhlosion|1.00, Raging Bolt Ogerpon|1.00, N's Zoroark|1.00, Alakazam Dudunsparce|1.00, Ursaluna Lunatone|1.00

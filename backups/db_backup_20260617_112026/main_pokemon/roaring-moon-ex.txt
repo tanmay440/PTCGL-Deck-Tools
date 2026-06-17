@@ -1,0 +1,8 @@
+name:- Roaring Moon ex
+type:- Darkness
+modifiers:- ex, ancient, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Crobat V|0.28, Dedenne-GX|0.79, Field Blower|0.04, Guzma|0.03, Quick Ball|0.06, Trainers' Mail|0.08, Ultra Ball|0.00, VS Seeker|0.03, Archeops|0.50, Aurora Energy|0.25
+bow_drivers:- discard, cost_darkness, opponent, damage
+anti_meta:- N/A

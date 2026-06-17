@@ -1,0 +1,8 @@
+name:- Frosmoth
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Lillie's Determination|0.00, Night Stretcher|0.00, Poké Pad|0.00, Snom|1.00, Ultra Ball|0.00, Water Energy|0.01, Arctibax|0.92, Arven|0.02, Ball Guy|0.08
+bow_drivers:- high_damage, cost_water, energy
+anti_meta:- Alakazam Dudunsparce|1.00, Blaziken|1.00

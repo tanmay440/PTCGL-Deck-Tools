@@ -1,0 +1,8 @@
+name:- Marnie's Impidimp
+type:- Darkness
+modifiers:- Marnie's
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Buddy-Buddy Poffin|0.01, Darkness Energy|0.02, Marnie's Grimmsnarl ex|1.00, Marnie's Morgrem|1.00, Munkidori|0.02, Night Stretcher|0.01, Rare Candy|0.02, Spikemuth Gym|1.00, Lillie's Determination|0.01
+bow_drivers:- draw, cost_colorless, cost_darkness, zero_damage
+anti_meta:- N/A

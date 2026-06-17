@@ -1,0 +1,8 @@
+name:- Professor Elm's Training Method
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Rocket's Admin.|0.10, Holon Mentor|0.11, Holon Scientist|0.11, Holon Transceiver|0.11, Pokémon Retriever|0.13, Warp Point|0.09, Holon Adventurer|0.11, TV Reporter|0.57, Warp Energy|0.10, Windstorm|0.07
+bow_drivers:- discard, search, put, deck
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

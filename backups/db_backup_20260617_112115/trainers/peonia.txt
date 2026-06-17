@@ -1,0 +1,8 @@
+name:- Peonia
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Cynthia & Caitlin|0.51, Guzma|0.09, Field Blower|0.11, Hisuian Heavy Ball|0.11, Night Stretcher|0.00, Poké Pad|0.01, Quick Ball|0.16, Rescue Stretcher|0.12, Ultra Ball|0.01, Rare Candy|0.01
+bow_drivers:- put, prize, hand, zero_damage
+anti_meta:- N/A

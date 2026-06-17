@@ -1,0 +1,8 @@
+name:- Professor's Research
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.14, Ultra Ball|0.01, Iono|0.12, Buddy-Buddy Poffin|0.01, Night Stretcher|0.01, Darkness Energy|0.01, Hisuian Heavy Ball|0.12, Earthen Vessel|0.29, Irida|0.31, Budew|0.01
+bow_drivers:- discard, draw, hand, zero_damage
+anti_meta:- N/A

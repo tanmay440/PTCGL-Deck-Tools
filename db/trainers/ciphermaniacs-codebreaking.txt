@@ -1,0 +1,8 @@
+name:- Ciphermaniac's Codebreaking
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ultra Ball|0.18, Night Stretcher|0.16, Fezandipiti ex|0.22, Lillie's Determination|0.16, Meowth ex|0.23, Latias ex|0.58, Mega Kangaskhan ex|0.69, Psychic Energy|0.22, Lillie's Clefairy ex|0.44, Boss's Orders|0.12
+bow_drivers:- search, deck, shuffle, put
+anti_meta:- Mega Lucario|1.00, Hop's Zacian|1.00, Hop's Trevenant|1.00, Rocket's Mewtwo|1.00, Crustle|1.00, Ogerpon Meganium Arboliva|1.00, Lucario Hariyama|1.00, Metagross|1.00, Starmie Froslass|1.00, Beedrill|1.00, Dragapult Dusknoir|1.00, Ethan's Typhlosion|1.00, Alakazam Dudunsparce|1.00, Steven's Metagross|1.00, Okidogi Barbaracle|1.00, Dragapult|1.00, Sylveon|1.00, Greninja|1.00, Basic Box|1.00, Mega Greninja|1.00, Other|1.00, Future Thorns|1.00, Raging Bolt Ogerpon|0.67

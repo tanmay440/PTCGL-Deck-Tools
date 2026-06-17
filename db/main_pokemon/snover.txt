@@ -1,0 +1,8 @@
+name:- Snover
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Mega Abomasnow ex|1.00, Water Energy|0.00, Ultra Ball|0.00, Boss's Orders|0.00, Kyogre|0.09, Surfing Beach|0.01, Ciphermaniac's Codebreaking|0.00, Maximum Belt|0.01, Dawn|0.00, Larry's Skill|0.01
+bow_drivers:- cost_water, high_retreat
+anti_meta:- N/A

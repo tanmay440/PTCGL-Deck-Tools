@@ -1,0 +1,8 @@
+name:- Salandit
+type:- Fire
+modifiers:- N/A
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Fire Energy|0.01, Lillie's Determination|0.00, Ultra Ball|0.00, Poké Pad|0.00, Dawn|0.01, Firebreather|0.65, Air Balloon|0.01, Night Stretcher|0.00, Arven|0.03, Ball Guy|0.11
+bow_drivers:- discard, energy, cost_fire
+anti_meta:- N/A

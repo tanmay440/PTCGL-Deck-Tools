@@ -1,0 +1,8 @@
+name:- Bellelba & Brycen-Man
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.09, Trainers' Mail|0.22, VS Seeker|0.08, Capture Energy|0.42, Eri|0.18, Gladion|0.47, Pokégear 3.0|0.02, Recycle Energy|0.44, Acro Bike|0.47, Buddy-Buddy Poffin|0.00
+bow_drivers:- discard, deck, hand, opponent
+anti_meta:- N/A

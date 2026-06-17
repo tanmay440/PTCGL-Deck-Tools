@@ -1,0 +1,8 @@
+name:- Blacephalon
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Arven|0.06, Avery|0.67, Battle VIP Pass|0.48, Buddy-Buddy Poffin|0.01, Counter Energy|0.35, Cresselia|0.29, Deoxys|0.59, Energy Retrieval|0.05, Evolution Incense|0.12, Field Blower|0.10
+bow_drivers:- put, damage, opponent, prize
+anti_meta:- N/A

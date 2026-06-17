@@ -1,0 +1,8 @@
+name:- Bouffalant
+type:- Colorless
+modifiers:- ex, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Mist Energy|0.05, Lillie's Determination|0.00, Boss's Orders|0.00, Night Stretcher|0.00, Ultra Ball|0.00, Pokégear 3.0|0.02, Psychic Energy|0.01, Poké Pad|0.00, Switch|0.01, Crispin|0.01
+bow_drivers:- high_damage, damage, weakness, resistance
+anti_meta:- Metagross|1.00, Other|1.00

@@ -1,0 +1,8 @@
+name:- Regirock ex
+type:- Fighting
+modifiers:- ex, rule_box
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.59, Holon Mentor|0.59, Holon Scientist|0.59, Holon Transceiver|0.59, Holon's Castform|0.90, Pokémon Retriever|0.69, Windstorm|0.64, Giant Stump|0.91, Lanette's Net Search|0.91, Jirachi|0.63
+bow_drivers:- energy_acceleration, high_damage, discard, cost_colorless
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

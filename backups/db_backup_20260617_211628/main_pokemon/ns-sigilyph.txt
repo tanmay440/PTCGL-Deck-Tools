@@ -1,0 +1,8 @@
+name:- N's Sigilyph
+type:- Psychic
+modifiers:- N's
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Black Belt's Training|0.00, Boss's Orders|0.00, Brock's Scouting|0.00, Buddy-Buddy Poffin|0.00, Deoxys|0.01, Dialga|0.01, Empoleon ex|0.02, Energy Recycler|0.00, Fezandipiti ex|0.00, Genesect ex|0.00
+bow_drivers:- cost_psychic, cost_colorless, attack, prize
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Salazzle ex
+type:- Fire
+modifiers:- ex, rule_box
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Fire Energy|0.00, Salandit|0.04, Battle Cage|0.00, Poké Pad|0.00, Team Rocket's Petrel|0.00, Crispin|0.00, Fezandipiti ex|0.00, Lillie's Determination|0.00, Meowth ex|0.00
+bow_drivers:- search, cost_fire, deck, opponent
+anti_meta:- N/A

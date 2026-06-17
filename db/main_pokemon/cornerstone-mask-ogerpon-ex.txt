@@ -1,0 +1,8 @@
+name:- Cornerstone Mask Ogerpon ex
+type:- Fighting
+modifiers:- ex, rule_box
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.02, Lillie's Determination|0.02, Fighting Energy|0.10, Ultra Ball|0.02, Team Rocket's Petrel|0.05, Night Stretcher|0.01, Mega Kangaskhan ex|0.09, Switch|0.05, Crispin|0.03, Energy Switch|0.09
+bow_drivers:- high_damage, opponent, damage, cost_colorless
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Lillie's Clefairy|1.00, Cynthia's Garchomp|1.00, Lopunny Dudunsparce|1.00, Metagross|1.00, Ogerpon Meganium Hydrapple|1.00, Sylveon|1.00, Mega Gengar|1.00, Alakazam Dudunsparce|1.00, Mega Greninja|1.00, Doublade|1.00, Ethan's Magcargo|1.00, N's Zoroark|1.00, Dragapult Dusknoir|1.00, Starmie Froslass|1.00, Dragapult Dudunsparce|1.00, Beedrill|1.00, Slowking|0.75

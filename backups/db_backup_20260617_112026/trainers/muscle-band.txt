@@ -1,0 +1,8 @@
+name:- Muscle Band
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Float Stone|0.62, Guzma|0.40, Hisuian Heavy Ball|0.51, Marnie|0.77, VS Seeker|0.39, Arven|0.34, Field Blower|0.52, Iono|0.36, Nest Ball|0.44, Ultra Ball|0.02
+bow_drivers:- energy_acceleration, attach, damage, opponent
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Hoopa
+type:- Fighting
+modifiers:- ex, rule_box
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Artazon|0.14, Arven|0.03, Ball Guy|0.12, Beast Ring|1.00, Boss's Orders|0.00, Buddy-Buddy Poffin|0.00, Counter Energy|0.17, Crobat|0.63, Dark Patch|0.37, Darkness Energy|0.01
+bow_drivers:- high_damage, cost_darkness, opponent, damage
+anti_meta:- N/A

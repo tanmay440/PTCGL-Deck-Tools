@@ -1,0 +1,8 @@
+name:- Ethan's Ho-Oh ex
+type:- Fire
+modifiers:- Ethan's, ex, rule_box
+type_requirement:- Fire
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Battle Cage|0.00, Boss's Orders|0.00, Braixen|0.02, Delphox|0.02, Energy Recycler|0.00, Energy Switch|0.00, Fennekin|0.02, Fire Energy|0.00, Firebreather|0.01
+bow_drivers:- energy_acceleration, high_damage, attach, energy
+anti_meta:- N/A

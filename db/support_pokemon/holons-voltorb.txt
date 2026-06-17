@@ -1,0 +1,8 @@
+name:- Holon's Voltorb
+type:- Lightning
+modifiers:- Holon's
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.34, Holon Mentor|0.34, Holon Scientist|0.34, Holon Transceiver|0.34, Rocket's Admin.|0.31, Warp Point|0.27, Pokémon Retriever|0.34, Jirachi|0.33, Pow! Hand Extension|0.27, Warp Energy|0.25
+bow_drivers:- energy_acceleration, energy, defending, attach
+anti_meta:- Bombtar|1.00, Bombchamp|1.00, Flygon δ|1.00

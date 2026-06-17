@@ -1,0 +1,8 @@
+name:- Giant Stump
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.51, Holon Mentor|0.51, Holon Scientist|0.51, Holon Transceiver|0.51, Holon's Castform|0.91, Jirachi|0.57, Pow! Hand Extension|0.54, Rare Candy|0.02, Rayquaza ex|1.00, Rocket's Admin.|0.45
+bow_drivers:- discard, zero_damage, zero_retreat
+anti_meta:- Bombtar|1.00, Bombchamp|1.00

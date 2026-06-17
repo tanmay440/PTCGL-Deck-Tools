@@ -1,0 +1,8 @@
+name:- Capture Energy
+type:- Energy
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.19, VS Seeker|0.19, Hisuian Heavy Ball|0.21, Night Stretcher|0.01, Quick Ball|0.34, Arven|0.13, Buddy-Buddy Poffin|0.01, Evolution Incense|0.22, Fan Rotom|0.09, Field Blower|0.18
+bow_drivers:- energy_acceleration, search, deck, energy
+anti_meta:- N/A

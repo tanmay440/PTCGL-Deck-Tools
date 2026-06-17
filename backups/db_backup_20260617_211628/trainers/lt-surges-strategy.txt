@@ -1,0 +1,8 @@
+name:- Lt. Surge's Strategy
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Counter Catcher|0.12, Cynthia & Caitlin|0.26, Explorer's Guidance|0.13, Field Blower|0.06, Gladion|0.32, Guzma|0.05, Guzma & Hala|0.10, Hisuian Heavy Ball|0.06, Level Ball|0.11, Luxurious Cape|1.00
+bow_drivers:- prize, opponent, attack, zero_damage
+anti_meta:- N/A

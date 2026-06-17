@@ -1,0 +1,8 @@
+name:- Ball Guy
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Arven|0.27, Field Blower|0.42, Float Stone|0.49, Guzma|0.31, Hisuian Heavy Ball|0.40, Nest Ball|0.36, Marnie|0.59, Ultra Ball|0.02, VS Seeker|0.27, Rescue Stretcher|0.38
+bow_drivers:- search, deck, put, hand
+anti_meta:- N/A

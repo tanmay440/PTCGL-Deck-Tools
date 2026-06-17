@@ -1,0 +1,8 @@
+name:- Lillie's Pearl
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.03, Psychic Energy|0.05, Lillie's Clefairy ex|0.11, Latias ex|0.13, Ultra Ball|0.03, Meowth ex|0.04, Crispin|0.07, Fezandipiti ex|0.04, Cyrano|0.18, Mega Kangaskhan ex|0.13
+bow_drivers:- energy_acceleration, attach, damage, attack
+anti_meta:- Dragapult Dusknoir|1.00, Ethan's Typhlosion|1.00, Hop's Zacian|1.00, Rocket's Mewtwo|1.00, Alakazam Dudunsparce|1.00, Steven's Metagross|1.00, Okidogi Barbaracle|1.00, Dragapult|1.00, Starmie Froslass|1.00

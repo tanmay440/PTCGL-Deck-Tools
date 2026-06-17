@@ -1,0 +1,8 @@
+name:- Carvanha
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Darkness Energy|0.01, Mega Sharpedo ex|1.00, Pecharunt ex|0.04, Toxel|0.24, Toxtricity|0.24, Poké Pad|0.00, Team Rocket's Petrel|0.01, Boss's Orders|0.00, Lillie's Determination|0.00, Ultra Ball|0.00
+bow_drivers:- damage, cost_darkness
+anti_meta:- Mega Greninja|1.00

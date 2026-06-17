@@ -1,0 +1,8 @@
+name:- Jynx
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Psychic Energy|0.00, Banette|0.55, Banette ex|0.65, Crystal Beach|0.65, Cyclone Energy|0.25, Desert Ruins|0.54, Energy Removal 2|0.65, Hitmontop|0.65, Holon Adventurer|0.10, Holon Mentor|0.10
+bow_drivers:- cost_psychic, attack, damage, energy
+anti_meta:- N/A

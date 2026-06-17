@@ -1,0 +1,8 @@
+name:- Lucky Helmet
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Poké Pad|0.08, Night Stretcher|0.07, Psychic Energy|0.13, Fezandipiti ex|0.09, Telepathic Psychic Energy|0.35, Lana's Aid|0.28, Dawn|0.16, Lillie's Determination|0.05, Ultra Ball|0.05, Lillie's Clefairy ex|0.18
+bow_drivers:- energy_acceleration, draw, attach, attack
+anti_meta:- Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Lucario|1.00, Mega Greninja|1.00, Decidueye|1.00, Alakazam Dudunsparce|1.00, Sylveon|1.00, Greninja|1.00, Steven's Metagross|1.00, Starmie Froslass|1.00, Basic Box|1.00, Beedrill|1.00, Rocket's Mewtwo|1.00, Kangaskhan Bouffalant|1.00, Dragapult Blaziken|1.00, Crustle|1.00, Grimmsnarl Froslass|1.00, Metagross|1.00, Starmie Dusknoir|1.00, Joltik Box|1.00, Toxtricity|1.00, Cynthia's Garchomp|1.00, Hop's Trevenant|1.00, Blaziken|1.00, Raging Bolt Ogerpon|0.67, Dragapult|0.67

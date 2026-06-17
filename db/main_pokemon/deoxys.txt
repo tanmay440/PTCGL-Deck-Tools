@@ -1,0 +1,8 @@
+name:- Deoxys
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.01, Psychic Energy|0.02, Ultra Ball|0.01, Night Stretcher|0.01, Poké Pad|0.01, Wondrous Patch|0.08, Telepathic Psychic Energy|0.05, Smoochum|0.12, Rare Candy|0.03, Buddy-Buddy Poffin|0.01
+bow_drivers:- cost_psychic, opponent, damage, cost_colorless
+anti_meta:- Ogerpon Meganium Arboliva|1.00, Raging Bolt Ogerpon|1.00

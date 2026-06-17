@@ -1,0 +1,8 @@
+name:- TV Reporter
+type:- N/A
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Cyclone Energy|0.59, Rocket's Admin.|0.21, Boost Energy|0.57, Delcatty|0.39, Delcatty ex|0.57, Electrode ex|0.32, Girafarig|0.40, Grass Energy|0.01, Great Ball|0.57, Holon Energy GL|0.57
+bow_drivers:- unknown
+anti_meta:- N/A

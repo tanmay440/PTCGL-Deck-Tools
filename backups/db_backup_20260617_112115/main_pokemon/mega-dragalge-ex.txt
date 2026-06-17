@@ -1,0 +1,8 @@
+name:- Mega Dragalge ex
+type:- Dragon
+modifiers:- ex, mega, rule_box
+type_requirement:- Darkness, Water
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.01, Crispin|0.02, Darkness Energy|0.02, Lillie's Determination|0.01, Skrelp|1.00, Water Energy|0.03, Ultra Ball|0.01, Night Stretcher|0.01, Special Red Card|0.01, Hilda|0.02
+bow_drivers:- discard, opponent, cost_colorless, zero_damage
+anti_meta:- Dragapult Dudunsparce|1.00, Kangaskhan Bouffalant|1.00

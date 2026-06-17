@@ -1,0 +1,8 @@
+name:- Swampert
+type:- Water
+modifiers:- N/A
+type_requirement:- Water
+properties:- N/A
+commonly_found_with:- Ancient Technical Machine [Rock]|0.10, Claw Fossil|1.00, Cyclone Energy|0.03, Giant Stump|0.02, Holon Adventurer|0.01, Holon Mentor|0.01, Holon Scientist|0.01, Holon Transceiver|0.01, Holon's Castform|0.02, Holon's Magnemite|0.03
+bow_drivers:- energy_acceleration, high_damage, energy, attach
+anti_meta:- N/A

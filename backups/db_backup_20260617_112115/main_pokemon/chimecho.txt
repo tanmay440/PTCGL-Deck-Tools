@@ -1,0 +1,8 @@
+name:- Chimecho
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Arven|0.03, Battle Compressor|0.19, Buddy-Buddy Poffin|0.00, Counter Catcher|0.09, Field Blower|0.05, Float Stone|0.06, Fog Crystal|0.17, Gardevoir ex|0.14, Gengar & Mimikyu-GX|1.00, Guzma|0.04
+bow_drivers:- cost_colorless, shuffle, deck, cost_psychic
+anti_meta:- N/A

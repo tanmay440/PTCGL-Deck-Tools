@@ -1,0 +1,8 @@
+name:- Bramblin
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Bayleef|0.05, Boss's Orders|0.00, Brambleghast|1.00, Bug Catching Set|0.02, Chikorita|0.05, Forest of Vitality|0.03, Grass Energy|0.01, Lillie's Determination|0.00, Meganium|0.05, Ultra Ball|0.00
+bow_drivers:- damage, opponent, cost_psychic, zero_damage
+anti_meta:- N/A

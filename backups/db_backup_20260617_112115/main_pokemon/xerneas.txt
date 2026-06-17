@@ -1,0 +1,8 @@
+name:- Xerneas
+type:- Psychic
+modifiers:- N/A
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Boss's Orders|0.00, Lillie's Clefairy ex|0.01, Lillie's Determination|0.00, Psychic Energy|0.00, Smoochum|0.03, Special Red Card|0.00, Telepathic Psychic Energy|0.01, Colress's Tenacity|0.02, Fezandipiti ex|0.00, Latias ex|0.01
+bow_drivers:- cost_psychic, attack, damage, energy
+anti_meta:- N/A

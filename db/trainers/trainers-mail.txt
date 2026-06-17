@@ -1,0 +1,8 @@
+name:- Trainers' Mail
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Guzma|0.40, VS Seeker|0.38, Rescue Stretcher|0.40, Hisuian Heavy Ball|0.33, Evolution Incense|0.37, Field Blower|0.29, Ultra Ball|0.01, Arven|0.19, Iono|0.20, Nest Ball|0.24
+bow_drivers:- deck, look, put, hand
+anti_meta:- N/A

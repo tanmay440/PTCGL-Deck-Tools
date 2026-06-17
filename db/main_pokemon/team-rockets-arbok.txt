@@ -1,0 +1,8 @@
+name:- Team Rocket's Arbok
+type:- Darkness
+modifiers:- Team Rocket's
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Darkness Energy|0.00, Hilda|0.00, Psychic Energy|0.00, Switch|0.00, Team Rocket's Archer|0.00, Team Rocket's Ariana|0.00, Team Rocket's Articuno|0.00, Team Rocket's Ekans|1.00, Team Rocket's Energy|0.00, Team Rocket's Factory|0.00
+bow_drivers:- opponent, hand, cost_darkness, attack
+anti_meta:- N/A

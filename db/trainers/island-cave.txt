@@ -1,0 +1,8 @@
+name:- Island Cave
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Holon Adventurer|0.00, Holon Mentor|0.00, Holon Transceiver|0.00, Jirachi|0.01, Marshtomp|0.25, Metal Energy|0.00, Mew|0.01, Mudkip|0.25, Pidgeot|0.01, Pidgey|0.00
+bow_drivers:- discard, energy, hand, zero_damage
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Team Rocket's Kangaskhan ex
+type:- Colorless
+modifiers:- Team Rocket's, ex, rule_box
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Ultra Ball|0.02, Team Rocket's Articuno|0.20, Boss's Orders|0.02, Night Stretcher|0.01, Team Rocket's Petrel|0.05, Special Red Card|0.02, Brock's Scouting|0.19, Meowth ex|0.02, Fezandipiti ex|0.02, Buddy-Buddy Poffin|0.02
+bow_drivers:- high_damage, cost_colorless, attack, damage
+anti_meta:- Archaludon|1.00, Mega Lucario|1.00, Dragapult|1.00, Ogerpon Meganium|1.00, Lillie's Clefairy|1.00, Cynthia's Garchomp|1.00, Lopunny Dudunsparce|1.00, Metagross|1.00, Ogerpon Meganium Hydrapple|1.00, Rocket's Spidops|1.00, Dragapult Dusknoir|1.00, Festival Lead|1.00, Mega Greninja|1.00, Decidueye|1.00, Hop's Trevenant|1.00, Beedrill|1.00, Manectric Eelektrik|1.00, Other|1.00, N's Zoroark|1.00, Rocket's Mewtwo|1.00

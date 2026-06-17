@@ -1,0 +1,8 @@
+name:- Iron Crown ex
+type:- Psychic
+modifiers:- ex, future, rule_box
+type_requirement:- Psychic
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.02, Psychic Energy|0.03, Ultra Ball|0.01, Crispin|0.03, Night Stretcher|0.01, Miraidon|0.71, Lightning Energy|0.12, Fighting Energy|0.05, Air Balloon|0.03, Pokégear 3.0|0.04
+bow_drivers:- damage, opponent, weakness, resistance
+anti_meta:- Future Thorns|1.00

@@ -1,0 +1,8 @@
+name:- Raichu
+type:- Lightning
+modifiers:- N/A
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Cessation Crystal|0.16, Cursed Stone|0.13, Desert Ruins|0.21, Double Rainbow Energy|0.41, Exeggcute|0.65, Exeggutor|0.65, Holon Adventurer|0.02, Holon Mentor|0.02, Holon Researcher|0.05, Holon Scientist|0.02
+bow_drivers:- high_damage, cost_colorless, damage, cost_lightning
+anti_meta:- N/A

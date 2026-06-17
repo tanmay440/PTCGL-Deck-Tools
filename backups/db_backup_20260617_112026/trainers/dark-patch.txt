@@ -1,0 +1,8 @@
+name:- Dark Patch
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Darkness Energy|0.01, Guzma|0.10, VS Seeker|0.10, Arven|0.08, Buddy-Buddy Poffin|0.01, Counter Energy|0.43, Evolution Incense|0.15, Guzma & Hala|0.19, Poké Pad|0.01, Trainers' Mail|0.19
+bow_drivers:- energy_acceleration, discard, attach, energy
+anti_meta:- N/A

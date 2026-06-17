@@ -1,0 +1,8 @@
+name:- Capacious Bucket
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.01, Guzma|0.15, Iono|0.14, Irida|0.47, VS Seeker|0.14, Water Energy|0.04, Dive Ball|0.83, Drizzile|0.83, Evolution Incense|0.20, Field Blower|0.16
+bow_drivers:- search, deck, energy, put
+anti_meta:- N/A

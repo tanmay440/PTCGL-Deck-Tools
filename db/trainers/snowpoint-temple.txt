@@ -1,0 +1,8 @@
+name:- Snowpoint Temple
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Bebe's Search|0.04, Call Energy|0.05, Crobat G|0.08, Expert Belt|0.04, Roseanne's Research|0.04, Unown [G]|0.06, Uxie|0.04, Warp Energy|0.02, Aaron's Collection|0.12, Bertha's Warmth|0.92
+bow_drivers:- discard, opponent, hp, zero_damage
+anti_meta:- N/A

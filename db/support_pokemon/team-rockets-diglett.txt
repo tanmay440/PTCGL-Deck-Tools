@@ -1,0 +1,8 @@
+name:- Team Rocket's Diglett
+type:- Fighting
+modifiers:- Team Rocket's
+type_requirement:- Fighting
+properties:- N/A
+commonly_found_with:- Battle Cage|0.00, Buddy-Buddy Poffin|0.00, Goodra|1.00, Goomy|1.00, Great Haul Net|0.00, Lillie's Determination|0.00, Mist Energy|0.00, Neutralization Zone|0.01, Octillery|0.00, Patrat|0.00
+bow_drivers:- discard, opponent, deck, cost_fighting
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Regidrago V
+type:- Dragon
+modifiers:- v, rule_box
+type_requirement:- Fire, Grass
+properties:- N/A
+commonly_found_with:- Battle Compressor|0.04, Budew|0.00, Crispin|0.00, Crobat V|0.07, Dedenne-GX|0.21, Dialga-GX|1.00, Double Dragon Energy|0.46, Dragapult ex|0.00, Faba|0.06, Fire Energy|0.00
+bow_drivers:- energy_acceleration, high_damage, discard, opponent
+anti_meta:- N/A

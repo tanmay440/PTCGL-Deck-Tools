@@ -1,0 +1,8 @@
+name:- Technical Machine: Devolution
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.01, Budew|0.01, Darkness Energy|0.01, Hisuian Heavy Ball|0.12, Irida|0.29, Munkidori|0.01, Artazon|0.28, Arven|0.06, Counter Catcher|0.18, Cresselia|0.29
+bow_drivers:- energy_acceleration, discard, opponent, attack
+anti_meta:- N/A

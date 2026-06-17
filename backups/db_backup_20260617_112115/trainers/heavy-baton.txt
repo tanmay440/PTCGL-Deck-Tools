@@ -1,0 +1,8 @@
+name:- Heavy Baton
+type:- Trainer
+modifiers:- N/A
+type_requirement:- N/A
+properties:- N/A
+commonly_found_with:- Lillie's Determination|0.00, Night Stretcher|0.00, Boss's Orders|0.00, Ultra Ball|0.00, Grass Energy|0.00, Crispin|0.00, Pokégear 3.0|0.00, Switch|0.00, Lightning Energy|0.00, Xerosic's Machinations|0.00
+bow_drivers:- energy_acceleration, attach, damage, attack
+anti_meta:- N/A

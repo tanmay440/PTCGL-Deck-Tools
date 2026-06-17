@@ -1,0 +1,8 @@
+name:- Minun
+type:- Lightning
+modifiers:- N/A
+type_requirement:- Lightning
+properties:- N/A
+commonly_found_with:- Castaway|0.39, Cessation Crystal|0.46, Cursed Stone|0.39, Pow! Hand Extension|0.07, Rocket's Admin.|0.06, Stantler|0.17, Energy Removal 2|0.40, Balloon Berry|0.35, Mr. Stone's Project|0.83, Lanette's Net Search|0.09
+bow_drivers:- opponent, energy, hand, put
+anti_meta:- N/A

@@ -1,0 +1,8 @@
+name:- Reshiram
+type:- Dragon
+modifiers:- N/A
+type_requirement:- Fire, Lightning
+properties:- N/A
+commonly_found_with:- Air Balloon|0.00, Battle Cage|0.00, Boss's Orders|0.00, Charmander|0.01, Charmeleon|0.01, Dawn|0.00, Energy Recycler|0.00, Energy Retrieval|0.00, Fezandipiti ex|0.00, Fire Energy|0.00
+bow_drivers:- high_damage, cost_fire, damage, cost_lightning
+anti_meta:- N/A

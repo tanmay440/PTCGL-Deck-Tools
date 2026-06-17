@@ -1,0 +1,2372 @@
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Metagross
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 0.67
+winrate_b:- 0.33
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Mega Starmie
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Ogerpon Meganium Hydrapple
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.75
+winrate_b:- 0.25
+
+archetype_a:- N's Zoroark
+archetype_b:- Alakazam Dudunsparce
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 0.67
+winrate_b:- 0.33
+
+archetype_a:- Mega Starmie
+archetype_b:- Dragapult
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- Raging Bolt Ogerpon
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Rocket's Honchkrow
+archetype_b:- Dragapult
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 0.67
+winrate_b:- 0.33
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Starmie Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ceruledge
+archetype_b:- Dragapult Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ethan's Typhlosion
+archetype_b:- Rocket's Honchkrow
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Azumarill
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Crustle
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Steven's Metagross
+archetype_b:- Ogerpon Meganium Arboliva
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Ogerpon Meganium
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Lillie's Clefairy
+archetype_b:- Dragapult Dusknoir
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 7
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Dragapult
+archetype_b:- Other
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Rocket's Honchkrow
+archetype_b:- Kangaskhan Bouffalant
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Venusaur
+archetype_b:- Lillie's Clefairy
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Azumarill
+archetype_b:- Dragapult Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Beedrill
+archetype_b:- Starmie Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ogerpon Meganium Arboliva
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- N's Zoroark
+archetype_b:- Rocket's Honchkrow
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Lillie's Clefairy
+archetype_b:- Steven's Metagross
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ogerpon Meganium Arboliva
+archetype_b:- Other
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Raging Bolt Ogerpon
+archetype_b:- Crustle
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Lucario Hariyama
+archetype_b:- Mega Venusaur
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ogerpon Meganium Arboliva
+archetype_b:- Starmie Dusknoir
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Lopunny
+archetype_b:- Alakazam Dudunsparce
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Rocket's Honchkrow
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Festival Lead
+archetype_b:- Crustle
+format:- Standard 2026
+matchup_count:- 4
+winrate_a:- 0.62
+winrate_b:- 0.38
+
+archetype_a:- Raging Bolt Ogerpon
+archetype_b:- Ogerpon Meganium Arboliva
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Crustle
+archetype_b:- Archaludon
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Lillie's Clefairy
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Dragapult Blaziken
+archetype_b:- Festival Lead
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Rocket's Honchkrow
+archetype_b:- Dragapult Blaziken
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Rocket's Honchkrow
+archetype_b:- Crustle
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Festival Lead
+archetype_b:- Slowking
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Archaludon
+archetype_b:- Dragapult Blaziken
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Greninja
+archetype_b:- Other
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ethan's Typhlosion
+archetype_b:- Rocket's Mewtwo
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Archaludon Dudunsparce
+archetype_b:- Ethan's Typhlosion
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ogerpon Meganium Arboliva
+archetype_b:- Rocket's Honchkrow
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Gengar
+archetype_b:- Raging Bolt Ogerpon
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Ogerpon Meganium Hydrapple
+archetype_b:- Mega Lucario
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Beedrill
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Hop's Trevenant
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Starmie Dusknoir
+archetype_b:- Cynthia's Garchomp
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Festival Lead
+archetype_b:- Beedrill
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 0.67
+winrate_b:- 0.33
+
+archetype_a:- Greninja
+archetype_b:- Okidogi Barbaracle
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Slowking
+archetype_b:- Raging Bolt Ogerpon
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 0.67
+winrate_b:- 0.33
+
+archetype_a:- N's Zoroark
+archetype_b:- Raging Bolt Ogerpon
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Gardevoir δ
+archetype_b:- Bombtar
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Gardevoir δ
+archetype_b:- Bombchamp
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Slowking
+format:- Standard 2026
+matchup_count:- 6
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Mega Lucario
+archetype_b:- Sylveon
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Lucario
+archetype_b:- Mega Gengar
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Slowking
+archetype_b:- Sylveon
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Lucario
+archetype_b:- Alakazam Dudunsparce
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Raging Bolt Ogerpon
+archetype_b:- Rocket's Honchkrow
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Rocket's Honchkrow
+archetype_b:- Sylveon
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Slowking
+archetype_b:- Greninja
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Kangaskhan Bouffalant
+archetype_b:- Metagross
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dudunsparce
+archetype_b:- Dragapult
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ogerpon Meganium Hydrapple
+archetype_b:- Slowking
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Okidogi Barbaracle
+archetype_b:- Slowking
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.75
+winrate_b:- 0.25
+
+archetype_a:- Froslass Dudunsparce
+archetype_b:- Dragapult Dudunsparce
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- Ogerpon Meganium Hydrapple
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Doublade
+archetype_b:- Okidogi Barbaracle
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Froslass Dudunsparce
+archetype_b:- Kangaskhan Bouffalant
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Lopunny Dudunsparce
+archetype_b:- Dragapult
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.75
+winrate_b:- 0.25
+
+archetype_a:- Mega Gengar
+archetype_b:- Okidogi Barbaracle
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Okidogi Barbaracle
+archetype_b:- Starmie Froslass
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dudunsparce
+archetype_b:- Beedrill
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- Alakazam Dudunsparce
+format:- Standard 2026
+matchup_count:- 7
+winrate_a:- 0.71
+winrate_b:- 0.29
+
+archetype_a:- N's Zoroark
+archetype_b:- Froslass Dudunsparce
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Okidogi Barbaracle
+archetype_b:- Dragapult Dudunsparce
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- Dragapult Dusknoir
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 0.83
+winrate_b:- 0.17
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Alakazam Dudunsparce
+format:- Standard 2026
+matchup_count:- 4
+winrate_a:- 0.88
+winrate_b:- 0.12
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 4
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Festival Lead
+archetype_b:- Ethan's Typhlosion
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Rocket's Mewtwo
+archetype_b:- Rocket's Spidops
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Festival Lead
+archetype_b:- Mega Starmie
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- N's Zoroark
+archetype_b:- Other
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Dragapult Blaziken
+archetype_b:- Dragapult Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- N's Zoroark
+archetype_b:- Ethan's Typhlosion
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Starmie
+archetype_b:- Lillie's Clefairy
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Festival Lead
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Mega Starmie
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Basic Box
+archetype_b:- Dragapult Blaziken
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Other
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 0.67
+winrate_b:- 0.33
+
+archetype_a:- Rocket's Mewtwo
+archetype_b:- Dragapult Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- N's Zoroark
+archetype_b:- Rocket's Mewtwo
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Mega Starmie
+archetype_b:- Rocket's Mewtwo
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Rocket's Spidops
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Basic Box
+archetype_b:- Dragapult Dusknoir
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 0.83
+winrate_b:- 0.17
+
+archetype_a:- Slowking
+archetype_b:- Dragapult
+format:- Standard 2026
+matchup_count:- 5
+winrate_a:- 0.80
+winrate_b:- 0.20
+
+archetype_a:- Basic Box
+archetype_b:- Ethan's Typhlosion
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Other
+archetype_b:- Okidogi Barbaracle
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Ethan's Typhlosion
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Joltik Box
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ceruledge
+archetype_b:- Steven's Metagross
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Toxtricity
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Toxtricity
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Slowking
+archetype_b:- Steven's Metagross
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Manectric
+archetype_b:- Steven's Metagross
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Manectric
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 6
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Mega Greninja
+archetype_b:- Mega Manectric
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Arcanine ex
+archetype_b:- Scizor
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Bombtar
+archetype_b:- Flygon δ
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Nidoqueen
+archetype_b:- Bombtar
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Slowking
+archetype_b:- Dragapult Dusknoir
+format:- Standard 2026
+matchup_count:- 4
+winrate_a:- 0.75
+winrate_b:- 0.25
+
+archetype_a:- Dragapult Blaziken
+archetype_b:- Diancie Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Lucario Hariyama
+archetype_b:- Ethan's Typhlosion
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- Palafin
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Slowking
+archetype_b:- Lucario Hariyama
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 0.67
+winrate_b:- 0.33
+
+archetype_a:- Dragapult
+archetype_b:- Lucario Hariyama
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Dragapult
+archetype_b:- Festival Lead
+format:- Standard 2026
+matchup_count:- 4
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Greninja
+archetype_b:- Palafin
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Diancie Dusknoir
+archetype_b:- Festival Lead
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Festival Lead
+archetype_b:- Raging Bolt Ogerpon
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Starmie Froslass
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 0.67
+winrate_b:- 0.33
+
+archetype_a:- Mega Greninja
+archetype_b:- Festival Lead
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Slowking
+archetype_b:- Starmie Froslass
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Blaziken
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Slowking
+archetype_b:- Basic Box
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Basic Box
+archetype_b:- Hop's Zacian
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Slowking
+archetype_b:- Beedrill
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ogerpon Meganium Hydrapple
+archetype_b:- Hop's Zacian
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Raging Bolt Ogerpon
+archetype_b:- Rocket's Mewtwo
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Metagross
+archetype_b:- Hop's Trevenant
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Greninja
+archetype_b:- Metagross
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.75
+winrate_b:- 0.25
+
+archetype_a:- Dragapult Blaziken
+archetype_b:- Ethan's Typhlosion
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Mega Venusaur
+archetype_b:- Slowking
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- N's Zoroark
+archetype_b:- Rocket's Spidops
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ceruledge
+archetype_b:- Dragapult Dudunsparce
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Lopunny
+archetype_b:- Blaziken
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Dragapult Dudunsparce
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dudunsparce
+archetype_b:- Alakazam Dudunsparce
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.75
+winrate_b:- 0.25
+
+archetype_a:- Ceruledge
+archetype_b:- Mega Lopunny
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dudunsparce
+archetype_b:- Rocket's Spidops
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- N's Zoroark
+archetype_b:- Slowking
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Beedrill
+archetype_b:- Ogerpon Meganium
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Metagross
+archetype_b:- Beedrill
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Basic Box
+archetype_b:- Rocket's Mewtwo
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Beedrill
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Raging Bolt Ogerpon
+archetype_b:- Lucario Hariyama
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Greninja
+archetype_b:- Hop's Trevenant
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Crustle
+archetype_b:- Mega Lucario
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Rocket's Mewtwo
+archetype_b:- Festival Lead
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Raging Bolt Ogerpon
+archetype_b:- Metagross
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Hop's Trevenant
+archetype_b:- Beedrill
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Beedrill
+archetype_b:- Mega Lucario
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Hop's Trevenant
+archetype_b:- Basic Box
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Rocket's Mewtwo
+archetype_b:- Mega Lucario
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 0.83
+winrate_b:- 0.17
+
+archetype_a:- Basic Box
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Luxray GL
+archetype_b:- Gyarados
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Blaziken
+archetype_b:- Lucario Hariyama
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Lucario Hariyama
+archetype_b:- Festival Lead
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Starmie Dusknoir
+archetype_b:- Festival Lead
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Basic Box
+archetype_b:- Alakazam Dudunsparce
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Slowking
+archetype_b:- Rocket's Mewtwo
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Blaziken
+archetype_b:- Archaludon Zoroark
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Beedrill
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- N's Zoroark
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Crustle
+archetype_b:- Slowking
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Festival Lead
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- Archaludon Zoroark
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Venusaur
+archetype_b:- Starmie Froslass
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Other
+archetype_b:- Ogerpon Meganium Hydrapple
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Other
+archetype_b:- Luxray
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Hop's Trevenant
+archetype_b:- Dragapult
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- N's Zoroark
+archetype_b:- Starmie Dusknoir
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Dragapult
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 3
+winrate_a:- 0.83
+winrate_b:- 0.17
+
+archetype_a:- Rocket's Honchkrow
+archetype_b:- Slowking
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Kangaskhan Bouffalant
+archetype_b:- Other
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Venusaur
+archetype_b:- Hop's Trevenant
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Steven's Metagross
+archetype_b:- Raging Bolt Ogerpon
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Festival Lead
+archetype_b:- Alakazam Dudunsparce
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Blaziken
+archetype_b:- Mega Venusaur
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Lucario
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Blaziken
+archetype_b:- Ceruledge
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- Steven's Metagross
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ceruledge
+archetype_b:- Mega Venusaur
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Other
+archetype_b:- Steven's Metagross
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Archaludon Zoroark
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Hop's Trevenant
+archetype_b:- Ceruledge
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Crustle
+archetype_b:- Dragapult
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Starmie Froslass
+archetype_b:- Doublade
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Metagross
+archetype_b:- Manectric Eelektrik
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- Metagross
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.75
+winrate_b:- 0.25
+
+archetype_a:- Mega Greninja
+archetype_b:- Rocket's Mewtwo
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Rocket's Mewtwo
+archetype_b:- Decidueye
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Metagross
+archetype_b:- Other
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Lucario
+archetype_b:- Doublade
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Cynthia's Garchomp
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Hop's Trevenant
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Cynthia's Garchomp
+archetype_b:- Metagross
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Crustle
+archetype_b:- Ogerpon Meganium
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Doublade
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Other
+archetype_b:- Iron Thorns
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Other
+archetype_b:- Miraidon
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Miraidon
+archetype_b:- Future Thorns
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Rocket's Honchkrow
+archetype_b:- Grimmsnarl Froslass
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- Beedrill
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.75
+winrate_b:- 0.25
+
+archetype_a:- Festival Lead
+archetype_b:- Ursaluna Lunatone
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Beedrill
+archetype_b:- Manectric Eelektrik
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Grimmsnarl Froslass
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Dragapult
+archetype_b:- Ursaluna Lunatone
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Blaziken
+archetype_b:- Dragapult
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Lopunny Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Starmie
+archetype_b:- Starmie Froslass
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Other
+archetype_b:- Grimmsnarl Froslass
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Other
+archetype_b:- Basic Box
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Lillie's Clefairy
+archetype_b:- Okidogi Barbaracle
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Okidogi Barbaracle
+archetype_b:- Beedrill
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Hop's Trevenant
+archetype_b:- Lillie's Clefairy
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Crustle
+archetype_b:- Lillie's Clefairy
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Crustle
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Metagross
+archetype_b:- Archaludon
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Charizard X
+archetype_b:- Decidueye
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Other
+archetype_b:- Dragapult Blaziken
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Crustle
+archetype_b:- Cynthia's Garchomp
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Raging Bolt Ogerpon
+archetype_b:- Starmie Froslass
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Decidueye
+archetype_b:- Other
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Starmie
+archetype_b:- Archaludon
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dudunsparce
+archetype_b:- Mega Charizard X
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Starmie
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Archaludon
+archetype_b:- Other
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Dragapult Dudunsparce
+archetype_b:- Slowking
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Festival Lead
+archetype_b:- Other
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- Mega Lucario
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ogerpon Meganium
+archetype_b:- Hydreigon
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Festival Lead
+archetype_b:- Ogerpon Meganium
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Diancie Dusknoir
+archetype_b:- Starmie Froslass
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Lillie's Clefairy
+archetype_b:- Dragapult
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Raging Bolt Ogerpon
+archetype_b:- Beedrill
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Crustle
+archetype_b:- Lopunny Dudunsparce
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Mega Froslass
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Slowking
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Hop's Trevenant
+archetype_b:- Ogerpon Meganium Hydrapple
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Beedrill
+archetype_b:- Cynthia's Garchomp
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Hop's Trevenant
+archetype_b:- Starmie Froslass
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Raging Bolt Ogerpon
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Hop's Trevenant
+archetype_b:- Slowking
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Hop's Trevenant
+archetype_b:- Lopunny Dudunsparce
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Dragapult
+archetype_b:- Ogerpon Meganium
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Raging Bolt Ogerpon
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Hop's Trevenant
+archetype_b:- Dragapult Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Hop's Trevenant
+archetype_b:- Crustle
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Metagross
+archetype_b:- Ogerpon Meganium Hydrapple
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Metagross
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Crustle
+archetype_b:- Metagross
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.75
+winrate_b:- 0.25
+
+archetype_a:- Ogerpon Meganium Hydrapple
+archetype_b:- Rocket's Mewtwo
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dudunsparce
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Crustle
+archetype_b:- Ogerpon Meganium Hydrapple
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dudunsparce
+archetype_b:- Metagross
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Blaziken
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Lucario
+archetype_b:- Ethan's Magcargo
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Metagross
+archetype_b:- Rocket's Mewtwo
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Metagross
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Raging Bolt Ogerpon
+archetype_b:- Mega Lucario
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Mega Lucario
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Greninja
+archetype_b:- Rocket's Honchkrow
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Lucario Hariyama
+archetype_b:- Dragapult Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Lucario
+archetype_b:- Lopunny Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Slowking
+archetype_b:- Mega Lucario
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Starmie Dusknoir
+archetype_b:- Lopunny Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Starmie Dusknoir
+archetype_b:- Mega Lucario
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ceruledge
+archetype_b:- Alakazam Dudunsparce
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Starmie Froslass
+archetype_b:- Crustle
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Raging Bolt Bellibolt
+archetype_b:- Other
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ceruledge
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- Raging Bolt Bellibolt
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Starmie
+archetype_b:- Ceruledge
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Lillie's Clefairy
+archetype_b:- Starmie Froslass
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Slowking
+archetype_b:- Lillie's Clefairy
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Festival Lead
+archetype_b:- Greninja
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Basic Box
+archetype_b:- Dragapult
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Lucario Hariyama
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Manectric Eelektrik
+archetype_b:- Dragapult Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Starmie Froslass
+archetype_b:- Mega Lucario
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ceruledge
+archetype_b:- N's Zoroark
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Lopunny
+archetype_b:- Dragapult Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Slowking
+archetype_b:- Bronzong
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Greninja
+archetype_b:- Lucario Hariyama
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Crustle
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Hop's Trevenant
+archetype_b:- Lucario Hariyama
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Dragapult Dudunsparce
+archetype_b:- Other
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Lucario
+archetype_b:- Other
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Ogerpon Meganium Hydrapple
+format:- Standard 2026
+matchup_count:- 2
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dudunsparce
+archetype_b:- Ogerpon Meganium Hydrapple
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Crustle
+archetype_b:- Palafin
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- Bronzong
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Palafin
+archetype_b:- Hop's Trevenant
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Cynthia's Garchomp
+archetype_b:- Rocket's Mewtwo
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Rocket's Honchkrow
+archetype_b:- Ogerpon Meganium Hydrapple
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- N's Zoroark
+archetype_b:- Ogerpon Meganium Hydrapple
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Lucario
+archetype_b:- Rocket's Honchkrow
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Rocket's Honchkrow
+archetype_b:- Lopunny Dudunsparce
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Blaziken
+archetype_b:- Metagross
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Starmie Dusknoir
+archetype_b:- Slowking
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- Mega Froslass
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Lillie's Clefairy
+archetype_b:- Metagross
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Dragapult Dusknoir
+archetype_b:- Mega Greninja
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Crustle
+archetype_b:- Dragapult Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Ceruledge
+archetype_b:- Ogerpon Meganium Hydrapple
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Ethan's Typhlosion
+archetype_b:- Manectric Eelektrik
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Cynthia's Garchomp
+archetype_b:- Archaludon Dudunsparce
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Manectric Eelektrik
+archetype_b:- Festival Lead
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Cynthia's Garchomp
+archetype_b:- Slowking
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Hop's Trevenant
+archetype_b:- Okidogi
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Lucario Hariyama
+archetype_b:- Beedrill
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Raging Bolt Ogerpon
+archetype_b:- Diancie Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Steven's Metagross
+archetype_b:- Diancie Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- N's Zoroark
+archetype_b:- Mega Lucario
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Blaziken
+archetype_b:- Yanmega
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Okidogi Barbaracle
+archetype_b:- Hop's Trevenant
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult
+archetype_b:- Rocket's Mewtwo
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- N's Zoroark
+archetype_b:- Okidogi Barbaracle
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Diancie Dusknoir
+archetype_b:- Slowking
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Mega Lucario
+archetype_b:- Dragapult Dudunsparce
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Rocket's Honchkrow
+archetype_b:- Feraligatr
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Steven's Metagross
+archetype_b:- Dragapult Blaziken
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Feraligatr
+archetype_b:- Diancie Dusknoir
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Okidogi
+archetype_b:- Slowking
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- N's Zoroark
+archetype_b:- Steven's Metagross
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Dragapult Dudunsparce
+archetype_b:- Hop's Trevenant
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Archaludon
+archetype_b:- Lucario Hariyama
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Rocket's Honchkrow
+archetype_b:- Hop's Trevenant
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Flariados
+archetype_b:- Flygon δ
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Crustle
+archetype_b:- Ogerpon Meganium Arboliva
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Lucario Hariyama
+archetype_b:- Other
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 1.00
+winrate_b:- 0.00
+
+archetype_a:- Alakazam Dudunsparce
+archetype_b:- Ogerpon Meganium Arboliva
+format:- Standard 2026
+matchup_count:- 1
+winrate_a:- 0.50
+winrate_b:- 0.50
+
+archetype_a:- Chien-Pao ex / Baxcalibur
+archetype_b:- Charizard ex / Pidgeot ex
+format:- Standard 2026
+matchup_count:- 46
+winrate_a:- 0.72
+winrate_b:- 0.28
+
+archetype_a:- Charizard ex / Pidgeot ex
+archetype_b:- Gardevoir ex / Drifloon
+format:- Standard 2026
+matchup_count:- 34
+winrate_a:- 0.68
+winrate_b:- 0.32
+
+archetype_a:- Chien-Pao ex / Baxcalibur
+archetype_b:- Gardevoir ex / Drifloon
+format:- Standard 2026
+matchup_count:- 27
+winrate_a:- 0.56
+winrate_b:- 0.44
+
+archetype_a:- Chien-Pao ex / Baxcalibur
+archetype_b:- Miraidon ex / Sandy Shocks
+format:- Standard 2026
+matchup_count:- 17
+winrate_a:- 0.88
+winrate_b:- 0.12

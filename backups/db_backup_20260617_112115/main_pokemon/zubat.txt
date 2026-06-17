@@ -1,0 +1,8 @@
+name:- Zubat
+type:- Darkness
+modifiers:- N/A
+type_requirement:- Darkness
+properties:- N/A
+commonly_found_with:- Buddy-Buddy Poffin|0.00, Crobat|1.00, Darkness Energy|0.01, Golbat|1.00, Lillie's Determination|0.00, Night Stretcher|0.00, Poké Pad|0.00, Toxel|0.32, Toxtricity|0.32, Ultra Ball|0.00
+bow_drivers:- opponent, cost_darkness, zero_damage, zero_retreat
+anti_meta:- N/A

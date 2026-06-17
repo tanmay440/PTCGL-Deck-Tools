@@ -1,0 +1,8 @@
+name:- Zamazenta
+type:- Metal
+modifiers:- N/A
+type_requirement:- Metal
+properties:- N/A
+commonly_found_with:- Beldum|0.03, Buddy-Buddy Poffin|0.00, Full Metal Lab|0.16, Metal Energy|0.01, Metang|0.03, Ultra Ball|0.00, Ciphermaniac's Codebreaking|0.01, Night Stretcher|0.00, Archaludon|0.07, Arven|0.01
+bow_drivers:- damage, cost_metal, opponent, attack
+anti_meta:- N/A
